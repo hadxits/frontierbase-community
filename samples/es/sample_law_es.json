@@ -1,555 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "⚠️Precaución",
+    "Punto": "No es asesoramiento legal",
+    "Descripción": "Solo información general; no sustituye asesoramiento jurídico individual.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Obligatorio en todas las respuestas"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "⚠️Precaución",
+    "Punto": "Consulte un abogado",
+    "Descripción": "Para acciones legales, consulte siempre a un profesional (ej. abogado).",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "⚠️Precaución",
+    "Punto": "Dependencia de los hechos",
+    "Descripción": "Los fallos legales pueden variar según las circunstancias.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "⚠️Precaución",
+    "Punto": "Prescripción",
+    "Descripción": "Todos los derechos tienen plazos de ejercicio; verifique la prescripción aplicable.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "⚠️Precaución",
+    "Punto": "Evolución jurisprudencial",
+    "Descripción": "Las interpretaciones y precedentes pueden cambiar; verifique la información más reciente.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Personal",
+    "Punto": "Misión",
+    "Descripción": "Mejorar el acceso a la información con terminología jurídica simplificada.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Sistema",
+    "Punto": "Anonimato",
+    "Descripción": "Q&A legal solo para estadísticas; no se almacenan nombres reales.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Sistema",
+    "Punto": "Fuentes",
+    "Descripción": "Información basada en el Centro Nacional de Información Jurídica y guías de jurisprudencia.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Embargo preventivo / Orden cautelar",
+    "Descripción": "Medida para preservar bienes del deudor antes de ocultación.",
+    "Aplicabilidad": "Civil",
+    "Notas": "Antes de acción principal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Medida cautelar",
+    "Descripción": "Medida provisional para mantener el statu quo (no pecuniaria).",
+    "Aplicabilidad": "Civil",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Ejecución forzosa",
+    "Descripción": "Ejecución forzosa de derechos por poder estatal (ej. sentencia).",
+    "Aplicabilidad": "Civil",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Rescisión / Terminación",
+    "Descripción": "Rescisión retroactiva; terminación solo para el futuro.",
+    "Aplicabilidad": "Civil",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Denuncia/Querella",
+    "Descripción": "La víctima presenta denuncia; un tercero presenta querella.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Depósito judicial",
+    "Descripción": "Depósito de dinero o valores en el tribunal para preservar el derecho.",
+    "Aplicabilidad": "General",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Fecha de audiencia",
+    "Descripción": "Fecha en que juez, fiscal y acusado comparecen en juicio.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Homicidio/lesiones involuntarias",
+    "Descripción": "Delito por incumplimiento del deber de diligencia con muerte o lesiones.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Hipoteca de garantía",
+    "Descripción": "Garantía real sobre inmueble para créditos futuros.",
+    "Aplicabilidad": "Inmobiliario",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Sobreseimiento",
+    "Descripción": "El fiscal reconoce los hechos pero renuncia a la acusación.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Porción contributiva",
+    "Descripción": "Parte adicional para herederos que apoyaron especialmente al fallecido.",
+    "Aplicabilidad": "Familia",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Certificación de notificación",
+    "Descripción": "Correos certifica contenido, destinatario y fecha de notificación.",
+    "Aplicabilidad": "Civil / Général",
+    "Notas": "Sin fuerza ejecutiva propia"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Excepción de incumplimiento",
+    "Descripción": "Derecho a rechazar la propia ejecución hasta que la otra parte cumpla.",
+    "Aplicabilidad": "Civil",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Derecho de visita",
+    "Descripción": "Derecho del padre no custodio a visitas regulares.",
+    "Aplicabilidad": "Familia",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Presunción de inocencia",
+    "Descripción": "El acusado se presume inocente hasta condena firme.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Renovación tácita",
+    "Descripción": "Prorroga automática del arrendamiento sin oposición.",
+    "Aplicabilidad": "Inmobiliario",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Derecho a asistencia / Miranda",
+    "Descripción": "Obligación de informar a los detenidos de sus derechos.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Demande de distribution",
+    "Descripción": "El acreedor declara su crédito en subasta para cobro.",
+    "Aplicabilidad": "Civil/Ejecución",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Sistema de fianza",
+    "Descripción": "Liberación bajo fianza hasta el juicio.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Enriquecimiento sin causa",
+    "Descripción": "Beneficio del patrimonio ajeno sin fundamento jurídico.",
+    "Aplicabilidad": "Civil",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Despido improcedente",
+    "Descripción": "Despido sin motivo legítimo; recurso ante el consejo de trabajo.",
+    "Aplicabilidad": "Derecho laboral",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Ilícito civil",
+    "Descripción": "Acto ilícito causando daño, intencional o por negligencia.",
+    "Aplicabilidad": "Civil",
+    "Notas": "Derecho a indemnización"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Estafa",
+    "Descripción": "Delito por engaño para obtener bienes.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Difamación con verdad",
+    "Descripción": "Incluso hechos verdaderos pueden constituir difamación si menoscaban el honor.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Orden sucesorio",
+    "Descripción": "1. Hijos 2. Padres 3. Hermanos 4. Otros parientes (hasta 4º grado).",
+    "Aplicabilidad": "Familia",
+    "Notas": "Cónyuge hereda conjuntamente"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Acción de reivindicación",
+    "Descripción": "Derecho del heredero real frente al heredero aparente para restablecimiento.",
+    "Aplicabilidad": "Familia",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Lectura de sentencia",
+    "Descripción": "Fecha en que el juez pronuncia la sentencia.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Prescription",
+    "Descripción": "Derecho extinguido si no se ejerce en el plazo.",
+    "Aplicabilidad": "General",
+    "Notas": "Civil 10 años, comercio 5 años"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Indemnización vs compensación",
+    "Descripción": "Indemnización por ilicitud; compensación por actos lícitos.",
+    "Aplicabilidad": "General",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Secuestro",
+    "Descripción": "Delito: privar a una persona de libertad.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Tabla de pensión",
+    "Descripción": "Tabla estándar según ingresos padres y edad del hijo.",
+    "Aplicabilidad": "Familia",
+    "Notas": "Del tribunal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Demandante y demandado",
+    "Descripción": "El demandante inicia la acción; el demandado es demandado.",
+    "Aplicabilidad": "Civil",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Obligación de restitución",
+    "Descripción": "Obligación de restituir en caso de resolución o fin del arrendamiento.",
+    "Aplicabilidad": "Civil",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Daños y perjuicios morales",
+    "Descripción": "Indemnización por daño moral, distinto del material.",
+    "Aplicabilidad": "Familia",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Legítima",
+    "Descripción": "Parte mínima de herederos independientemente del testamento.",
+    "Aplicabilidad": "Familia",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Arrendador / Arrendatario",
+    "Descripción": "Arrendador = propietario; Arrendatario = inquilino.",
+    "Aplicabilidad": "Inmobiliario",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Registro del arrendamiento",
+    "Descripción": "Inscripción del derecho de arrendamiento en el registro para oponibilidad.",
+    "Aplicabilidad": "Inmobiliario",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Legítima defensa",
+    "Descripción": "Defensa necesaria de los propios intereses o de terceros.",
+    "Aplicabilidad": "Penal",
+    "Notas": "Causa de justificación"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Oposición a orden penal",
+    "Descripción": "Oposición y solicitud de audiencia en los 7 días.",
+    "Aplicabilidad": "Penal",
+    "Notas": "En 7 días"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Derecho al silencio",
+    "Descripción": "Derecho constitucional a rechazar declaraciones autoincriminatorias.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Suspensión de ejecución",
+    "Descripción": "Sentencia emitida pero ejecución diferida.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Incumplimiento de obligación",
+    "Descripción": "Incumplimiento de obligaciones contractuales sin causa legítima.",
+    "Aplicabilidad": "Civil",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Retirada de denuncia",
+    "Descripción": "Declaración de la víctima de no desear que se persiga al autor.",
+    "Aplicabilidad": "Penal",
+    "Notas": "Atenuante"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Usucapion",
+    "Descripción": "Adquisición de propiedad por posesión prolongada.",
+    "Aplicabilidad": "Civil",
+    "Notas": "Inmuebles 20 años"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Patria potestad / Custodia",
+    "Descripción": "Patria potestad: estatuto/patrimonio; Custodia: educación del hijo.",
+    "Aplicabilidad": "Familia",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Salaire de base",
+    "Descripción": "Remuneración regular y uniforme por horas/días.",
+    "Aplicabilidad": "Derecho laboral",
+    "Notas": "Base horas extras"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Investigado / Acusado",
+    "Descripción": "En investigación = investigado; tras acusación = acusado.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Cosa juzgada",
+    "Descripción": "Sentencia firme y no recurrible.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Terminología",
+    "Punto": "Abuso de confianza / Malversación",
+    "Descripción": "Abuso de confianza: desvío de bienes confiados; abuso de bienes sociales.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Enquête familiale",
+    "Descripción": "Examen de causas de fracaso o evasión en litigios familiares.",
+    "Aplicabilidad": "Familia",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Procedimiento de rehabilitación personal",
+    "Descripción": "Mecanismo de condonación parcial de deudas por decisión judicial.",
+    "Aplicabilidad": "Quiebra",
+    "Notas": "Tribunal competente"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Reclamación laboral",
+    "Descripción": "Solicitud ante el tribunal laboral por impago de salarios o despido improcedente.",
+    "Aplicabilidad": "Derecho laboral",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Control de detención",
+    "Descripción": "Examen por el juez de los motivos de detención del sospechoso.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Procedimiento sin abogado",
+    "Descripción": "Acción sin abogado; frecuente en litigios menores.",
+    "Aplicabilidad": "Causas menores",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Procedimiento civil",
+    "Descripción": "Demanda → Notificación → Alegaciones → Audiencia → Sentencia.",
+    "Aplicabilidad": "Civil",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Mediación",
+    "Descripción": "Acuerdo por mediador en lugar de sentencia.",
+    "Aplicabilidad": "Civil",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Punto de acceso al derecho",
+    "Descripción": "Asesoramiento jurídico gratuito para personas en dificultad.",
+    "Aplicabilidad": "General",
+    "Notas": "Bajo condiciones"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Memorial de recurso",
+    "Descripción": "A presentar ante el tribunal supremo en los 20 días.",
+    "Aplicabilidad": "Penal/Civil",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Renuncia / Aceptación a beneficio de inventario",
+    "Descripción": "En caso de sobreendeudamiento, renuncia o aceptación en 3 meses.",
+    "Aplicabilidad": "Familia",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Asistencia jurídica",
+    "Descripción": "El tribunal difiere los gastos para los más desfavorecidos.",
+    "Aplicabilidad": "Civil",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Procedimiento de requerimiento de pago",
+    "Descripción": "Procedimiento simplificado para créditos inferiores a 30 M KRW.",
+    "Aplicabilidad": "Civil",
+    "Notas": "Procedimiento rápido"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Interposición de demanda",
+    "Descripción": "En línea vía e-litigation o directamente en el tribunal competente.",
+    "Aplicabilidad": "Civil",
+    "Notas": "Frais"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Divorcio",
+    "Descripción": "Por consentimiento mutuo o por demanda.",
+    "Aplicabilidad": "Familia",
+    "Notas": "Plazo de separación"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Accès électronique",
+    "Descripción": "Consulta de expedientes por las partes vía internet.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Protección del inquilino",
+    "Descripción": "Estado de entrada y fecha de prioridad para créditos de depósito.",
+    "Aplicabilidad": "Inmobiliario",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Conservación de pruebas",
+    "Descripción": "Solicitud al tribunal de conservación de pruebas antes de la acción.",
+    "Aplicabilidad": "Civil",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Requerimiento de pago",
+    "Descripción": "Procedimiento simplificado a solicitud del acreedor.",
+    "Aplicabilidad": "Crédito",
+    "Notas": "Se convierte en acción si hay oposición"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Adjudicación especial de vivienda",
+    "Descripción": "Asignación a ciertos colectivos (recién casados, etc.).",
+    "Aplicabilidad": "Inmobiliario",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Apelación / Recurso de casación",
+    "Descripción": "Impugnación de sentencias de primera (apelación) o segunda instancia (casación).",
+    "Aplicabilidad": "Todos",
+    "Notas": "Civil en 2 semanas"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Mediación penal",
+    "Descripción": "El autor indemniza a la víctima para atenuar la pena.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoría": "Procedimiento",
+    "Punto": "Procedimiento penal",
+    "Descripción": "Investigación → Acusación → Audiencia → Sentencia y ejecución.",
+    "Aplicabilidad": "Penal",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Procedimiento",
+    "Punto": "Orden penal",
+    "Descripción": "Multa sobre documentos sin audiencia.",
+    "Aplicabilidad": "Penal",
+    "Notas": "Audiencia solicitable"
   }
 ]
