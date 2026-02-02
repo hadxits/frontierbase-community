@@ -1,562 +1,562 @@
 [
   {
-    "Catégorie": "Personnel",
-    "Point": "Vision",
-    "Description": "Nous visons l'outil d'actualité le plus rapide et précis face au flux d'informations.",
+    "Catégorie": "Paiement",
+    "Point": "Paiement simple",
+    "Description": "Paiement sur place disponible via Zero Pay et Naver Pay.",
+    "Applicabilité": "Tous",
+    "Notes": "Méthode QR code"
+  },
+  {
+    "Catégorie": "Paiement",
+    "Point": "Modes de paiement",
+    "Description": "Cartes de crédit, Samsung Pay et Apple Pay sont acceptés.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Recherche",
-    "Point": "Moteur de recherche",
-    "Description": "Utilise l'API Google Custom Search pour des actualités pertinentes.",
-    "Applicabilité": "À la requête",
+    "Catégorie": "Paiement",
+    "Point": "Cartes entreprise",
+    "Description": "Paiements par carte entreprise et émission de facture fiscale disponibles.",
+    "Applicabilité": "Entreprise",
+    "Notes": "Info préalable requise"
+  },
+  {
+    "Catégorie": "Paiement",
+    "Point": "Paiement partagé",
+    "Description": "Le partage de l'addition par personne est disponible.",
+    "Applicabilité": "Groupe/Individuel",
     "Notes": "-"
   },
   {
-    "Catégorie": "Recherche",
-    "Point": "Période",
-    "Description": "Par défaut, actualités des 24 dernières heures.",
-    "Applicabilité": "Briefing actualités",
-    "Notes": "Paramétrable"
+    "Catégorie": "Paiement",
+    "Point": "Crédits prépaiement",
+    "Description": "Bénéficiez de 5 % de crédit supplémentaire pour les prépaiements par tranches de 100 000 KRW.",
+    "Applicabilité": "Groupe/Fidèles",
+    "Notes": "Valable 1 an"
   },
   {
-    "Catégorie": "Recherche",
-    "Point": "Recherche multilingue",
-    "Description": "Recherche en temps réel de reportages mondiaux avec mots-clés anglais.",
-    "Applicabilité": "Reportages globaux",
+    "Catégorie": "Paiement",
+    "Point": "Réduction partenaire",
+    "Description": "Une réduction de 10 % s'applique à certaines sociétés de cartes de crédit.",
+    "Applicabilité": "Cartes partenaires",
+    "Notes": "Limite 1 fois par mois"
+  },
+  {
+    "Catégorie": "Paiement",
+    "Point": "Chèques-cadeaux locaux",
+    "Description": "Les paiements en monnaie locale de la ville concernée sont acceptés.",
+    "Applicabilité": "Résidents locaux",
+    "Notes": "Papier/Carte disponibles"
+  },
+  {
+    "Catégorie": "Paiement",
+    "Point": "Reçu de caisse",
+    "Description": "Émis immédiatement sur demande lors du paiement.",
+    "Applicabilité": "Paiement espèces",
     "Notes": "-"
   },
   {
-    "Catégorie": "Recherche",
-    "Point": "Filtre crédibilité",
-    "Description": "Fake news et rumeurs non vérifiées exclues.",
-    "Applicabilité": "Liste blanche",
-    "Notes": "Filtrage par domaine"
+    "Catégorie": "Menu",
+    "Point": "Menu signature",
+    "Description": "Notre steak signature assaisonné avec sauce maison.",
+    "Applicabilité": "Tous",
+    "Notes": "Quantité journalière limitée"
   },
   {
-    "Catégorie": "Recherche",
-    "Point": "Documents similaires",
-    "Description": "Documents à plus de 80 % de similarité exclus.",
-    "Applicabilité": "Efficacité",
+    "Catégorie": "Menu",
+    "Point": "Décaféiné",
+    "Description": "Tous les menus café peuvent être remplacés par du décaféiné.",
+    "Applicabilité": "Commandes café",
+    "Notes": "500 KRW en plus"
+  },
+  {
+    "Catégorie": "Menu",
+    "Point": "Politique de réapprovisionnement",
+    "Description": "Les accompagnements peuvent être réapprovisionnés librement au bar self-service.",
+    "Applicabilité": "Sur place",
+    "Notes": "Plats principaux exclus"
+  },
+  {
+    "Catégorie": "Menu",
+    "Point": "Niveau d'épices",
+    "Description": "Sélectionnable du niveau 1 au niveau 3.",
+    "Applicabilité": "À la commande",
     "Notes": "-"
   },
   {
-    "Catégorie": "Recherche",
-    "Point": "Dédoublonnage",
-    "Description": "Actualités de sources différentes sur le même sujet regroupées.",
-    "Applicabilité": "Regroupement",
+    "Catégorie": "Menu",
+    "Point": "Service livraison",
+    "Description": "Les commandes peuvent être passées via Baemin ou Coupang Eats.",
+    "Applicabilité": "Zone de livraison",
     "Notes": "-"
   },
   {
-    "Catégorie": "Recherche",
-    "Point": "Formats de fichiers",
-    "Description": "DOCX et PPTX supportés en plus du PDF.",
-    "Applicabilité": "Extension",
+    "Catégorie": "Menu",
+    "Point": "Lancement nouveau menu",
+    "Description": "Des menus saisonniers limités sont introduits chaque saison.",
+    "Applicabilité": "Saisonnier",
     "Notes": "-"
   },
   {
-    "Catégorie": "Fonction",
-    "Point": "Personnalisation",
-    "Description": "Actualités selon les mots-clés d'intérêt définis par l'utilisateur.",
-    "Applicabilité": "Abonnés",
-    "Notes": "Compte Google"
-  },
-  {
-    "Catégorie": "Fonction",
-    "Point": "Mind Map",
-    "Description": "Génération d'une mind map visuelle de la structure du rapport.",
-    "Applicabilité": "Structuration",
+    "Catégorie": "Menu",
+    "Point": "Allergie",
+    "Description": "Veuillez nous informer avant de commander en cas d'allergie aux noix.",
+    "Applicabilité": "Personnes concernées",
     "Notes": "-"
   },
   {
-    "Catégorie": "Fonction",
-    "Point": "Actualités court format",
-    "Description": "Génération automatique de scripts pour Shorts/Reels à partir des résumés.",
-    "Applicabilité": "Créateurs",
+    "Catégorie": "Menu",
+    "Point": "Portion",
+    "Description": "Les portions de riz peuvent être ajustées sur demande à la commande.",
+    "Applicabilité": "À la commande",
+    "Notes": "Service gratuit"
+  },
+  {
+    "Catégorie": "Menu",
+    "Point": "Origine",
+    "Description": "Le bœuf vient des USA ; le riz et le chou sont domestiques (Corée).",
+    "Applicabilité": "Tous",
+    "Notes": "Indiqué en bas du menu"
+  },
+  {
+    "Catégorie": "Menu",
+    "Point": "Vente d'alcool",
+    "Description": "L'alcool n'est pas vendu aux mineurs.",
+    "Applicabilité": "Tous",
+    "Notes": "Contrôle d'identité obligatoire"
+  },
+  {
+    "Catégorie": "Menu",
+    "Point": "Options végan",
+    "Description": "Certains menus peuvent être modifiés en options végan.",
+    "Applicabilité": "Sur demande",
+    "Notes": "Sans supplément"
+  },
+  {
+    "Catégorie": "Menu",
+    "Point": "Accord recommandé",
+    "Description": "Nous recommandons le steak accompagné de notre vin maison.",
+    "Applicabilité": "Sélection menu",
     "Notes": "-"
   },
   {
-    "Catégorie": "Fonction",
-    "Point": "Notification",
-    "Description": "Notification Slack pour actualités importantes sur mots-clés définis.",
-    "Applicabilité": "Payant/Interne",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Fonction",
-    "Point": "Traduction",
-    "Description": "Actualités internationales traduites et résumées.",
-    "Applicabilité": "Actualités globales",
-    "Notes": "Comparaison original possible"
-  },
-  {
-    "Catégorie": "Fonction",
-    "Point": "Résumé vocal",
-    "Description": "Résumé audio via Google TTS.",
-    "Applicabilité": "Mobile/Véhicule",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Fonction",
-    "Point": "Q&A",
-    "Description": "Répond à des questions comme « Comment cette actualité impacte Samsung Electronics ? »",
-    "Applicabilité": "Analyse corrélations",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Fonction",
-    "Point": "Génération de quiz",
-    "Description": "Quiz pour vérifier la compréhension du résumé.",
-    "Applicabilité": "Éducation",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Fonction",
-    "Point": "Vérification des faits",
-    "Description": "En cas d'infos contradictoires : mention explicite 'En vérification'.",
-    "Applicabilité": "Sujets controversés",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Technologie",
-    "Point": "API",
-    "Description": "APIs pour usage externe de la fonction de résumé.",
-    "Applicabilité": "B2B",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Technologie",
-    "Point": "Analyse PDF",
-    "Description": "OCR pour extraction de texte des rapports scannés.",
-    "Applicabilité": "Rapports scannés",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Technologie",
-    "Point": "Grounding",
-    "Description": "Chaque phrase du résumé liée à la source originale.",
-    "Applicabilité": "Vérification RAG",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Technologie",
-    "Point": "Vitesse",
-    "Description": "Résumé en moyenne en 5 secondes après upload.",
-    "Applicabilité": "Performance",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Technologie",
-    "Point": "Modèle de résumé",
-    "Description": "LLM les plus récents pour meilleure compréhension du contexte.",
-    "Applicabilité": "Moteur",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Technologie",
-    "Point": "Embedding",
-    "Description": "Similarité sémantique entre actualités pour clusters pertinents.",
+    "Catégorie": "Menu",
+    "Point": "Calories",
+    "Description": "Les informations nutritionnelles de chaque menu sont disponibles sur notre site.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Technologie",
-    "Point": "Chunking",
-    "Description": "Rapports longs découpés en unités sémantiques.",
-    "Applicabilité": "Documents longs",
+    "Catégorie": "Menu",
+    "Point": "Garnitures supplémentaires",
+    "Description": "Diverses garnitures peuvent être ajoutées selon vos préférences.",
+    "Applicabilité": "À la commande",
+    "Notes": "Se référer au menu"
+  },
+  {
+    "Catégorie": "Menu",
+    "Point": "Emballage",
+    "Description": "Nous utilisons des contenants biodégradables écologiques.",
+    "Applicabilité": "À emporter/Livraison",
+    "Notes": "Certifié Min. Env."
+  },
+  {
+    "Catégorie": "Menu",
+    "Point": "Vente à emporter",
+    "Description": "Tous les menus disponibles à emporter avec une réduction appliquée.",
+    "Applicabilité": "Commande à emporter",
+    "Notes": "Réduction 1 000 KRW"
+  },
+  {
+    "Catégorie": "Service",
+    "Point": "Goods en vente",
+    "Description": "Mugs et grains de café produits en interne sont en vente.",
+    "Applicabilité": "Tous",
+    "Notes": "S'informer au comptoir"
+  },
+  {
+    "Catégorie": "Service",
+    "Point": "Conducteur désigné",
+    "Description": "Nous pouvons aider à appeler un service de conducteur désigné si besoin.",
+    "Applicabilité": "Sur demande",
     "Notes": "-"
   },
   {
-    "Catégorie": "Technologie",
-    "Point": "Limite texte",
-    "Description": "Max. 500 caractères par résumé d'actualité.",
-    "Applicabilité": "Standard",
-    "Notes": "-"
+    "Catégorie": "Service",
+    "Point": "Événement avis",
+    "Description": "Recevez un dessert gratuit en écrivant un avis Naver.",
+    "Applicabilité": "Tous",
+    "Notes": "Photo obligatoire"
   },
   {
-    "Catégorie": "Technologie",
-    "Point": "Hallucination",
-    "Description": "Contrôle strict contre l'invention de chiffres ou faits.",
-    "Applicabilité": "Qualité",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Actualités",
-    "Point": "Lisibilité",
-    "Description": "Mots redondants supprimés, phrases à puces concises.",
+    "Catégorie": "Service",
+    "Point": "Lingettes",
+    "Description": "Disponibles dans le tiroir à côté de la table ou au bar self-service.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Actualités",
-    "Point": "Météo",
-    "Description": "Résumé basé sur les API météo.",
-    "Applicabilité": "Quotidien",
+    "Catégorie": "Service",
+    "Point": "Avantage anniversaire",
+    "Description": "Une boisson gratuite lors de votre visite le jour de votre anniversaire.",
+    "Applicabilité": "Membre",
+    "Notes": "Vérification d'identité"
+  },
+  {
+    "Catégorie": "Service",
+    "Point": "Carte tampon",
+    "Description": "Un plat principal gratuit après 10 visites.",
+    "Applicabilité": "Carte papier",
     "Notes": "-"
   },
   {
-    "Catégorie": "Actualités",
-    "Point": "Exclusivité",
-    "Description": "Exclusives ou breaking news mises en avant selon la source.",
+    "Catégorie": "Service",
+    "Point": "Espace enfants",
+    "Description": "Des sets de vaisselle dédiés aux enfants sont disponibles.",
+    "Applicabilité": "Avec bébés/enfants",
+    "Notes": "-"
+  },
+  {
+    "Catégorie": "Service",
+    "Point": "Utilisation coupon",
+    "Description": "Ne peut pas être utilisé avec d'autres promotions.",
+    "Applicabilité": "Détenteurs de coupons",
+    "Notes": "-"
+  },
+  {
+    "Catégorie": "Service",
+    "Point": "Cumul de points",
+    "Description": "3 % du montant du paiement sont gagnés en points.",
+    "Applicabilité": "Membre",
+    "Notes": "Utilisable à partir de 1 000P"
+  },
+  {
+    "Catégorie": "Service",
+    "Point": "Service de ramassage",
+    "Description": "Le service de ramassage vers les stations de métro à proximité n'est pas pris en charge.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Actualités",
-    "Point": "Réaction lecteurs",
-    "Description": "Résumé en une phrase de l'opinion publique tirée des communautés.",
-    "Applicabilité": "Optionnel",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Actualités",
-    "Point": "Classification",
-    "Description": "Classement automatique en 8 catégories (Économie, Tech, International, etc.).",
+    "Catégorie": "Service",
+    "Point": "Crème pour les mains",
+    "Description": "Une crème pour les mains haut de gamme est fournie dans les toilettes.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Actualités",
-    "Point": "Description d'images",
-    "Description": "Signification des photos ou infographies importantes résumée.",
-    "Applicabilité": "Multimodal",
+    "Catégorie": "Service",
+    "Point": "Membership",
+    "Description": "Inscription facile en entrant simplement votre numéro de téléphone.",
+    "Applicabilité": "Tous",
+    "Notes": "Via tablette"
+  },
+  {
+    "Catégorie": "Équipement",
+    "Point": "Purificateur d'air",
+    "Description": "Trois purificateurs d'air grande capacité sont en fonctionnement dans le magasin.",
+    "Applicabilité": "Tous",
+    "Notes": "Fonctionnement 24h/24"
+  },
+  {
+    "Catégorie": "Équipement",
+    "Point": "Utilisation ordinateur portable",
+    "Description": "Veuillez éviter d'utiliser un ordinateur portable pendant une période prolongée.",
+    "Applicabilité": "Heures de pointe",
+    "Notes": "Limite 2 heures"
+  },
+  {
+    "Catégorie": "Équipement",
+    "Point": "Tables groupe",
+    "Description": "Des salles de groupe pouvant accueillir jusqu'à 12 personnes sont disponibles.",
+    "Applicabilité": "5+ personnes",
+    "Notes": "Réservation recommandée"
+  },
+  {
+    "Catégorie": "Équipement",
+    "Point": "Location couverture",
+    "Description": "Des couvertures de genou sont disponibles à la location pour les clients ayant froid.",
+    "Applicabilité": "Sur demande",
+    "Notes": "S'informer au comptoir"
+  },
+  {
+    "Catégorie": "Équipement",
+    "Point": "Animaux",
+    "Description": "L'entrée n'est autorisée que pour les places terrasse.",
+    "Applicabilité": "Animaux",
+    "Notes": "Transporteur obligatoire"
+  },
+  {
+    "Catégorie": "Équipement",
+    "Point": "Musique de fond",
+    "Description": "N'hésitez pas à nous dire si le volume de la musique doit être ajusté.",
+    "Applicabilité": "Sur demande",
     "Notes": "-"
   },
   {
-    "Catégorie": "Actualités",
-    "Point": "Résultats sport",
-    "Description": "Scores et highlights juste après la fin du match.",
-    "Applicabilité": "Sport",
+    "Catégorie": "Équipement",
+    "Point": "Power bank",
+    "Description": "Une borne de location de power bank partagée est installée en magasin.",
+    "Applicabilité": "Tous",
+    "Notes": "Service payant"
+  },
+  {
+    "Catégorie": "Équipement",
+    "Point": "Chaises hautes",
+    "Description": "Un total de 5 chaises hautes sont disponibles.",
+    "Applicabilité": "Avec bébés",
+    "Notes": "Premier arrivé"
+  },
+  {
+    "Catégorie": "Équipement",
+    "Point": "Places extérieures",
+    "Description": "Les places en terrasse sont ouvertes uniquement au printemps et en automne.",
+    "Applicabilité": "Saisonnier",
+    "Notes": "Fermé les jours de pluie"
+  },
+  {
+    "Catégorie": "Équipement",
+    "Point": "Wi-Fi",
+    "Description": "Le Wi-Fi gratuit est fourni dans le magasin.",
+    "Applicabilité": "Sur place",
+    "Notes": "MDP : store1234"
+  },
+  {
+    "Catégorie": "Équipement",
+    "Point": "Stand parapluies",
+    "Description": "Sacs et supports parapluies sont installés à l'entrée les jours de pluie.",
+    "Applicabilité": "Jours de pluie",
     "Notes": "-"
   },
   {
-    "Catégorie": "Actualités",
-    "Point": "Cycle de mise à jour",
-    "Description": "Breaking news en temps réel ; actualités générales toutes les heures.",
-    "Applicabilité": "Breaking/ général",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Actualités",
-    "Point": "Embargo",
-    "Description": "Actualités sous embargo diffusées uniquement après date de levée officielle.",
+    "Catégorie": "Équipement",
+    "Point": "Tablier jetable",
+    "Description": "Des tabliers jetables sont fournis sur demande.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Actualités",
-    "Point": "Comparaison annuelle",
-    "Description": "Comparaison avec résumés passés sur le même sujet.",
-    "Applicabilité": "Analyse historique",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Actualités",
-    "Point": "Presse étrangère",
-    "Description": "Traduction et résumé en temps réel de BBC, CNN, Al Jazeera.",
-    "Applicabilité": "Global",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Actualités",
-    "Point": "Principe de résumé",
-    "Description": "Factuel (5W1H) avec position neutre.",
-    "Applicabilité": "Tous",
-    "Notes": "Sans interprétation subjective"
-  },
-  {
-    "Catégorie": "Actualités",
-    "Point": "Résumé d'interview",
-    "Description": "Seules les déclarations principales de l'interviewé extraites.",
-    "Applicabilité": "Articles interview",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Actualités",
-    "Point": "Sources",
-    "Description": "Priorité à Google News et agences vérifiées (AP, Reuters).",
-    "Applicabilité": "Tous",
-    "Notes": "Lien source obligatoire"
-  },
-  {
-    "Catégorie": "Actualités",
-    "Point": "Neutralité politique",
-    "Description": "Formulations partiales automatiquement filtrées.",
-    "Applicabilité": "Tous",
-    "Notes": "Lignes directrices IA"
-  },
-  {
-    "Catégorie": "Actualités",
-    "Point": "Briefing hebdo",
-    "Description": "Top 10 de la semaine résumé chaque dimanche soir.",
-    "Applicabilité": "Service régulier",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Actualités",
-    "Point": "État des marchés",
-    "Description": "Résumé des grands indices et causes après clôture.",
-    "Applicabilité": "Bourse",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Actualités",
-    "Point": "Actualités locales",
-    "Description": "Actualités locales priorisées selon la position de l'utilisateur.",
-    "Applicabilité": "Avec consentement localisation",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Actualités",
-    "Point": "Titres",
-    "Description": "Titres accrocheurs reformulés de manière neutre.",
+    "Catégorie": "Équipement",
+    "Point": "Miroir grandeur nature",
+    "Description": "Un miroir grandeur nature pour la zone photo est à l'entrée.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Rapport",
-    "Point": "Conclusion en premier",
-    "Description": "Résumé en 3 lignes en tête du rapport.",
-    "Applicabilité": "Tous les rapports",
+    "Catégorie": "Équipement",
+    "Point": "Disponibilité parking",
+    "Description": "Le parking est disponible aux niveaux B1 et B2 du bâtiment.",
+    "Applicabilité": "Visiteurs",
+    "Notes": "2 heures gratuites"
+  },
+  {
+    "Catégorie": "Équipement",
+    "Point": "Validation parking",
+    "Description": "Veuillez fournir les 4 derniers chiffres de votre numéro de véhicule à la caisse.",
+    "Applicabilité": "Utilisateurs parking",
     "Notes": "-"
   },
   {
-    "Catégorie": "Rapport",
-    "Point": "Citation de données",
-    "Description": "Graphiques et chiffres cités exactement comme l'original.",
-    "Applicabilité": "Données numériques",
-    "Notes": "Vérification unités"
-  },
-  {
-    "Catégorie": "Rapport",
-    "Point": "Objectif de cours",
-    "Description": "Modifications d'objectifs de prix obligatoires dans les rapports actions.",
-    "Applicabilité": "Analyse actions",
+    "Catégorie": "Équipement",
+    "Point": "Stockage bagages",
+    "Description": "Les grandes valises peuvent être stockées pour les voyageurs.",
+    "Applicabilité": "Sur demande",
     "Notes": "-"
   },
   {
-    "Catégorie": "Rapport",
-    "Point": "Date de publication",
-    "Description": "Date réelle de publication clairement indiquée au début.",
+    "Catégorie": "Équipement",
+    "Point": "Prises électriques",
+    "Description": "Disponibles aux places bar à la fenêtre.",
+    "Applicabilité": "Places spécifiques",
+    "Notes": "-"
+  },
+  {
+    "Catégorie": "Équipement",
+    "Point": "Emplacement toilettes",
+    "Description": "Situées au bout du couloir à droite de l'entrée principale.",
+    "Applicabilité": "Tous",
+    "Notes": "Séparées par genre"
+  },
+  {
+    "Catégorie": "Équipement",
+    "Point": "Fauteuil roulant",
+    "Description": "Des rampes sont installées à l'entrée pour un accès facile en fauteuil roulant.",
+    "Applicabilité": "Vulnérables",
+    "Notes": "-"
+  },
+  {
+    "Catégorie": "Équipement",
+    "Point": "Salle fumeurs",
+    "Description": "L'ensemble du magasin est non-fumeur ; veuillez utiliser l'espace extérieur.",
+    "Applicabilité": "Tous",
+    "Notes": "Non-fumeur légal"
+  },
+  {
+    "Catégorie": "Réservation",
+    "Point": "Politique no-show",
+    "Description": "Les réservations peuvent être annulées automatiquement après 15 minutes de retard.",
+    "Applicabilité": "Détenteurs réservation",
+    "Notes": "-"
+  },
+  {
+    "Catégorie": "Réservation",
+    "Point": "Réservation jour même",
+    "Description": "Les réservations jour même ne sont confirmées que par téléphone.",
+    "Applicabilité": "Jour même",
+    "Notes": "Vérifier disponibilité"
+  },
+  {
+    "Catégorie": "Réservation",
+    "Point": "Frais de location salle",
+    "Description": "Des frais de location par heure s'appliquent séparément.",
+    "Applicabilité": "Location complète",
+    "Notes": "Quel que soit le nombre"
+  },
+  {
+    "Catégorie": "Réservation",
+    "Point": "Système d'attente",
+    "Description": "Vous devez vous inscrire à l'attente au kiosque d'entrée lors de votre visite.",
+    "Applicabilité": "Quand complet",
+    "Notes": "Alerte Kakaotalk"
+  },
+  {
+    "Catégorie": "Réservation",
+    "Point": "Méthode de réservation",
+    "Description": "Réservations disponibles via Naver ou téléphone.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Rapport",
-    "Point": "Résumé comparatif",
-    "Description": "Confrontation des avis contradictoires de différents instituts.",
-    "Applicabilité": "Analyse approfondie",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Rapport",
-    "Point": "Perspectives secteur",
-    "Description": "Perspectives sectorielles semestrielles dans notre domaine.",
-    "Applicabilité": "Analyse secteur",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Rapport",
-    "Point": "Vérification chiffres",
-    "Description": "Avertissement en cas d'erreurs possibles si les totaux ne concordent pas.",
-    "Applicabilité": "Vérification données",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Rapport",
-    "Point": "Cibles de résumé",
-    "Description": "Rapports courtiers, publications gouvernementales, analyses de marché en PDF.",
-    "Applicabilité": "Mode rapport",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Rapport",
-    "Point": "Versions de résumé",
-    "Description": "Version 1 min (court) et 5 min (détaillé).",
-    "Applicabilité": "Sélectionnable",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Rapport",
-    "Point": "Glossaire",
-    "Description": "Liens vers dictionnaires de base avant lecture du rapport.",
-    "Applicabilité": "Tous",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Rapport",
-    "Point": "Termes techniques",
-    "Description": "Explications des termes économiques ou techniques difficiles en bas.",
-    "Applicabilité": "Rapport technique",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Rapport",
-    "Point": "Politique gouvernementale",
-    "Description": "Changements clés des nouvelles lois ou lignes directrices résumés.",
-    "Applicabilité": "Actualités politique",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Rapport",
-    "Point": "Source institutionnelle",
-    "Description": "Priorité à Goldman Sachs, JP Morgan, etc.",
-    "Applicabilité": "Research global",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Rapport",
-    "Point": "Risque d'investissement",
-    "Description": "Avertissement d'investissement toujours en fin de rapports pertinents.",
-    "Applicabilité": "Rapports finances",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Sécurité",
-    "Point": "Confidentialité",
-    "Description": "Résumés internes non utilisés pour l'entraînement IA.",
-    "Applicabilité": "B2B/Interne",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Sécurité",
-    "Point": "Chiffrement",
-    "Description": "Tous les PDF transmis chiffrés SSL.",
-    "Applicabilité": "Tous",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Sécurité",
-    "Point": "Journal d'accès",
-    "Description": "Toutes les requêtes d'analyse de rapports enregistrées pour sécurité.",
-    "Applicabilité": "Admin",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Analyse",
-    "Point": "Analyse de sentiment",
-    "Description": "Sentiment de marché à partir des scores positifs/négatifs des actualités.",
-    "Applicabilité": "Économie/Bourse",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Analyse",
-    "Point": "Actualités liées",
-    "Description": "Actualités les plus liées au résumé actuellement lu.",
-    "Applicabilité": "Algorithme recommandation",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Analyse",
-    "Point": "Analyse d'impact",
-    "Description": "Impact de certaines actualités sur les secteurs : Élevé/Moyen/Faible.",
-    "Applicabilité": "Économie",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Analyse",
-    "Point": "Carte des relations",
-    "Description": "Relations entre personnes dans les actualités résumées en graphe.",
-    "Applicabilité": "Politique/Société",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Analyse",
-    "Point": "Intégration actions",
-    "Description": "Graphiques de cours en temps réel à côté du résumé du rapport.",
-    "Applicabilité": "Finances",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Analyse",
-    "Point": "Analyse tendances",
-    "Description": "Mots-clés tendance actuels liés à Google Trends.",
-    "Applicabilité": "Tendance temps réel",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Analyse",
-    "Point": "Score Buzz",
-    "Description": "Actualités notées selon les mentions sur les réseaux sociaux.",
-    "Applicabilité": "Temps réel",
-    "Notes": "-"
+    "Catégorie": "Réservation",
+    "Point": "Annulation",
+    "Description": "Annulations sans pénalité jusqu'à 1 jour avant la visite.",
+    "Applicabilité": "Détenteurs réservation",
+    "Notes": "Impossible jour même"
   },
   {
     "Catégorie": "Exploitation",
-    "Point": "Newsletter",
-    "Description": "Newsletter des sujets principaux automatiquement chaque matin à 8h.",
-    "Applicabilité": "Abonnés",
-    "Notes": "-"
+    "Point": "Info recrutement",
+    "Description": "Nous recrutons actuellement pour des postes à temps partiel le week-end.",
+    "Applicabilité": "Recrutement",
+    "Notes": "Vérifier annonce Albamon"
   },
   {
     "Catégorie": "Exploitation",
-    "Point": "Mode sombre",
-    "Description": "Mode sombre pour une lecture plus confortable.",
-    "Applicabilité": "Web/App",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Exploitation",
-    "Point": "Horaires de service",
-    "Description": "Serveurs actualités disponibles 24h/24 sans interruption.",
+    "Point": "Dernière commande",
+    "Description": "Les commandes sont acceptées jusqu'à 30 minutes avant la fermeture.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Exploitation",
-    "Point": "Archives",
-    "Description": "Résumés passés conservés au maximum 1 an.",
+    "Point": "Fonctionnement jours fériés",
+    "Description": "Fermé le Nouvel An et Chuseok.",
+    "Applicabilité": "Jours fériés",
+    "Notes": "Avis avant les fêtes"
+  },
+  {
+    "Catégorie": "Exploitation",
+    "Point": "Règles de quarantaine",
+    "Description": "Nous respectons les directives gouvernementales de prévention pandémique.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Exploitation",
-    "Point": "Abonnement payant",
-    "Description": "Résumés de rapports professionnels réservés aux membres premium.",
-    "Applicabilité": "Service payant",
-    "Notes": "-"
+    "Point": "Pause",
+    "Description": "Le temps de préparation des ingrédients est de 15h à 17h.",
+    "Applicabilité": "En semaine",
+    "Notes": "Week-ends exclus"
   },
   {
     "Catégorie": "Exploitation",
-    "Point": "Demande",
-    "Description": "Signaler erreurs ou questions fonctionnelles via Google Forms.",
+    "Point": "Sortie de secours",
+    "Description": "Les escaliers de secours sont situés à l'arrière du magasin.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Exploitation",
-    "Point": "Droits d'auteur",
-    "Description": "Lignes directrices fair use ; textes complets interdits.",
-    "Applicabilité": "Droits d'auteur",
+    "Point": "Avertissement bruit",
+    "Description": "Pas de cris forts la nuit en raison de la proximité des zones résidentielles.",
+    "Applicabilité": "Après 20h00",
     "Notes": "-"
   },
   {
     "Catégorie": "Exploitation",
-    "Point": "Feedback",
-    "Description": "Révision de la logique de résumé en cas de plaintes qualité.",
-    "Applicabilité": "Amélioration qualité",
-    "Notes": "-"
+    "Point": "Horaires",
+    "Description": "Ouvert de 10h à 21h en semaine et week-end.",
+    "Applicabilité": "Tous",
+    "Notes": "Ouvert toute l'année"
   },
   {
     "Catégorie": "Exploitation",
-    "Point": "Historique",
-    "Description": "Liste des résumés d'actualités récemment lus enregistrée.",
-    "Applicabilité": "Utilisateurs connectés",
+    "Point": "Location tournage",
+    "Description": "Consultation possible pour location complète en dehors des horaires.",
+    "Applicabilité": "Location",
+    "Notes": "Consultation téléphonique"
+  },
+  {
+    "Catégorie": "Exploitation",
+    "Point": "Info fermeture",
+    "Description": "Fermeture régulière le premier lundi de chaque mois.",
+    "Applicabilité": "Fermeture régulière",
+    "Notes": "Jour suivant si férié"
+  },
+  {
+    "Catégorie": "À proximité",
+    "Point": "Transport",
+    "Description": "Proche de la station City Hall (Ligne 2) Sortie 3.",
+    "Applicabilité": "Transports publics",
+    "Notes": "3 min à pied"
+  },
+  {
+    "Catégorie": "À proximité",
+    "Point": "Attractions à proximité",
+    "Description": "Central Park est à 5 minutes à pied du magasin.",
+    "Applicabilité": "À proximité",
     "Notes": "-"
   },
   {
-    "Catégorie": "Politique",
-    "Point": "Correction",
-    "Description": "Résumé mis à jour immédiatement en cas de correction de l'original.",
-    "Applicabilité": "Mise à jour faits",
+    "Catégorie": "Réclamation",
+    "Point": "Annulation paiement",
+    "Description": "Annulation possible uniquement le jour même avec reçu.",
+    "Applicabilité": "Jour même",
     "Notes": "-"
   },
   {
-    "Catégorie": "Support",
-    "Point": "Lien experts",
-    "Description": "Orientation vers experts pour questions complémentaires sur le rapport.",
-    "Applicabilité": "Option payante",
+    "Catégorie": "Réclamation",
+    "Point": "Objets trouvés",
+    "Description": "Les objets trouvés sont conservés jusqu'à 2 semaines avant destruction.",
+    "Applicabilité": "Objets trouvés",
+    "Notes": "S'informer au CS"
+  },
+  {
+    "Catégorie": "Réclamation",
+    "Point": "Gestion hygiène",
+    "Description": "La désinfection est effectuée quotidiennement par une entreprise professionnelle.",
+    "Applicabilité": "Gestion équipement",
+    "Notes": "Membres Cesco"
+  },
+  {
+    "Catégorie": "Réclamation",
+    "Point": "Plat froid",
+    "Description": "Nous réchaufferons votre plat s'il a refroidi.",
+    "Applicabilité": "Sur demande",
+    "Notes": "-"
+  },
+  {
+    "Catégorie": "Réclamation",
+    "Point": "Erreur de commande",
+    "Description": "Informez le personnel immédiatement pour une nouvelle préparation.",
+    "Applicabilité": "Sur place",
+    "Notes": "-"
+  },
+  {
+    "Catégorie": "Réclamation",
+    "Point": "Erreur parking",
+    "Description": "Appuyez sur le bouton d'appel si non vérifié au kiosque avant la sortie.",
+    "Applicabilité": "Parking",
     "Notes": "-"
   }
 ]

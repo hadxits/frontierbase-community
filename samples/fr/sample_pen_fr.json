@@ -2,561 +2,561 @@
   {
     "Catégorie": "Personnel",
     "Point": "Valeurs",
-    "Description": "Nous visons une culture fan saine où artistes et fans grandissent ensemble.",
+    "Description": "Nous visons une culture de fanbase saine où artistes et fans grandissent et communiquent ensemble.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Personnel",
-    "Point": "Protection des données",
-    "Description": "Données collectées lors des événements supprimées après remise des prix.",
-    "Applicabilité": "Participants",
+    "Point": "Confidentialité",
+    "Description": "Les informations collectées pour les événements sont détruites immédiatement après la livraison des prix.",
+    "Applicabilité": "Participants aux événements",
     "Notes": "-"
   },
   {
-    "Catégorie": "Concert",
+    "Catégorie": "Performance",
     "Point": "Zone d'attente",
-    "Description": "En attente à l'extérieur, emporter parapluie, chaufferettes, etc.",
-    "Applicabilité": "Sur place",
+    "Description": "Veuillez préparer des affaires personnelles (parapluie, bouillottes, etc.) pour l'attente en extérieur en cas de changement de temps.",
+    "Applicabilité": "Offline",
     "Notes": "-"
   },
   {
-    "Catégorie": "Concert",
+    "Catégorie": "Performance",
     "Point": "Consigne",
-    "Description": "Vérifier la disponibilité des consignes sur la page billetterie.",
+    "Description": "Consultez la page de réservation pour la disponibilité des casiers sur le lieu.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Concert",
-    "Point": "Interdictions",
-    "Description": "Objets dangereux (bouteilles en verre, pyrotechnie, laser) interdits.",
+    "Catégorie": "Performance",
+    "Point": "Objets interdits",
+    "Description": "Les objets dangereux tels que bouteilles en verre, feux d'artifice et lasers sont interdits dans l'enceinte.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Concert",
-    "Point": "Transfert de billets",
-    "Description": "Billets transférés non vérifiables = refus d'entrée ; pas de remboursement.",
+    "Catégorie": "Performance",
+    "Point": "Politique de transfert",
+    "Description": "Les billets transférés non vérifiables seront refusés à l'entrée et non remboursables.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Concert",
+    "Catégorie": "Performance",
     "Point": "Heure d'entrée",
-    "Description": "Se présenter au moins 30 min avant le début.",
+    "Description": "Veuillez compléter l'entrée au moins 30 minutes avant le début du spectacle pour une expérience fluide.",
     "Applicabilité": "Public",
     "Notes": "-"
   },
   {
     "Catégorie": "Étiquette",
-    "Point": "Goodies fans",
-    "Description": "Distribution de goodies près de la salle uniquement dans les zones prévues.",
+    "Point": "Giveaways fans",
+    "Description": "La distribution de goods près du lieu n'est autorisée que dans les zones désignées pour éviter d'encombrer.",
     "Applicabilité": "Fans individuels",
     "Notes": "-"
   },
   {
     "Catégorie": "Étiquette",
-    "Point": "Accessoires de soutien",
-    "Description": "Lightsticks officiels uniquement ; autres accessoires limités.",
+    "Point": "Outils de support",
+    "Description": "Les outils de support d'autres artistes ou slogans non standards sont restreints, sauf lightsticks officiels.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Étiquette",
-    "Point": "Interdiction d'enregistrement",
-    "Description": "Photos et vidéos interdites pour droits d'auteur.",
+    "Point": "Politique d'enregistrement",
+    "Description": "Toute prise de photos, enregistrement vidéo et audio est interdite pour protéger les droits d'auteur.",
     "Applicabilité": "Pendant le spectacle",
-    "Notes": "Expulsion en cas de violation"
+    "Notes": "Expulsion si pris en flagrant délit"
   },
   {
     "Catégorie": "Merchandising",
-    "Point": "Moyens de paiement",
-    "Description": "Boutique officielle : cartes locales et internationales, E-Wallet, PayPal.",
+    "Point": "Mode de paiement",
+    "Description": "La boutique officielle accepte cartes domestiques/internationales, paiements simples et PayPal.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Merchandising",
-    "Point": "Offizieller Shop",
-    "Description": "Offizielle Goods über die [Shop]-App erhältlich.",
+    "Point": "Boutique officielle",
+    "Description": "Les goods officiels sont disponibles via l'application mobile [Nom de la boutique].",
     "Applicabilité": "Tous",
-    "Notes": "Weltweiter Versand"
+    "Notes": "Livraison mondiale"
   },
   {
     "Catégorie": "Merchandising",
-    "Point": "Versandverzögerung",
-    "Description": "Bei Comeback-Phasen kann der Versand wegen hoher Bestellmenge 1–2 Wochen dauern.",
+    "Point": "Délai de livraison",
+    "Description": "Pendant les périodes de comeback, la livraison peut être retardée de 1 à 2 semaines en raison du volume de commandes.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Merchandising",
-    "Point": "Umtausch bei Mängeln",
-    "Description": "Bei Schäden binnen 7 Tagen mit Unboxing-Video melden.",
-    "Applicabilité": "Käufer",
-    "Notes": "Video erforderlich"
+    "Point": "Échange pour défaut",
+    "Description": "En cas d'articles endommagés, contactez-nous dans les 7 jours suivant la réception avec une vidéo de déballage.",
+    "Applicabilité": "Acheteurs",
+    "Notes": "Vidéo obligatoire"
   },
   {
     "Catégorie": "Merchandising",
-    "Point": "Produktfotos",
-    "Description": "Vor dem Kauf Fotos und Inhaltsliste auf der MD-Seite prüfen.",
+    "Point": "Photos des produits",
+    "Description": "Vérifiez toujours les photos réelles et la liste des composants sur la page détail MD avant achat.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Merchandising",
     "Point": "Précommande",
-    "Description": "Articles en précommande sur commande ; annulation souvent impossible après paiement.",
+    "Description": "Les articles en précommande sont sur commande, les annulations peuvent être difficiles après paiement.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Merchandising",
-    "Point": "Pop-up-Store",
-    "Description": "Comeback-Pop-up-Stores eventuell nur mit Voranmeldung.",
+    "Point": "Pop-up store",
+    "Description": "Les pop-up stores de célébration de comeback peuvent fonctionner sur réservation préalable.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Merchandising",
-    "Point": "Lightstick-Sync",
-    "Description": "Sitznummer vor der Show per offizieller App mit dem Lightstick verbinden.",
+    "Point": "Synchronisation lightstick",
+    "Description": "Veuillez synchroniser votre numéro de siège avec le lightstick via l'application officielle avant le spectacle.",
     "Applicabilité": "Public",
-    "Notes": "Bluetooth-Sync"
+    "Notes": "Sync Bluetooth"
   },
   {
     "Catégorie": "Merchandising",
-    "Point": "Nachbestellung",
-    "Description": "Nachschub ausverkaufter Artikel wird über offiziellen Twitter angekündigt.",
+    "Point": "Réapprovisionnement",
+    "Description": "Le réapprovisionnement des articles épuisés sera annoncé via Twitter officiel une fois confirmé.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Technisch",
-    "Point": "App-Fehler",
-    "Description": "En cas de problème de connexion avec l'app Fan Community, contacter le service client.",
-    "Applicabilité": "App-Nutzer",
+    "Catégorie": "Technique",
+    "Point": "Erreur application",
+    "Description": "Veuillez contacter le centre client de la plateforme pour les problèmes de connexion à l'application communauté.",
+    "Applicabilité": "Utilisateurs de l'app",
     "Notes": "-"
   },
   {
-    "Catégorie": "Support",
-    "Point": "Spenden-Unterstützung",
-    "Description": "Dons au nom de l'artiste soutenus ; attestation officielle possible.",
+    "Catégorie": "Soutien",
+    "Point": "Soutien par don",
+    "Description": "Le soutien par don au nom de l'artiste est encouragé et la certification officielle est prise en charge.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Support",
-    "Point": "Geschenke/Catering",
-    "Description": "Essen und Geschenke nur nach vorheriger E-Mail-Genehmigung durch die Agentur.",
-    "Applicabilité": "Support-Teams",
-    "Notes": "Genehmigungsnummer"
+    "Catégorie": "Soutien",
+    "Point": "Cadeaux/Catering",
+    "Description": "Le soutien en nourriture et cadeaux ne peut se faire qu'après approbation préalable par email de l'agence.",
+    "Applicabilité": "Équipes de soutien",
+    "Notes": "N° d'approbation requis"
   },
   {
-    "Catégorie": "Support",
-    "Point": "Abgelehnte Gegenstände",
-    "Description": "Aliments périssables ou cadeaux de luxe peuvent être refusés.",
-    "Applicabilité": "Support",
+    "Catégorie": "Soutien",
+    "Point": "Articles refusés",
+    "Description": "Les denrées périssables ou cadeaux de luxe haut de gamme peuvent être refusés.",
+    "Applicabilité": "Soutien",
     "Notes": "-"
   },
   {
-    "Catégorie": "Support",
-    "Point": "Empfangsbestätigung",
-    "Description": "Keine Einzelbestätigung zum Empfang von Support-Artikeln.",
-    "Applicabilité": "Support-Teams",
+    "Catégorie": "Soutien",
+    "Point": "Confirmation de réception",
+    "Description": "Nous ne fournissons pas de confirmation individuelle concernant la réception des articles de soutien.",
+    "Applicabilité": "Équipes de soutien",
     "Notes": "-"
   },
   {
-    "Catégorie": "Support",
-    "Point": "Lieferantenkoordination",
-    "Description": "Termine mit dem Sicherheitsteam der Agentur abstimmen.",
-    "Applicabilité": "Support-Teams",
+    "Catégorie": "Soutien",
+    "Point": "Coordination fournisseur",
+    "Description": "Les horaires de rencontre doivent être coordonnés avec l'équipe de sécurité de l'agence avant les visites fournisseur.",
+    "Applicabilité": "Équipes de soutien",
     "Notes": "-"
   },
   {
-    "Catégorie": "Support",
-    "Point": "Finanzbericht",
-    "Description": "Finanzielle Aufstellung transparent innerhalb der Fangemeinde teilen.",
-    "Applicabilité": "Empfohlen",
+    "Catégorie": "Soutien",
+    "Point": "Rapport financier",
+    "Description": "Les relevés financiers détaillés doivent être partagés de manière transparente au sein de la communauté fan union après soutien.",
+    "Applicabilité": "Recommandé",
     "Notes": "-"
   },
   {
-    "Catégorie": "Support",
-    "Point": "Gratulationsgestecke",
-    "Description": "Compositions florales sur les lieux de concert peuvent être restreintes par la salle.",
-    "Applicabilité": "Fangemeinden",
+    "Catégorie": "Soutien",
+    "Point": "Couronnes de félicitations",
+    "Description": "L'installation de couronnes dans les salles de concert peut être restreinte par les règlements du lieu.",
+    "Applicabilité": "Fan unions",
     "Notes": "-"
   },
   {
-    "Catégorie": "Termine",
-    "Point": "Offizieller Kalender",
-    "Description": "Broadcasts, Events und Auftritte auf der offiziellen Website.",
+    "Catégorie": "Planning",
+    "Point": "Planning officiel",
+    "Description": "Les diffusions, événements et spectacles des artistes sont disponibles sur le calendrier du site officiel.",
     "Applicabilité": "Tous",
-    "Notes": "Echtzeit-Updates"
+    "Notes": "Mises à jour en temps réel"
   },
   {
-    "Catégorie": "Termine",
-    "Point": "Live-Broadcast",
-    "Description": "Überraschungs-Lives per Push-Benachrichtigung der Community-App.",
+    "Catégorie": "Planning",
+    "Point": "Diffusion live",
+    "Description": "Les diffusions live surprises seront notifiées via les notifications push de l'application communauté.",
     "Applicabilité": "Tous",
-    "Notes": "Benachrichtigungen aktivieren"
+    "Notes": "Activer les alertes"
   },
   {
-    "Catégorie": "Termine",
+    "Catégorie": "Planning",
     "Point": "Music Shows",
-    "Description": "Teilnahmedetails am Vortag unter ‚Music Show Notice‘ in der Community.",
-    "Applicabilité": "Fanclub-Mitglieder",
+    "Description": "Consultez l'avis Music Show Notice sur la communauté officielle la veille pour les détails de participation.",
+    "Applicabilité": "Membres fanclub",
     "Notes": "-"
   },
   {
-    "Catégorie": "Termine",
-    "Point": "Private Termine",
-    "Description": "Visites d'espaces privés ou de rendez-vous non publics interdites ; bannissement en cas de violation.",
+    "Catégorie": "Planning",
+    "Point": "Planning privé",
+    "Description": "La visite d'espaces privés ou de plannings non publics est strictement interdite et entraîne un bannissement.",
     "Applicabilité": "Tous",
-    "Notes": "Null Toleranz"
+    "Notes": "Tolérance zéro"
   },
   {
-    "Catégorie": "Termine",
-    "Point": "Voraufzeichnung",
-    "Description": "Teilnahme an Vor- oder Nachaufzeichnungen nur nach vorheriger Bestätigung.",
-    "Applicabilité": "Tous",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Termine",
-    "Point": "Zeitzone",
-    "Description": "Alle Termine in KST (UTC+9).",
-    "Applicabilité": "Internationale Fans",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Termine",
-    "Point": "Absage",
-    "Description": "Modifications ou annulations pour raisons de santé communiquées immédiatement par SNS.",
-    "Applicabilité": "Notfall",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "System",
-    "Point": "Benachrichtigungen",
-    "Description": "Wichtige Mitteilungen per Telegram oder offizielle App.",
+    "Catégorie": "Planning",
+    "Point": "Pré-enregistrement",
+    "Description": "La participation aux pré-enregistrements ou post-enregistrements est limitée aux personnes pré-confirmées.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "System",
-    "Point": "Mehrsprachige Suche",
-    "Description": "Automatische mehrsprachige Antworten auf häufige Fragen.",
+    "Catégorie": "Planning",
+    "Point": "Fuseau horaire",
+    "Description": "Tous les plannings sont affichés en heure de Corée (KST, UTC+9).",
+    "Applicabilité": "Fans mondiaux",
+    "Notes": "-"
+  },
+  {
+    "Catégorie": "Planning",
+    "Point": "Annulation",
+    "Description": "Les changements ou annulations de planning pour raisons de santé seront annoncés immédiatement via SNS.",
+    "Applicabilité": "Urgence",
+    "Notes": "-"
+  },
+  {
+    "Catégorie": "Système",
+    "Point": "Notifications",
+    "Description": "Les avis importants sont envoyés en temps réel via Telegram ou alertes de l'application officielle.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "System",
-    "Point": "Anfragenbearbeitung",
-    "Description": "Direkter Agenten-Kontakt werktags 11:00–16:00.",
+    "Catégorie": "Système",
+    "Point": "Recherche multilingue",
+    "Description": "Les réponses auto multilingues sont prises en charge pour les questions principales des fans mondiaux.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "System",
-    "Point": "Anfragevolumen",
-    "Description": "Während Comeback-Phasen kann die Antwortzeit länger sein.",
+    "Catégorie": "Système",
+    "Point": "Réponse aux demandes",
+    "Description": "Les horaires de connexion directe agent sont en semaine de 11h00 à 16h00.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "System",
-    "Point": "Chatbot-Grenzen",
-    "Description": "Der Bot dient nur der Information; kein direkter Dialog mit dem Künstler.",
+    "Catégorie": "Système",
+    "Point": "Volume des demandes",
+    "Description": "Veuillez comprendre que les réponses peuvent être retardées pendant les périodes de comeback en raison du volume.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Künstlersicherheit",
-    "Point": "Live-Chat",
-    "Description": "Questions portant atteinte à la vie privée filtrées pendant les lives.",
+    "Catégorie": "Système",
+    "Point": "Limite chatbot",
+    "Description": "Ce bot est uniquement informatif et ne supporte pas la conversation directe avec l'artiste.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Künstlersicherheit",
-    "Point": "Gerüchte melden",
-    "Description": "Rechtsverletzungen oder Falschmeldungen an [protect@agency.com] melden.",
-    "Applicabilité": "Tous",
-    "Notes": "PDF-Screenshot"
-  },
-  {
-    "Catégorie": "Künstlersicherheit",
-    "Point": "Stalking",
-    "Description": "Stalking von Wohnort oder Fahrzeugen hat rechtliche Konsequenzen.",
-    "Applicabilité": "Tous",
-    "Notes": "Beweissicherung"
-  },
-  {
-    "Catégorie": "Künstlersicherheit",
-    "Point": "Hasskommentare",
-    "Description": "Commentaires haineux systématiquement poursuivis.",
-    "Applicabilité": "Tous",
-    "Notes": "Regelmäßige Updates"
-  },
-  {
-    "Catégorie": "Künstlersicherheit",
-    "Point": "Flughafen-Sicherheit",
-    "Description": "Aus Sicherheitsgründen Nahaufnahmen am Flughafen vermeiden.",
-    "Applicabilité": "Am Flughafen",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Künstlersicherheit",
-    "Point": "Welt-Tour",
-    "Description": "Hotel- oder Restaurantinfos während Touren nicht teilen.",
+    "Catégorie": "Sécurité artiste",
+    "Point": "Chat live",
+    "Description": "Les questions portant atteinte à la vie privée de l'artiste pendant les diffusions live seront filtrées et bloquées.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Künstlersicherheit",
-    "Point": "Vor-Ort-Sicherheit",
-    "Description": "Anweisungen des Sicherheitsteams vor Ort befolgen.",
+    "Catégorie": "Sécurité artiste",
+    "Point": "Signaler les rumeurs",
+    "Description": "Email [protect@agency.com] pour signaler une atteinte aux droits ou diffusion de fausses rumeurs.",
+    "Applicabilité": "Tous",
+    "Notes": "Capture PDF rec."
+  },
+  {
+    "Catégorie": "Sécurité artiste",
+    "Point": "Réponse au stalking",
+    "Description": "Le stalking des dortoirs ou véhicules de l'artiste est passible de poursuites judiciaires.",
+    "Applicabilité": "Tous",
+    "Notes": "Collecte de preuves"
+  },
+  {
+    "Catégorie": "Sécurité artiste",
+    "Point": "Commentaires malveillants",
+    "Description": "Des poursuites contre les commentaires malveillants seront engagées strictement sans indulgence.",
+    "Applicabilité": "Tous",
+    "Notes": "Vérifier les mises à jour périodiques"
+  },
+  {
+    "Catégorie": "Sécurité artiste",
+    "Point": "Sécurité aéroport",
+    "Description": "Veuillez éviter la photographie en gros plan à l'aéroport pour assurer la sécurité.",
+    "Applicabilité": "À l'aéroport",
+    "Notes": "-"
+  },
+  {
+    "Catégorie": "Sécurité artiste",
+    "Point": "Tournée mondiale",
+    "Description": "Le partage d'infos hôtel ou restaurant pendant les tournées est interdit pour la sécurité de l'artiste.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Betrieb",
-    "Point": "Geschäftliches",
-    "Description": "Anfragen zu Werbung oder Kooperationen an [biz@agency.com].",
-    "Applicabilité": "Unternehmen",
+    "Catégorie": "Sécurité artiste",
+    "Point": "Sécurité sur place",
+    "Description": "Veuillez suivre les instructions de la sécurité sur place pour assurer le chemin de déplacement de l'artiste.",
+    "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Betrieb",
+    "Catégorie": "Exploitation",
+    "Point": "Business",
+    "Description": "Veuillez envoyer les propositions de publicité ou collaboration à [biz@agency.com].",
+    "Applicabilité": "Entreprises",
+    "Notes": "-"
+  },
+  {
+    "Catégorie": "Exploitation",
     "Point": "Audition",
-    "Description": "Bewerbung als Trainee unter dem Tab [Audition].",
-    "Applicabilité": "Bewerber",
+    "Description": "Consultez l'onglet [Audition] pour les instructions de candidature en tant que stagiaire.",
+    "Applicabilité": "Candidats",
     "Notes": "-"
   },
   {
-    "Catégorie": "Betrieb",
-    "Point": "Meldungsformat",
-    "Description": "Bei Rechtsverletzungen: [Datum/Plattform/Inhalt/URL].",
+    "Catégorie": "Exploitation",
+    "Point": "Format de signalement",
+    "Description": "Lors du signalement d'une atteinte aux droits, utilisez le format : [Date/Plateforme/Contenu/URL].",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Événement",
-    "Point": "Gewinnerprüfung",
-    "Description": "Gewinner per Kontakt oder offizielle Ankündigung.",
+    "Point": "Vérification gagnants",
+    "Description": "Les gagnants peuvent être vérifiés via contact individuel ou tableau d'affichage officiel.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Événement",
-    "Point": "Nummernschild",
-    "Description": "First-come-first-served nach Reihenfolge der verteilten Nummern.",
+    "Point": "Numéros distribués",
+    "Description": "Les événements premier arrivé-premier servi suivent l'ordre des numéros distribués.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Événement",
-    "Point": "Altersbeschränkung",
-    "Description": "Bei manchen Events ist elterliche Einwilligung unter 14 Jahren nötig.",
+    "Point": "Limite d'âge",
+    "Description": "Certains événements requièrent le consentement parental pour les participants de moins de 14 ans.",
     "Applicabilité": "Mineurs",
     "Notes": "-"
   },
   {
     "Catégorie": "Événement",
-    "Point": "Video-Call",
-    "Description": "Stabile Internetverbindung; Call endet bei Anwesenheit Dritter.",
-    "Applicabilité": "Video-Call-Fansign",
+    "Point": "Appel vidéo",
+    "Description": "Attendez dans un environnement réseau stable ; les appels se termineront si une autre personne est présente.",
+    "Applicabilité": "Fansign appel vidéo",
     "Notes": "-"
   },
   {
     "Catégorie": "Événement",
-    "Point": "Gruppenfoto",
-    "Description": "Gruppenfoto mit dem Künstler wird nach der Veranstaltung hochgeladen.",
+    "Point": "Photo de groupe",
+    "Description": "Une photo de groupe avec l'artiste sera mise en ligne après l'événement.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Événement",
-    "Point": "Voraussetzungen",
-    "Description": "Lightsticks, Alben und Ausweise oft Pflicht für Vor-Ort-Events.",
+    "Point": "Exigences",
+    "Description": "Les lightsticks, albums et pièces d'identité sont souvent obligatoires pour les événements sur place.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Événement",
     "Point": "Fansign",
-    "Description": "Per Los unter Albumkäufern; nur Gewinner nehmen teil.",
-    "Applicabilité": "Gewinner",
-    "Notes": "Ausweis nötig"
+    "Description": "Effectué par tirage au sort parmi les acheteurs d'albums ; seul le gagnant peut participer.",
+    "Applicabilité": "Gagnants",
+    "Notes": "Pièce d'identité requise"
   },
   {
     "Catégorie": "Événement",
-    "Point": "Internationale Events",
-    "Description": "Infos zu Touren und Events mehrsprachig über globale Ankündigungen.",
-    "Applicabilité": "Internationale Fans",
+    "Point": "Événement mondial",
+    "Description": "Les infos tournée et événements mondiaux sont fournis en plusieurs langues via les avis globaux.",
+    "Applicabilité": "Fans mondiaux",
     "Notes": "-"
   },
   {
-    "Catégorie": "Informationen",
-    "Point": "Künstlerliste",
-    "Description": "Aktuelle Künstler unter [Artist] auf der Website.",
+    "Catégorie": "Information",
+    "Point": "Liste des artistes",
+    "Description": "La liste actuelle des artistes affiliés est disponible sous le menu [Artist] du site.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Informationen",
-    "Point": "Standort",
-    "Description": "Büro in OO-Gebäude; Rundgänge nicht möglich.",
+    "Catégorie": "Information",
+    "Point": "Localisation",
+    "Description": "Le bureau est au bâtiment OO, OO-dong ; les visites internes ne sont pas autorisées.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Inhalte",
-    "Point": "Exklusive Fotos",
-    "Description": "Mitglieder-exklusive Fotos monatlich am 1. aktualisiert.",
-    "Applicabilité": "Zahlende Mitglieder",
+    "Catégorie": "Contenus",
+    "Point": "Photos exclusives",
+    "Description": "Les photos exclusives membership sont mises à jour le 1er de chaque mois.",
+    "Applicabilité": "Membres payants",
     "Notes": "-"
   },
   {
-    "Catégorie": "Inhalte",
-    "Point": "Unveröffentlichte Fotos",
-    "Description": "Unveröffentlichte Photocards zufällig in jedem Album.",
+    "Catégorie": "Contenus",
+    "Point": "Photos inédites",
+    "Description": "Des photocards inédites sont incluses aléatoirement dans chaque album.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Inhalte",
-    "Point": "Behind-the-Scenes",
-    "Description": "Behind-the-Scenes-Videos freitags 18 Uhr auf dem offiziellen YouTube.",
+    "Catégorie": "Contenus",
+    "Point": "Coulisses",
+    "Description": "Les vidéos coulisses sur la chaîne YouTube officielle sont mises en ligne le vendredi à 18h.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Inhalte",
+    "Catégorie": "Contenus",
     "Point": "Streaming",
-    "Description": "Zu Musik- und Video-Streaming die Fangemeinde-Richtlinien beachten.",
+    "Description": "Veuillez vous référer aux directives fan union pour le streaming musical et clips.",
     "Applicabilité": "Tous",
-    "Notes": "Empfohlen"
+    "Notes": "Recommandé"
   },
   {
-    "Catégorie": "Inhalte",
-    "Point": "Untertitel",
-    "Description": "Englisch, Japanisch und Chinesisch für alle offiziellen Videos.",
-    "Applicabilité": "Tous",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Inhalte",
-    "Point": "Urheberrecht",
-    "Description": "Unerlaubte Aufnahme oder Weitergabe kostenpflichtiger Inhalte hat rechtliche Folgen.",
-    "Applicabilité": "Nur Mitglieder",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Inhalte",
-    "Point": "Fotobuch",
-    "Description": "Season's Greetings und Fotobuch-Vorbestellungen im zweiten Halbjahr.",
+    "Catégorie": "Contenus",
+    "Point": "Sous-titres",
+    "Description": "Des sous-titres anglais, japonais et chinois sont fournis pour toutes les vidéos officielles.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Ticketing",
-    "Point": "Illegaler Handel",
-    "Description": "Wiederverkauf oder Bots führen zu Stornierung und Sperre.",
-    "Applicabilité": "Tous",
-    "Notes": "Kein Weiterverkauf"
+    "Catégorie": "Contenus",
+    "Point": "Droits d'auteur",
+    "Description": "La capture ou le partage non autorisé de contenus payants peut entraîner des sanctions légales.",
+    "Applicabilité": "Membership uniquement",
+    "Notes": "-"
   },
   {
-    "Catégorie": "Ticketing",
-    "Point": "Vorverkauf",
-    "Description": "Vorverkauf für verifizierte Mitglieder vor dem allgemeinen Verkauf.",
-    "Applicabilité": "Auftritte",
-    "Notes": "Konto verknüpfen"
-  },
-  {
-    "Catégorie": "Ticketing",
-    "Point": "Rollstuhlplätze",
-    "Description": "Rollstuhlplätze nur per Telefon beim Ticketing-Kundenservice.",
-    "Applicabilité": "Menschen mit Behinderung",
-    "Notes": "Preuve requise"
-  },
-  {
-    "Catégorie": "Fan-Brief",
-    "Point": "Standardformat",
-    "Description": "Enveloppes standard recommandées ; lettres en colis peuvent être refusées.",
+    "Catégorie": "Contenus",
+    "Point": "Photobook",
+    "Description": "Les plannings des Season's Greetings et précommandes photobook sont annoncés au second semestre.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Fan-Brief",
-    "Point": "Verschickung",
-    "Description": "Briefe nur per Post oder an offiziellen Abgabestellen bei Events.",
+    "Catégorie": "Billetterie",
+    "Point": "Revente illégale",
+    "Description": "La revente ou l'utilisation de macros entraînera l'annulation des billets et inscription sur liste noire.",
     "Applicabilité": "Tous",
-    "Notes": "Keine Lieferung an Wohnort"
+    "Notes": "Pas de transferts"
+  },
+  {
+    "Catégorie": "Billetterie",
+    "Point": "Guide prévente",
+    "Description": "Les préventes sont disponibles pour les membres vérifiés avant les ventes générales.",
+    "Applicabilité": "Représentations",
+    "Notes": "Lier le compte"
+  },
+  {
+    "Catégorie": "Billetterie",
+    "Point": "Sièges fauteuil roulant",
+    "Description": "Les sièges fauteuil roulant ne peuvent être réservés que par téléphone via le centre client billetterie.",
+    "Applicabilité": "Handicapés",
+    "Notes": "Justificatif requis"
+  },
+  {
+    "Catégorie": "Lettre fan",
+    "Point": "Format standard",
+    "Description": "Les enveloppes standard sont recommandées ; les lettres type colis peuvent être refusées.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
+  },
+  {
+    "Catégorie": "Lettre fan",
+    "Point": "Mode d'envoi",
+    "Description": "Les lettres ne peuvent être envoyées que par courrier ou boîtes de dépôt désignées aux événements officiels.",
+    "Applicabilité": "Tous",
+    "Notes": "Pas de livraison au dortoir"
   },
   {
     "Catégorie": "Fanclub",
-    "Point": "Mitgliedschaft",
-    "Description": "Kostenpflichtige Mitgliedschaft über offizielle Communities (Weverse, Bubble etc.).",
-    "Applicabilité": "Neue Mitglieder",
-    "Notes": "Zeitraum prüfen"
+    "Point": "Adhésion membership",
+    "Description": "Les memberships payants peuvent être rejoints via les communautés officielles (Weverse, Bubble, etc.).",
+    "Applicabilité": "Nouveaux membres",
+    "Notes": "Vérifier la période"
   },
   {
     "Catégorie": "Fanclub",
-    "Point": "Verlängerung",
-    "Description": "Verlängerung 30 Tage vor/nach Ablauf möglich.",
-    "Applicabilité": "Bestehende Mitglieder",
+    "Point": "Renouvellement",
+    "Description": "Le renouvellement est possible dans les 30 jours avant/après expiration du membership.",
+    "Applicabilité": "Membres existants",
     "Notes": "-"
   },
   {
     "Catégorie": "Fanclub",
-    "Point": "Nickname-Richtlinie",
-    "Description": "Pseudos contenant le nom de l'artiste ou vulgarité restreints.",
+    "Point": "Politique surnom",
+    "Description": "Les surnoms utilisant les noms d'artistes ou des obscénités seront restreints.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Fanclub",
-    "Point": "Vorteile",
-    "Description": "Vorverkaufsrecht, exklusive Inhalte und Kit-Kaufberechtigung.",
-    "Applicabilité": "Zahlende Mitglieder",
-    "Notes": "Variiert nach Laufzeit"
+    "Point": "Avantages",
+    "Description": "Les avantages incluent droits de prévente, accès contenu exclusif et éligibilité achat kit.",
+    "Applicabilité": "Membres payants",
+    "Notes": "Variable selon la durée"
   },
   {
     "Catégorie": "Fanclub",
-    "Point": "Adressänderung",
-    "Description": "Adresse in Mein Bereich vor Versand des Mitglieder-Kits aktualisieren.",
-    "Applicabilité": "Zahlende Mitglieder",
+    "Point": "Changement d'adresse",
+    "Description": "Mettez à jour votre dernière adresse dans Ma Page avant le début de l'expédition du kit membership.",
+    "Applicabilité": "Membres payants",
     "Notes": "-"
   },
   {
     "Catégorie": "Fanclub",
-    "Point": "Kit-Versand",
-    "Description": "Kits membres envoyés trimestriellement.",
-    "Applicabilité": "Zahlende Mitglieder",
+    "Point": "Expédition kit",
+    "Description": "Les kits membership sont expédiés trimestriellement et peuvent prendre du temps à recevoir.",
+    "Applicabilité": "Membres payants",
     "Notes": "-"
   },
   {
     "Catégorie": "Fanclub",
-    "Point": "Nicht übertragbar",
-    "Description": "Droits d'adhésion non cessibles ni transférables.",
+    "Point": "Transfert d'avantages",
+    "Description": "Les droits membership ne peuvent être vendus ou transférés à d'autres.",
     "Applicabilité": "Tous",
-    "Notes": "Dauerhafte Sperre"
+    "Notes": "Bannissement permanent"
   },
   {
     "Catégorie": "Fanclub",
-    "Point": "Mitgliedskarte",
-    "Description": "Digitale Mitgliedskarte in Mein Bereich der Community-App.",
-    "Applicabilité": "Zahlende Mitglieder",
-    "Notes": "Physische Karte separat"
+    "Point": "Carte membership",
+    "Description": "Les cartes membership mobiles sont consultables dans la section Ma Page de l'app communauté.",
+    "Applicabilité": "Membres payants",
+    "Notes": "Carte physique séparée"
   },
   {
     "Catégorie": "Promotion",
     "Point": "Slogans",
-    "Description": "Geburtstags-Anzeigen und Plakatwerbung nach Agentur-Richtlinien.",
+    "Description": "Les pubs anniversaire et supports panneaux électroniques peuvent se faire si les directives de l'agence sont respectées.",
     "Applicabilité": "Tous",
-    "Notes": "Vorherige Genehmigung"
+    "Notes": "Approbation préalable"
   }
 ]

@@ -2,561 +2,561 @@
   {
     "Catégorie": "Personnel",
     "Point": "MBTI",
-    "Description": "Persönlichkeitstyp ISTP.",
+    "Description": "Mon type de personnalité est ISTP.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Personnel",
-    "Point": "Standort",
-    "Description": "Wohne in Seodaemun-gu, Seoul.",
+    "Point": "Localisation",
+    "Description": "J'habite près de Seodaemun-gu, Séoul.",
     "Applicabilité": "Profil",
-    "Notes": "Adresse privat"
+    "Notes": "Adresse détaillée privée"
   },
   {
     "Catégorie": "Personnel",
-    "Point": "Alter/Geburtstag",
-    "Description": "Jahrgang 90er; Geburtstag 20. Mai.",
+    "Point": "Âge/Anniversaire",
+    "Description": "Né dans les années 90 ; anniversaire le 20 mai.",
     "Applicabilité": "Profil",
     "Notes": "-"
   },
   {
     "Catégorie": "Personnel",
-    "Point": "Haustier",
-    "Description": "Habe eine Katze namens Nabi.",
+    "Point": "Animal domestique",
+    "Description": "J'ai un chat nommé Nabi.",
     "Applicabilité": "Tous",
-    "Notes": "Gelegentlich vor der Cam"
+    "Notes": "Apparition occasionnelle à la caméra"
   },
   {
     "Catégorie": "Personnel",
-    "Point": "Unbeliebtes Essen",
-    "Description": "Essen weder Auberginen noch Gurken.",
-    "Applicabilité": "Tous",
-    "Notes": "-"
-  },
-  {
-    "Catégorie": "Personnel",
-    "Point": "Lieblingsessen",
-    "Description": "Mag Minzschokolade und Ananas-Pizza.",
+    "Point": "Aliments détestés",
+    "Description": "Je ne mange jamais d'aubergines ni de concombres.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Personnel",
-    "Point": "Alkoholtoleranz",
-    "Description": "Ca. halbe Flasche Soju; werde schnell betrunken.",
+    "Point": "Plats préférés",
+    "Description": "J'aime le chocolat à la menthe et la pizza à l'ananas.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Personnel",
-    "Point": "Hobbys",
-    "Description": "Kochen oder Filme, wenn nicht am Streamen.",
+    "Point": "Tolérance à l'alcool",
+    "Description": "Environ une demi-bouteille de Soju ; je m'enivre rapidement.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
+  },
+  {
+    "Catégorie": "Personnel",
+    "Point": "Loisirs",
+    "Description": "Je cuisine ou regarde des films quand je ne streame pas.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Abonnement",
-    "Point": "Geschenk-Abos",
-    "Description": "Les spectateurs peuvent s'offrir des abonnements entre eux.",
+    "Point": "Abonnements cadeaux",
+    "Description": "Les téléspectateurs peuvent s'offrir des abonnements entre eux.",
     "Applicabilité": "Chzzk/AfreecaTV",
     "Notes": "-"
   },
   {
     "Catégorie": "Abonnement",
-    "Point": "Abodauer",
-    "Description": "Badge-Form je nach Abo-Dauer.",
-    "Applicabilité": "Abonnenten",
+    "Point": "Durée d'abonnement",
+    "Description": "Les formes des badges changent selon la durée continue d'abonnement.",
+    "Applicabilité": "Abonnés",
     "Notes": "-"
   },
   {
     "Catégorie": "Abonnement",
-    "Point": "Abovorteile",
-    "Description": "Exklusive Emotes, Badges und werbefreies Anschauen.",
-    "Applicabilité": "Abonnenten",
+    "Point": "Avantages abonnés",
+    "Description": "Emotes exclusifs, badges et visionnage sans publicité.",
+    "Applicabilité": "Abonnés",
     "Notes": "-"
   },
   {
-    "Catégorie": "Regeln",
+    "Catégorie": "Règles",
     "Point": "Spam",
-    "Description": "Gleiche Nachricht 3x+ gilt als Spam.",
+    "Description": "Répéter le même message 3 fois ou plus est considéré comme du spam.",
     "Applicabilité": "Chat",
-    "Notes": "600s Timeout"
+    "Notes": "600 s de timeout"
   },
   {
-    "Catégorie": "Regeln",
-    "Point": "Höflichkeit",
-    "Description": "Standard höfliche Anrede; locker nur bei bestimmten Inhalten.",
+    "Catégorie": "Règles",
+    "Point": "Formules de politesse",
+    "Description": "Par défaut langage poli ; langage familier uniquement pour certains contenus.",
     "Applicabilité": "Live",
     "Notes": "-"
   },
   {
-    "Catégorie": "Regeln",
-    "Point": "Belästigung",
-    "Description": "Remarques sexuelles ou harcèlement poursuivis légalement.",
+    "Catégorie": "Règles",
+    "Point": "Harcèlement",
+    "Description": "Remarques sexuelles ou harcèlement entraîneront des poursuites judiciaires.",
     "Applicabilité": "Tous",
-    "Notes": "Null Toleranz"
+    "Notes": "Tolérance zéro"
   },
   {
-    "Catégorie": "Regeln",
-    "Point": "Tagebuch",
-    "Description": "Bitte keine ausführlichen Sorgen oder Tagebücher im Chat teilen.",
+    "Catégorie": "Règles",
+    "Point": "Journal intime",
+    "Description": "Veuillez éviter de partager des soucis personnels excessifs ou des journaux quotidiens.",
     "Applicabilité": "Live",
     "Notes": "-"
   },
   {
-    "Catégorie": "Regeln",
-    "Point": "Politik",
-    "Description": "Erwähnung politischer Parteien oder Ansichten verboten.",
+    "Catégorie": "Règles",
+    "Point": "Politique",
+    "Description": "Les mentions de partis politiques ou d'opinions spécifiques sont interdites.",
     "Applicabilité": "Tous",
-    "Notes": "Sofortige Sperre"
+    "Notes": "Bannissement immédiat"
   },
   {
-    "Catégorie": "Regeln",
-    "Point": "Andere Streamer",
-    "Description": "Andere Streamer nicht erwähnen, außer bei Collab.",
+    "Catégorie": "Règles",
+    "Point": "Autres streamers",
+    "Description": "Évitez de mentionner d'autres streamers sauf en collaboration.",
     "Applicabilité": "Chat",
     "Notes": "-"
   },
   {
-    "Catégorie": "Regeln",
-    "Point": "Backseating/Spoiler",
-    "Description": "Unerwünschte Spieltipps oder Spoiler führen zu sofortiger Sperre.",
+    "Catégorie": "Règles",
+    "Point": "Conseils non sollicités/Spoilers",
+    "Description": "Conseils de jeu non sollicités ou spoilers entraîneront un bannissement immédiat.",
     "Applicabilité": "Gaming",
     "Notes": "-"
   },
   {
-    "Catégorie": "Spende",
-    "Point": "Missionsbetrag",
-    "Description": "In-Game-Missionen ab mind. 5.000 KRW.",
-    "Applicabilité": "Spiel-Missionen",
+    "Catégorie": "Don",
+    "Point": "Montant des missions",
+    "Description": "Les missions en jeu commencent à partir de 5 000 KRW minimum.",
+    "Applicabilité": "Missions jeu",
     "Notes": "-"
   },
   {
-    "Catégorie": "Spende",
-    "Point": "Signatur-Sound",
-    "Description": "Exklusive Sounds bei bestimmten Spendenbeträgen.",
-    "Applicabilité": "10.000+ KRW",
+    "Catégorie": "Don",
+    "Point": "Son signature",
+    "Description": "Des sons exclusifs se déclenchent pour certains montants de don.",
+    "Applicabilité": "10 000+ KRW",
     "Notes": "-"
   },
   {
-    "Catégorie": "Spende",
-    "Point": "Video-Spende",
-    "Description": "100 KRW par seconde ; vidéos inappropriées ignorées.",
+    "Catégorie": "Don",
+    "Point": "Don vidéo",
+    "Description": "100 KRW par seconde ; les vidéos inappropriées seront ignorées.",
     "Applicabilité": "Live",
-    "Notes": "Droits d'auteur"
+    "Notes": "Conformité droits d'auteur"
   },
   {
-    "Catégorie": "Spende",
+    "Catégorie": "Don",
     "Point": "Toonation/Twip",
-    "Description": "Spenden auf dem Bildschirm über Toonation und Twip.",
+    "Description": "Les dons affichés à l'écran passent par Toonation et Twip.",
     "Applicabilité": "Live",
     "Notes": "-"
   },
   {
     "Catégorie": "Streaming",
-    "Point": "BGM-Info",
-    "Description": "Nur NCS oder lizenzierte Tracks.",
+    "Point": "Info BGM",
+    "Description": "J'utilise uniquement des morceaux NCS ou sous licence.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Streaming",
-    "Point": "TTS-Stimme",
-    "Description": "Les voix des dons sont générées par IA.",
-    "Applicabilité": "Spenden",
+    "Point": "Voix TTS",
+    "Description": "Les voix pendant les dons sont générées par IA.",
+    "Applicabilité": "Dons",
     "Notes": "-"
   },
   {
     "Catégorie": "Streaming",
-    "Point": "Aufzeichnungsanfragen",
-    "Description": "Weitergabe von Rohaufnahmen auch für Privatnutzung verboten.",
+    "Point": "Demandes d'enregistrement",
+    "Description": "Le partage d'enregistrements bruts est interdit, même pour un usage personnel.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Streaming",
     "Point": "VODs",
-    "Description": "Volle VODs nur für Mitglieder.",
-    "Applicabilité": "Mitgliedschaft",
-    "Notes": "Zusammenschnitte öffentlich"
+    "Description": "Les VODs complets sont uniquement disponibles aux membres du membership.",
+    "Applicabilité": "Membership",
+    "Notes": "Les montages sont publics"
   },
   {
     "Catégorie": "Streaming",
-    "Point": "Mikrofontest",
-    "Description": "Mount- und Mikrofontest 5 Min. vor Start.",
-    "Applicabilité": "Standby",
+    "Point": "Test micro",
+    "Description": "Vérifications du support et du micro 5 min avant le début.",
+    "Applicabilité": "En attente",
     "Notes": "-"
   },
   {
     "Catégorie": "Streaming",
-    "Point": "Ende",
-    "Description": "Ende meist gegen 1 Uhr nachts.",
+    "Point": "Heure de fin",
+    "Description": "Termine généralement vers 1h du matin.",
     "Applicabilité": "Live",
-    "Notes": "Variiert"
+    "Notes": "Variable selon les conditions"
   },
   {
     "Catégorie": "Streaming",
     "Point": "Droits d'auteur",
-    "Description": "Unerlaubtes Hochladen oder Bearbeiten meiner Videos verboten.",
+    "Description": "Le ré-upload ou le traitement non autorisé de mes vidéos est interdit.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
     "Catégorie": "Streaming",
-    "Point": "Zeitplan",
-    "Description": "Jeden Mo/Mi/Fr 21 Uhr.",
+    "Point": "Programme",
+    "Description": "Chaque lun/mer/ven à 21h.",
     "Applicabilité": "Live",
-    "Notes": "Ankündigungen auf Discord"
+    "Notes": "Annonces sur Discord"
   },
   {
     "Catégorie": "Streaming",
-    "Point": "Verspätung",
-    "Description": "Bei mehr als 10 Min. Verspätung Straf-Roulette.",
+    "Point": "Retard",
+    "Description": "Si retard de plus de 10 min, une roue de pénalité sera tournée.",
     "Applicabilité": "Live",
     "Notes": "-"
   },
   {
     "Catégorie": "Streaming",
-    "Point": "Frei-ankündigung",
-    "Description": "Ungeplante freie Tage auf YouTube/Fan-Cafe.",
+    "Point": "Avis de congé",
+    "Description": "Les congés imprévus seront publiés sur YouTube/Fan Cafe.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Geschäftlich",
-    "Point": "Vorträge",
-    "Description": "Vorträge bei Unifesten oder Spielevents möglich.",
-    "Applicabilité": "Extern",
+    "Catégorie": "Business",
+    "Point": "Conférences",
+    "Description": "Conférences possibles pour festivals universitaires ou événements gaming.",
+    "Applicabilité": "Externe",
     "Notes": "-"
   },
   {
-    "Catégorie": "Geschäftlich",
-    "Point": "Werbung",
-    "Description": "Offizielle E-Mail: admin@streamer.com.",
-    "Applicabilité": "Unternehmen",
-    "Notes": "Keine DMs"
+    "Catégorie": "Business",
+    "Point": "Publicités",
+    "Description": "Contact par email officiel : admin@streamer.com.",
+    "Applicabilité": "Entreprises",
+    "Notes": "Pas de DM"
   },
   {
-    "Catégorie": "Geschäftlich",
+    "Catégorie": "Business",
     "Point": "MCN",
-    "Description": "Aktuell unabhängig (ohne Agentur).",
-    "Applicabilité": "Status",
+    "Description": "Actuellement actif en indépendant (sans agence).",
+    "Applicabilité": "Statut",
     "Notes": "-"
   },
   {
-    "Catégorie": "Geschäftlich",
-    "Point": "Agentur-Anfrage",
-    "Description": "Keine Pläne für Agenturvertrag.",
+    "Catégorie": "Business",
+    "Point": "Proposition d'agence",
+    "Description": "Je n'ai pas l'intention de signer avec une agence pour le moment.",
     "Applicabilité": "MCN",
     "Notes": "-"
   },
   {
-    "Catégorie": "Geschäftlich",
-    "Point": "Offline-Events",
-    "Description": "Teilnahme an Events wie G-Star wird vorab angekündigt.",
-    "Applicabilité": "Extern",
+    "Catégorie": "Business",
+    "Point": "Événements offline",
+    "Description": "Participation à des événements comme G-Star sera annoncée à l'avance.",
+    "Applicabilité": "Externe",
     "Notes": "-"
   },
   {
-    "Catégorie": "Geschäftlich",
+    "Catégorie": "Business",
     "Point": "Interviews",
-    "Description": "Fragebogen für schriftliche Interviews zuerst per E-Mail.",
-    "Applicabilité": "Medien",
+    "Description": "Pour les interviews écrites, envoyez d'abord le questionnaire par email.",
+    "Applicabilité": "Médias",
     "Notes": "-"
   },
   {
-    "Catégorie": "Einstellungen",
+    "Catégorie": "Paramètres",
     "Point": "OBS",
-    "Description": "OBS Studio für Sendung.",
+    "Description": "J'utilise OBS Studio pour la diffusion.",
     "Applicabilité": "Streaming",
     "Notes": "-"
   },
   {
-    "Catégorie": "Einstellungen",
-    "Point": "Mausempfindlichkeit",
-    "Description": "800 DPI (Logitech G Pro X Superlight).",
+    "Catégorie": "Paramètres",
+    "Point": "Sensibilité souris",
+    "Description": "DPI 800 (Logitech G Pro X Superlight).",
     "Applicabilité": "Gaming",
-    "Notes": "Im Spiel variiert"
+    "Notes": "Variable en jeu"
   },
   {
-    "Catégorie": "Einstellungen",
-    "Point": "Beleuchtung",
-    "Description": "Zwei Elgato Key Lights beidseits.",
+    "Catégorie": "Paramètres",
+    "Point": "Éclairage",
+    "Description": "Deux Elgato Key Lights placées de chaque côté.",
     "Applicabilité": "Cam",
     "Notes": "-"
   },
   {
     "Catégorie": "YouTube",
-    "Point": "Werbekennzeichnung",
-    "Description": "Bezahlte Promotions immer klar gekennzeichnet.",
+    "Point": "Divulgation pub",
+    "Description": "Les promotions rémunérées sont toujours clairement indiquées.",
     "Applicabilité": "Branded",
-    "Notes": "FTC-konform"
+    "Notes": "Conformité FTC"
   },
   {
     "Catégorie": "YouTube",
-    "Point": "Shorts-Zyklus",
-    "Description": "Shorts zufällig 3+ mal pro Woche.",
+    "Point": "Cycle Shorts",
+    "Description": "Les Shorts sont publiés aléatoirement 3 fois ou plus par semaine.",
     "Applicabilité": "Shorts",
     "Notes": "-"
   },
   {
     "Catégorie": "YouTube",
-    "Point": "Thumbnail-Design",
-    "Description": "Thumbnails von professionellen Künstlern.",
+    "Point": "Thumbnails",
+    "Description": "Les miniatures sont sous-traitées à des artistes professionnels.",
     "Applicabilité": "YouTube",
     "Notes": "-"
   },
   {
     "Catégorie": "YouTube",
-    "Point": "Thumbnail-Schrift",
-    "Description": "Bevorzuge Kyukdong Gothic für Sichtbarkeit.",
-    "Applicabilité": "Thumbnail",
+    "Point": "Police des miniatures",
+    "Description": "Je préfère la police Kyukdong Gothic pour la visibilité.",
+    "Applicabilité": "Miniature",
     "Notes": "-"
   },
   {
     "Catégorie": "YouTube",
-    "Point": "Upload-Plan",
-    "Description": "Bearbeitete Videos jeden Samstag 18 Uhr.",
-    "Applicabilité": "Hauptkanal",
+    "Point": "Planning de mise en ligne",
+    "Description": "Les vidéos montées sont publiées chaque samedi à 18h.",
+    "Applicabilité": "Chaîne principale",
     "Notes": "-"
   },
   {
     "Catégorie": "YouTube",
-    "Point": "Untertitel-Schrift",
-    "Description": "Hauptsächlich Gmarket Sans und Black Han Sans.",
-    "Applicabilité": "Schnitt",
+    "Point": "Police des sous-titres",
+    "Description": "Utilisation principale de Gmarket Sans et Black Han Sans.",
+    "Applicabilité": "Montage",
     "Notes": "-"
   },
   {
     "Catégorie": "YouTube",
-    "Point": "Editor",
-    "Description": "Aktuell mit einem festen Editor.",
-    "Applicabilité": "Schnitt",
-    "Notes": "Plus Selbstschnitt"
+    "Point": "Monteur",
+    "Description": "Travaille actuellement avec un monteur dédié.",
+    "Applicabilité": "Montage",
+    "Notes": "Montage personnel combiné"
   },
   {
     "Catégorie": "Événement",
-    "Point": "Sub-Ziel",
-    "Description": "Q&A-Stream bei 100k Abonnenten geplant.",
-    "Applicabilité": "Ziele",
+    "Point": "Objectif abonnés",
+    "Description": "Stream Q&A prévu à l'atteinte de 100k abonnés.",
+    "Applicabilité": "Objectifs",
     "Notes": "-"
   },
   {
     "Catégorie": "Événement",
-    "Point": "Merch-Verkauf",
-    "Description": "Individuelle Hoodies limitiert erhältlich.",
-    "Applicabilité": "Shop",
-    "Notes": "Link in Bio"
+    "Point": "Vente de goods",
+    "Description": "Sweats à capuche personnalisés en vente en quantités limitées.",
+    "Applicabilité": "Boutique",
+    "Notes": "Lien en bio"
   },
   {
     "Catégorie": "Événement",
-    "Point": "Zuschauerbeteiligung",
-    "Description": "Zuschauer-Spiele jeden Sonntag.",
+    "Point": "Participation des spectateurs",
+    "Description": "Jeux de participation des spectateurs chaque dimanche.",
     "Applicabilité": "Live",
-    "Notes": "Bewerbung über Discord"
+    "Notes": "Candidature via Discord"
   },
   {
-    "Catégorie": "Termine",
-    "Point": "Lange Pause",
-    "Description": "Einwöchige Pause jährlich zur Burnout-Vermeidung.",
-    "Applicabilité": "Urlaub",
+    "Catégorie": "Planning",
+    "Point": "Longue pause",
+    "Description": "Une pause d'une semaine par an pour éviter le burn-out.",
+    "Applicabilité": "Vacances",
     "Notes": "-"
   },
   {
-    "Catégorie": "Ausrüstung",
-    "Point": "PC-Specs",
-    "Description": "CPU: i9-14900K, GPU: RTX 4080 Super.",
+    "Catégorie": "Équipement",
+    "Point": "Spécifications PC",
+    "Description": "CPU : i9-14900K, GPU : RTX 4080 Super.",
     "Applicabilité": "PC",
     "Notes": "-"
   },
   {
-    "Catégorie": "Ausrüstung",
-    "Point": "Mikrofon",
-    "Description": "Aktuell Shure SM7B.",
+    "Catégorie": "Équipement",
+    "Point": "Microphone",
+    "Description": "J'utilise actuellement le Shure SM7B.",
     "Applicabilité": "Audio",
     "Notes": "-"
   },
   {
-    "Catégorie": "Ausrüstung",
-    "Point": "Sub-Monitor",
-    "Description": "27-Zoll-Monitor für Chat-Überwachung.",
+    "Catégorie": "Équipement",
+    "Point": "Écran secondaire",
+    "Description": "Un moniteur de 27 pouces sert à consulter le chat.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Ausrüstung",
+    "Catégorie": "Équipement",
     "Point": "Stream Deck",
-    "Description": "Elgato Stream Deck (15 Tasten) für Szenenwechsel.",
+    "Description": "Elgato Stream Deck (15 touches) pour les transitions de scènes.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Ausrüstung",
-    "Point": "Stuhl",
-    "Description": "Secretlab TITAN Serie.",
-    "Applicabilité": "Möbel",
+    "Catégorie": "Équipement",
+    "Point": "Chaise",
+    "Description": "Série Secretlab TITAN.",
+    "Applicabilité": "Mobilier",
     "Notes": "-"
   },
   {
-    "Catégorie": "Ausrüstung",
+    "Catégorie": "Équipement",
     "Point": "Internet",
     "Description": "KT Giga Internet (1 Gbps).",
-    "Applicabilité": "Umgebung",
+    "Applicabilité": "Environnement",
     "Notes": "-"
   },
   {
-    "Catégorie": "Ausrüstung",
-    "Point": "Kamera",
-    "Description": "Logitech Brio 4K Webcam.",
+    "Catégorie": "Équipement",
+    "Point": "Caméra",
+    "Description": "Webcam Logitech Brio 4K.",
     "Applicabilité": "Cam",
     "Notes": "-"
   },
   {
-    "Catégorie": "Ausrüstung",
-    "Point": "Cam-Einstellungen",
-    "Description": "YouCam-Filter für Korrektur.",
+    "Catégorie": "Équipement",
+    "Point": "Paramètres cam",
+    "Description": "J'utilise les filtres YouCam pour les corrections.",
     "Applicabilité": "Cam",
     "Notes": "-"
   },
   {
-    "Catégorie": "Ausrüstung",
+    "Catégorie": "Équipement",
     "Point": "Chroma Key",
-    "Description": "Physischer Chroma-Key-Stoff für den Hintergrund.",
-    "Applicabilité": "Drehen",
+    "Description": "Un tissu chroma key physique est utilisé pour le fond.",
+    "Applicabilité": "Tournage",
     "Notes": "-"
   },
   {
-    "Catégorie": "Kanal",
-    "Point": "Sub-Kanal",
-    "Description": "Sub-Kanal ‚Streamer's Life‘.",
+    "Catégorie": "Chaîne",
+    "Point": "Sous-chaîne",
+    "Description": "J'ai une sous-chaîne appelée Streamer's Life.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Community",
-    "Point": "Open Chat",
-    "Description": "Keine Open Chats wegen Imitationsrisiko.",
+    "Catégorie": "Communauté",
+    "Point": "Chat ouvert",
+    "Description": "Je ne gère pas de chats ouverts pour éviter l'usurpation d'identité.",
     "Applicabilité": "Tous",
-    "Notes": "Vor Fakes warnen"
+    "Notes": "Attention aux faux"
   },
   {
-    "Catégorie": "Community",
-    "Point": "Umfragen",
-    "Description": "Nächste Spiele per YouTube-Community-Umfrage.",
-    "Applicabilité": "Unregelmäßig",
+    "Catégorie": "Communauté",
+    "Point": "Sondages",
+    "Description": "Les prochains jeux sont décidés via les sondages de la communauté YouTube.",
+    "Applicabilité": "Irrégulier",
     "Notes": "-"
   },
   {
-    "Catégorie": "Inhalt",
-    "Point": "Beratung",
-    "Description": "Radio-Beratungsstream am letzten Abend jedes Monats.",
+    "Catégorie": "Contenu",
+    "Point": "Conseil",
+    "Description": "Stream de conseil radio le dernier soir de chaque mois.",
     "Applicabilité": "Live",
-    "Notes": "Story-Einreichung"
+    "Notes": "Soumission d'histoire requise"
   },
   {
-    "Catégorie": "Inhalt",
-    "Point": "Reaktionen",
-    "Description": "Reaktionsliste über Link unten am Bildschirm.",
-    "Applicabilité": "Spenden",
+    "Catégorie": "Contenu",
+    "Point": "Réactions",
+    "Description": "Consultez la liste des réactions via le lien en bas de l'écran.",
+    "Applicabilité": "Dons",
     "Notes": "-"
   },
   {
-    "Catégorie": "Inhalt",
+    "Catégorie": "Contenu",
     "Point": "Mukbang",
-    "Description": "Essen von Lieferessen jeden Mittwoch während des Streams.",
-    "Applicabilité": "Nachtstream",
+    "Description": "Échange tout en mangeant des plats livrés chaque mercredi.",
+    "Applicabilité": "Stream nocturne",
     "Notes": "-"
   },
   {
-    "Catégorie": "Inhalt",
-    "Point": "Missionsanfrage",
-    "Description": "Les missions peuvent être proposées par don pendant le stream.",
+    "Catégorie": "Contenu",
+    "Point": "Demande de mission",
+    "Description": "Les missions peuvent être suggérées via les dons pendant les streams.",
     "Applicabilité": "Live",
-    "Notes": "Schwierigkeit verhandelbar"
+    "Notes": "Difficulté négociable"
   },
   {
-    "Catégorie": "Inhalt",
+    "Catégorie": "Contenu",
     "Point": "Vlog",
-    "Description": "Täglicher Vlog einmal monatlich.",
+    "Description": "Un vlog quotidien est publié une fois par mois.",
     "Applicabilité": "YouTube",
     "Notes": "-"
   },
   {
-    "Catégorie": "Inhalt",
-    "Point": "Hauptspiele",
-    "Description": "Hauptsächlich League of Legends und neue Steam-Spiele.",
+    "Catégorie": "Contenu",
+    "Point": "Jeux principaux",
+    "Description": "Principalement League of Legends et les nouveaux jeux Steam.",
     "Applicabilité": "Gaming",
     "Notes": "-"
   },
   {
-    "Catégorie": "Inhalt",
-    "Point": "Collab-Anfrage",
-    "Description": "Demandes de collab spontanées d'inconnus refusées.",
-    "Applicabilité": "Creator",
-    "Notes": "E-Mail-Anfragen"
+    "Catégorie": "Contenu",
+    "Point": "Demande de collab",
+    "Description": "Les demandes de collab soudaines d'inconnus seront refusées.",
+    "Applicabilité": "Créateurs",
+    "Notes": "Demandes par email"
   },
   {
-    "Catégorie": "Fan-Interaktion",
-    "Point": "Gesperrte Wörter",
-    "Description": "Critiques dégradantes, politique ou religion bloquées.",
+    "Catégorie": "Interaction fans",
+    "Point": "Mots interdits",
+    "Description": "Les mots dégradants, politiques ou religieux sont interdits.",
     "Applicabilité": "Chat",
-    "Notes": "Auto-Löschung"
+    "Notes": "Suppression auto"
   },
   {
-    "Catégorie": "Fan-Interaktion",
-    "Point": "Nickname-Aussprache",
-    "Description": "Versuche Nicknames bei Spenden so oft wie möglich auszusprechen.",
-    "Applicabilité": "Spenden",
+    "Catégorie": "Interaction fans",
+    "Point": "Surnoms appelés",
+    "Description": "J'essaie d'appeler les surnoms autant que possible lors des dons.",
+    "Applicabilité": "Dons",
     "Notes": "-"
   },
   {
-    "Catégorie": "Fan-Interaktion",
-    "Point": "Anreden",
-    "Description": "Lockere Anreden wie Hyung oder Noona okay, aber respektvoll.",
+    "Catégorie": "Interaction fans",
+    "Point": "Titres",
+    "Description": "Des titres familiers comme Hyung ou Noona sont acceptables, mais avec respect.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Fan-Interaktion",
-    "Point": "Sachgeschenke",
-    "Description": "Nourriture ou cadeaux de valeur non acceptés.",
-    "Applicabilité": "Support",
-    "Notes": "Fancim empfohlen"
+    "Catégorie": "Interaction fans",
+    "Point": "Cadeaux physiques",
+    "Description": "Je n'accepte pas la nourriture ni les cadeaux équivalents à de l'argent.",
+    "Applicabilité": "Soutien",
+    "Notes": "Fancim recommandé"
   },
   {
-    "Catégorie": "Fan-Interaktion",
-    "Point": "Offline-Treffen",
-    "Description": "Kurze Begrüßung auf der Straße willkommen.",
-    "Applicabilité": "Draußen",
-    "Notes": "Kein unerlaubtes Filmen"
+    "Catégorie": "Interaction fans",
+    "Point": "Rencontre offline",
+    "Description": "De brèves salutations sont les bienvenues si on se croise dans la rue.",
+    "Applicabilité": "Extérieur",
+    "Notes": "Pas de tournage non autorisé"
   },
   {
-    "Catégorie": "Fan-Interaktion",
-    "Point": "Cliquen",
-    "Description": "Übermäßiges Erwähnen anderer Zuschauer oder Cliquen-Verhalten verboten.",
+    "Catégorie": "Interaction fans",
+    "Point": "Friend-shipping",
+    "Description": "Les mentions excessives d'autres spectateurs ou les comportements de clan sont interdits.",
     "Applicabilité": "Chat",
-    "Notes": "Verwarnung dann Sperre"
+    "Notes": "Avertissement puis bannissement"
   },
   {
-    "Catégorie": "Fan-Interaktion",
-    "Point": "Fan-Nickname",
-    "Description": "Zuschauer heißen Star Sweets (Byeolsatang).",
-    "Applicabilité": "Abonnenten",
+    "Catégorie": "Interaction fans",
+    "Point": "Surnom des fans",
+    "Description": "Nos spectateurs sont appelés Star Sweets (Byeolsatang).",
+    "Applicabilité": "Abonnés",
     "Notes": "-"
   },
   {
-    "Catégorie": "Fan-Interaktion",
-    "Point": "Fan-Cafe",
-    "Description": "Bitte Naver Cafe ‚Streamer Fan Village‘ nutzen.",
+    "Catégorie": "Interaction fans",
+    "Point": "Fan Cafe",
+    "Description": "Veuillez utiliser le Streamer Fan Village sur Naver Cafe.",
     "Applicabilité": "Tous",
     "Notes": "-"
   },
   {
-    "Catégorie": "Fan-Interaktion",
-    "Point": "Postadresse",
-    "Description": "Postfach-Adresse in Fan-Cafe-Ankündigung.",
-    "Applicabilité": "Post",
+    "Catégorie": "Interaction fans",
+    "Point": "Adresse postale",
+    "Description": "Consultez l'avis du Fan Cafe pour l'adresse de la boîte postale.",
+    "Applicabilité": "Courrier",
     "Notes": "-"
   }
 ]
