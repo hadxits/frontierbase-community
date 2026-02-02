@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Politique",
+    "Punto": "Authentification 2FA",
+    "Descrizione": "La 2FA Google è obligatoire per accéder ai systèmes internes.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Personale",
+    "Punto": "Mission",
+    "Descrizione": "La nostra vision : rendre le monde plus pratique grâce à la technologie.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Anti-harcèlement",
+    "Descrizione": "Zéro tolérance envers le harcèlement o l'intimidation al travail.",
+    "Note": "Signalement anonyme",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Pointage",
+    "Descrizione": "Badgez via l'app interne o i commandes Slack dédiées.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Cartes de visite",
+    "Descrizione": "Demande de cartes physiques auprès de l'Admin dopo approbation del manager.",
+    "Note": "Environ 1 semaine",
+    "Applicabilità": "Personale concerné"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Voyages professionnels",
+    "Descrizione": "Hébergement à tarifs fixes ; transport remboursé al coût réel.",
+    "Note": "Guide standard",
+    "Applicabilità": "Voyageurs"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Riduzione cafétéria",
+    "Descrizione": "50 % de riduzione su toutes i boissons del café per i employés.",
+    "Note": "Pagamento par badge",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Certifications professionnelles",
+    "Descrizione": "Frais d'examen dei certifications métier entièrement remboursés.",
+    "Note": "Après réussite",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Politique",
+    "Punto": "Bureau rangé",
+    "Descrizione": "Verrouillez l'écran (Win+L) en quittant vostro poste in i espaces communs.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Code de conduite",
+    "Descrizione": "Interdiction d'accepter cadeaux o divertissements de plus de 50 $ de partners.",
+    "Note": "Politique d'intégrité",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Politique",
+    "Punto": "Wi-Fi aziendale",
+    "Descrizione": "Accès Wi-Fi interne réservé ai appareils professionnels autorisés.",
+    "Note": "Wi-Fi invité séparé",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Politique",
+    "Punto": "Confidentialité (NDA)",
+    "Descrizione": "Les secrets professionnels doivent rester protégés dopo la demissione.",
+    "Note": "Conformément al NDA",
+    "Applicabilità": "Y compris départs"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Conflit d'intérêts",
+    "Descrizione": "Approbation del manager richiesta per conférences o publications externes.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Carte aziendale",
+    "Descrizione": "Usage strictement professionnel ; aucun usage personnel.",
+    "Note": "Violations récupérées",
+    "Applicabilità": "Titulaires de carte"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Courrier/Colis",
+    "Descrizione": "L'accueil RDC gère i envois express e courrier sortant.",
+    "Note": "Facturé à l'équipe",
+    "Applicabilità": "Usage professionnel"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Politique",
+    "Punto": "Stockage dei données",
+    "Descrizione": "Les fichiers de travail doivent essere su Google Drive Team, pas en local.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Mesures disciplinaires",
+    "Descrizione": "Avertissement dopo 3 retards non justifiés ; réunions programmées.",
+    "Note": "-",
+    "Applicabilità": "Contrevenants"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Comité disciplinaire",
+    "Descrizione": "Convoqué per incidents de sicurezza o 3+ jours d'absence non justifiés.",
+    "Note": "-",
+    "Applicabilità": "Contrevenants"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Tenue vestimentaire",
+    "Descrizione": "Business casual recommandé ; shorts autorisés.",
+    "Note": "Sauf réunions clients",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Double emploi",
+    "Descrizione": "Vietato essere dipendente o consulente altrove senza autorizzazione.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Intégration",
+    "Punto": "Signature e-mail",
+    "Descrizione": "Utilisez le modèle de signature standard in Google Docs.",
+    "Note": "-",
+    "Applicabilità": "Nouveaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Contact d'urgence",
+    "Descrizione": "Arbre d'urgence Google Chat activé in caso de catastrophe.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Parrainage",
+    "Descrizione": "Prime de parrainage versée si l'embauché passe sa période d'essai.",
+    "Note": "-",
+    "Applicabilità": "Parrains"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Politique",
+    "Punto": "Initiatives ESG",
+    "Descrizione": "Participation active ai politiques éco-responsables (ex. riduzione del jetable).",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Chauffage/Climatisation",
+    "Descrizione": "Contrôle centralisé ; contact IT/Facilities per ajustements locaux.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Salle de sport",
+    "Descrizione": "Accès gratuit 24h/24 à la salle de sport del posto.",
+    "Note": "Apportez vostro équipement",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Soutien funéraire",
+    "Descrizione": "Fournitures funéraires e directeur fournis per le décès d'un proche.",
+    "Note": "Centre 24h/24",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Intégration",
+    "Punto": "Google Workspace",
+    "Descrizione": "Conto provisionné le matin del premier jour.",
+    "Note": "Vérifier l'e-mail IT",
+    "Applicabilità": "Nouveaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Avantages",
+    "Punto": "Bilan de santé",
+    "Descrizione": "Bilans médicaux annuels complets in dei hôpitaux désignés.",
+    "Note": "Conjoint inclus",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Avantages",
+    "Punto": "Cadeaux dei fêtes",
+    "Descrizione": "Cadeaux catalogue d'une valeur de 100 $ al dei grandes fêtes.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Annuaire interne",
+    "Descrizione": "Contacts e organigramme via Google Search/Workspace.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "IT Helpdesk",
+    "Descrizione": "Signalez i problèmes matériel/logiciel via Slack #it-support.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Intégration",
+    "Punto": "Accès Jira",
+    "Descrizione": "Contos Jira fournis per la gestion dei tâches e projets.",
+    "Note": "-",
+    "Applicabilità": "Nouveaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Espace allaitement",
+    "Descrizione": "Espace dédié per i mères al 5e étage.",
+    "Note": "-",
+    "Applicabilità": "Personale concerné"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Politique",
+    "Punto": "Congé sabbatique",
+    "Descrizione": "Congé parental o formation fino a 1 an su demande.",
+    "Note": "-",
+    "Applicabilità": "1+ an d'ancienneté"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Conseil juridique",
+    "Descrizione": "Accès al conseil juridique interne per litiges professionnels.",
+    "Note": "-",
+    "Applicabilità": "Travail"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Événements familiaux",
+    "Descrizione": "Cadeaux e couronnes per mariages e obsèques.",
+    "Note": "Via ERP",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Ascenseurs",
+    "Descrizione": "Respecter la séparation zones bas/haut ai heures de pointe.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Fauteuils massage",
+    "Descrizione": "Espaces détente équipés de fauteuils massage su chaque étage.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Avantages",
+    "Punto": "Indemnité repas",
+    "Descrizione": "Jusqu'à 200 $/mois con carta aziendale per le déjeuner.",
+    "Note": "Google Pay compatible",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Intégration",
+    "Punto": "Programme mentorat",
+    "Descrizione": "Mentor assigné durante i 3 premiers mois.",
+    "Note": "-",
+    "Applicabilità": "Nouveaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Activité secondaire",
+    "Descrizione": "Activités hobby hors secteur concurrent autorisées sotto déclaration.",
+    "Note": "Sans impact su le travail",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Intégration",
+    "Punto": "Formation nouveaux",
+    "Descrizione": "Formation conformité obligatoire à terminer la première semaine.",
+    "Note": "Via LMS",
+    "Applicabilità": "Nouveaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Intégration",
+    "Punto": "Notion Wiki",
+    "Descrizione": "Guides e politiques principales su le Notion Wiki.",
+    "Note": "-",
+    "Applicabilità": "Nouveaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Fournitures bureau",
+    "Descrizione": "Fournitures commandées prima mercredi distribuées chaque semaine.",
+    "Note": "Via intranet",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Heures supplementares",
+    "Descrizione": "Approbation del manager obligatoire au-delà de 40h/semaine.",
+    "Note": "Récupération",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Congés maladie",
+    "Descrizione": "Jusqu'à 10 jours de congés maladie payés par an.",
+    "Note": "Certificat si 3+ jours",
+    "Applicabilità": "Maladie/Blessure"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Parking",
+    "Descrizione": "Un veicolo enregistré par employé.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Collecte colis",
+    "Descrizione": "Colis personnels à récupérer ai casiers automatisés B1.",
+    "Note": "Pas de consegna bureau",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Primes performance",
+    "Descrizione": "Prime de 500 $ per le 'Top Performer' trimestriel (nominations pairs).",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Politique",
+    "Punto": "Données personnelles",
+    "Descrizione": "Données employés raccolte per RH conformément al RGPD.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Intégration",
+    "Punto": "Photo badge",
+    "Descrizione": "Téléchargez vostro photo via Google Form per le badge.",
+    "Note": "Fond uni",
+    "Applicabilità": "Nouveaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Conseil psychologique",
+    "Descrizione": "5 séances annuelles anonymes via partner externe.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Réembauche",
+    "Descrizione": "Anciens employés possono postuler dopo 1 an depuis la demissione.",
+    "Note": "Examen RH requis",
+    "Applicabilità": "Départs"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Intégration",
+    "Punto": "Documents requis",
+    "Descrizione": "Diplômes e coordonnées bancaires in l'ERP sotto 3 jours.",
+    "Note": "-",
+    "Applicabilità": "Nouveaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Préavis demissione",
+    "Descrizione": "Préavis 30 jours à l'avance e processus de passation.",
+    "Note": "-",
+    "Applicabilità": "Départs"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Prenotazione salles",
+    "Descrizione": "Prenotazione dei salles de réunion via Google Calendar.",
+    "Note": "Max 3h",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Allocation détachement",
+    "Descrizione": "L'aziendale couvre vols e frais de vie per affectations à l'étranger.",
+    "Note": "-",
+    "Applicabilità": "Expatriés"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Intégration",
+    "Punto": "Placement bureau",
+    "Descrizione": "Empostoments attribués secondo le guide opérationnel de chaque équipe.",
+    "Note": "-",
+    "Applicabilità": "Nouveaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Budget formation",
+    "Descrizione": "Jusqu'à 1 000 $/an per livres, formations o sport.",
+    "Note": "Justificatifs requis",
+    "Applicabilità": "6+ mois d'ancienneté"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Prévention harcèlement sexuel",
+    "Descrizione": "Formation en ligne annuelle obligatoire.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Intégration",
+    "Punto": "Présentation Slack",
+    "Descrizione": "Rejoignez i canaux officiels e postez una brève présentation.",
+    "Note": "-",
+    "Applicabilità": "Nouveaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Politique",
+    "Punto": "Tabac",
+    "Descrizione": "Bâtiment non-fumeur ; zone extérieure dédiée RDC.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Politique",
+    "Punto": "Logiciels",
+    "Descrizione": "Interdiction d'installer dei logiciels non autorisés senza accord IT.",
+    "Note": "-",
+    "Applicabilità": "Attrezzaturas IT"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Avantages",
+    "Punto": "Occasions spéciales",
+    "Descrizione": "Demi-journée le jour de vostro anniversaire e carte cadeau 50 $.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Avantages",
+    "Punto": "Clubs d'équipe",
+    "Descrizione": "20 $/personne/mois per i clubs de 5+ membres.",
+    "Note": "Rapport mensuel",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Avantages",
+    "Punto": "Forfait télécom",
+    "Descrizione": "30 $/mois per usage del téléphone perso al travail.",
+    "Note": "-",
+    "Applicabilità": "Terrain/Admin"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Politique",
+    "Punto": "Ancienneté",
+    "Descrizione": "Congés sabbatiques e primes à 3, 5 e 10 ans.",
+    "Note": "-",
+    "Applicabilità": "Longue ancienneté"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Traduction",
+    "Descrizione": "Servizios de traduction per la collaborazione internationale.",
+    "Note": "-",
+    "Applicabilità": "Sur demande"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Avantages",
+    "Punto": "Aide ai études",
+    "Descrizione": "Prise en charge partielle dei frais de scolarité (préscolaire à université).",
+    "Note": "Par semestre",
+    "Applicabilità": "5+ ans d'ancienneté"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Tutoiement",
+    "Descrizione": "Prénoms o surnoms al lieu dei titres hiérarchiques.",
+    "Note": "Culture plate",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Congés payés",
+    "Descrizione": "15 jours de base ; +1 jour tous i 2 ans.",
+    "Note": "Sync con G-Cal",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Prenotazione veicolos",
+    "Descrizione": "Réservez i veicolos société via l'app per réunions externes.",
+    "Note": "Permis requis",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Intégration",
+    "Punto": "Kit de bienvenue",
+    "Descrizione": "Kit (sweat, gourde, agenda) su vostro bureau.",
+    "Note": "-",
+    "Applicabilità": "Nouveaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Politique",
+    "Punto": "Sécurité dei actifs",
+    "Descrizione": "Signalez immediatamente tout équipement IT perdu (portables, etc.).",
+    "Note": "Vérification responsabilité",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Avantages",
+    "Punto": "Télétravail",
+    "Descrizione": "Télétravail fino a 2 jours/semaine dopo consultation d'équipe.",
+    "Note": "Statut Slack",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Avantages",
+    "Punto": "Horaires flexibles",
+    "Descrizione": "Heures cœur 11h-16h ; inizio tra 8h e 11h.",
+    "Note": "Journée de 8h",
+    "Applicabilità": "Temps plein"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Journée mondiale de l'environnement",
+    "Descrizione": "Gourdes personnelles fournies per réduire i gobelets jetables.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Intégration",
+    "Punto": "Politique zéro déchet",
+    "Descrizione": "Gourdes personnelles fournies per supprimer i gobelets jetables.",
+    "Note": "-",
+    "Applicabilità": "Tutto il personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Évacuation",
+    "Descrizione": "En cas d'incendie, utiliser i escaliers de secours e se regrouper posto RDC.",
+    "Note": "Exercices 2x/an",
+    "Applicabilità": "Tutto il personale"
   }
 ]

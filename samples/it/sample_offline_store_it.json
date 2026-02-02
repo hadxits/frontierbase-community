@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Pagamento semplice",
+    "Descrizione": "Pagamento in loco disponibile via Zero Pay e Naver Pay.",
+    "Applicabilità": "Tutti",
+    "Note": "Metodo QR"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Modalità di pagamento",
+    "Descrizione": "Carte di credito, Samsung Pay e Apple Pay sono accettati.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Carte aziendali",
+    "Descrizione": "Pagamenti con carta aziendale ed emissione fattura fiscale disponibili.",
+    "Applicabilità": "Aziendale",
+    "Note": "Info preventiva richiesta"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Pagamento diviso",
+    "Descrizione": "Divisione del conto a persona disponibile.",
+    "Applicabilità": "Gruppo/Individuale",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Crediti prepagati",
+    "Descrizione": "5% di credito extra per prepagamenti a blocchi di 100.000 KRW.",
+    "Applicabilità": "Gruppo/Clienti abituali",
+    "Note": "Valido 1 anno"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Sconto partner",
+    "Descrizione": "Sconto 10% per alcune società di carte di credito.",
+    "Applicabilità": "Carte partner",
+    "Note": "Limite 1 volta al mese"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Buoni regalo locali",
+    "Descrizione": "Pagamenti in valuta locale della città accettati.",
+    "Applicabilità": "Residenti locali",
+    "Note": "Carta/Carta disponibili"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Scontrino",
+    "Descrizione": "Emesso immediatamente su richiesta durante il pagamento.",
+    "Applicabilità": "Pagamento contanti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Menu",
+    "Punto": "Menu signature",
+    "Descrizione": "La nostra bistecca signature condita con salsa fatta in casa.",
+    "Applicabilità": "Tutti",
+    "Note": "Quantità giornaliera limitata"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Menu",
+    "Punto": "Decaffeinato",
+    "Descrizione": "Tutti i menu caffè possono essere sostituiti con decaffeinato.",
+    "Applicabilità": "Ordini caffè",
+    "Note": "500 KRW extra"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Menu",
+    "Punto": "Policy rifornimento",
+    "Descrizione": "I contorni possono essere riforniti liberamente al self-bar.",
+    "Applicabilità": "Sul posto",
+    "Note": "Esclusi piatti principali"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Menu",
+    "Punto": "Livello spezie",
+    "Descrizione": "Selezionabile dal livello 1 al 3.",
+    "Applicabilità": "All'ordine",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Menu",
+    "Punto": "Servizio consegna",
+    "Descrizione": "Ordini tramite Baemin o Coupang Eats.",
+    "Applicabilità": "Zona consegna",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Menu",
+    "Punto": "Nuovo menu",
+    "Descrizione": "Menu stagionali limitati introdotti ogni stagione.",
+    "Applicabilità": "Stagionale",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Menu",
+    "Punto": "Allergia",
+    "Descrizione": "Informaci prima di ordinare in caso di allergia alla frutta a guscio.",
+    "Applicabilità": "Persone interessate",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Menu",
+    "Punto": "Controllo porzione",
+    "Descrizione": "Le porzioni di riso possono essere adattate su richiesta all'ordine.",
+    "Applicabilità": "All'ordine",
+    "Note": "Servizio gratuito"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Menu",
+    "Punto": "Origine",
+    "Descrizione": "Manzo dagli USA; riso e cavolo domestici (Corea).",
+    "Applicabilità": "Tutti",
+    "Note": "Indicato in fondo al menu"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Menu",
+    "Punto": "Vendita alcolici",
+    "Descrizione": "L'alcol non è venduto ai minorenni.",
+    "Applicabilità": "Tutti",
+    "Note": "Controllo ID obbligatorio"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Menu",
+    "Punto": "Opzioni vegane",
+    "Descrizione": "Alcuni menu possono essere modificati in opzioni vegane.",
+    "Applicabilità": "Su richiesta",
+    "Note": "Nessun costo extra"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Menu",
+    "Punto": "Abbinamento consigliato",
+    "Descrizione": "Consigliamo la bistecca abbinata al nostro vino della casa.",
+    "Applicabilità": "Selezione menu",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Menu",
+    "Punto": "Calorie",
+    "Descrizione": "Informazioni nutrizionali per ogni menu sul nostro sito.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Menu",
+    "Punto": "Topping extra",
+    "Descrizione": "Vari topping possono essere aggiunti secondo preferenza.",
+    "Applicabilità": "All'ordine",
+    "Note": "Vedi menu"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Menu",
+    "Punto": "Imballaggio",
+    "Descrizione": "Usiamo contenitori biodegradabili ecologici.",
+    "Applicabilità": "Da asporto/Consegna",
+    "Note": "Certificato Min. Amb."
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Menu",
+    "Punto": "Vendita da asporto",
+    "Descrizione": "Tutti i menu disponibili da asporto con sconto.",
+    "Applicabilità": "Ordine da asporto",
+    "Note": "Sconto 1.000 KRW"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Prodotti in vendita",
+    "Descrizione": "Tazze e caffè prodotti internamente in vendita.",
+    "Applicabilità": "Tutti",
+    "Note": "Chiedere al banco"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Autista designato",
+    "Descrizione": "Possiamo aiutare a chiamare un servizio autista designato se necessario.",
+    "Applicabilità": "Su richiesta",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Evento recensione",
+    "Descrizione": "Dessert gratuito scrivendo una recensione Naver.",
+    "Applicabilità": "Tutti",
+    "Note": "Foto obbligatoria"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Salviette",
+    "Descrizione": "Disponibili nel cassetto accanto al tavolo o al self-bar.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Vantaggio compleanno",
+    "Descrizione": "Bevanda gratuita visitando nel giorno del compleanno.",
+    "Applicabilità": "Membro",
+    "Note": "Verifica ID"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Carta timbri",
+    "Descrizione": "Un piatto principale gratuito dopo 10 visite.",
+    "Applicabilità": "Carta cartacea",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Zona bambini",
+    "Descrizione": "Set di posate dedicati ai bambini disponibili.",
+    "Applicabilità": "Con neonati/bambini",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Uso coupon",
+    "Descrizione": "Non utilizzabile insieme ad altre promozioni.",
+    "Applicabilità": "Possessori coupon",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Accumulo punti",
+    "Descrizione": "3% dell'importo pagato come punti.",
+    "Applicabilità": "Membro",
+    "Note": "Utilizzabile da 1.000P"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Servizio ritiro",
+    "Descrizione": "Servizio ritiro verso stazioni metro vicine non supportato.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Crema mani",
+    "Descrizione": "Crema mani di alta gamma fornita nei bagni.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Membership",
+    "Descrizione": "Iscrizione facile inserendo il numero di telefono.",
+    "Applicabilità": "Tutti",
+    "Note": "Via tablet"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Purificatore aria",
+    "Descrizione": "Tre purificatori ad alta capacità in funzione nel negozio.",
+    "Applicabilità": "Tutti",
+    "Note": "Funzionamento 24h"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Uso laptop",
+    "Descrizione": "Evitare l'uso prolungato di laptop.",
+    "Applicabilità": "Ore di punta",
+    "Note": "Limite 2 ore"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Posti gruppo",
+    "Descrizione": "Sale gruppo fino a 12 persone disponibili.",
+    "Applicabilità": "5+ persone",
+    "Note": "Prenotazione consigliata"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Noleggio coperte",
+    "Descrizione": "Coperte da grembo disponibili per clienti che hanno freddo.",
+    "Applicabilità": "Su richiesta",
+    "Note": "Chiedere al banco"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Animali",
+    "Descrizione": "Ingresso consentito solo per posti terrazza.",
+    "Applicabilità": "Animali",
+    "Note": "Trasportino obbligatorio"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Musica di sottofondo",
+    "Descrizione": "Avvisaci se il volume della musica deve essere regolato.",
+    "Applicabilità": "Su richiesta",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Power bank",
+    "Descrizione": "Distributore power bank condiviso installato in negozio.",
+    "Applicabilità": "Tutti",
+    "Note": "Servizio a pagamento"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Seggioloni",
+    "Descrizione": "Totale 5 seggioloni disponibili.",
+    "Applicabilità": "Con neonati",
+    "Note": "Primo arrivato"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Posti esterni",
+    "Descrizione": "Posti esterni aperti solo in primavera e autunno.",
+    "Applicabilità": "Stagionale",
+    "Note": "Chiuso nei giorni di pioggia"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Wi-Fi",
+    "Descrizione": "Wi-Fi gratuito fornito nel negozio.",
+    "Applicabilità": "Sul posto",
+    "Note": "PW: store1234"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Portaombrelli",
+    "Descrizione": "Sacchetti e supporti ombrelli all'ingresso nei giorni di pioggia.",
+    "Applicabilità": "Giorni di pioggia",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Grembiule usa e getta",
+    "Descrizione": "Grembiuli usa e getta forniti su richiesta.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Specchio a figura intera",
+    "Descrizione": "Specchio a figura intera per zona foto all'ingresso.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Disponibilità parcheggio",
+    "Descrizione": "Parcheggio disponibile ai livelli B1 e B2 dell'edificio.",
+    "Applicabilità": "Visitatori",
+    "Note": "2 ore gratuite"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Validazione parcheggio",
+    "Descrizione": "Fornire le ultime 4 cifre del numero veicolo alla cassa.",
+    "Applicabilità": "Utenti parcheggio",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Deposito bagagli",
+    "Descrizione": "Valigie grandi conservabili per viaggiatori.",
+    "Applicabilità": "Su richiesta",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Prese",
+    "Descrizione": "Disponibili ai posti bar finestra.",
+    "Applicabilità": "Posti specifici",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Posizione bagni",
+    "Descrizione": "Alla fine del corridoio a destra dell'ingresso principale.",
+    "Applicabilità": "Tutti",
+    "Note": "Separati per genere"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Sedia a rotelle",
+    "Descrizione": "Rampe installate all'ingresso per accesso facile.",
+    "Applicabilità": "Vulnerabili",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Struttura",
+    "Punto": "Sala fumatori",
+    "Descrizione": "L'intero negozio è non fumatori; usare area esterna.",
+    "Applicabilità": "Tutti",
+    "Note": "Non fumatori legale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Prenotazione",
+    "Punto": "Policy no-show",
+    "Descrizione": "Prenotazioni annullate automaticamente dopo 15 min di ritardo.",
+    "Applicabilità": "Prenotanti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Prenotazione",
+    "Punto": "Prenotazione stesso giorno",
+    "Descrizione": "Prenotazioni stesso giorno confermate solo per telefono.",
+    "Applicabilità": "Stesso giorno",
+    "Note": "Verificare disponibilità"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Prenotazione",
+    "Punto": "Costo noleggio sala",
+    "Descrizione": "Costo noleggio orario applicato separatamente.",
+    "Applicabilità": "Noleggio completo",
+    "Note": "Indipendentemente dal numero"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Prenotazione",
+    "Punto": "Sistema attesa",
+    "Descrizione": "Registrarsi all'attesa al chiosco ingresso alla visita.",
+    "Applicabilità": "Quando pieno",
+    "Note": "Avviso Kakaotalk"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Prenotazione",
+    "Punto": "Metodo prenotazione",
+    "Descrizione": "Prenotazioni disponibili via Naver o telefono.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Prenotazione",
+    "Punto": "Cancellazione",
+    "Descrizione": "Cancellazioni senza penalità fino a 1 giorno prima della visita.",
+    "Applicabilità": "Prenotanti",
+    "Note": "Stesso giorno impossibile"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Info reclutamento",
+    "Descrizione": "Assumiamo per posizioni part-time weekend.",
+    "Applicabilità": "Reclutamento",
+    "Note": "Verificare annuncio Albamon"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Ultimo ordine",
+    "Descrizione": "Ordini accettati fino a 30 minuti prima della chiusura.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Orari festivi",
+    "Descrizione": "Chiuso a Capodanno e Chuseok.",
+    "Applicabilità": "Festivi",
+    "Note": "Avviso prima delle feste"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Regole quarantena",
+    "Descrizione": "Rispettiamo le linee guida governative per prevenzione pandemica.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Pausa",
+    "Descrizione": "Tempo preparazione ingredienti dalle 15 alle 17.",
+    "Applicabilità": "Infrasettimanale",
+    "Note": "Weekend esclusi"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Uscita emergenza",
+    "Descrizione": "Scale di emergenza dietro il negozio.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Avviso rumore",
+    "Descrizione": "Nessun urlo forte di notte per vicinanza a zone residenziali.",
+    "Applicabilità": "Dopo le 20:00",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Orari",
+    "Descrizione": "Aperti dalle 10 alle 21 infrasettimanale e weekend.",
+    "Applicabilità": "Tutti",
+    "Note": "Aperti tutto l'anno"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Noleggio riprese",
+    "Descrizione": "Consultazione per noleggio completo fuori orari possibile.",
+    "Applicabilità": "Noleggio",
+    "Note": "Consultazione telefonica"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Info chiusura",
+    "Descrizione": "Chiusura regolare il primo lunedì di ogni mese.",
+    "Applicabilità": "Chiusura regolare",
+    "Note": "Giorno successivo se festivo"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Vicinanze",
+    "Punto": "Trasporti",
+    "Descrizione": "Vicino alla stazione City Hall (Linea 2) Uscita 3.",
+    "Applicabilità": "Trasporti pubblici",
+    "Note": "3 min a piedi"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Vicinanze",
+    "Punto": "Attrazioni vicine",
+    "Descrizione": "Central Park a 5 minuti a piedi dal negozio.",
+    "Applicabilità": "Vicinanze",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Reclami",
+    "Punto": "Cancellazione pagamento",
+    "Descrizione": "Cancellazione possibile solo lo stesso giorno con ricevuta.",
+    "Applicabilità": "Stesso giorno",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Reclami",
+    "Punto": "Oggetti smarriti",
+    "Descrizione": "Oggetti smarriti conservati fino a 2 settimane prima dello smaltimento.",
+    "Applicabilità": "Oggetti smarriti",
+    "Note": "Chiedere al CS"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Reclami",
+    "Punto": "Gestione igiene",
+    "Descrizione": "Disinfezione quotidiana da ditta professionale.",
+    "Applicabilità": "Gestione struttura",
+    "Note": "Membri Cesco"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Reclami",
+    "Punto": "Cibo freddo",
+    "Descrizione": "Riscalderemo il cibo se si è raffreddato.",
+    "Applicabilità": "Su richiesta",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Reclami",
+    "Punto": "Errore ordine",
+    "Descrizione": "Informare il personale immediatamente per una nuova cottura.",
+    "Applicabilità": "Sul posto",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Reclami",
+    "Punto": "Errore parcheggio",
+    "Descrizione": "Premere pulsante chiamata se non verificato al chiosco prima dell'uscita.",
+    "Applicabilità": "Parcheggio",
+    "Note": "-"
   }
 ]

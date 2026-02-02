@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Personale",
+    "Punto": "Valori",
+    "Descrizione": "Perseguiamo una cultura fanbase sana dove artisti e fan crescono e comunicano insieme.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Personale",
+    "Punto": "Privacy",
+    "Descrizione": "Le informazioni raccolte per gli eventi vengono distrutte immediatamente dopo la consegna dei premi.",
+    "Applicabilità": "Partecipanti eventi",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Performance",
+    "Punto": "Zona d'attesa",
+    "Descrizione": "Preparare oggetti personali (ombrello, borse dell'acqua calda, ecc.) per l'attesa all'esterno in caso di cambiamento meteo.",
+    "Applicabilità": "Offline",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Performance",
+    "Punto": "Consigna",
+    "Descrizione": "Consultare la pagina di prenotazione per la disponibilità dei armadietti al venue.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Performance",
+    "Punto": "Oggetti vietati",
+    "Descrizione": "Oggetti pericolosi come bottiglie di vetro, fuochi d'artificio e laser sono vietati nel venue.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Performance",
+    "Punto": "Policy trasferimento",
+    "Descrizione": "I biglietti trasferiti non verificabili saranno rifiutati all'ingresso e non rimborsabili.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Performance",
+    "Punto": "Ora ingresso",
+    "Descrizione": "Completare l'ingresso almeno 30 minuti prima dell'inizio dello spettacolo per un'esperienza fluida.",
+    "Applicabilità": "Pubblico",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Galateo",
+    "Punto": "Giveaway fan",
+    "Descrizione": "La distribuzione di goods vicino al venue è consentita solo nelle zone designate per evitare intralcio.",
+    "Applicabilità": "Fan singoli",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Galateo",
+    "Punto": "Strumenti supporto",
+    "Descrizione": "Strumenti di supporto di altri artisti o slogan non standard sono limitati, tranne lightstick ufficiali.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Galateo",
+    "Punto": "Policy registrazione",
+    "Descrizione": "Foto, registrazioni video e audio sono vietate per proteggere i diritti d'autore.",
+    "Applicabilità": "Durante lo spettacolo",
+    "Note": "Espulsione se colti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Merchandise",
+    "Punto": "Modalità pagamento",
+    "Descrizione": "La boutique ufficiale accetta carte domestiche/internazionali, pagamenti semplici e PayPal.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Merchandise",
+    "Punto": "Boutique ufficiale",
+    "Descrizione": "I goods ufficiali sono disponibili tramite l'app mobile [Nome boutique].",
+    "Applicabilità": "Tutti",
+    "Note": "Spedizione globale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Merchandise",
+    "Punto": "Ritardo spedizione",
+    "Descrizione": "Durante i periodi di comeback, la spedizione può essere ritardata di 1-2 settimane per volume ordini.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Merchandise",
+    "Punto": "Cambio per difetto",
+    "Descrizione": "Per articoli danneggiati, contattarci entro 7 giorni dalla ricezione con video di unboxing.",
+    "Applicabilità": "Acquirenti",
+    "Note": "Video obbligatorio"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Merchandise",
+    "Punto": "Foto prodotti",
+    "Descrizione": "Verificare sempre le foto reali e la lista componenti sulla pagina dettaglio MD prima dell'acquisto.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Merchandise",
+    "Punto": "Preordine",
+    "Descrizione": "Gli articoli in preordine sono su ordinazione; le cancellazioni possono essere difficili dopo il pagamento.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Merchandise",
+    "Punto": "Pop-up store",
+    "Descrizione": "I pop-up store di celebrazione comeback possono operare su prenotazione.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Merchandise",
+    "Punto": "Sync lightstick",
+    "Descrizione": "Sincronizzare il numero del posto con il lightstick tramite l'app ufficiale prima dello spettacolo.",
+    "Applicabilità": "Pubblico",
+    "Note": "Sync Bluetooth"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Merchandise",
+    "Punto": "Rifornimento",
+    "Descrizione": "Il rifornimento degli articoli esauriti sarà annunciato via Twitter ufficiale una volta confermato.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Tecnico",
+    "Punto": "Errore app",
+    "Descrizione": "Contattare il centro clienti della piattaforma per problemi di connessione all'app community.",
+    "Applicabilità": "Utenti app",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Supporto donazioni",
+    "Descrizione": "Il supporto donazione a nome dell'artista è incoraggiato e la certificazione ufficiale è supportata.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Regali/Catering",
+    "Descrizione": "Supporto cibo e regali solo dopo approvazione preventiva via email dall'agenzia.",
+    "Applicabilità": "Team di supporto",
+    "Note": "N° approvazione richiesto"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Articoli rifiutati",
+    "Descrizione": "Alimenti deperibili o regali di lusso possono essere rifiutati.",
+    "Applicabilità": "Supporto",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Conferma ricezione",
+    "Descrizione": "Non forniamo conferma individuale sulla ricezione degli articoli di supporto.",
+    "Applicabilità": "Team di supporto",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Coordinazione fornitori",
+    "Descrizione": "Gli orari di incontro devono essere coordinati con il team sicurezza dell'agenzia prima delle visite.",
+    "Applicabilità": "Team di supporto",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Rapporto finanziario",
+    "Descrizione": "I rendiconti finanziari dettagliati devono essere condivisi in modo trasparente nella community fan union dopo il supporto.",
+    "Applicabilità": "Raccomandato",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Corone auguri",
+    "Descrizione": "L'installazione di corone nei venue concerti può essere limitata dai regolamenti del luogo.",
+    "Applicabilità": "Fan union",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Planning",
+    "Punto": "Planning ufficiale",
+    "Descrizione": "Trasmissioni, eventi e spettacoli degli artisti disponibili sul calendario del sito ufficiale.",
+    "Applicabilità": "Tutti",
+    "Note": "Aggiornamenti in tempo reale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Planning",
+    "Punto": "Trasmissione live",
+    "Descrizione": "Le trasmissioni live a sorpresa saranno notificate via push dell'app community.",
+    "Applicabilità": "Tutti",
+    "Note": "Attivare gli avvisi"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Planning",
+    "Punto": "Music Shows",
+    "Descrizione": "Consultare l'avviso Music Show Notice sulla community ufficiale la vigilia per i dettagli di partecipazione.",
+    "Applicabilità": "Membri fanclub",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Planning",
+    "Punto": "Planning privato",
+    "Descrizione": "La visita di spazi privati o planning non pubblici è severamente vietata e comporta bannimento.",
+    "Applicabilità": "Tutti",
+    "Note": "Tolleranza zero"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Planning",
+    "Punto": "Pre-registrazione",
+    "Descrizione": "La partecipazione a pre o post-registrazioni è limitata a persone pre-confermate.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Planning",
+    "Punto": "Fuso orario",
+    "Descrizione": "Tutti i planning sono mostrati in ora Corea (KST, UTC+9).",
+    "Applicabilità": "Fan globali",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Planning",
+    "Punto": "Annullamento",
+    "Descrizione": "Modifiche o annullamenti per motivi di salute saranno annunciati immediatamente via SNS.",
+    "Applicabilità": "Emergenza",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sistema",
+    "Punto": "Notifiche",
+    "Descrizione": "Gli avvisi importanti sono inviati in tempo reale via Telegram o alert dell'app ufficiale.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sistema",
+    "Punto": "Ricerca multilingue",
+    "Descrizione": "Risposte auto multilingue supportate per le domande principali dei fan globali.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sistema",
+    "Punto": "Risposta alle richieste",
+    "Descrizione": "Orari connessione diretta agent: giorni feriali 11:00-16:00.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sistema",
+    "Punto": "Volume richieste",
+    "Descrizione": "Le risposte possono essere ritardate durante i periodi di comeback per il volume.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sistema",
+    "Punto": "Limite chatbot",
+    "Descrizione": "Questo bot è solo informativo e non supporta conversazione diretta con l'artista.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sicurezza artista",
+    "Punto": "Chat live",
+    "Descrizione": "Domande che violano la privacy dell'artista durante le live saranno filtrate e bloccate.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sicurezza artista",
+    "Punto": "Segnalare voci",
+    "Descrizione": "Email [protect@agency.com] per segnalare violazione diritti o diffusione voci false.",
+    "Applicabilità": "Tutti",
+    "Note": "Cattura PDF consigliata"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sicurezza artista",
+    "Punto": "Risposta stalking",
+    "Descrizione": "Lo stalking di dormitori o veicoli dell'artista è passibile di azione legale.",
+    "Applicabilità": "Tutti",
+    "Note": "Raccolta prove"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sicurezza artista",
+    "Punto": "Commenti malevoli",
+    "Descrizione": "Azioni legali contro commenti malevoli saranno intraprese rigorosamente senza indulgenza.",
+    "Applicabilità": "Tutti",
+    "Note": "Verificare aggiornamenti periodici"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sicurezza artista",
+    "Punto": "Sicurezza aeroporto",
+    "Descrizione": "Evitare fotografia in primo piano all'aeroporto per assicurare la sicurezza.",
+    "Applicabilità": "In aeroporto",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sicurezza artista",
+    "Punto": "Tour mondiale",
+    "Descrizione": "La condivisione di info hotel o ristorante durante i tour è vietata per la sicurezza dell'artista.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sicurezza artista",
+    "Punto": "Sicurezza sul posto",
+    "Descrizione": "Seguire le istruzioni della sicurezza sul posto per il percorso di spostamento dell'artista.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Business",
+    "Descrizione": "Inviare proposte per pubblicità o collaborazione a [biz@agency.com].",
+    "Applicabilità": "Aziende",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Audition",
+    "Descrizione": "Consultare la scheda [Audition] per le istruzioni di candidatura come tirocinante.",
+    "Applicabilità": "Candidati",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Formato segnalazione",
+    "Descrizione": "Per segnalare violazione diritti, usare il formato: [Data/Piattaforma/Contenuto/URL].",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Evento",
+    "Punto": "Verifica vincitori",
+    "Descrizione": "I vincitori possono essere verificati via contatto individuale o bacheca ufficiale.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Evento",
+    "Punto": "Numeri distribuiti",
+    "Descrizione": "Gli eventi primo arrivato primo servito seguono l'ordine dei numeri distribuiti.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Evento",
+    "Punto": "Limite età",
+    "Descrizione": "Alcuni eventi richiedono consenso parentale per partecipanti under 14.",
+    "Applicabilità": "Minorenni",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Evento",
+    "Punto": "Chiamata video",
+    "Descrizione": "Attendere in ambiente di rete stabile; le chiamate termineranno se un'altra persona è presente.",
+    "Applicabilità": "Fansign video",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Evento",
+    "Punto": "Foto di gruppo",
+    "Descrizione": "Una foto di gruppo con l'artista sarà caricata dopo l'evento.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Evento",
+    "Punto": "Requisiti",
+    "Descrizione": "Lightstick, album e documenti d'identità sono spesso obbligatori per eventi sul posto.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Evento",
+    "Punto": "Fansign",
+    "Descrizione": "Effettuato per sorteggio tra acquirenti album; solo il vincitore può partecipare.",
+    "Applicabilità": "Vincitori",
+    "Note": "Documento richiesto"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Evento",
+    "Punto": "Evento globale",
+    "Descrizione": "Info tour e eventi globali forniti in più lingue tramite avvisi globali.",
+    "Applicabilità": "Fan globali",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Informazione",
+    "Punto": "Lista artisti",
+    "Descrizione": "La lista attuale degli artisti affiliati è disponibile sotto il menu [Artist] del sito.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Informazione",
+    "Punto": "Localizzazione",
+    "Descrizione": "L'ufficio è nell'edificio OO, OO-dong; le visite interne non sono autorizzate.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenuti",
+    "Punto": "Foto esclusive",
+    "Descrizione": "Le foto esclusive membership sono aggiornate il 1° di ogni mese.",
+    "Applicabilità": "Membri paganti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenuti",
+    "Punto": "Foto inedite",
+    "Descrizione": "Photocard inedite incluse casualmente in ogni album.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenuti",
+    "Punto": "Dietro le quinte",
+    "Descrizione": "Video dietro le quinte sul canale YouTube ufficiale caricati il venerdì alle 18:00.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenuti",
+    "Punto": "Streaming",
+    "Descrizione": "Consultare le linee guida fan union per streaming musicale e video.",
+    "Applicabilità": "Tutti",
+    "Note": "Raccomandato"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenuti",
+    "Punto": "Sottotitoli",
+    "Descrizione": "Sottotitoli inglese, giapponese e cinese forniti per tutti i video ufficiali.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenuti",
+    "Punto": "Diritti d'autore",
+    "Descrizione": "La cattura o condivisione non autorizzata di contenuti a pagamento può comportare sanzioni legali.",
+    "Applicabilità": "Solo membership",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenuti",
+    "Punto": "Photobook",
+    "Descrizione": "I planning di Season's Greetings e preordini photobook sono annunciati nel secondo semestre.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Biglietteria",
+    "Punto": "Rivendita illegale",
+    "Descrizione": "Rivendita o uso di macro comporterà annullamento biglietti e blacklist.",
+    "Applicabilità": "Tutti",
+    "Note": "Nessun trasferimento"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Biglietteria",
+    "Punto": "Guida prevendita",
+    "Descrizione": "Le prevendite sono disponibili per membri verificati prima delle vendite generali.",
+    "Applicabilità": "Spettacoli",
+    "Note": "Collegare account"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Biglietteria",
+    "Punto": "Posti sedia a rotelle",
+    "Descrizione": "I posti sedia a rotelle possono essere prenotati solo per telefono tramite centro clienti biglietteria.",
+    "Applicabilità": "Disabili",
+    "Note": "Documento richiesto"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Lettera fan",
+    "Punto": "Formato standard",
+    "Descrizione": "Le buste standard sono raccomandate; le lettere tipo pacco possono essere rifiutate.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Lettera fan",
+    "Punto": "Modalità invio",
+    "Descrizione": "Le lettere possono essere inviate solo per posta o cassette dedicate agli eventi ufficiali.",
+    "Applicabilità": "Tutti",
+    "Note": "Nessuna consegna al dormitorio"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fanclub",
+    "Punto": "Adesione membership",
+    "Descrizione": "I membership a pagamento possono essere join via comunità ufficiali (Weverse, Bubble, ecc.).",
+    "Applicabilità": "Nuovi membri",
+    "Note": "Verificare periodo"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fanclub",
+    "Punto": "Rinnovo",
+    "Descrizione": "Il rinnovo è possibile entro 30 giorni prima/dopo scadenza membership.",
+    "Applicabilità": "Membri esistenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fanclub",
+    "Punto": "Policy soprannome",
+    "Descrizione": "I soprannomi con nomi artisti o oscenità saranno limitati.",
+    "Applicabilità": "Tutti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fanclub",
+    "Punto": "Vantaggi",
+    "Descrizione": "I vantaggi includono diritti prevendita, accesso contenuti esclusivi e idoneità acquisto kit.",
+    "Applicabilità": "Membri paganti",
+    "Note": "Variabile per durata"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fanclub",
+    "Punto": "Cambio indirizzo",
+    "Descrizione": "Aggiornare l'ultimo indirizzo in La Mia Pagina prima dell'inizio spedizione kit membership.",
+    "Applicabilità": "Membri paganti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fanclub",
+    "Punto": "Spedizione kit",
+    "Descrizione": "I kit membership sono spediti trimestralmente e possono richiedere tempo per la ricezione.",
+    "Applicabilità": "Membri paganti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fanclub",
+    "Punto": "Trasferimento vantaggi",
+    "Descrizione": "I diritti membership non possono essere venduti o trasferiti ad altri.",
+    "Applicabilità": "Tutti",
+    "Note": "Bannimento permanente"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fanclub",
+    "Punto": "Carta membership",
+    "Descrizione": "Le carte membership mobili sono consultabili nella sezione La Mia Pagina dell'app community.",
+    "Applicabilità": "Membri paganti",
+    "Note": "Carta fisica separata"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Promozione",
+    "Punto": "Slogan",
+    "Descrizione": "Pubblicità compleanno e supporto pannelli elettronici possibili se rispettate le linee guida dell'agenzia.",
+    "Applicabilità": "Tutti",
+    "Note": "Approvazione preventiva"
   }
 ]

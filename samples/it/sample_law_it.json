@@ -1,555 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "⚠️Avertissement",
+    "Punto": "Pas de conseil juridique",
+    "Descrizione": "Information générale uniquement ; ne remposto pas un conseil juridique individuel.",
+    "Note": "Obligatoire in toutes i risposte",
+    "Applicabilità": "Tutti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "⚠️Avertissement",
+    "Punto": "Consulter un avocat",
+    "Descrizione": "Toujours consulter un avocat prima toute démarche juridique.",
+    "Note": "-",
+    "Applicabilità": "Tutti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "⚠️Avertissement",
+    "Punto": "Dépendance ai faits",
+    "Descrizione": "Les jugements juridiques possono varier secondo i circonstances.",
+    "Note": "-",
+    "Applicabilità": "Tutti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "⚠️Avertissement",
+    "Punto": "Prescription",
+    "Descrizione": "Tutti i droits ont dei délais ; vérifier i délais de prescription.",
+    "Note": "-",
+    "Applicabilità": "Tutti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "⚠️Avertissement",
+    "Punto": "Évolution della jurisprudence",
+    "Descrizione": "La jurisprudence peut changer ; toujours vérifier i infos à jour.",
+    "Note": "-",
+    "Applicabilità": "Tutti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Personale",
+    "Punto": "Mission",
+    "Descrizione": "Meilleur accès al droit par dei termes juridiques simplifiés.",
+    "Note": "-",
+    "Applicabilità": "Tutti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Système",
+    "Punto": "Anonymat",
+    "Descrizione": "Q&A juridiques per statistiques uniquement ; pas de conservation de noms.",
+    "Note": "-",
+    "Applicabilità": "Tutti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Système",
+    "Punto": "Sources",
+    "Descrizione": "Infos basées su le centre national d'information juridique e guides de jurisprudence.",
+    "Note": "-",
+    "Applicabilità": "Tutti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Saisie conservatoire / Ordonnance su requête",
+    "Descrizione": "Mesure per préserver i biens del débiteur prima dissimulation.",
+    "Note": "Avant action principale",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Référé",
+    "Descrizione": "Mesure provisoire per maintenir le statu quo (non pécuniaire).",
+    "Note": "-",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Exécution forcée",
+    "Descrizione": "Application dei droits par la force publique (ex. jugement).",
+    "Note": "-",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Résiliation / Rupture",
+    "Descrizione": "Résiliation rétroactive ; rupture uniquement per l'avenir.",
+    "Note": "-",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Plainte con constitution de partie civile / Plainte semplice",
+    "Descrizione": "Plainte della victime vs plainte de tiers.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Dépôt judiciaire",
+    "Descrizione": "Dépôt d'argent o titres al greffe per sauvegarde del droit.",
+    "Note": "-",
+    "Applicabilità": "Général"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Audience de jugement",
+    "Descrizione": "Date à laquelle le juge, le parquet e l'accusé plaident.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Homicide / blessure involontaire",
+    "Descrizione": "Infraction par violation del devoir de diligence con décès o blessure.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Hypothèque de garantie",
+    "Descrizione": "Sûreté réelle su bien immobilier per créances futures.",
+    "Note": "-",
+    "Applicabilità": "Immobilier"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Non-lieu",
+    "Descrizione": "Le parquet reconnaît i faits mais renonce ai poursuites.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Quotité disponibile",
+    "Descrizione": "Part supplementare per héritiers ayant particulièrement aidé le défunt.",
+    "Note": "-",
+    "Applicabilità": "Famille"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Attestation de notification",
+    "Descrizione": "La poste atteste contenu, destinataire e date della notification.",
+    "Note": "Pas de force exécutoire propre",
+    "Applicabilità": "Civil / Général"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Exception d'inexécution",
+    "Descrizione": "Droit de refuser sa propre exécution fino a ce que l'autre ait exécuté.",
+    "Note": "-",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Droit de visite",
+    "Descrizione": "Droit del parent non gardien ai visites régulières.",
+    "Note": "-",
+    "Applicabilità": "Famille"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Présomption d'innocence",
+    "Descrizione": "L'accusé è présumé innocent fino a condamnation définitive.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Reconduction tacite",
+    "Descrizione": "Prolongation automatique del bail en l'absence d'opposition.",
+    "Note": "-",
+    "Applicabilità": "Immobilier"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Droit à l'assistance / Miranda",
+    "Descrizione": "Obligation d'informer i suspects de leurs droits.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Demande de distribution",
+    "Descrizione": "Créancier déclare sa créance en vente ai enchères per pagamento.",
+    "Note": "-",
+    "Applicabilità": "Civil / Exécution"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Système de cautionnement",
+    "Descrizione": "Libération sotto caution jusqu'au jugement.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Enrichissement senza cause",
+    "Descrizione": "Avantage tiré del patrimoine d'autrui senza fondement juridique.",
+    "Note": "-",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Licenciement abusif",
+    "Descrizione": "Licenciement senza motif légitime ; recours devant le conseil dei prud'hommes.",
+    "Note": "-",
+    "Applicabilità": "Droit del travail"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Délit civil",
+    "Descrizione": "Acte illicite causant un préjudice, intentionnel o par négligence.",
+    "Note": "Droit à réparation",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Escroquerie",
+    "Descrizione": "Infraction par tromperie per obtenir dei biens.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Diffamation con vérité",
+    "Descrizione": "Même dei faits vrais possono constituer diffamation si atteinte à l'honneur.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Ordre successoral",
+    "Descrizione": "1. Enfants 2. Parents 3. Frères e sœurs 4. Autres parents (jusqu'au 4e degré).",
+    "Note": "Conjoint hérite conjointement",
+    "Applicabilità": "Famille"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Action en revendication",
+    "Descrizione": "Droit del véritable héritier contre l'héritier apparent per rétablissement.",
+    "Note": "-",
+    "Applicabilità": "Famille"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Lecture del jugement",
+    "Descrizione": "Date à laquelle le juge prononce le jugement.",
+    "Note": "-",
+    "Applicabilità": "Tutti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Prescription",
+    "Descrizione": "Droit éteint si non exercé in le délai.",
+    "Note": "Civil 10 ans, commerce 5 ans",
+    "Applicabilità": "Général"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Dommages-intérêts vs indemnité",
+    "Descrizione": "Dommages-intérêts per illicéité ; indemnité per actes licites.",
+    "Note": "-",
+    "Applicabilità": "Général"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Enlèvement",
+    "Descrizione": "Infraction : priver una personne de liberté.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Barème de pension",
+    "Descrizione": "Tableau standard de pension secondo revenus parents e âge enfant.",
+    "Note": "Du tribunal",
+    "Applicabilità": "Famille"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Demandeur e défendeur",
+    "Descrizione": "Le demandeur intente l'action ; le défendeur è poursuivi.",
+    "Note": "-",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Obligation de restitution",
+    "Descrizione": "Obligation de restitution in caso de résolution o fin del bail.",
+    "Note": "-",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Dommages e intérêts moraux",
+    "Descrizione": "Indemnisation del préjudice moral, distincte del préjudice matériel.",
+    "Note": "-",
+    "Applicabilità": "Famille"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Réserve héréditaire",
+    "Descrizione": "Part minimale dei héritiers indépendamment del testament.",
+    "Note": "-",
+    "Applicabilità": "Famille"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Bailleur / Locataire",
+    "Descrizione": "Bailleur = propriétaire ; Locataire = preneur.",
+    "Note": "-",
+    "Applicabilità": "Immobilier"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Inscription de bail",
+    "Descrizione": "Inscription del droit al bail al cadastre per opposabilité.",
+    "Note": "-",
+    "Applicabilità": "Immobilier"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Légitime défense",
+    "Descrizione": "Défense nécessaire de ses intérêts o de ceux d'autrui.",
+    "Note": "Cause de justification",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Opposition à l'ordonnance pénale",
+    "Descrizione": "Opposition e demande d'audience in i 7 jours.",
+    "Note": "Sous 7 jours",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Droit al silence",
+    "Descrizione": "Droit constitutionnel de refuser una déclaration incriminante.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Sursis",
+    "Descrizione": "Jugement rendu mais exécution reportée.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Mise en demeure",
+    "Descrizione": "Inexécution dei obligations contractuelles senza cause légitime.",
+    "Note": "-",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Retrait de plainte",
+    "Descrizione": "Déclaration della victime qu'elle ne souhaite pas de poursuites.",
+    "Note": "Atténuante",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Usucapion",
+    "Descrizione": "Acquisition de propriété par possession prolongée.",
+    "Note": "Immobilier 20 ans",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Autorité parentale / Garde",
+    "Descrizione": "Autorité parentale : statut/patrimoine ; Garde : éducation de l'enfant.",
+    "Note": "-",
+    "Applicabilità": "Famille"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Salaire de base",
+    "Descrizione": "Rémunération régulière e uniforme per heures/jours.",
+    "Note": "Base heures sup",
+    "Applicabilità": "Droit del travail"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Mis en cause / Accusé",
+    "Descrizione": "En enquête = mis en cause ; dopo mise en accusation = accusé.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Force de chose jugée",
+    "Descrizione": "Jugement définitif e non susceptible d'appel.",
+    "Note": "-",
+    "Applicabilità": "Tutti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Terminologie",
+    "Punto": "Abus de confiance / Détournement",
+    "Descrizione": "Abus de confiance : détournement de biens confiés ; abus de biens sociaux.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Enquête familiale",
+    "Descrizione": "Examen dei causes d'échec o contournement en litiges familiaux.",
+    "Note": "-",
+    "Applicabilità": "Famille"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Procédure de rétablissement personnel",
+    "Descrizione": "Dispositif d'allègement partiel dei dettes par décision judiciaire.",
+    "Note": "Tribunal compétent",
+    "Applicabilità": "Faillite"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Reclamo prud'homale",
+    "Descrizione": "Saisine dei prud'hommes per arriérés de salaire o licenciement abusif.",
+    "Note": "-",
+    "Applicabilità": "Droit del travail"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Contrôle della détention",
+    "Descrizione": "Examen par le juge dei motifs de détention del suspect.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Procédure senza avocat",
+    "Descrizione": "Action senza avocat ; fréquent per petits litiges.",
+    "Note": "-",
+    "Applicabilità": "Petites causes"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Procédure civile",
+    "Descrizione": "Assignation → Notification → Contradictoire → Audience → Jugement.",
+    "Note": "-",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Médiation",
+    "Descrizione": "Accord par médiateur al lieu d'un jugement.",
+    "Note": "-",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Point d'accès al droit",
+    "Descrizione": "Conseil juridique gratuit per personnes en difficulté.",
+    "Note": "Sous conditions",
+    "Applicabilità": "Général"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Mémoire de pourvoi",
+    "Descrizione": "À déposer devant la cour suprême in i 20 jours.",
+    "Note": "-",
+    "Applicabilità": "Pénal / Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Renonciation / Acceptation à concurrence de l'actif",
+    "Descrizione": "En cas de surendettement, renonciation o acceptation sotto 3 mois.",
+    "Note": "-",
+    "Applicabilità": "Famille"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Aide juridictionnelle",
+    "Descrizione": "Le tribunal reporte i frais per i plus démunis.",
+    "Note": "-",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Procédure d'injonction de payer",
+    "Descrizione": "Procédure simplifiée per créances inférieures à 30 M KRW.",
+    "Note": "Procédure rapide",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Introduction d'instance",
+    "Descrizione": "En ligne via e-litigation o directement al tribunal compétent.",
+    "Note": "Frais",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Divorce",
+    "Descrizione": "Par consentement mutuel o par assignation.",
+    "Note": "Délai de séparation",
+    "Applicabilità": "Famille"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Accès électronique",
+    "Descrizione": "Consultation dei dossiers par i parties via internet.",
+    "Note": "-",
+    "Applicabilità": "Tutti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Protection del locataire",
+    "Descrizione": "État dei lieux d'ingresso e date de priorité per créances de dépôt.",
+    "Note": "-",
+    "Applicabilità": "Immobilier"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Conservation dei preuves",
+    "Descrizione": "Demande al tribunal de conservation dei preuves prima action.",
+    "Note": "-",
+    "Applicabilità": "Civil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Injonction de payer",
+    "Descrizione": "Procédure simplifiée su demande del créancier.",
+    "Note": "Devient action si opposition",
+    "Applicabilità": "Créance"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Attribution spéciale de logement",
+    "Descrizione": "Attribution à certains publics (jeunes mariés, etc.).",
+    "Note": "-",
+    "Applicabilità": "Immobilier"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Appel / Pourvoi",
+    "Descrizione": "Contestation dei jugements de première (appel) o deuxième instance (pourvoi).",
+    "Note": "Civil sotto 2 semaines",
+    "Applicabilità": "Tutti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Médiation pénale",
+    "Descrizione": "L'auteur indemnise la victime per atténuer la peine.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Procédure",
+    "Punto": "Procédure pénale",
+    "Descrizione": "Enquête → Poursuites → Audience → Jugement e exécution.",
+    "Note": "-",
+    "Applicabilità": "Pénal"
+  },
+  {
+    "Categoria": "Procédure",
+    "Punto": "Ordonnance pénale",
+    "Descrizione": "Amende su pièces senza audience.",
+    "Note": "Audience demandable",
+    "Applicabilità": "Pénal"
   }
 ]

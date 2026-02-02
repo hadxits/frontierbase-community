@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Politique d'archivage",
+    "Descrizione": "Les publications à forte valeur sono conservées définitivement in le 'Hall of Fame'.",
+    "Note": "-",
+    "Applicabilità": "Toutes i publications"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Publicité/Commerce",
+    "Punto": "Demandes partners",
+    "Descrizione": "Contacter l'e-mail officiel per bannières o partenariats d'achats groupés.",
+    "Note": "-",
+    "Applicabilità": "Aziendales"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Étiquette",
+    "Punto": "Anti-doxxing",
+    "Descrizione": "Publier coordonnées o photos d'autrui senza consentement è strictement interdit.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technologie",
+    "Punto": "Sauvegarde auto",
+    "Descrizione": "Les brouillons sono sauvegardés automatiquement per evitare toute perte de données.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technologie",
+    "Punto": "Board anonyme",
+    "Descrizione": "Les posteurs restent anonymes su i boards désignés ; aucun log stocké.",
+    "Note": "-",
+    "Applicabilità": "Board anonyme"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sanctions",
+    "Punto": "Recours",
+    "Descrizione": "Les sanctions possono essere contestées sotto 7 jours via le formulaire Google officiel.",
+    "Note": "-",
+    "Applicabilità": "Utilisateurs sanctionnés"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Création de boards",
+    "Descrizione": "Nouveaux boards créés per i sujets atteignant un seuil d'upvotes.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Modérateurs",
+    "Descrizione": "Les membres actifs possono essere nommés 'Board Keepers' per alcune sections.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Tags de catégorie",
+    "Descrizione": "Sélection obligatoire de tags (Question, Info, Avis, etc.) per chaque publication.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Aide carrière/Commerce",
+    "Descrizione": "E-mail dédié per proposte de collaborazione hors pubblicità.",
+    "Note": "-",
+    "Applicabilità": "Aziendales/Orga"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Étiquette",
+    "Punto": "Citation dei sources",
+    "Descrizione": "Toujours citer la source (liens, etc.) per données o articles externes.",
+    "Note": "Protection droits d'auteur",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Étiquette",
+    "Punto": "Médiation dei conflits",
+    "Descrizione": "L'équipe médie i litiges ; i deux parties possono essere sanctionnées in caso de faute mutuelle.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technologie",
+    "Punto": "Mode sombre",
+    "Descrizione": "Thème faible luminosité disponibile per réduire la fatigue oculaire.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technologie",
+    "Punto": "Mode économie de données",
+    "Descrizione": "Option per réduire la résolution dei images en mobile e économiser i données.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technologie",
+    "Punto": "Widgets tableau de bord",
+    "Descrizione": "Épingler dei widgets de boards favoris su le tableau de bord personnel.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Autre",
+    "Punto": "Badges donateurs",
+    "Descrizione": "Icônes spéciales à côté del pseudo per i membres donateurs.",
+    "Note": "-",
+    "Applicabilità": "Donateurs"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Autre",
+    "Punto": "Campagnes don",
+    "Descrizione": "Campagnes régulières per donner una partie dei points à dei œuvres caritatives.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Événements",
+    "Punto": "Pointage quotidien",
+    "Descrizione": "Points d'activité creditoés automatiquement per un pointage quotidien.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Colonnes experts",
+    "Descrizione": "Colonnes de membres professionnels vérifiés archivées in una section dédiée.",
+    "Note": "-",
+    "Applicabilità": "Professionnels"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Restrictions fichiers",
+    "Descrizione": "Fichiers exécutables (.exe) interdits per prévenir i malwares.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technologie",
+    "Punto": "Filtres",
+    "Descrizione": "Mots bannis configurables in i paramètres per masquer dei termes.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Événements",
+    "Punto": "Diplôme/Anniversaire",
+    "Descrizione": "Points spéciaux e message de félicitations à l'anniversaire dei membres.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Étiquette",
+    "Punto": "Discours haineux",
+    "Descrizione": "Zéro tolérance envers le discours haineux su race, genre o religion.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Publications tendance",
+    "Descrizione": "Publications dépassant un seuil de vues/recos mises en prima su la page d'accueil.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Contos inactifs",
+    "Descrizione": "Contos inactifs depuis plus d'1 an mis en statut dormant.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Directives images",
+    "Descrizione": "Images libres de droits uniquement ; largeur 1200px recommandée.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technologie",
+    "Punto": "Ricerca d'images",
+    "Descrizione": "Ricerca de publications simili à partir d'images uploadées.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sanctions",
+    "Punto": "Blocage IP",
+    "Descrizione": "Plages IP dei contos de spam malveillant bloquées définitivement.",
+    "Note": "-",
+    "Applicabilità": "Utilisateurs malveillants"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Assistance juridique",
+    "Descrizione": "Soutien per actions en justice in caso d'insultes o diffamation graves.",
+    "Note": "-",
+    "Applicabilità": "Victimes"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sanctions",
+    "Punto": "Bannissement définitif",
+    "Descrizione": "Bannissement senza exception per fraude o implication criminelle.",
+    "Note": "-",
+    "Applicabilità": "Violations graves"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Partage de liens",
+    "Descrizione": "Interdit de partager dei liens non autorisés vers del contenu protégé o payant.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technologie",
+    "Punto": "Système de mention",
+    "Descrizione": "Notifications via @NomUtilisateur.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technologie",
+    "Punto": "Application mobile",
+    "Descrizione": "Communication temps réel partout via l'application dédiée.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Contos multiples",
+    "Descrizione": "Un seul conto a persona ; manipulation d'opinion = bannissement.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Étiquette",
+    "Punto": "Respect mutuel",
+    "Descrizione": "Forme polie standard ; pas de langage familier.",
+    "Note": "Sauf boards spécifiques",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Politique pseudos",
+    "Descrizione": "Pseudos offensants o imitant l'équipe interdits.",
+    "Note": "Avertissement prima ban",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Étiquette",
+    "Punto": "Pas d'attaques ciblées",
+    "Descrizione": "Honte publique, harcèlement o dénonciation de membres interdits.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Étiquette",
+    "Punto": "Pas de prosélytisme",
+    "Descrizione": "Promotion o persuasion de religions spécifiques interdite.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Étiquette",
+    "Punto": "Pas de gatekeeping",
+    "Descrizione": "Éviter i clans décourageant o excluant i nouveaux membres.",
+    "Note": "Règle anti-clan",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technologie",
+    "Punto": "Alertes notifications",
+    "Descrizione": "Notifications push per commentaires o mentions.",
+    "Note": "Réglage in paramètres",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Annonces officielles",
+    "Descrizione": "Annonces importantes épinglées en haut ; lecture obligatoire.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Autre",
+    "Punto": "Lounge offline",
+    "Descrizione": "Directives per accéder al lounge esclusiif dei membres.",
+    "Note": "-",
+    "Applicabilità": "Membres"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Événements",
+    "Punto": "Rencontres offline",
+    "Descrizione": "Rassemblements trimestriels per favoriser l'amitié tra membres.",
+    "Note": "-",
+    "Applicabilità": "Candidats"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Demande personnalisée",
+    "Descrizione": "Système de demande 1:1 per questions de conto o de pagamento.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Transparence",
+    "Descrizione": "Logs dei sanctions e rapports dei coûts publiés trimestriellement.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Personale",
+    "Punto": "Vision",
+    "Descrizione": "Objectif : l'espace en ligne le plus chaleureux per partager savoir e joie.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sanctions",
+    "Punto": "Suppression dei données",
+    "Descrizione": "Toutes i données personnelles supprimées sotto 30 jours dopo départ.",
+    "Note": "-",
+    "Applicabilità": "Membres partants"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Système de points",
+    "Descrizione": "Points par infos utiles ; échange contre gifticons possible.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Étiquette",
+    "Punto": "Débats politiques",
+    "Descrizione": "Droits d'écriture restreints si débats politiques perturbent le board.",
+    "Note": "Utiliser le board politique",
+    "Applicabilità": "Boards généraux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Suppression de publication",
+    "Descrizione": "Calomnie, vulgarité o spam supprimables senza préavis par l'équipe.",
+    "Note": "À la discrétion de l'équipe",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Modification de publication",
+    "Descrizione": "Publications modifiables uniquement in l'heure suivant la création.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Événements",
+    "Punto": "Badges profil",
+    "Descrizione": "Badges per premier post, 100 commentaires, etc.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Publicité/Commerce",
+    "Punto": "Board promo",
+    "Descrizione": "Auto-promo aziendales o YouTubers 1x/mois max in le Promo Board.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Récompenses Q&A",
+    "Descrizione": "Points per poser e répondre lorsque 'Meilleure réponse' è choisie.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Système de rang",
+    "Descrizione": "5 livelli basés su i points d'activité (commentaires, publications).",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Recrutement modérateurs",
+    "Descrizione": "Modérateurs recrutés régulièrement parmi i membres actifs top.",
+    "Note": "-",
+    "Applicabilità": "Membres élite"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Vérification identité",
+    "Descrizione": "Boards finance o commerce richiedono vérification del nom réel.",
+    "Note": "-",
+    "Applicabilità": "Boards spécifiques"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sanctions",
+    "Punto": "Ré-inscription",
+    "Descrizione": "Utilisateurs bannis ne possono pas se réinscrire con même IP o téléphone.",
+    "Note": "-",
+    "Applicabilità": "Utilisateurs bannis"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Funzione signaler",
+    "Descrizione": "Bouton 'Signaler' en bas à droite per contenu contre i règles.",
+    "Note": "Anonymat garanti",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Étiquette",
+    "Punto": "Prévention voci",
+    "Descrizione": "Responsabilité légale possible per diffusion de fausses informations non verificate.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technologie",
+    "Punto": "Filtres de recherche",
+    "Descrizione": "Ricerca de publications par titre, texte e auteur.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Maintenance serveur",
+    "Descrizione": "Maintenances planifiées annoncées 3 heures à l'avance.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Étiquette",
+    "Punto": "Anti-spam",
+    "Descrizione": "Publication répétée de contenu identique o similaire interdite.",
+    "Note": "Règle anti-spam",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Étiquette",
+    "Punto": "Spoilers",
+    "Descrizione": "Éviter i spoilers majeurs même in i commentaires.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Format spoiler",
+    "Descrizione": "Indiquer [SPOILER] in le titre per films o livres.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Recrutement équipe",
+    "Descrizione": "Sous-modérateurs recrutés parmi i membres i plus actifs.",
+    "Note": "-",
+    "Applicabilità": "Niveau top"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Boîte à idées",
+    "Descrizione": "Propositions d'amélioration via le board 'Suggestions'.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Autre",
+    "Punto": "Programme supporters",
+    "Descrizione": "Insignes spéciaux per i 'Supportoers' qui aident la communauté.",
+    "Note": "-",
+    "Applicabilità": "Utilisateurs sélectionnés"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technologie",
+    "Punto": "Authentification 2FA",
+    "Descrizione": "Activer la 2FA in i paramètres del conto.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technologie",
+    "Punto": "Outil de traduction",
+    "Descrizione": "Traduction dei commentaires in tempo reale per communication globale.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Publicité/Commerce",
+    "Punto": "Règles de vente",
+    "Descrizione": "Ventes tra utilisateurs : photos réelles e premi clair obbligatori.",
+    "Note": "-",
+    "Applicabilità": "Marché"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Informations",
+    "Punto": "Conditions d'utilisation",
+    "Descrizione": "Texte complet dei CGU disponibile via le lien en pied de page.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Informations",
+    "Punto": "Guide utilisateur",
+    "Descrizione": "Instructions su i fonctions bot in le menu 'Guide d'utilisation'.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Onboarding",
+    "Descrizione": "Nouveaux membres doivent poster una 'Intro' per monter de niveau.",
+    "Note": "-",
+    "Applicabilità": "Nouveaux membres"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Événements",
+    "Punto": "Système de vote",
+    "Descrizione": "Outils de vote per décisions o sondages de popularité.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Événements",
+    "Punto": "Curation hebdo",
+    "Descrizione": "Meilleures publications della semaine in la newsletter.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Limite de caractères",
+    "Descrizione": "Minimum 10 caractères per evitare le spam à faible effort.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sanctions",
+    "Punto": "Système d'avertissement",
+    "Descrizione": "1er : Avertissement, 2e : Suspension, 3e : Bannissement définitif.",
+    "Note": "-",
+    "Applicabilità": "Contrevenants"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sanctions",
+    "Punto": "Délai de ré-adhésion",
+    "Descrizione": "Periodo de 30 jours prima ré-inscription dopo départ volontaire.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Événements",
+    "Punto": "Prix de fin d'année",
+    "Descrizione": "Cadeaux ai membres ayant le plus contribué chaque année.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   }
 ]

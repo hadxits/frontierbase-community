@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Monitoraggio 24/7",
+    "Descrizione": "La nostra infrastruttura server è monitorata 24h/24 e 365 giorni/anno per garantire la massima disponibilità.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Account",
+    "Punto": "Disattivazione account",
+    "Descrizione": "Puoi chiudere il tuo account nelle Impostazioni; tutti i dati personali vengono eliminati immediatamente.",
+    "Applicabilità": "Registrati",
+    "Note": "Non recuperabile"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Account",
+    "Punto": "Blocco account",
+    "Descrizione": "L'account viene bloccato per 30 minuti dopo 5 tentativi di accesso falliti.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Documentazione API",
+    "Descrizione": "Documentazione per sviluppatori per integrazioni esterne disponibile nel Dev Center.",
+    "Applicabilità": "Sviluppatori",
+    "Note": "Open API"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fatturazione",
+    "Punto": "Supporto Apple Pay",
+    "Descrizione": "Pagamenti senza attrito via Apple Pay, PayPal e principali carte di credito.",
+    "Applicabilità": "Piani a pagamento",
+    "Note": "Visa, Master"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Automazione",
+    "Descrizione": "Semplifica i compiti ripetitivi con trigger e regole di automazione personalizzati.",
+    "Applicabilità": "Piani a pagamento",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Disponibilità",
+    "Descrizione": "Supportiamo applicazioni native Web, iOS, Android, macOS e Windows.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Policy",
+    "Punto": "Frequenza backup",
+    "Descrizione": "Backup completi eseguiti giornalmente e archiviati in sedi fisicamente separate.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fatturazione",
+    "Punto": "Ciclo di fatturazione",
+    "Descrizione": "Scegli tra cicli mensili o annuali per tua comodità.",
+    "Applicabilità": "Piani a pagamento",
+    "Note": "20% sconto annuale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Errore",
+    "Punto": "Problemi cache browser",
+    "Descrizione": "Se ci sono problemi di layout, verifica lo zoom al 100% e svuota la cache.",
+    "Applicabilità": "Web",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fatturazione",
+    "Punto": "Politica di cancellazione",
+    "Descrizione": "Cancella l'abbonamento in qualsiasi momento tramite la dashboard di fatturazione.",
+    "Applicabilità": "Utenti paganti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fatturazione",
+    "Punto": "Errori carta",
+    "Descrizione": "Verifica il limite della carta o i blocchi di pagamento internazionali in caso di transazione fallita.",
+    "Applicabilità": "Pagamento fallito",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Forum comunità",
+    "Descrizione": "Scambia consigli e best practice con altri utenti nel nostro forum ufficiale.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fatturazione",
+    "Punto": "Standard valuta",
+    "Descrizione": "Tutte le transazioni globali sono elaborate in dollari USA (USD).",
+    "Applicabilità": "Globale",
+    "Note": "Tassi di cambio applicabili"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Dashboard personalizzata",
+    "Descrizione": "Configura una dashboard per gestire il tuo flusso di lavoro e pianificazione.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Modalità scura",
+    "Descrizione": "Passa tra modalità UI scura e chiara nel menu impostazioni display.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Policy",
+    "Punto": "Crittografia dati",
+    "Descrizione": "Tutti i dati sono crittografati con AES 256-bit in transito e a riposo.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Policy",
+    "Punto": "Sovranità dati",
+    "Descrizione": "Gli utenti mantengono la proprietà dei dati e possono esportare un backup completo in qualsiasi momento.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Policy",
+    "Punto": "Regioni datacenter",
+    "Descrizione": "I dati sono distribuiti tra le regioni Google Cloud negli USA e in Europa.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Errore",
+    "Punto": "Notifiche push desktop",
+    "Descrizione": "Abilita i permessi per le notifiche nel browser e nel sistema operativo.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Account",
+    "Punto": "Account inattivi",
+    "Descrizione": "Gli account Free inattivi (nessun accesso da 1+ anno) possono essere sospesi.",
+    "Applicabilità": "Utenti Free",
+    "Note": "Avviso preventivo inviato"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fatturazione",
+    "Punto": "Sconto istruzione",
+    "Descrizione": "50% di sconto su Pro per studenti e docenti con email .edu valida.",
+    "Applicabilità": "Accademici",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Account",
+    "Punto": "Verifica email",
+    "Descrizione": "I nuovi account devono essere attivati cliccando il link nell'email di verifica.",
+    "Applicabilità": "Registrazione",
+    "Note": "Controlla cartella Spam"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fatturazione",
+    "Punto": "Preventivi enterprise",
+    "Descrizione": "Piani personalizzati per organizzazioni con 50+ membri.",
+    "Applicabilità": "Corporate",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Formati esportazione",
+    "Descrizione": "Esporta istantaneamente in CSV, PDF o PNG.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Policy",
+    "Punto": "Politica uso corretto",
+    "Descrizione": "Le chiamate API eccessive possono essere soggette a rate limiting.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Sicurezza condivisione file",
+    "Descrizione": "Proteggi i link di condivisione esterni con password.",
+    "Applicabilità": "Pro+",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Errore",
+    "Punto": "Blocchi firewall",
+    "Descrizione": "I firewall aziendali possono bloccare le email di verifica; contatta l'IT.",
+    "Applicabilità": "Enterprise",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Ricerca globale",
+    "Descrizione": "Cerca in documenti, contenuti di testo e nomi file.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Centro assistenza",
+    "Descrizione": "Guide e documentazione su Google Drive.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Account",
+    "Punto": "Unicità ID",
+    "Descrizione": "Un solo account per indirizzo email.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Supporto integrazione",
+    "Descrizione": "Connetti con Slack, Google Drive e Jira.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fatturazione",
+    "Punto": "Supporto fatture",
+    "Descrizione": "Fatture e documentazione spese per conformità fiscale aziendale.",
+    "Applicabilità": "Piano Business",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fatturazione",
+    "Punto": "Ricevute dettagliate",
+    "Descrizione": "Fatture automatiche inviate via email dopo il pagamento.",
+    "Applicabilità": "Utenti paganti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Scorciatoie da tastiera",
+    "Descrizione": "Scorciatoie di sistema per aumentare la produttività.",
+    "Applicabilità": "Web/App",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Chat in diretta",
+    "Descrizione": "Supporto tecnico in tempo reale per Pro e Business.",
+    "Applicabilità": "Pro+",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Errore",
+    "Punto": "Problemi di accesso",
+    "Descrizione": "In caso di errore 'Accesso non valido', svuota i cookie del browser.",
+    "Applicabilità": "Tecnico",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Supporto email",
+    "Descrizione": "Invia domande a support@service.com per una risposta diretta.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "Entro 24 ore lavorative"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Errore",
+    "Punto": "Manutenzione",
+    "Descrizione": "La manutenzione programmata è annunciata tramite il banner della dashboard.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Errore",
+    "Punto": "Crash app mobile",
+    "Descrizione": "In caso di chiusura inaspettata, verifica gli aggiornamenti dello store.",
+    "Applicabilità": "Mobile",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Supporto multilingue",
+    "Descrizione": "12 lingue supportate tra cui inglese, coreano, giapponese e spagnolo.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fatturazione",
+    "Punto": "Eligibilità no-profit",
+    "Descrizione": "ONG e associazioni possono richiedere accesso gratuito dopo revisione.",
+    "Applicabilità": "ONG",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Modalità offline",
+    "Descrizione": "Modifica senza connessione; sincronizzazione al ritorno online.",
+    "Applicabilità": "App desktop",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Richieste partner",
+    "Descrizione": "Richieste rivenditori o partnership tramite il modulo B2B dedicato.",
+    "Applicabilità": "Partner",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Account",
+    "Punto": "Recupero password",
+    "Descrizione": "Richiedi un link di reset tramite la tua email registrata.",
+    "Applicabilità": "Non connessi",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Gestione permessi",
+    "Descrizione": "Assegna ruoli: Visualizzatore, Editor o Admin.",
+    "Applicabilità": "Piani a pagamento",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Filtro progetti",
+    "Descrizione": "Filtra per data, autore o tag personalizzati.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fatturazione",
+    "Punto": "Codici promozionali",
+    "Descrizione": "Codici sconto a tempo limitato applicabili al checkout.",
+    "Applicabilità": "Possessori coupon",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fatturazione",
+    "Punto": "Fatturazione proporzionale",
+    "Descrizione": "In caso di upgrade, viene addeitata solo la differenza proporzionale.",
+    "Applicabilità": "Cambio piano",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Lavagna in tempo reale",
+    "Descrizione": "Collabora su lavagna digitale per brainstorming.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fatturazione",
+    "Punto": "Rimborso",
+    "Descrizione": "Rimborso 100% entro 7 giorni se nessun utilizzo.",
+    "Applicabilità": "Cancellazioni",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fatturazione",
+    "Punto": "Rinnovo",
+    "Descrizione": "Gli abbonamenti si rinnovano automaticamente 24h prima della scadenza, salvo disattivazione.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Errore",
+    "Punto": "Segnala addebiti",
+    "Descrizione": "Segnala immediatamente al supporto eventuali addebiti non riconosciuti.",
+    "Applicabilità": "Sicurezza",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Policy",
+    "Punto": "Supporto screen reader",
+    "Descrizione": "Supporto per screen reader e modalità ad alto contrasto.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Roadmap",
+    "Descrizione": "Consulta la pagina Roadmap ufficiale per le prossime funzionalità.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Account",
+    "Punto": "Accesso social",
+    "Descrizione": "Registrazione via Google, Apple ID o email standard.",
+    "Applicabilità": "Nuovi utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Aggiornamenti",
+    "Descrizione": "Web: aggiornamenti automatici; app: tramite store.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Requisiti di sistema",
+    "Descrizione": "Minimo 4 GB RAM raccomandati per un utilizzo fluido.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Errore",
+    "Punto": "Stato del sistema",
+    "Descrizione": "Segui @ServiceStatus su X per incidenti in tempo reale.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Inviti team",
+    "Descrizione": "Invita membri via email ai tuoi progetti.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Libreria modelli",
+    "Descrizione": "Oltre 100 modelli gratuiti per vari settori.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Policy",
+    "Punto": "Termini di servizio",
+    "Descrizione": "Consulta i termini legali tramite il link in fondo al sito.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Tracciamento tempo",
+    "Descrizione": "Traccia il tempo trascorso su ogni progetto.",
+    "Applicabilità": "Pro+",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fatturazione",
+    "Punto": "Confronto piani",
+    "Descrizione": "Piani Free, Pro e Business; confronto completo sul sito.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Autenticazione 2FA",
+    "Descrizione": "Proteggi lo spazio di lavoro con 2FA (es. Google Authenticator).",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Errore",
+    "Punto": "Capacità upload",
+    "Descrizione": "Dimensione max: 100 MB (Free) / 2 GB (Pro) per file.",
+    "Applicabilità": "Trasferimento dati",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Policy",
+    "Punto": "Privacy (GDPR)",
+    "Descrizione": "Conformità rigorosa al GDPR e alle leggi sulla protezione dei dati.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Account",
+    "Punto": "Personalizzazione profilo",
+    "Descrizione": "Modifica nome visualizzato e avatar nelle impostazioni del profilo.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Personale",
+    "Punto": "Proposta di valore",
+    "Descrizione": "Strumenti progettati per massimizzare la produttività utente.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Fatturazione",
+    "Punto": "IVA",
+    "Descrizione": "L'IVA può essere aggiunta secondo la normativa locale.",
+    "Applicabilità": "Globale",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Cronologia versioni",
+    "Descrizione": "Ripristina le versioni precedenti degli ultimi 30 giorni.",
+    "Applicabilità": "Pro+",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Comunità",
+    "Descrizione": "Strumento cloud per la gestione progetti in tempo reale.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Tutorial video",
+    "Descrizione": "Tutorial passo-passo sul nostro canale YouTube ufficiale.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Analisi visuale",
+    "Descrizione": "Monitora i progressi tramite report dati intuitivi.",
+    "Applicabilità": "Piano Business",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Filigrana",
+    "Descrizione": "Le esportazioni PDF del piano Free includono una filigrana di sistema.",
+    "Applicabilità": "Piano Free",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Servizio",
+    "Punto": "Ottimizzazione web",
+    "Descrizione": "Piattaforma ottimizzata per l'ultima versione di Google Chrome.",
+    "Applicabilità": "Web",
+    "Note": "Compatibile Safari/Edge"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Account",
+    "Punto": "Prova gratuita",
+    "Descrizione": "14 giorni di funzionalità Pro complete alla registrazione.",
+    "Applicabilità": "Nuovi account",
+    "Note": "Senza carta"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Account",
+    "Punto": "Downgrade",
+    "Descrizione": "Le prove non pagate tornano automaticamente a Free; i dati vengono conservati.",
+    "Applicabilità": "Nuovi account",
+    "Note": "Conservazione dati"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Funzione",
+    "Punto": "Notifiche",
+    "Descrizione": "Personalizza le preferenze per notifiche push e email.",
+    "Applicabilità": "Tutti gli utenti",
+    "Note": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Errore",
+    "Punto": "Ritardo sincronizzazione",
+    "Descrizione": "In caso di mancata sincronizzazione, verifica la connessione e aggiorna (F5).",
+    "Applicabilità": "Web",
+    "Note": "-"
   }
 ]

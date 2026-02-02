@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Personale",
+    "Punto": "Valeur centrale",
+    "Descrizione": "Colleghiamo le informazioni sparse per permettere a chiunque di trovare le conoscenze in pochi secondi.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Ricerca",
+    "Punto": "Pondération del titre",
+    "Descrizione": "Les parole chiave del titre ont un poids supérieur à ceux del corps del texte.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Ricerca",
+    "Punto": "Metodo de recherche",
+    "Descrizione": "Ricerca par parole chiave e recherche sémantique basée su le sens.",
+    "Note": "Requêtes en langage naturel",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Ricerca",
+    "Punto": "Périmètre de recherche",
+    "Descrizione": "Indexation dei PDF, Google Docs e Notion, y compris le texte dei images.",
+    "Note": "OCR supporté",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Ricerca",
+    "Punto": "Limite dei résultats",
+    "Descrizione": "Affiche i 3 à 5 extraits i plus pertinents per dei risposte précises.",
+    "Note": "-",
+    "Applicabilità": "Paramètres standard"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Ricerca",
+    "Punto": "Filtre par date",
+    "Descrizione": "Ricerca restreignable à dei periodi (ex. documents dopo 2024).",
+    "Note": "-",
+    "Applicabilità": "Ricerca avancée"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Ricerca",
+    "Punto": "Gestion dei versions",
+    "Descrizione": "Priorité à la dernière version active del document.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Ricerca",
+    "Punto": "Filtre par département",
+    "Descrizione": "Restriction ai départements HR, Finance, Dev, etc.",
+    "Note": "-",
+    "Applicabilità": "Aziendale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Ricerca",
+    "Punto": "Mots vides",
+    "Descrizione": "Les particules e conjonctions senza sens sono pondérées à la baisse.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Ricerca",
+    "Punto": "Optimisation del format",
+    "Descrizione": "Filtres optimisés per types de documents (ex. modèles de rapport).",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Ricerca",
+    "Punto": "Multilingue",
+    "Descrizione": "Ricerca en inglese e résumés en coréen (ou inversement).",
+    "Note": "-",
+    "Applicabilità": "Mode multilingue"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Ricerca",
+    "Punto": "Filtre d'esclusiion",
+    "Descrizione": "Exclusion dei documents contenant dei parole chiave négatifs spécifiques.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Ricerca",
+    "Punto": "Commentaires",
+    "Descrizione": "Texte dei commentaires o annotations également recherchable.",
+    "Note": "-",
+    "Applicabilità": "Optionnel"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Ricerca",
+    "Punto": "Correspondance dei requêtes",
+    "Descrizione": "Correspondance secondo le type (ex. Guide pratique vs requête numérique).",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Ricerca",
+    "Punto": "Fraîcheur de l'index",
+    "Descrizione": "Modifications reflétées in l'index en maximum 1 heure.",
+    "Note": "-",
+    "Applicabilità": "Sync temps réel"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Ricerca",
+    "Punto": "Ricerca de code",
+    "Descrizione": "Identification e recherche de blocs de code par langage in i docs techniques.",
+    "Note": "-",
+    "Applicabilità": "Docs techniques"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Ricerca",
+    "Punto": "Taille dei fichiers",
+    "Descrizione": "Indexation de fichiers fino a 50 Mo.",
+    "Note": "-",
+    "Applicabilità": "Limites système"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Scalabilité",
+    "Descrizione": "Architecture per recherche temps réel su plus d'1 million de documents.",
+    "Note": "-",
+    "Applicabilità": "Système entier"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Suppression dei données",
+    "Descrizione": "Documents supprimés retirés immediatamente de l'index.",
+    "Note": "Non récupérable",
+    "Applicabilità": "À la suppression"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Validation dei liens",
+    "Descrizione": "Vérification périodique della validité dei liens externes.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Filtres métadonnées",
+    "Descrizione": "Filtre par titre, auteur, tags, date de modification.",
+    "Note": "-",
+    "Applicabilità": "Ricerca avancée"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Indexation automatique",
+    "Descrizione": "Fichiers del dossier Google Drive dédié indexés automatiquement.",
+    "Note": "PDF, DOCX, TXT",
+    "Applicabilità": "Administrateurs"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Traitement OCR",
+    "Descrizione": "PDF scannés convertis en texte recherchable via OCR.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Validation dei connaissances",
+    "Descrizione": "Seuls i documents validés par i admins servent de base al bot.",
+    "Note": "-",
+    "Applicabilità": "Contrôle qualité"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Politique d'archivage",
+    "Descrizione": "Documents de plus de 5 ans archivés e esclusi della recherche standard.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Ricerca par auteur",
+    "Descrizione": "Ricerca de documents par auteur o équipe.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Contrôle d'accès",
+    "Descrizione": "Résultats limités ai documents autorisés par l'ACL de l'utilisateur.",
+    "Note": "Conformité sicurezza",
+    "Applicabilità": "Aziendale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Doublons",
+    "Descrizione": "En cas de doublon, priorité à la version la plus récente.",
+    "Note": "-",
+    "Applicabilità": "Doublons"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Système de tags",
+    "Descrizione": "Tags standardisés (#Manuel, #Réglementation, #SupportoTech, etc.).",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Intégration API",
+    "Descrizione": "Bot de recherche invocable depuis Slack o Microsoft Teams.",
+    "Note": "-",
+    "Applicabilità": "Intégrations externes"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Reranking",
+    "Descrizione": "Optimisation dei résultats secondo i clics e retours utilisateurs.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Base vectorielle",
+    "Descrizione": "Base vectorielle haute performance per risposte en moins d'1 seconde.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Masquage dei données personnelles",
+    "Descrizione": "Données personnelles identifiables masquables in i résultats.",
+    "Note": "-",
+    "Applicabilità": "Sécurité PII"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Limitation del débit",
+    "Descrizione": "Limites per evitare la surcharge par requêtes massives automatisées.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Snapshot dei connaissances",
+    "Descrizione": "Snapshots della base per vérifier i réglementations passées.",
+    "Note": "-",
+    "Applicabilità": "Conformité"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Reconnaissance d'entités",
+    "Descrizione": "Identification dei noms propres (produits, projets) per correspondance précise.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Analyse visuelle",
+    "Descrizione": "Analyse dei légendes e métadonnées dei diagrammes e graphiques.",
+    "Note": "-",
+    "Applicabilità": "Multimodal"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Embeddings",
+    "Descrizione": "Modèles d'embedding per calcul de similarité sémantique tra phrases.",
+    "Note": "-",
+    "Applicabilità": "Système"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Analyse d'intention",
+    "Descrizione": "Détection de l'intention (explication, méthode, chiffre précis, etc.).",
+    "Note": "-",
+    "Applicabilità": "Analyse dei requêtes"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Stratégie de découpage",
+    "Descrizione": "Documents découpés en chunks sémantiques per meilleure précision.",
+    "Note": "Préservation del contexte",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Cache dei résultats",
+    "Descrizione": "Requêtes fréquentes mises en cache per risposte quasi instantanées.",
+    "Note": "-",
+    "Applicabilità": "Performance"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Mémoire contextuelle",
+    "Descrizione": "Mémorisation del contexte dei questions per requêtes de suivi.",
+    "Note": "-",
+    "Applicabilità": "Ricerca conversationnelle"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Estensione dei requêtes",
+    "Descrizione": "Estensione dei parole chiave courts en phrases plus complètes.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Tokenisation",
+    "Descrizione": "Découpage del texte en unités de tokens per embeddings efficaces.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Ricerca hybride",
+    "Descrizione": "Combinaison recherche vectorielle (sémantique) e par parole chiave (lexicale).",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Réponse",
+    "Punto": "Lisibilité",
+    "Descrizione": "Phrases concises e puces per risposte claires e scannables.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Réponse",
+    "Punto": "Requêtes liées",
+    "Descrizione": "Suggestion de termes de recherche liés sotto la réponse.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Réponse",
+    "Punto": "Résumé dei longs documents",
+    "Descrizione": "Pour i sources longues : résumé d'abord con option 'Lire la suite'.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Réponse",
+    "Punto": "Étapes numérotées",
+    "Descrizione": "Étapes numérotées (1, 2, 3) per i guides e procédures.",
+    "Note": "-",
+    "Applicabilità": "Méthodologie"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Réponse",
+    "Punto": "Citations",
+    "Descrizione": "Nom del document e numéro de page per chaque donnée citée.",
+    "Note": "Fiabilité dei sources",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Réponse",
+    "Punto": "Politique senza info",
+    "Descrizione": "Si aucune info pertinente : le bot le signale al lieu d'inventer.",
+    "Note": "Anti-hallucination",
+    "Applicabilità": "Lacune de données"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Réponse",
+    "Punto": "Score de confiance",
+    "Descrizione": "Score interne d'alignement tra réponse e source.",
+    "Note": "-",
+    "Applicabilità": "Validation"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Réponse",
+    "Punto": "Style de résumé",
+    "Descrizione": "Résumés strictement ancrés in le texte source.",
+    "Note": "-",
+    "Applicabilità": "Mode résumé"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Réponse",
+    "Punto": "Tag auteur",
+    "Descrizione": "Liens Slack directs vers l'auteur original del document.",
+    "Note": "-",
+    "Applicabilità": "Aziendale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Réponse",
+    "Punto": "Citations en bloc",
+    "Descrizione": "Format citation (>) per extraits textuels della source.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Réponse",
+    "Punto": "Aperçu del fichier",
+    "Descrizione": "Miniature della page d'où provient l'information.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Réponse",
+    "Punto": "Tableaux/Graphiques",
+    "Descrizione": "Données tabulaires formatées en Markdown per lisibilité.",
+    "Note": "-",
+    "Applicabilità": "Données volumineuses"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Réponse",
+    "Punto": "Liens profonds",
+    "Descrizione": "Liens directs vers l'empostoment in Google Drive o Notion.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sécurité",
+    "Punto": "Isolation dei données",
+    "Descrizione": "Données de connaissances séparées logiquement par client.",
+    "Note": "-",
+    "Applicabilità": "B2B"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sécurité",
+    "Punto": "Chiffrement dei données",
+    "Descrizione": "Données texte indexées chiffrées e stockées en cloud sécurisé.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sécurité",
+    "Punto": "Souveraineté dei données",
+    "Descrizione": "Documents demandés en suppression supprimés sotto 24h, y compris sauvegardes.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sécurité",
+    "Punto": "Journal d'audit",
+    "Descrizione": "Journalisation de qui a recherché quels documents.",
+    "Note": "-",
+    "Applicabilità": "Conformité"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sécurité",
+    "Punto": "Détection d'anomalies",
+    "Descrizione": "Alerte sicurezza in caso d'accès massif anormal ai documents.",
+    "Note": "-",
+    "Applicabilità": "Sécurité renforcée"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Analyse dei parole chiave",
+    "Descrizione": "Analyse dei termes recherchés per identifier i lacunes de connaissances.",
+    "Note": "PII esclusi",
+    "Applicabilità": "Administrateurs"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Épinglage d'annonces",
+    "Descrizione": "Documents urgents o récents épinglables en haut dei résultats.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Enquête de satisfaction",
+    "Descrizione": "Collecte de satisfaction per affiner i performances del modèle.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Statistiques d'usage",
+    "Descrizione": "Volume de requêtes e taux de succès su tableau de bord admin.",
+    "Note": "-",
+    "Applicabilità": "Administrateurs"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Alertes abonnement",
+    "Descrizione": "Notifications al de l'ajout de documents liés ai intérêts de l'utilisateur.",
+    "Note": "-",
+    "Applicabilità": "Abonnement"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Statut d'upload",
+    "Descrizione": "Statut 'Mise à jour' affiché durante i uploads massifs.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Correction orthographique",
+    "Descrizione": "Correction automatique dei fautes de frappe in i requêtes.",
+    "Note": "Type Google",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Glossaire interne",
+    "Descrizione": "Dictionnaire dei termes techniques e abréviations internes.",
+    "Note": "Synonymes",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Formation trimestrielle",
+    "Descrizione": "Sessions de formation trimestrielles per optimiser l'usage del bot.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Contrôle d'intégrité",
+    "Descrizione": "Vérification hebdomadaire de l'intégrité de l'index le dimanche matin.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Retour utilisateur",
+    "Descrizione": "Évaluation della qualité via boutons pouce haut/bas.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Politique",
+    "Punto": "Confidentialité",
+    "Descrizione": "Documents restreints marqués 'Usage interne uniquement'.",
+    "Note": "-",
+    "Applicabilità": "Documents sensibles"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Politique",
+    "Punto": "Propriété intellectuelle",
+    "Descrizione": "Droits d'auteur restant à l'auteur o al département d'origine.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Opérateurs de recherche",
+    "Descrizione": "Guide su i opérateurs (AND, OR, « ») per recherches précises.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Cohérence dei traductions",
+    "Descrizione": "Traduction cohérente dei termes techniques en recherche multilingue.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Aucun résultat",
+    "Descrizione": "Orientation vers le contact del département concerné si info manquante.",
+    "Note": "-",
+    "Applicabilità": "Lacune de données"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Mode hors ligne",
+    "Descrizione": "Ricerca in i documents en cache local senza connexion.",
+    "Note": "-",
+    "Applicabilità": "Version app"
   }
 ]

@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Propriété intellectuelle",
+    "Punto": "Droits d'auteur",
+    "Descrizione": "Tutti i contenus e supports de cours restent la propriété de l'instructeur.",
+    "Note": "-",
+    "Applicabilità": "Tutti i services"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Propriété intellectuelle",
+    "Punto": "Citation dei sources",
+    "Descrizione": "Sources externes citées con hyperliens directs in rapports e supports.",
+    "Note": "-",
+    "Applicabilità": "Rapports/Supportos"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Session Q&A",
+    "Descrizione": "15 min de Q&A live directement dopo chaque cours.",
+    "Note": "-",
+    "Applicabilità": "Tutti i cours"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Mode de prestation",
+    "Descrizione": "Cours en ligne in tempo reale via Google Meet privilégiés.",
+    "Note": "-",
+    "Applicabilità": "En ligne"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Supportos",
+    "Descrizione": "PDF de synthèse dopo le cours ; fichiers PPT originaux non fournis.",
+    "Note": "PDF uniquement",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Coaching de groupe",
+    "Descrizione": "Coaching intensif per petits groupes (4-5 personnes).",
+    "Note": "-",
+    "Applicabilità": "Ateliers"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Niveaux de difficulté",
+    "Descrizione": "Programme adaptable de inizioant à expert.",
+    "Note": "-",
+    "Applicabilità": "Tutti i cours"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Politique d'enregistrement",
+    "Descrizione": "Revente commerciale dei enregistrements strictement interdite.",
+    "Note": "Approbation preventiva",
+    "Applicabilità": "Tutti i cours"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Webinaires live",
+    "Descrizione": "Webinaires privés via YouTube Live possibles.",
+    "Note": "-",
+    "Applicabilità": "En ligne"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Mise à jour del contenu",
+    "Descrizione": "Tutti i contenus mis à jour S1 con données sectorielles récentes.",
+    "Note": "-",
+    "Applicabilità": "Tout contenu"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Pré-lecture",
+    "Descrizione": "Matériel de pré-lecture distribué per maximiser l'efficacité.",
+    "Note": "-",
+    "Applicabilità": "Tutti i cours"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Capacité",
+    "Descrizione": "Maximum 20 partecipanti recommandé per i ateliers.",
+    "Note": "Négociable",
+    "Applicabilità": "Ateliers"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Certificat",
+    "Descrizione": "Certificats de réussite numériques (PDF) su demande.",
+    "Note": "-",
+    "Applicabilità": "Cours long terme"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Environnement pratique",
+    "Descrizione": "Environnement pratique via Google Colab.",
+    "Note": "-",
+    "Applicabilità": "Cours données"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Cours en présentiel",
+    "Descrizione": "Visites su site su demande ; frais de spostamento facturés à part.",
+    "Note": "Calculé par distance",
+    "Applicabilità": "Hors ligne"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Sous-titres",
+    "Descrizione": "Sous-titres in tempo reale par IA per sessions en inglese.",
+    "Note": "-",
+    "Applicabilità": "Participants internationaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Attrezzatura audiovisuel",
+    "Descrizione": "Diffusion HD con Logitech 4K Cam e micro Blue Yeti.",
+    "Note": "-",
+    "Applicabilità": "En ligne"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Intégration LMS",
+    "Descrizione": "Contenus enregistrés téléversables in le LMS del client.",
+    "Note": "-",
+    "Applicabilità": "Contenus enregistrés"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Feedback",
+    "Descrizione": "Enquête de satisfaction via Google Forms dopo chaque session.",
+    "Note": "-",
+    "Applicabilità": "Tutti i cours"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Personale",
+    "Punto": "MBTI",
+    "Descrizione": "ENTJ : approche systématique e orientée stratégie.",
+    "Note": "-",
+    "Applicabilità": "Profil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Personale",
+    "Punto": "Résidence",
+    "Descrizione": "Basé en Corée del Sud ; collaborazione mondiale à distance.",
+    "Note": "-",
+    "Applicabilità": "Localisation"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Personale",
+    "Punto": "Disponibilité",
+    "Descrizione": "07h00-09h00 KST réservé al développement personnel ; risposte possibles retard.",
+    "Note": "-",
+    "Applicabilità": "Jours ouvrés"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Personale",
+    "Punto": "Vision",
+    "Descrizione": "Mission : autonomiser i autres par le partage systématique de connaissances.",
+    "Note": "-",
+    "Applicabilità": "Tout travail"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Personale",
+    "Punto": "Centres d'intérêt",
+    "Descrizione": "Randonnée le week-end per générer de nouvelles idées de cours.",
+    "Note": "-",
+    "Applicabilità": "Personale"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Metodos",
+    "Descrizione": "Virements internationaux accettati via PayPal, Stripe e Wise.",
+    "Note": "-",
+    "Applicabilità": "Clients internationaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Prépagamento",
+    "Descrizione": "Frais de scolarité intégralement payés 7 jours prima le inizio.",
+    "Note": "-",
+    "Applicabilità": "Servizios éducation"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Impôts",
+    "Descrizione": "Retenues à la source per pagamentos internationaux à la charge del client.",
+    "Note": "-",
+    "Applicabilità": "Contrats internationaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Frais de retard",
+    "Descrizione": "5 % de majoration hebdomadaire su pagamentos en retard.",
+    "Note": "-",
+    "Applicabilità": "Factures impayées"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Reçus",
+    "Descrizione": "Reçus PayPal per documentation dei dépenses.",
+    "Note": "-",
+    "Applicabilità": "Tutti i pagamentos"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Fatturazione",
+    "Descrizione": "Factures officielles par e-mail e hébergées su Google Drive.",
+    "Note": "-",
+    "Applicabilità": "Tutti i clients"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Points fidélité",
+    "Descrizione": "5 % de credito per réservations de cours répétées.",
+    "Note": "-",
+    "Applicabilità": "Clients récurrents"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Remboursements",
+    "Descrizione": "En cas de résiliation anticipée, remboursement dei sessions restantes uniquement.",
+    "Note": "Frais déduits",
+    "Applicabilità": "Éducation"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contrat",
+    "Punto": "NDA",
+    "Descrizione": "Le travail ne inizioe qu'après signature del NDA per protéger i données client.",
+    "Note": "-",
+    "Applicabilità": "Conseil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contrat",
+    "Punto": "Exécution",
+    "Descrizione": "Contrats électroniques envoyés e signés via DocuSign.",
+    "Note": "-",
+    "Applicabilità": "Tutti i contrats"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contrat",
+    "Punto": "Usage del contenu",
+    "Descrizione": "Modification secondaire o redistribution nécessite négociation preventiva.",
+    "Note": "-",
+    "Applicabilità": "Tutti i supports"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contrat",
+    "Punto": "Prolongations",
+    "Descrizione": "Prolongation de projet con accord mutuel 2 semaines à l'avance.",
+    "Note": "-",
+    "Applicabilità": "Long terme"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contrat",
+    "Punto": "Planification",
+    "Descrizione": "Prenotazione de sessions via lien Calendly (intégré Google Calendar).",
+    "Note": "Prenotazione 24h avant",
+    "Applicabilità": "Tutti i rendez-vous"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contrat",
+    "Punto": "Adresse professionnelle",
+    "Descrizione": "Adresse enregistrée à Séoul per fiscalité e comptabilité.",
+    "Note": "-",
+    "Applicabilità": "Fiscal/Admin"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contrat",
+    "Punto": "Annulation",
+    "Descrizione": "Annulation sotto 24h prima rendez-vous : 50 % dei frais de session.",
+    "Note": "-",
+    "Applicabilità": "Tutti i rendez-vous"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Marketing",
+    "Punto": "Newsletter",
+    "Descrizione": "Rapports mensuels su tendances sectorielles via newsletter.",
+    "Note": "-",
+    "Applicabilità": "Abbonati"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Marketing",
+    "Punto": "Blog",
+    "Descrizione": "Colonnes professionnelles su Medium e Brunch.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Marketing",
+    "Punto": "Conférences",
+    "Descrizione": "Intervenant annuel ai conférences tech e stratégie mondiales.",
+    "Note": "-",
+    "Applicabilità": "Tout travail"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Marketing",
+    "Punto": "Parrainages",
+    "Descrizione": "10 % de riduzione su la prochaine session per parrainage réussi.",
+    "Note": "-",
+    "Applicabilità": "Tutti i clients"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sécurité",
+    "Punto": "2FA",
+    "Descrizione": "Tutti i contos professionnels sécurisés con Google OTP.",
+    "Note": "-",
+    "Applicabilità": "Tout travail"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sécurité",
+    "Punto": "Partage identifiants",
+    "Descrizione": "Identifiants sensibles condivisos esclusiivement via Bitwarden.",
+    "Note": "-",
+    "Applicabilità": "Collaboration"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sécurité",
+    "Punto": "Suppression dei données",
+    "Descrizione": "Données projet supprimées 6 mois dopo la fin del contrat.",
+    "Note": "-",
+    "Applicabilità": "Après projet"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Sécurité",
+    "Punto": "Sauvegardes",
+    "Descrizione": "Transcriptions e documents sauvegardés su Google Drive.",
+    "Note": "-",
+    "Applicabilità": "Tutti i projets"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Communication",
+    "Punto": "Appel intro",
+    "Descrizione": "15 min de consultation de compatibilité gratuite.",
+    "Note": "-",
+    "Applicabilità": "Nouveaux clients"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Communication",
+    "Punto": "Canaux",
+    "Descrizione": "Communication par e-mail e Slack, sauf urgences.",
+    "Note": "-",
+    "Applicabilità": "Tout travail"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Communication",
+    "Punto": "Langue",
+    "Descrizione": "Conseil disponibile en coréen e inglese.",
+    "Note": "-",
+    "Applicabilità": "Tout travail"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Communication",
+    "Punto": "Horaires",
+    "Descrizione": "Réponses in tempo reale lun-ven 09h00-18h00 (GMT+9).",
+    "Note": "-",
+    "Applicabilità": "Jours ouvrés"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Communication",
+    "Punto": "Style",
+    "Descrizione": "Usage approprié dei emojis encouragé per communication fluide.",
+    "Note": "-",
+    "Applicabilità": "Tout travail"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Workflow",
+    "Punto": "Priorité",
+    "Descrizione": "Maintenance per clients existants traitée en priorité.",
+    "Note": "-",
+    "Applicabilità": "Tout travail"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Workflow",
+    "Punto": "Partenariat",
+    "Descrizione": "Solutions intégrées via réseau d'experts métier.",
+    "Note": "-",
+    "Applicabilità": "Grande échelle"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Workflow",
+    "Punto": "Sans papier",
+    "Descrizione": "Documents livrés numériquement per valeurs senza papier.",
+    "Note": "-",
+    "Applicabilità": "Tout travail"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Outils",
+    "Descrizione": "Espaces Notion créés per partage d'assets projet long terme.",
+    "Note": "-",
+    "Applicabilità": "Long terme"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Annonce congés",
+    "Descrizione": "Planning dei congés communiqué par e-mail 2 semaines à l'avance.",
+    "Note": "-",
+    "Applicabilità": "Tutti i clients"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Info",
+    "Punto": "Expérience",
+    "Descrizione": "Historique détaillé su profil LinkedIn.",
+    "Note": "-",
+    "Applicabilità": "Bio"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Info",
+    "Punto": "Réseaux sociaux",
+    "Descrizione": "Insights in tempo reale via X (Twitter) e LinkedIn.",
+    "Note": "-",
+    "Applicabilità": "Public"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Info",
+    "Punto": "Certification",
+    "Descrizione": "Titulaire Google Analytics e PMP.",
+    "Note": "-",
+    "Applicabilità": "Bio"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Info",
+    "Punto": "Spécialité",
+    "Descrizione": "Expert en stratégie marketing data-driven e culture organisationnelle.",
+    "Note": "-",
+    "Applicabilità": "Conseil"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Info",
+    "Punto": "Publications",
+    "Descrizione": "Auteur d'e-books stratégie su Amazon Kindle.",
+    "Note": "-",
+    "Applicabilità": "Bio"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Info",
+    "Punto": "Portfolio",
+    "Descrizione": "Logos clients e success stories publics (sous réserve NDA).",
+    "Note": "-",
+    "Applicabilità": "Public"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Info",
+    "Punto": "Formation",
+    "Descrizione": "MBA d'une université américaine.",
+    "Note": "-",
+    "Applicabilità": "Bio"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Conseil",
+    "Punto": "Analyse marché",
+    "Descrizione": "Ricerca marché via Google Search e outils analytics premium.",
+    "Note": "-",
+    "Applicabilità": "Marketing"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Conseil",
+    "Punto": "Conseil urgent",
+    "Descrizione": "Tarif 1,5x per demandes de conseil urgent le jour même.",
+    "Note": "-",
+    "Applicabilità": "Urgent"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Conseil",
+    "Punto": "Supporto mise en posto",
+    "Descrizione": "Assistance à l'implémentation Google Workspace.",
+    "Note": "-",
+    "Applicabilità": "Implémentation"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Conseil",
+    "Punto": "Lieu",
+    "Descrizione": "Salles de réunion condivisoes (ex. WeWork) per sessions hors ligne.",
+    "Note": "-",
+    "Applicabilità": "Hors ligne"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Conseil",
+    "Punto": "Benchmarking",
+    "Descrizione": "Analyse dei meilleures pratiques mondiales secteurs comparables.",
+    "Note": "-",
+    "Applicabilità": "Stratégie"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Conseil",
+    "Punto": "Formats",
+    "Descrizione": "Rapports en Google Slides o Google Docs.",
+    "Note": "-",
+    "Applicabilità": "Livraison"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Conseil",
+    "Punto": "Suivi",
+    "Descrizione": "Una réunion de suivi al mese 30 jours dopo projet incluse.",
+    "Note": "-",
+    "Applicabilità": "Forfaits"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Conseil",
+    "Punto": "KPIs",
+    "Descrizione": "KPIs spécifiques établis e mesurés al démarrage del projet.",
+    "Note": "-",
+    "Applicabilità": "Tutti i projets"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Conseil",
+    "Punto": "Périmètre",
+    "Descrizione": "Périmètre exclut l'exécution opérationnelle (travail agence) sauf précision.",
+    "Note": "Devis séparé",
+    "Applicabilità": "Tutti i projets"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Conseil",
+    "Punto": "Retainers",
+    "Descrizione": "Modèles d'abonnement mensuel per Q&A illimité disponibili.",
+    "Note": "-",
+    "Applicabilità": "Retainers"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Conseil",
+    "Punto": "Gestion de crise",
+    "Descrizione": "Scénarios de réponse d'urgence fournis sotto 24h dopo détection del risque.",
+    "Note": "-",
+    "Applicabilità": "Stratégie"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Conseil",
+    "Punto": "Interviews",
+    "Descrizione": "Interviews 1:1 parties prenantes limitées à 45 min par session.",
+    "Note": "-",
+    "Applicabilità": "Diagnostic"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Conseil",
+    "Punto": "Tarif horaire",
+    "Descrizione": "Tarif conseil à 200 $/heure.",
+    "Note": "Min. 1h",
+    "Applicabilità": "Ad-hoc"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Conseil",
+    "Punto": "Rapport stratégique",
+    "Descrizione": "Rapport PDF complet con analyse e feuille de route d'exécution.",
+    "Note": "-",
+    "Applicabilità": "Stratégie"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Conseil",
+    "Punto": "Diagnostic",
+    "Descrizione": "Pré-diagnostic via Google Forms en première session.",
+    "Note": "-",
+    "Applicabilità": "Nouveaux projets"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Conseil",
+    "Punto": "Audits su site",
+    "Descrizione": "Visites aziendale e interviews su site si nécessaire.",
+    "Note": "-",
+    "Applicabilità": "Sur site"
   }
 ]

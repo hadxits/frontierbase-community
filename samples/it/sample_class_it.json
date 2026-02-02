@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Général",
+    "Punto": "Intégrité académique",
+    "Descrizione": "Plagiat o réutilisation non autorisée de code = note 0 e retrait del certificat.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Questions avancées",
+    "Descrizione": "Sujets hors programme discutés in le canal Slack #advanced.",
+    "Note": "-",
+    "Applicabilità": "Inscrits"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Général",
+    "Punto": "Éthique IA",
+    "Descrizione": "Lignes directrices su l'éthique IA in la section 'Perspectives' del dernier module.",
+    "Note": "-",
+    "Applicabilità": "Module 8"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Réseau alumni",
+    "Descrizione": "Canal Slack esclusiif alumni per offres d'emploi e infos carrière.",
+    "Note": "-",
+    "Applicabilità": "Diplômés"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Sécurité clés API",
+    "Descrizione": "Les clés API utilisées en pratique LLM ne doivent pas fuiter à l'extérieur.",
+    "Note": "-",
+    "Applicabilità": "Pratique LLM"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Matériel",
+    "Punto": "Accès archives",
+    "Descrizione": "Matériel accessible 6 mois dopo la fin della cohorte.",
+    "Note": "-",
+    "Applicabilità": "Diplômés"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Évaluation",
+    "Punto": "Assiduité",
+    "Descrizione": "70 % o plus de participation ai sessions live per essere compté présent.",
+    "Note": "-",
+    "Applicabilità": "Cours en direct"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Évaluation",
+    "Punto": "Recours notation",
+    "Descrizione": "Recours par e-mail in i 3 jours dopo annonce dei résultats.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Analyse Box Plot",
+    "Descrizione": "Techniques de détection dei valeurs aberrantes in i supports leçon 14.",
+    "Note": "-",
+    "Applicabilità": "Module 3"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Paramètres navigateur",
+    "Descrizione": "Désactiver i bloqueurs de pop-up per que Google Colab fonctionne.",
+    "Note": "-",
+    "Applicabilità": "Pratique"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Général",
+    "Punto": "Supporto carrière",
+    "Descrizione": "Pour conseils carrière hors technique, utilisez LinkedIn DM.",
+    "Note": "-",
+    "Applicabilità": "Inscrits"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Étude de cas",
+    "Descrizione": "Référez-vous à l'étude de cas Google en Module 5 per le devoir.",
+    "Note": "-",
+    "Applicabilità": "Module 5"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Aide-mémoire",
+    "Descrizione": "Aide-mémoire Pandas per améliorer l'efficacité d'analyse.",
+    "Note": "-",
+    "Applicabilità": "Pratique"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Général",
+    "Punto": "Durée del cours",
+    "Descrizione": "Programme 12 semaines + 4 semaines d'accès révision.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Général",
+    "Punto": "Structure del cours",
+    "Descrizione": "8 modules complets e 24 leçons ciblées.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Matériel",
+    "Punto": "Droits d'auteur",
+    "Descrizione": "Distribution o usage commercial non autorisés strictement interdits.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Corrélation vs causalité",
+    "Descrizione": "Exemples per ne pas confondre corrélation e causalité p. 21.",
+    "Note": "-",
+    "Applicabilità": "Module 2"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Définitions dei données",
+    "Descrizione": "Module 1 : définitions e types (structuré/non structuré).",
+    "Note": "-",
+    "Applicabilità": "Module 1"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Général",
+    "Punto": "Objectifs data literacy",
+    "Descrizione": "Objectif : renforcer la littératie data e la maîtrise dei outils.",
+    "Note": "Voir syllabus",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Sources dei jeux de données",
+    "Descrizione": "Données de pratique issues de Kaggle public.",
+    "Note": "-",
+    "Applicabilità": "Pratique"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Général",
+    "Punto": "Certificat numérique",
+    "Descrizione": "Badge numérique partageable su LinkedIn per i diplômés.",
+    "Note": "-",
+    "Applicabilità": "Diplômés"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Discord d'urgence",
+    "Descrizione": "En cas de panne LMS, servez-vous del serveur Discord d'urgence.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Signalement d'erreurs",
+    "Descrizione": "Signalez i fautes o erreurs techniques via Google Form.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Conception expérimentale",
+    "Descrizione": "Instructions per i tests d'hypothèse p. 18.",
+    "Note": "-",
+    "Applicabilità": "Module 2"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Devoir",
+    "Punto": "Relecture tra pairs",
+    "Descrizione": "Relecture obligatoire de 2 travaux d'autres partecipanti per le projet final.",
+    "Note": "-",
+    "Applicabilità": "Projet final"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Devoir",
+    "Punto": "Nommage dei fichiers",
+    "Descrizione": "Format : Nom_Module#_NomDevoir.pdf per toutes i soumissions.",
+    "Note": "-",
+    "Applicabilità": "Soumissions"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Évaluation",
+    "Punto": "Projet final",
+    "Descrizione": "L'examen final è remplacé par un projet e una vidéo Loom.",
+    "Note": "-",
+    "Applicabilità": "Finaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Matériel",
+    "Punto": "Formats disponibili",
+    "Descrizione": "Tutti i supports en PDF e liens Google Slides.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "FAQ",
+    "Descrizione": "Réinitialisez le runtime Google Colab in caso d'erreur d'environnement.",
+    "Note": "-",
+    "Applicabilità": "Aide technique"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Glossaire",
+    "Descrizione": "Liste de 100 termes techniques essentiels fournie.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Devoir",
+    "Punto": "Grille d'évaluation",
+    "Descrizione": "Logique 40 %, Usage dei outils 30 %, Interprétation 30 %.",
+    "Note": "-",
+    "Applicabilità": "Évaluation"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Devoir",
+    "Punto": "Formation dei équipes",
+    "Descrizione": "Équipes formées en semaine 3 del cours.",
+    "Note": "-",
+    "Applicabilità": "Travaux d'équipe"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Réglage hyperparamètres",
+    "Descrizione": "Importance e techniques détaillées in la vidéo leçon 12.",
+    "Note": "-",
+    "Applicabilità": "Module 6"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Général",
+    "Punto": "Réussite individuelle",
+    "Descrizione": "Supportiamo il tuo percorso verso una carriera nei dati di successo.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Devoir",
+    "Punto": "Tâche individuelle",
+    "Descrizione": "Rapports d'analyse en PDF uniquement.",
+    "Note": "-",
+    "Applicabilità": "Tâche mi-parcours"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Réponse instructeur",
+    "Descrizione": "Retour direct de l'instructeur sotto 24h ouvrées.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Outils interactifs",
+    "Descrizione": "Slack e Notion per Q&A temps réel e gestion de projet.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Ricerca in i PDF",
+    "Descrizione": "Utilisez Ctrl+F in i slides PDF per trouver del contenu.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Général",
+    "Punto": "Langues",
+    "Descrizione": "Sous-titres en inglese e coréen per tous i contenus vidéo.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Devoir",
+    "Punto": "Retard de soumission",
+    "Descrizione": "Devoirs à rendre prima minuit le dimanche suivant la fin de chaque module.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Général",
+    "Punto": "Parcours d'apprentissage",
+    "Descrizione": "Raccomandiamo 'Machine Learning avanzato' dopo questo corso.",
+    "Note": "-",
+    "Applicabilità": "Diplômés"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Heures de bureau live",
+    "Descrizione": "Sessions Q&A live chaque jeudi 20h via Google Meet.",
+    "Note": "Questions preventivas",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Métriques Machine Learning",
+    "Descrizione": "Différences tra Accuracy e F1-score p. 30.",
+    "Note": "-",
+    "Applicabilità": "Module 4"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Matériel",
+    "Punto": "Compatibilité mobile",
+    "Descrizione": "PDF optimisés per una bonne lisibilité su mobile.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Évaluation",
+    "Punto": "Examen mi-parcours",
+    "Descrizione": "Via Google Forms, Modules 1 à 4.",
+    "Note": "-",
+    "Applicabilità": "Mi-parcours"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Valeurs manquantes",
+    "Descrizione": "Les stratégies de nettoyage doivent correspondre à l'objectif d'analyse.",
+    "Note": "-",
+    "Applicabilità": "Pratique 1"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Devoir",
+    "Punto": "Meilleurs travaux",
+    "Descrizione": "Meilleurs devoirs condivisos in le dossier 'Best Practice'.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Matériel",
+    "Punto": "Propriété dei travaux",
+    "Descrizione": "Les partecipanti conservent i droits su leurs soumissions.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Visualisation PCA",
+    "Descrizione": "Signification géométrique della PCA p. 40.",
+    "Note": "-",
+    "Applicabilità": "Module 5"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Environnement pratique",
+    "Descrizione": "Guide d'installation Google Colab e VS Code.",
+    "Note": "-",
+    "Applicabilità": "Pratique"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Général",
+    "Punto": "Prérequis",
+    "Descrizione": "Bases en statistiques (moyenne, variance) richiestas.",
+    "Note": "-",
+    "Applicabilità": "Niveau intro"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Mise à l'échelle",
+    "Descrizione": "Matériel complémentaire su la mise à l'échelle en annexe.",
+    "Note": "-",
+    "Applicabilità": "Module 3"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Matériel",
+    "Punto": "Code source Python",
+    "Descrizione": "Code dei pratiques disponibile su nostra dépôt GitHub.",
+    "Note": "-",
+    "Applicabilità": "Sessions pratique"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Version Python",
+    "Descrizione": "Python 3.9 o supérieur requis per compatibilité.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Évaluation",
+    "Punto": "Critères de réussite",
+    "Descrizione": "Certificat si 80 %+ d'assiduité e score total 70+.",
+    "Note": "-",
+    "Applicabilità": "Diplôme"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Évaluation",
+    "Punto": "Format quiz",
+    "Descrizione": "Quiz de 5 questions à la fin de chaque leçon.",
+    "Note": "-",
+    "Applicabilità": "Par leçon"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Concepts RAG",
+    "Descrizione": "Module 4 explique le RAG con connaissance externe.",
+    "Note": "-",
+    "Applicabilità": "Module 4"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Logique Random Forest",
+    "Descrizione": "Logique de fonctionnement visualisée p. 45.",
+    "Note": "-",
+    "Applicabilità": "Module 6"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Matériel",
+    "Punto": "Liste de lecture",
+    "Descrizione": "Liste d'articles per étude approfondie in chaque chapitre.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Conseils experts",
+    "Descrizione": "Chapitre 7 : questions d'entretien e conseils de professionnels.",
+    "Note": "-",
+    "Applicabilità": "Module 7"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Évaluation",
+    "Punto": "Repassage",
+    "Descrizione": "Una session de repassage si score insuffisant.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Général",
+    "Punto": "Remboursement",
+    "Descrizione": "Remboursement possiblement restreint si matériel téléchargé.",
+    "Note": "-",
+    "Applicabilità": "Pagamento"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Patterns Regex",
+    "Descrizione": "Collection de patterns Regex per prétraitement texte en annexe 2.",
+    "Note": "-",
+    "Applicabilità": "Module 3"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Matériel",
+    "Punto": "Modèles de rapport",
+    "Descrizione": "Modèles Google Docs in le dossier ressources.",
+    "Note": "-",
+    "Applicabilità": "Devoirs"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Revues recherche",
+    "Descrizione": "Streams mensuels su i ultimi articles data science.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Général",
+    "Punto": "Public cible",
+    "Descrizione": "Conçu per i non-spécialistes e juniors en analyse de données.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Base dei risposte",
+    "Descrizione": "Réponses basées su i slides officiels e notes instructeur.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Format dei questions",
+    "Descrizione": "Indiquez le numéro de page per una aide plus rapide.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Stack logicielle",
+    "Descrizione": "Focus su Pandas, NumPy e Scikit-learn.",
+    "Note": "-",
+    "Applicabilità": "Pratique"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Écart-type",
+    "Descrizione": "Formules in la section 'Bases statistiques' p. 15.",
+    "Note": "-",
+    "Applicabilità": "Module 2"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Apprentissage supervisé",
+    "Descrizione": "Différences supervisé/non supervisé p. 22.",
+    "Note": "-",
+    "Applicabilità": "Module 3"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Matériel",
+    "Punto": "Liens complémentaires",
+    "Descrizione": "Liste de tutoriels YouTube per aide supplementare.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Définitions de termes",
+    "Descrizione": "'Embedding' = conversion del texte en vecteurs numériques.",
+    "Note": "-",
+    "Applicabilità": "Module 2"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Matériel",
+    "Punto": "Transcriptions",
+    "Descrizione": "Scripts de toutes i vidéos téléchargeables en texte.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Accès ai outils",
+    "Descrizione": "Codes d'essai éducation per outils payants présentés.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Matériel",
+    "Punto": "Fréquence dei mises à jour",
+    "Descrizione": "Matériel mis à jour chaque cohorte secondo i tendances.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Devoir",
+    "Punto": "Soumission vidéo",
+    "Descrizione": "Présentations via lien YouTube non répertorié o Google Drive.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Contenu",
+    "Punto": "Principes de visualisation",
+    "Descrizione": "Cinq principes de lisibilité détaillés en Module 8.",
+    "Note": "-",
+    "Applicabilità": "Module 8"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Outils de visualisation",
+    "Descrizione": "Curriculum centré su Matplotlib e Seaborn.",
+    "Note": "-",
+    "Applicabilità": "Pratique"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Intégration Workspace",
+    "Descrizione": "Connectez vos apps Google Workspace con vostro e-mail étudiant.",
+    "Note": "-",
+    "Applicabilità": "Nouveaux partecipanti"
   }
 ]

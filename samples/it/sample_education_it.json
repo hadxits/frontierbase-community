@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Personale",
+    "Punto": "Philosophie éducative",
+    "Descrizione": "Miriamo a un'educazione che favorisca il pensiero autonomo piuttosto che il nozionismo.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Moyens de pagamento",
+    "Descrizione": "PayPal, Stripe e cartes bancaires majeures accettati.",
+    "Note": "-",
+    "Applicabilità": "Pagamento en ligne"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Frais en retard",
+    "Descrizione": "Participation al cours restreinte si scolarité en retard de plus d'une semaine.",
+    "Note": "-",
+    "Applicabilità": "Contos en retard"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Fatturazione",
+    "Descrizione": "Factures envoyées immediatamente à l'e-mail del responsable inscrit.",
+    "Note": "PDF fourni",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Riduzione long terme",
+    "Descrizione": "Frais de matériel exonérés per pagamento de 3 mois à l'avance.",
+    "Note": "-",
+    "Applicabilità": "Cours réguliers"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Attestation de pagamento",
+    "Descrizione": "Attestations imprimables depuis la section Mon espace.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Erreurs carte",
+    "Descrizione": "En cas d'échec de pagamento carte internationale, demander facture PayPal.",
+    "Note": "-",
+    "Applicabilità": "Participants internationaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Politique de riduzione",
+    "Descrizione": "Riduziones non cumulables ; seule la plus élevée si applica.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Riduzione fratrie",
+    "Descrizione": "10 % su le total lorsque 2 membres o plus della famille s'inscrivent.",
+    "Note": "-",
+    "Applicabilità": "Membres della famille"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Pagamento",
+    "Punto": "Remboursement",
+    "Descrizione": "100 % prima le inizio ; 2/3 prima 1/3 del trimestre ; 1/2 prima la moitié.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Conseil 1:1",
+    "Descrizione": "Entretiens individuels réguliers deux fois par semestre.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Santé e pauses",
+    "Descrizione": "Règle stricte : 50 min de cours, 10 min de pause per i longues séances.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Examens blancs",
+    "Descrizione": "Examens blancs complets trimestriels per analyser i performances.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Système de mérite",
+    "Descrizione": "'Élève del mois' choisi secondo devoirs e attitude en classe.",
+    "Note": "-",
+    "Applicabilità": "Participants"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Rapports de progrès",
+    "Descrizione": "Rapports mensuels de résultats envoyés via Google Docs.",
+    "Note": "Inclut notes 1:1",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Mise à jour del programme",
+    "Descrizione": "Objectifs hebdomadaires e tableaux de progrès chaque lundi.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Conseil admissions",
+    "Descrizione": "Conseil portfolio per préparation ai admissions supérieures.",
+    "Note": "Sur rendez-vous",
+    "Applicabilità": "Cours préparatoires"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Alerte présence",
+    "Descrizione": "Parents notifiés 10 min dopo le inizio del cours.",
+    "Note": "Slack/Message",
+    "Applicabilità": "Mineurs"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Administration",
+    "Punto": "Carte étudiante numérique",
+    "Descrizione": "Entrée e suivi de présence via carte étudiante mobile.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Éducation",
+    "Punto": "Qualification dei enseignants",
+    "Descrizione": "Tutti i enseignants ont un Master o 5+ ans d'expérience.",
+    "Note": "-",
+    "Applicabilità": "Enseignants"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Éducation",
+    "Punto": "Multilinguisme",
+    "Descrizione": "Tutti i cours en inglese o coréen al choix.",
+    "Note": "-",
+    "Applicabilità": "Cours globaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Éducation",
+    "Punto": "Spécialisations",
+    "Descrizione": "Focus su STEM e apprentissage par Design Thinking.",
+    "Note": "-",
+    "Applicabilità": "Parcours spécialisés"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Éducation",
+    "Punto": "Révision del programme",
+    "Descrizione": "Programme revu chaque année secondo i tendances éducatives.",
+    "Note": "-",
+    "Applicabilità": "Tutti i cours"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Protocoles santé",
+    "Descrizione": "Participation restreinte in caso de maladie contagieuse fino a guérison.",
+    "Note": "Alternative en ligne",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Voies d'évacuation",
+    "Descrizione": "Sorties e itinéraires d'évacuation à chaque porte de salle.",
+    "Note": "-",
+    "Applicabilità": "Sur site"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Politique téléphone",
+    "Descrizione": "Téléphones interdits en cours ; à déposer in i casiers prévus.",
+    "Note": "Bureau per urgence",
+    "Applicabilità": "Participants"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Sécurité campus",
+    "Descrizione": "Mineurs ne possono quitter le campus durante i cours senza accord.",
+    "Note": "-",
+    "Applicabilità": "Mineurs"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Nourriture e boissons",
+    "Descrizione": "Pas de nourriture en salle ; boissons con bouchon uniquement.",
+    "Note": "Salle commune",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Droits d'auteur",
+    "Descrizione": "Reproduction o partage non autorisés dei supports de cours interdits.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Retards",
+    "Descrizione": "3 retards = 1 absence non justifiée ; avertissement.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Règlement",
+    "Punto": "Exclusion",
+    "Descrizione": "Exclusion immédiate possible per perturbation o langage injurieux.",
+    "Note": "Zéro tolérance",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Accès VPN",
+    "Descrizione": "Guide VPN dédié per partecipanti internationaux.",
+    "Note": "-",
+    "Applicabilità": "Participants internationaux"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Supporto conto",
+    "Descrizione": "Contacter le support IT par e-mail per problèmes Google.",
+    "Note": "-",
+    "Applicabilità": "Participants en ligne"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Conservation dei données",
+    "Descrizione": "Données académiques conservées 1 an dopo diplôme, puis suppression.",
+    "Note": "-",
+    "Applicabilità": "Diplômés"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Application mobile",
+    "Descrizione": "Tests de vocabulaire e suivi dei notes via l'app dédiée.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Maintenance serveur",
+    "Descrizione": "Maintenance chaque dimanche 02h00-04h00.",
+    "Note": "-",
+    "Applicabilità": "Web/LMS"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Technique",
+    "Punto": "Casque audio",
+    "Descrizione": "Casque personnel recommandé per cours de langues.",
+    "Note": "Location possible",
+    "Applicabilità": "Cours de langue"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Autre",
+    "Punto": "Stages vacances",
+    "Descrizione": "Camps courts durante i vacances d'été e d'hiver.",
+    "Note": "-",
+    "Applicabilità": "Optionnel"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Autre",
+    "Punto": "Navette",
+    "Descrizione": "Servizio de navette actuellement suspendu per raisons de sicurezza.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Autre",
+    "Punto": "Bourses",
+    "Descrizione": "Bourses per meilleures performances e nette amélioration.",
+    "Note": "-",
+    "Applicabilità": "Sélection trimestrielle"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Autre",
+    "Punto": "Remise dei diplômes",
+    "Descrizione": "Cérémonie en février per fin de cursus régulier.",
+    "Note": "-",
+    "Applicabilità": "Diplômés"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Autre",
+    "Punto": "Cours d'essai",
+    "Descrizione": "Frais d'essai remboursés in caso d'inscription al cours régulier.",
+    "Note": "-",
+    "Applicabilità": "Nouveaux partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Autre",
+    "Punto": "Programme parrainage",
+    "Descrizione": "Bon de 20 $ per le parrain à chaque nouvelle inscription.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Autre",
+    "Punto": "Séminaires parents",
+    "Descrizione": "Webinaires en ligne en inizio de semestre per présentation.",
+    "Note": "Google Meet",
+    "Applicabilità": "Parents"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Communication",
+    "Punto": "Boîte à suggestions",
+    "Descrizione": "Avis collectés via formulaire Google anonyme.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Communication",
+    "Punto": "Newsletters",
+    "Descrizione": "Newsletter mensuelle con infos éducatives.",
+    "Note": "-",
+    "Applicabilità": "Abbonati"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Communication",
+    "Punto": "Heures de bureau",
+    "Descrizione": "Supporto téléphonique le plus rapide en semaine 14h-17h.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Communication",
+    "Punto": "Canal d'annonces",
+    "Descrizione": "Annonces importantes via canal Slack officiel.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Remise dei devoirs",
+    "Descrizione": "Tutti i devoirs à déposer su Google Classroom prima la date limite.",
+    "Note": "Dates strictes",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Travaux de groupe",
+    "Descrizione": "Vendredis consacrés ai projets d'équipe e présentations.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Enregistrements",
+    "Descrizione": "Vidéos de révision condivisoes sotto 24h, disponibili 7 jours.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Test de niveau",
+    "Descrizione": "Test diagnostique via Google Forms prima inscription.",
+    "Note": "Env. 30 min",
+    "Applicabilità": "Nouveaux partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Mentorat",
+    "Descrizione": "Programme mentorat 1:1 con partecipanti seniors.",
+    "Note": "-",
+    "Applicabilità": "Candidats"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Rattrapage",
+    "Descrizione": "Enregistrement o séance de rattrapage su préavis de 24h.",
+    "Note": "Max 1/mois",
+    "Applicabilità": "Raisons personnelles"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Taille dei classes",
+    "Descrizione": "Maximum 8 partecipanti par classe.",
+    "Note": "-",
+    "Applicabilità": "Cours réguliers"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Supportos de cours",
+    "Descrizione": "Notes PDF internes ; manuels externes à acheter séparément.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Mode d'enseignement",
+    "Descrizione": "Hybride présentiel e sessions live Google Meet.",
+    "Note": "-",
+    "Applicabilità": "Hybride"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Suivi dei plannings",
+    "Descrizione": "Plannings individuels consultables in tempo reale via Google Sheets.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Vidéos préparatoires",
+    "Descrizione": "Vidéo de concepts de 5 min à visionner prima le cours (classe inversée).",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Salle d'étude",
+    "Descrizione": "Salles ouvertes le week-end 10h-12h per étude autonome.",
+    "Note": "Surveillance",
+    "Applicabilità": "Candidats"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Supporto Q&A",
+    "Descrizione": "Questions su Slack #Q&A hors cours ; réponse sotto 24h.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Évaluation",
+    "Descrizione": "Notation basée su examen écrit, portfolio e participation.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Cours",
+    "Punto": "Présentations de projets",
+    "Descrizione": "Projets de fin de trimestre diffusés en YouTube Live per i parents.",
+    "Note": "Visionnage en direct",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Installations",
+    "Punto": "Location casier",
+    "Descrizione": "Casiers personnels per inscriptions de 3 mois o plus.",
+    "Note": "Caution 10 $",
+    "Applicabilità": "Participants long terme"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Installations",
+    "Punto": "Climatisation",
+    "Descrizione": "Température dei salles maintenue à 24 °C.",
+    "Note": "-",
+    "Applicabilità": "Sur site"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Installations",
+    "Punto": "Objets trouvés",
+    "Descrizione": "Objets conservés à l'accueil 1 semaine prima élimination.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Installations",
+    "Punto": "Salles d'étude",
+    "Descrizione": "Salles vides réservables comme espaces d'étude.",
+    "Note": "Prenotazione jour même",
+    "Applicabilità": "Participants uniquement"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Installations",
+    "Punto": "Wi-Fi",
+    "Descrizione": "Wi-Fi haut débit gratuit in tout l'établissement.",
+    "Note": "MP : study1234",
+    "Applicabilità": "Sur site"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Installations",
+    "Punto": "Fontaines à eau",
+    "Descrizione": "Fontaines in la salle commune ; gobelets personnels encouragés.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Installations",
+    "Punto": "Éclairage",
+    "Descrizione": "LED d'étude spéciales per réduire la fatigue oculaire.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Installations",
+    "Punto": "Location tablettes",
+    "Descrizione": "iPad o Galaxy Tab disponibili en cours si nécessaire.",
+    "Note": "Pas de sortie",
+    "Applicabilità": "En cours uniquement"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Changement d'enseignant",
+    "Descrizione": "Préavis d'au moins 1 semaine in caso de changement inévitable.",
+    "Note": "-",
+    "Applicabilità": "Tutti i partecipanti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Alertes urgence",
+    "Descrizione": "Alertes Google Chat ai contacts d'urgence enregistrés.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Jours fériés",
+    "Descrizione": "Fermé i jours fériés ; dates de rattrapage annoncées.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Prenotazione conseil",
+    "Descrizione": "Prise de rendez-vous via lien Google Calendar condiviso.",
+    "Note": "Préavis 24h",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Horaires",
+    "Descrizione": "Lun-Ven 13h-22h, Sam 9h-18h. Fermé dimanche.",
+    "Note": "-",
+    "Applicabilità": "Tutti gli utenti"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Localisation",
+    "Descrizione": "Devant sortie 5, Gare centrale (Google Maps).",
+    "Note": "Parking disponibile",
+    "Applicabilità": "Sur site"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Avantages partners",
+    "Descrizione": "10 % de riduzione en librairies partners su présentation carte étudiante.",
+    "Note": "-",
+    "Applicabilità": "Participants actifs"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Gestione",
+    "Punto": "Validation parking",
+    "Descrizione": "1 heure de parking gratuit per i visiteurs.",
+    "Note": "Demander à l'accueil",
+    "Applicabilità": "Visiteurs"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Categoria": "Supporto",
+    "Punto": "Location kits",
+    "Descrizione": "Kits per cours de codage e robotique disponibili à la location.",
+    "Note": "-",
+    "Applicabilità": "Cours pratiques"
   }
 ]
