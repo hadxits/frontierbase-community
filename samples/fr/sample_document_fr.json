@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Personnel",
+    "Point": "Valeur centrale",
+    "Description": "Nous connectons les informations éparses pour permettre à chacun de trouver le savoir en quelques secondes.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Pondération du titre",
+    "Description": "Les mots-clés du titre ont un poids supérieur à ceux du corps du texte.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Méthode de recherche",
+    "Description": "Recherche par mots-clés et recherche sémantique basée sur le sens.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "Requêtes en langage naturel"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Périmètre de recherche",
+    "Description": "Indexation des PDF, Google Docs et Notion, y compris le texte des images.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "OCR supporté"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Limite des résultats",
+    "Description": "Affiche les 3 à 5 extraits les plus pertinents pour des réponses précises.",
+    "Applicabilité": "Paramètres standard",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Filtre par date",
+    "Description": "Recherche restreignable à des périodes (ex. documents après 2024).",
+    "Applicabilité": "Recherche avancée",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Gestion des versions",
+    "Description": "Priorité à la dernière version active du document.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Filtre par département",
+    "Description": "Restriction aux départements HR, Finance, Dev, etc.",
+    "Applicabilité": "Entreprise",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Mots vides",
+    "Description": "Les particules et conjonctions sans sens sont pondérées à la baisse.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Optimisation du format",
+    "Description": "Filtres optimisés pour types de documents (ex. modèles de rapport).",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Multilingue",
+    "Description": "Recherche en anglais et résumés en coréen (ou inversement).",
+    "Applicabilité": "Mode multilingue",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Filtre d'exclusion",
+    "Description": "Exclusion des documents contenant des mots-clés négatifs spécifiques.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Commentaires",
+    "Description": "Texte des commentaires ou annotations également recherchable.",
+    "Applicabilité": "Optionnel",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Correspondance des requêtes",
+    "Description": "Correspondance selon le type (ex. Guide pratique vs requête numérique).",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Fraîcheur de l'index",
+    "Description": "Modifications reflétées dans l'index en maximum 1 heure.",
+    "Applicabilité": "Sync temps réel",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Recherche de code",
+    "Description": "Identification et recherche de blocs de code par langage dans les docs techniques.",
+    "Applicabilité": "Docs techniques",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Taille des fichiers",
+    "Description": "Indexation de fichiers jusqu'à 50 Mo.",
+    "Applicabilité": "Limites système",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Administration",
+    "Point": "Scalabilité",
+    "Description": "Architecture pour recherche temps réel sur plus d'1 million de documents.",
+    "Applicabilité": "Système entier",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Administration",
+    "Point": "Suppression des données",
+    "Description": "Documents supprimés retirés immédiatement de l'index.",
+    "Applicabilité": "À la suppression",
+    "Notes": "Non récupérable"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Administration",
+    "Point": "Validation des liens",
+    "Description": "Vérification périodique de la validité des liens externes.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Administration",
+    "Point": "Filtres métadonnées",
+    "Description": "Filtre par titre, auteur, tags, date de modification.",
+    "Applicabilité": "Recherche avancée",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Administration",
+    "Point": "Indexation automatique",
+    "Description": "Fichiers du dossier Google Drive dédié indexés automatiquement.",
+    "Applicabilité": "Administrateurs",
+    "Notes": "PDF, DOCX, TXT"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Administration",
+    "Point": "Traitement OCR",
+    "Description": "PDF scannés convertis en texte recherchable via OCR.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Administration",
+    "Point": "Validation des connaissances",
+    "Description": "Seuls les documents validés par les admins servent de base au bot.",
+    "Applicabilité": "Contrôle qualité",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Administration",
+    "Point": "Politique d'archivage",
+    "Description": "Documents de plus de 5 ans archivés et exclus de la recherche standard.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Administration",
+    "Point": "Recherche par auteur",
+    "Description": "Recherche de documents par auteur ou équipe.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Administration",
+    "Point": "Contrôle d'accès",
+    "Description": "Résultats limités aux documents autorisés par l'ACL de l'utilisateur.",
+    "Applicabilité": "Entreprise",
+    "Notes": "Conformité sécurité"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Administration",
+    "Point": "Doublons",
+    "Description": "En cas de doublon, priorité à la version la plus récente.",
+    "Applicabilité": "Doublons",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Administration",
+    "Point": "Système de tags",
+    "Description": "Tags standardisés (#Manuel, #Réglementation, #SupportTech, etc.).",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technique",
+    "Point": "Intégration API",
+    "Description": "Bot de recherche invocable depuis Slack ou Microsoft Teams.",
+    "Applicabilité": "Intégrations externes",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technique",
+    "Point": "Reranking",
+    "Description": "Optimisation des résultats selon les clics et retours utilisateurs.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technique",
+    "Point": "Base vectorielle",
+    "Description": "Base vectorielle haute performance pour réponses en moins d'1 seconde.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technique",
+    "Point": "Masquage des données personnelles",
+    "Description": "Données personnelles identifiables masquables dans les résultats.",
+    "Applicabilité": "Sécurité PII",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technique",
+    "Point": "Limitation du débit",
+    "Description": "Limites pour éviter la surcharge par requêtes massives automatisées.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technique",
+    "Point": "Snapshot des connaissances",
+    "Description": "Snapshots de la base pour vérifier les réglementations passées.",
+    "Applicabilité": "Conformité",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technique",
+    "Point": "Reconnaissance d'entités",
+    "Description": "Identification des noms propres (produits, projets) pour correspondance précise.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technique",
+    "Point": "Analyse visuelle",
+    "Description": "Analyse des légendes et métadonnées des diagrammes et graphiques.",
+    "Applicabilité": "Multimodal",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technique",
+    "Point": "Embeddings",
+    "Description": "Modèles d'embedding pour calcul de similarité sémantique entre phrases.",
+    "Applicabilité": "Système",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technique",
+    "Point": "Analyse d'intention",
+    "Description": "Détection de l'intention (explication, méthode, chiffre précis, etc.).",
+    "Applicabilité": "Analyse des requêtes",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technique",
+    "Point": "Stratégie de découpage",
+    "Description": "Documents découpés en chunks sémantiques pour meilleure précision.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "Préservation du contexte"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technique",
+    "Point": "Cache des résultats",
+    "Description": "Requêtes fréquentes mises en cache pour réponses quasi instantanées.",
+    "Applicabilité": "Performance",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technique",
+    "Point": "Mémoire contextuelle",
+    "Description": "Mémorisation du contexte des questions pour requêtes de suivi.",
+    "Applicabilité": "Recherche conversationnelle",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technique",
+    "Point": "Extension des requêtes",
+    "Description": "Extension des mots-clés courts en phrases plus complètes.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technique",
+    "Point": "Tokenisation",
+    "Description": "Découpage du texte en unités de tokens pour embeddings efficaces.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technique",
+    "Point": "Recherche hybride",
+    "Description": "Combinaison recherche vectorielle (sémantique) et par mots-clés (lexicale).",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Réponse",
+    "Point": "Lisibilité",
+    "Description": "Phrases concises et puces pour réponses claires et scannables.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Réponse",
+    "Point": "Requêtes liées",
+    "Description": "Suggestion de termes de recherche liés sous la réponse.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Réponse",
+    "Point": "Résumé des longs documents",
+    "Description": "Pour les sources longues : résumé d'abord avec option 'Lire la suite'.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Réponse",
+    "Point": "Étapes numérotées",
+    "Description": "Étapes numérotées (1, 2, 3) pour les guides et procédures.",
+    "Applicabilité": "Méthodologie",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Réponse",
+    "Point": "Citations",
+    "Description": "Nom du document et numéro de page pour chaque donnée citée.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "Fiabilité des sources"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Réponse",
+    "Point": "Politique sans info",
+    "Description": "Si aucune info pertinente : le bot le signale au lieu d'inventer.",
+    "Applicabilité": "Lacune de données",
+    "Notes": "Anti-hallucination"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Réponse",
+    "Point": "Score de confiance",
+    "Description": "Score interne d'alignement entre réponse et source.",
+    "Applicabilité": "Validation",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Réponse",
+    "Point": "Style de résumé",
+    "Description": "Résumés strictement ancrés dans le texte source.",
+    "Applicabilité": "Mode résumé",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Réponse",
+    "Point": "Tag auteur",
+    "Description": "Liens Slack directs vers l'auteur original du document.",
+    "Applicabilité": "Entreprise",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Réponse",
+    "Point": "Citations en bloc",
+    "Description": "Format citation (>) pour extraits textuels de la source.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Réponse",
+    "Point": "Aperçu du fichier",
+    "Description": "Miniature de la page d'où provient l'information.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Réponse",
+    "Point": "Tableaux/Graphiques",
+    "Description": "Données tabulaires formatées en Markdown pour lisibilité.",
+    "Applicabilité": "Données volumineuses",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Réponse",
+    "Point": "Liens profonds",
+    "Description": "Liens directs vers l'emplacement dans Google Drive ou Notion.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Sécurité",
+    "Point": "Isolation des données",
+    "Description": "Données de connaissances séparées logiquement par client.",
+    "Applicabilité": "B2B",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Sécurité",
+    "Point": "Chiffrement des données",
+    "Description": "Données texte indexées chiffrées et stockées en cloud sécurisé.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Sécurité",
+    "Point": "Souveraineté des données",
+    "Description": "Documents demandés en suppression supprimés sous 24h, y compris sauvegardes.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Sécurité",
+    "Point": "Journal d'audit",
+    "Description": "Journalisation de qui a recherché quels documents.",
+    "Applicabilité": "Conformité",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Sécurité",
+    "Point": "Détection d'anomalies",
+    "Description": "Alerte sécurité en cas d'accès massif anormal aux documents.",
+    "Applicabilité": "Sécurité renforcée",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Analyse des mots-clés",
+    "Description": "Analyse des termes recherchés pour identifier les lacunes de connaissances.",
+    "Applicabilité": "Administrateurs",
+    "Notes": "PII exclus"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Épinglage d'annonces",
+    "Description": "Documents urgents ou récents épinglables en haut des résultats.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Enquête de satisfaction",
+    "Description": "Collecte de satisfaction pour affiner les performances du modèle.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Statistiques d'usage",
+    "Description": "Volume de requêtes et taux de succès sur tableau de bord admin.",
+    "Applicabilité": "Administrateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Alertes abonnement",
+    "Description": "Notifications lors de l'ajout de documents liés aux intérêts de l'utilisateur.",
+    "Applicabilité": "Abonnement",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Statut d'upload",
+    "Description": "Statut 'Mise à jour' affiché pendant les uploads massifs.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Correction orthographique",
+    "Description": "Correction automatique des fautes de frappe dans les requêtes.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "Type Google"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Glossaire interne",
+    "Description": "Dictionnaire des termes techniques et abréviations internes.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "Synonymes"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Formation trimestrielle",
+    "Description": "Sessions de formation trimestrielles pour optimiser l'usage du bot.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Contrôle d'intégrité",
+    "Description": "Vérification hebdomadaire de l'intégrité de l'index le dimanche matin.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Retour utilisateur",
+    "Description": "Évaluation de la qualité via boutons pouce haut/bas.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Politique",
+    "Point": "Confidentialité",
+    "Description": "Documents restreints marqués 'Usage interne uniquement'.",
+    "Applicabilité": "Documents sensibles",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Politique",
+    "Point": "Propriété intellectuelle",
+    "Description": "Droits d'auteur restant à l'auteur ou au département d'origine.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Opérateurs de recherche",
+    "Description": "Guide sur les opérateurs (AND, OR, « ») pour recherches précises.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Cohérence des traductions",
+    "Description": "Traduction cohérente des termes techniques en recherche multilingue.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Aucun résultat",
+    "Description": "Orientation vers le contact du département concerné si info manquante.",
+    "Applicabilité": "Lacune de données",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Mode hors ligne",
+    "Description": "Recherche dans les documents en cache local sans connexion.",
+    "Applicabilité": "Version app",
+    "Notes": "-"
   }
 ]

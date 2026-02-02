@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Surveillance 24/7",
+    "Description": "Notre infrastructure serveur est surveillée 24h/24 et 365j/an pour garantir une disponibilité maximale.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Compte",
+    "Point": "Désactivation du compte",
+    "Description": "Vous pouvez fermer votre compte dans les paramètres ; toutes les données personnelles sont supprimées immédiatement.",
+    "Applicabilité": "Inscrits",
+    "Notes": "Non récupérable"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Compte",
+    "Point": "Verrouillage du compte",
+    "Description": "Le compte est verrouillé 30 minutes après 5 tentatives de connexion échouées.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Documentation API",
+    "Description": "Documentation développeur pour les intégrations externes dans le Dev Center.",
+    "Applicabilité": "Développeurs",
+    "Notes": "Open API"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Facturation",
+    "Point": "Apple Pay et moyens de paiement",
+    "Description": "Paiements sans friction via Apple Pay, PayPal et cartes bancaires majeures.",
+    "Applicabilité": "Formules payantes",
+    "Notes": "Visa, Mastercard"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Automatisation",
+    "Description": "Automatisez les tâches répétitives avec des règles et déclencheurs personnalisés.",
+    "Applicabilité": "Formules payantes",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Disponibilité des plateformes",
+    "Description": "Web, iOS, Android, macOS et Windows natifs.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Politique",
+    "Point": "Fréquence des sauvegardes",
+    "Description": "Sauvegardes complètes quotidiennes stockées dans des emplacements physiquement distincts.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Facturation",
+    "Point": "Cycle de facturation",
+    "Description": "Facturation mensuelle ou annuelle au choix.",
+    "Applicabilité": "Formules payantes",
+    "Notes": "20 % de réduction annuelle"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Dépannage",
+    "Point": "Cache navigateur",
+    "Description": "En cas de problème d'affichage, vérifiez le zoom à 100 % et videz le cache.",
+    "Applicabilité": "Web",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Facturation",
+    "Point": "Annulation",
+    "Description": "Annulation de l'abonnement à tout moment via le tableau de bord facturation.",
+    "Applicabilité": "Utilisateurs payants",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Facturation",
+    "Point": "Erreurs de carte",
+    "Description": "Vérifiez les limites et blocages de paiement international en cas d'échec.",
+    "Applicabilité": "Échec de paiement",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Forum communautaire",
+    "Description": "Échangez astuces et bonnes pratiques avec d'autres utilisateurs sur le forum officiel.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Facturation",
+    "Point": "Devise",
+    "Description": "Toutes les transactions internationales sont traitées en dollars américains (USD).",
+    "Applicabilité": "International",
+    "Notes": "Taux de change"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Tableau de bord personnalisé",
+    "Description": "Configurez un tableau de bord pour gérer votre flux de travail et planning.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Mode sombre",
+    "Description": "Basculez entre mode sombre et clair dans les paramètres d'affichage.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Politique",
+    "Point": "Chiffrement des données",
+    "Description": "Toutes les données chiffrées en AES 256 bits en transit et au repos.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Politique",
+    "Point": "Souveraineté des données",
+    "Description": "Vous conservez la propriété de vos données et pouvez exporter une sauvegarde complète à tout moment.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Politique",
+    "Point": "Régions des datacenters",
+    "Description": "Données distribuées sur les régions Google Cloud aux États-Unis et en Europe.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Dépannage",
+    "Point": "Notifications push",
+    "Description": "Activez les autorisations de notification dans le navigateur et l'OS.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Compte",
+    "Point": "Comptes inactifs",
+    "Description": "Les comptes gratuits inactifs (aucune connexion depuis 1 an) peuvent être suspendus.",
+    "Applicabilité": "Utilisateurs gratuits",
+    "Notes": "Préavis envoyé"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Facturation",
+    "Point": "Réduction enseignement",
+    "Description": "50 % de réduction sur Pro pour les étudiants et enseignants avec e-mail .edu valide.",
+    "Applicabilité": "Universitaire",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Compte",
+    "Point": "Vérification e-mail",
+    "Description": "Les nouveaux comptes doivent être activés via le lien dans l'e-mail de vérification.",
+    "Applicabilité": "Inscription",
+    "Notes": "Vérifier les spams"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Facturation",
+    "Point": "Devis Entreprise",
+    "Description": "Formules sur mesure pour les organisations de 50+ membres.",
+    "Applicabilité": "Entreprise",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Formats d'export",
+    "Description": "Export immédiat en CSV, PDF ou PNG.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Politique",
+    "Point": "Politique d'usage",
+    "Description": "Les appels API excessifs peuvent être limités.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Sécurité des partages",
+    "Description": "Sécurisez les liens de partage externes par mot de passe.",
+    "Applicabilité": "Pro+",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Dépannage",
+    "Point": "Blocages pare-feu",
+    "Description": "Les pare-feu d'entreprise peuvent bloquer les e-mails de vérification ; contactez l'IT.",
+    "Applicabilité": "Entreprise",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Recherche globale",
+    "Description": "Recherche dans documents, contenu texte et noms de fichiers.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Centre d'aide",
+    "Description": "Guides et documentation sur Google Drive.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Compte",
+    "Point": "Unicité de l'ID",
+    "Description": "Un seul compte par adresse e-mail.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Intégrations",
+    "Description": "Connexion avec Slack, Google Drive et Jira.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Facturation",
+    "Point": "Factures",
+    "Description": "Factures et justificatifs pour la conformité fiscale.",
+    "Applicabilité": "Formule Business",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Facturation",
+    "Point": "Reçus détaillés",
+    "Description": "Factures automatiques envoyées par e-mail après paiement.",
+    "Applicabilité": "Utilisateurs payants",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Raccourcis clavier",
+    "Description": "Raccourcis système pour gagner en productivité.",
+    "Applicabilité": "Web/App",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Chat en direct",
+    "Description": "Support technique en temps réel pour Pro et Business.",
+    "Applicabilité": "Pro+",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Dépannage",
+    "Point": "Problèmes de connexion",
+    "Description": "En cas d'erreur 'Accès invalide', videz les cookies du navigateur.",
+    "Applicabilité": "Technique",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Support e-mail",
+    "Description": "Envoyez vos questions à support@service.com pour une réponse directe.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "Sous 24h ouvrées"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Dépannage",
+    "Point": "Maintenance",
+    "Description": "Les maintenances planifiées sont annoncées via la bannière du tableau de bord.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Dépannage",
+    "Point": "Plantages de l'app mobile",
+    "Description": "En cas de fermeture inattendue, vérifiez les mises à jour du store.",
+    "Applicabilité": "Mobile",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Multilingue",
+    "Description": "12 langues supportées dont anglais, coréen, japonais et espagnol.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Facturation",
+    "Point": "Éligibilité associatif",
+    "Description": "Les ONG et associations peuvent demander un accès gratuit après examen.",
+    "Applicabilité": "ONG",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Mode hors ligne",
+    "Description": "Modification sans connexion ; synchronisation au retour en ligne.",
+    "Applicabilité": "App bureau",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Partenaires",
+    "Description": "Demandes revendeurs ou partenariat via le formulaire B2B dédié.",
+    "Applicabilité": "Partenaires",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Compte",
+    "Point": "Récupération mot de passe",
+    "Description": "Demandez un lien de réinitialisation via votre e-mail enregistré.",
+    "Applicabilité": "Non connecté",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Gestion des permissions",
+    "Description": "Attribution de rôles : Lecteur, Éditeur ou Admin.",
+    "Applicabilité": "Formules payantes",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Filtrage projets",
+    "Description": "Filtrez par date, auteur ou tags personnalisés.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Facturation",
+    "Point": "Codes promo",
+    "Description": "Codes de réduction à durée limitée au moment du paiement.",
+    "Applicabilité": "Détenteurs de coupon",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Facturation",
+    "Point": "Facturation au prorata",
+    "Description": "Lors d'un upgrade, seul le complément au prorata est facturé.",
+    "Applicabilité": "Changement de formule",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Tableau blanc temps réel",
+    "Description": "Collaboration sur tableau blanc numérique pour brainstorming.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Facturation",
+    "Point": "Remboursement",
+    "Description": "Remboursement 100 % sous 7 jours si aucune utilisation.",
+    "Applicabilité": "Annulations",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Facturation",
+    "Point": "Renouvellement",
+    "Description": "Abonnements renouvelés automatiquement 24h avant expiration sauf désactivation.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Dépannage",
+    "Point": "Signaler des charges",
+    "Description": "Signalez toute facturation non reconnue immédiatement au support.",
+    "Applicabilité": "Sécurité",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Politique",
+    "Point": "Lecteurs d'écran",
+    "Description": "Prise en charge des lecteurs d'écran et modes à contraste élevé.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Service",
+    "Point": "Feuille de route",
+    "Description": "Consultez la page Roadmap officielle pour les prochaines fonctionnalités.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Compte",
+    "Point": "Connexion sociale",
+    "Description": "Inscription via Google, Apple ID ou e-mail standard.",
+    "Applicabilité": "Nouveaux utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Service",
+    "Point": "Mises à jour",
+    "Description": "Web : mises à jour auto ; apps : via les stores.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Service",
+    "Point": "Configuration requise",
+    "Description": "Minimum 4 Go de RAM recommandé pour une utilisation fluide.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Dépannage",
+    "Point": "État du système",
+    "Description": "Suivez @ServiceStatus sur X pour les incidents en temps réel.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Invitations d'équipe",
+    "Description": "Invitez des membres par e-mail à vos projets.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Bibliothèque de modèles",
+    "Description": "Plus de 100 modèles gratuits pour divers secteurs.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Politique",
+    "Point": "Conditions d'utilisation",
+    "Description": "Consultez les conditions légales via le lien en bas du site.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Suivi du temps",
+    "Description": "Suivez le temps passé sur chaque projet.",
+    "Applicabilité": "Pro+",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Facturation",
+    "Point": "Comparatif des formules",
+    "Description": "Formules Free, Pro et Business ; comparatif complet sur le site.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Authentification 2FA",
+    "Description": "Sécurisez votre espace avec 2FA (ex. Google Authenticator).",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Dépannage",
+    "Point": "Capacité d'upload",
+    "Description": "Taille max : 100 Mo (Free) / 2 Go (Pro) par fichier.",
+    "Applicabilité": "Transfert de données",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Politique",
+    "Point": "Confidentialité (RGPD)",
+    "Description": "Conformité stricte au RGPD et aux lois sur la protection des données.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Compte",
+    "Point": "Personnalisation du profil",
+    "Description": "Modifiez nom d'affichage et avatar dans les paramètres du profil.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Personnel",
+    "Point": "Proposition de valeur",
+    "Description": "Outils conçus pour maximiser la productivité utilisateur.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Facturation",
+    "Point": "TVA",
+    "Description": "La TVA peut s'ajouter selon la réglementation locale.",
+    "Applicabilité": "International",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Historique des versions",
+    "Description": "Restaurer les versions précédentes des 30 derniers jours.",
+    "Applicabilité": "Pro+",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Service",
+    "Point": "Communauté",
+    "Description": "Outil cloud pour la gestion de projet en temps réel.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Tutoriels vidéo",
+    "Description": "Tutoriels pas à pas sur notre chaîne YouTube officielle.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Analytique visuelle",
+    "Description": "Suivi de la progression via des rapports de données intuitifs.",
+    "Applicabilité": "Formule Business",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Filigrane",
+    "Description": "Les exports PDF de la formule Free incluent un filigrane système.",
+    "Applicabilité": "Formule Free",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Service",
+    "Point": "Optimisation web",
+    "Description": "Plateforme optimisée pour la dernière version de Google Chrome.",
+    "Applicabilité": "Web",
+    "Notes": "Safari/Edge compatibles"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Compte",
+    "Point": "Essai gratuit",
+    "Description": "14 jours de fonctionnalités Pro complètes à l'inscription.",
+    "Applicabilité": "Nouveaux comptes",
+    "Notes": "Sans carte bancaire"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Compte",
+    "Point": "Rétrogradation",
+    "Description": "Les essais non payés reviennent automatiquement à Free ; données conservées.",
+    "Applicabilité": "Nouveaux comptes",
+    "Notes": "Conservation des données"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonctionnalité",
+    "Point": "Notifications",
+    "Description": "Ajustez les préférences de notifications push et e-mail.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Dépannage",
+    "Point": "Décalage de sync",
+    "Description": "En cas de non-synchronisation, vérifiez la connexion et actualisez (F5).",
+    "Applicabilité": "Web",
+    "Notes": "-"
   }
 ]

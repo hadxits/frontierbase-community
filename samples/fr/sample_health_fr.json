@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "⚠️Obligatoire",
+    "Point": "Prise de médicaments",
+    "Description": "Ne pas arrêter ou modifier les médicaments sans avis du médecin traitant.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "⚠️Obligatoire",
+    "Point": "Urgence",
+    "Description": "En cas d'urgence (douleur thoracique, difficulté respiratoire, etc.) appeler le 15 ou les urgences.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "⚠️Obligatoire",
+    "Point": "Avertissement",
+    "Description": "Ce service fournit des infos générales uniquement et ne remplace pas un diagnostic médical.",
+    "Applicabilité": "Tout contenu",
+    "Notes": "Obligatoire intro/outro"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "⚠️Obligatoire",
+    "Point": "Aggravation",
+    "Description": "Si les symptômes persistent ou s'aggravent, consulter immédiatement.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "⚠️Obligatoire",
+    "Point": "Consultation",
+    "Description": "Ne pas se fier uniquement aux infos en ligne ; toujours consulter un médecin.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Personnel",
+    "Point": "Mission",
+    "Description": "Contribuer à la santé par des infos accessibles et fondées.",
+    "Applicabilité": "Tout travail",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Calcul IMC",
+    "Description": "IMC = Poids(kg) / Taille(m)² comme valeur de référence.",
+    "Applicabilité": "Contrôle poids",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Hypertension",
+    "Description": "Réduire le sodium et tenir un carnet de tension régulièrement.",
+    "Applicabilité": "Suivi chronique",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Ostéoporose",
+    "Description": "Activité avec charge (marche) et calcium importants pour les os.",
+    "Applicabilité": "Général",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Hygiène bucco-dentaire",
+    "Description": "Bon brossage et fil dentaire régulier.",
+    "Applicabilité": "Santé dentaire",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Hydratation",
+    "Description": "1,5 à 2 L par jour recommandés pour adultes ; variable selon la personne.",
+    "Applicabilité": "Général",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Arrêt du tabac",
+    "Description": "Infos sur services d'aide nationaux et campagnes disponibles.",
+    "Applicabilité": "Fumeurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Santé des yeux",
+    "Description": "Règle 20-20-20 : regarder à 6 m pendant 20 sec toutes les 20 min.",
+    "Applicabilité": "Vue",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Diabète",
+    "Description": "Aliments à faible index glycémique, marche légère après les repas.",
+    "Applicabilité": "Suivi chronique",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Immunité",
+    "Description": "Sommeil suffisant, alimentation équilibrée et gestion du stress.",
+    "Applicabilité": "Général",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Particules fines",
+    "Description": "Masques KF94 ou N95 recommandés quand les particules sont élevées.",
+    "Applicabilité": "Voies respiratoires",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Vitamine D",
+    "Description": "15-20 min d'exposition solaire quotidienne pour la synthèse.",
+    "Applicabilité": "Nutrition",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Prévention anémie",
+    "Description": "Aliments riches en fer (épinards, viande rouge) avec vitamine C.",
+    "Applicabilité": "Nutrition",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Problèmes digestifs",
+    "Description": "Mâcher lentement, ne pas s'allonger juste après le repas.",
+    "Applicabilité": "Digestion",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Lavage des mains",
+    "Description": "Se laver avec savon au moins 30 secondes pour prévenir les infections.",
+    "Applicabilité": "Prévention",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Hygiène du sommeil",
+    "Description": "Heure de lever régulière ; pas de smartphone avant le coucher.",
+    "Applicabilité": "Général",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Gestion du stress",
+    "Description": "Méditation, respiration profonde ou loisirs pour réduire le stress.",
+    "Applicabilité": "Santé mentale",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Étirements",
+    "Description": "Étirer cou et épaules toutes les heures si position assise prolongée.",
+    "Applicabilité": "Posture",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Allergies",
+    "Description": "Limiter l'exposition aux déclencheurs connus (aliments, pollen).",
+    "Applicabilité": "Général",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Compléments",
+    "Description": "Compléments pendant ou après les repas pour meilleure absorption.",
+    "Applicabilité": "Général",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Vaccination",
+    "Description": "Vaccin antigrippal annuel recommandé chaque automne.",
+    "Applicabilité": "Prévention",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Alimentation équilibrée",
+    "Description": "Légumes, protéines et glucides équilibrés ; réduire les sucres.",
+    "Applicabilité": "Général",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Exercice aérobie",
+    "Description": "5 fois/semaine au moins 30 min d'effort modéré (marche rapide).",
+    "Applicabilité": "Sport",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Alcool",
+    "Description": "Excès d'alcool augmente les risques hépatiques et cardiovasculaires.",
+    "Applicabilité": "Général",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Protection solaire",
+    "Description": "Crème solaire 30 min avant de sortir.",
+    "Applicabilité": "Soins peau",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Poids santé",
+    "Description": "Maintenir un poids adapté à la taille prévient les maladies.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Bilans réguliers",
+    "Description": "Bilan tous les 1-2 ans recommandé même sans symptôme.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Caféine",
+    "Description": "Excès de caféine peut causer insomnie ou palpitations.",
+    "Applicabilité": "Général",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Santé du dos",
+    "Description": "Plier les genoux, pas le dos, pour soulever.",
+    "Applicabilité": "Appareil locomoteur",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Infos santé",
+    "Point": "Soins saisonniers",
+    "Description": "Humidité intérieure 40-60 % pour protéger les muqueuses.",
+    "Applicabilité": "Général",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Conférences publiques",
+    "Description": "Conférences santé gratuites périodiques pour les habitants.",
+    "Applicabilité": "Communauté",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Assurance maladie",
+    "Description": "Patients internationaux : apporter passeport et attestation d'assurance.",
+    "Applicabilité": "International",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Centre de bilan",
+    "Description": "3e étage ; sur rendez-vous uniquement.",
+    "Applicabilité": "Bilans",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Moyens de paiement",
+    "Description": "Espèces, cartes, Samsung Pay et paiements mobiles acceptés.",
+    "Applicabilité": "Facturation",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Feedback",
+    "Description": "Réclamations ou suggestions à l'accueil ou par le site.",
+    "Applicabilité": "Visiteurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Heures de visite",
+    "Description": "Limitées en semaine 18h-20h pour la stabilité des patients.",
+    "Applicabilité": "Visiteurs",
+    "Notes": "Vérifier la réglementation"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Accompagnant",
+    "Description": "Un accompagnant possible, sauf en chambre seule ou soins intensifs.",
+    "Applicabilité": "Hospitalisés",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Frais non remboursés",
+    "Description": "Tarifs des actes non remboursés affichés à l'accueil.",
+    "Applicabilité": "Tous les patients",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Navette",
+    "Description": "Navette gratuite entre la station et l'hôpital.",
+    "Applicabilité": "Visiteurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Chirurgie",
+    "Description": "Jeûne et instructions pré-op par le personnel soignant.",
+    "Applicabilité": "Chirurgie",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Bilans médicaux",
+    "Description": "Bilans d'embauche et permis de conduire disponibles.",
+    "Applicabilité": "Général",
+    "Notes": "Photo d'identité"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Accueil",
+    "Description": "Accueil central en lobby pour orientation générale.",
+    "Applicabilité": "Visiteurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Pharmacies",
+    "Description": "Infos sur pharmacies à proximité et horaires.",
+    "Applicabilité": "Après consultation",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Conseil nutritionnel",
+    "Description": "Consultation diététique personnalisée pour patients chroniques.",
+    "Applicabilité": "Consultation",
+    "Notes": "Supplément"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Prise de rendez-vous",
+    "Description": "Rendez-vous par téléphone ou intégration Google Calendar.",
+    "Applicabilité": "Tous les patients",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Télémédecine",
+    "Description": "Consultations vidéo limitées pour personnes à mobilité réduite.",
+    "Applicabilité": "Éligibles",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Localisation",
+    "Description": "5 min à pied de la sortie 3 (Google Maps).",
+    "Applicabilité": "Sur site",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Urgences",
+    "Description": "Service d'urgence 24h/24, 365 jours par an.",
+    "Applicabilité": "Urgence",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Admission",
+    "Description": "Formulaires d'admission et attribution de chambre à l'accueil.",
+    "Applicabilité": "Hospitalisés",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Salle funéraire",
+    "Description": "Salle funéraire dans un bâtiment séparé.",
+    "Applicabilité": "Visiteurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Rééducation",
+    "Description": "Physiothérapie et ergothérapie pour récupération post-op.",
+    "Applicabilité": "Rééducation",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Certificats",
+    "Description": "Certificats médicaux et avis délivrés à l'accueil après consultation.",
+    "Applicabilité": "Documents",
+    "Notes": "Pièce d'identité"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Parking",
+    "Description": "Parking en sous-sol ; 2 heures gratuites pour les patients.",
+    "Applicabilité": "Visiteurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Documents requis",
+    "Description": "Première visite : pièce d'identité avec photo (permis, etc.).",
+    "Applicabilité": "Nouveaux patients",
+    "Notes": "Vérification assurance"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Horaires",
+    "Description": "Lun-ven 09h00-18h00 ; samedi jusqu'à 13h00.",
+    "Applicabilité": "Consultation",
+    "Notes": "Pause déjeuner 13h-14h"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Sortie",
+    "Description": "Régler les frais, récupérer les médicaments et confirmer les suivis.",
+    "Applicabilité": "Hospitalisés",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Commodités",
+    "Description": "Supérette, café et distributeurs au sous-sol.",
+    "Applicabilité": "Visiteurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Dialyse",
+    "Description": "Centre de dialyse avec dialyse de nuit disponible.",
+    "Applicabilité": "Rein",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Salle de réveil",
+    "Description": "Chambres dédiées à la stabilisation post-opératoire.",
+    "Applicabilité": "Post-op",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Hôpital",
+    "Point": "Fauteuils roulants",
+    "Description": "Fauteuils roulants en prêt gratuit à l'accueil.",
+    "Applicabilité": "Visiteurs",
+    "Notes": "Gratuit"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Système",
+    "Point": "Sécurité des données",
+    "Description": "Données de consultation chiffrées conformément aux lois sur la vie privée.",
+    "Applicabilité": "Toutes les données",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Système",
+    "Point": "Géolocalisation",
+    "Description": "Avec consentement, orientation vers l'hôpital partenaire le plus proche.",
+    "Applicabilité": "Trouver un médecin",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Système",
+    "Point": "Anonymat",
+    "Description": "Requêtes santé utilisées uniquement pour statistiques ; jamais divulguées.",
+    "Applicabilité": "Toutes les données",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Système",
+    "Point": "Sources",
+    "Description": "Infos basées sur le portail national santé et guides internes.",
+    "Applicabilité": "Toutes les infos",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Système",
+    "Point": "Exactitude",
+    "Description": "En cas d'erreur, utiliser le bouton 'Demander correction'.",
+    "Applicabilité": "Tout contenu",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Services",
+    "Point": "Médecine interne",
+    "Description": "Rhumes, hypertension, diabète et maladies chroniques.",
+    "Applicabilité": "Spécialité",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Services",
+    "Point": "Urologie",
+    "Description": "Rein, vessie et voies urinaires.",
+    "Applicabilité": "Spécialité",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Services",
+    "Point": "Gynécologie",
+    "Description": "Santé féminine, suivi grossesse et consultations gynéco.",
+    "Applicabilité": "Spécialité",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Services",
+    "Point": "Pédiatrie",
+    "Description": "Suivi nourrissons, vaccinations et soins enfants.",
+    "Applicabilité": "Spécialité",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Services",
+    "Point": "Ophtalmologie",
+    "Description": "Tests visuels, cataracte, glaucome et examens oculaires.",
+    "Applicabilité": "Spécialité",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Services",
+    "Point": "ORL",
+    "Description": "Rhinite, sinusite, vertiges et tests auditifs.",
+    "Applicabilité": "Spécialité",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Services",
+    "Point": "Santé mentale",
+    "Description": "Conseil et traitement dépression, anxiété, troubles du sommeil.",
+    "Applicabilité": "Spécialité",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Services",
+    "Point": "Orthopédie",
+    "Description": "Douleurs articulaires, fractures et physiothérapie.",
+    "Applicabilité": "Spécialité",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Services",
+    "Point": "Dentaire",
+    "Description": "Détartrage, caries et bilans bucco-dentaires.",
+    "Applicabilité": "Spécialité",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Services",
+    "Point": "Dermatologie",
+    "Description": "Acné, atopie, maladies cutanées et laser.",
+    "Applicabilité": "Spécialité",
+    "Notes": "-"
   }
 ]

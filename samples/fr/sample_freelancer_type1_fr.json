@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Développement",
+    "Point": "Documentation API",
+    "Description": "Spécifications API via Swagger pour tous les projets backend.",
+    "Applicabilité": "Projets backend",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Développement",
+    "Point": "Optimisation SEO",
+    "Description": "Respect strict du balisage sémantique pour Google.",
+    "Applicabilité": "Tous Web",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Développement",
+    "Point": "Stack technique",
+    "Description": "Principalement React, TypeScript, Node.js ; autre sur accord.",
+    "Applicabilité": "Projets web",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Développement",
+    "Point": "Design responsive",
+    "Description": "Webdesign responsive standard pour usage mobile optimal.",
+    "Applicabilité": "Développement web",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Développement",
+    "Point": "Documentation",
+    "Description": "Commentaires dans le code et fichiers README détaillés.",
+    "Applicabilité": "Tous les projets",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Développement",
+    "Point": "Support déploiement",
+    "Description": "Assistance au premier déploiement sur Google Cloud ou AWS.",
+    "Applicabilité": "Option déploiement",
+    "Notes": "Domain/Serveur à part"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Développement",
+    "Point": "Contrôle de version",
+    "Description": "Conventions Git commit strictes pour historique transparent.",
+    "Applicabilité": "Tous les projets",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Développement",
+    "Point": "Support navigateurs",
+    "Description": "Optimisé pour Chrome et Safari ; IE non supporté.",
+    "Applicabilité": "Web/App",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Développement",
+    "Point": "Performance",
+    "Description": "Objectif : 90+ sur Google PageSpeed Insights.",
+    "Applicabilité": "Développement web",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Développement",
+    "Point": "Bibliothèques externes",
+    "Description": "Packages npm vérifiés en sécurité uniquement.",
+    "Applicabilité": "Tous les projets",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Développement",
+    "Point": "Tests unitaires",
+    "Description": "Tests unitaires frontend avec Jest.",
+    "Applicabilité": "Assurance qualité",
+    "Notes": "Optionnel"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Développement",
+    "Point": "Gestion du code",
+    "Description": "Code source via dépôts GitHub privés.",
+    "Applicabilité": "Tous les projets",
+    "Notes": "Invitation requise"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Développement",
+    "Point": "Revue de code",
+    "Description": "ESLint et revue interne avant livraison.",
+    "Applicabilité": "Tous les projets",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Personnel",
+    "Point": "Localisation",
+    "Description": "Actuellement digital nomade à Chiang Mai, Thaïlande.",
+    "Applicabilité": "Contact",
+    "Notes": "Fuseau horaire"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Personnel",
+    "Point": "Newsletter",
+    "Description": "Newsletter hebdo tendances IT chaque lundi.",
+    "Applicabilité": "Tous les utilisateurs",
+    "Notes": "Substack"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Personnel",
+    "Point": "Vision",
+    "Description": "Solutions à l'interface technologie et design.",
+    "Applicabilité": "Tous les projets",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Personnel",
+    "Point": "Récompenses",
+    "Description": "Lauréat Red Dot Design Award.",
+    "Applicabilité": "Projets design",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Personnel",
+    "Point": "Certification",
+    "Description": "AWS Certified Developer.",
+    "Applicabilité": "Développement",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Paiement",
+    "Point": "Stripe",
+    "Description": "Paiement par carte international via Stripe.",
+    "Applicabilité": "Paiement carte",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Paiement",
+    "Point": "Reçus",
+    "Description": "Reçus PayPal pour justificatifs professionnels.",
+    "Applicabilité": "Tous les paiements",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Paiement",
+    "Point": "Facturation",
+    "Description": "Factures le dernier jour du mois via Google Drive.",
+    "Applicabilité": "Retainers",
+    "Notes": "PDF"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Paiement",
+    "Point": "Paiement automatique",
+    "Description": "Prélèvement Stripe pour contrats de maintenance mensuelle.",
+    "Applicabilité": "Maintenance",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Paiement",
+    "Point": "Frais de retard",
+    "Description": "5 % de frais hebdomadaire sur factures impayées.",
+    "Applicabilité": "Impayé",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Paiement",
+    "Point": "Frais PayPal",
+    "Description": "4,4 % de frais de transaction à la charge du client.",
+    "Applicabilité": "Utilisateurs PayPal",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Paiement",
+    "Point": "Devise",
+    "Description": "Tous les devis en dollars américains (USD).",
+    "Applicabilité": "International",
+    "Notes": "Taux de change"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Contrat",
+    "Point": "Acompte",
+    "Description": "Démarrage après 50 % d'acompte sur la valeur totale.",
+    "Applicabilité": "Plus de 1 000 $",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Contrat",
+    "Point": "Propriété intellectuelle",
+    "Description": "Tous les droits transférés au client à la fin du paiement.",
+    "Applicabilité": "Paiement terminé",
+    "Notes": "Inclut usage portfolio"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Contrat",
+    "Point": "Communication",
+    "Description": "Slack ou Google Meet pour collaboration documentée.",
+    "Applicabilité": "Collaboration",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Contrat",
+    "Point": "Politique de révision",
+    "Description": "2 révisions gratuites dans le périmètre sous 7 jours après livraison.",
+    "Applicabilité": "Après livraison",
+    "Notes": "Hors périmètre en supplément"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Contrat",
+    "Point": "Heures de bureau",
+    "Description": "Réponse lun-ven 09h00-18h00 (GMT+9/KST).",
+    "Applicabilité": "Jours ouvrés",
+    "Notes": "Pas d'urgence week-end"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Contrat",
+    "Point": "Résiliation",
+    "Description": "En cas de résiliation, règlement au prorata ; acompte non remboursable.",
+    "Applicabilité": "Résiliations",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Design",
+    "Point": "Mode sombre",
+    "Description": "Designs web incluant thème mode sombre par défaut.",
+    "Applicabilité": "UI/UX",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Design",
+    "Point": "Outils",
+    "Description": "Figma pour UI/UX ; Adobe Creative Cloud pour graphisme.",
+    "Applicabilité": "Tout design",
+    "Notes": "Fichiers sources sur demande"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Design",
+    "Point": "Mockups",
+    "Description": "Images mockup 3D pour visualiser le rendu final.",
+    "Applicabilité": "Package/Branding",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Design",
+    "Point": "Fichiers vectoriels",
+    "Description": "Fichiers sources AI ou EPS scalables livrés.",
+    "Applicabilité": "Livraison finale",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Design",
+    "Point": "Modes couleur",
+    "Description": "Fichiers en CMYK (impression) et RGB (web).",
+    "Applicabilité": "Logo/Graphique",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Design",
+    "Point": "Guide de style",
+    "Description": "Codes couleur marque (HEX) et typographie.",
+    "Applicabilité": "Set branding",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Design",
+    "Point": "Concepts",
+    "Description": "Trois concepts initiaux pour projets logo.",
+    "Applicabilité": "Design logo",
+    "Notes": "Supplément au-delà"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Design",
+    "Point": "Formats d'assets",
+    "Description": "Icônes et images en SVG, PNG et PDF.",
+    "Applicabilité": "Phase livraison",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Design",
+    "Point": "Supervision impression",
+    "Description": "Supervision sur site pour gros tirages possible.",
+    "Applicabilité": "Offline",
+    "Notes": "Frais déplacement"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Design",
+    "Point": "Vérification droits",
+    "Description": "Tous les assets vérifiés pour droits d'usage commercial.",
+    "Applicabilité": "Tout design",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Design",
+    "Point": "Polices",
+    "Description": "Google Fonts (usage commercial) suggérés par défaut.",
+    "Applicabilité": "Tout design",
+    "Notes": "Licences payantes exclues"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Sécurité",
+    "Point": "2FA",
+    "Description": "Authentification à deux facteurs sur tous les comptes Google.",
+    "Applicabilité": "Tout travail",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Sécurité",
+    "Point": "NDA",
+    "Description": "Accords de confidentialité par signature électronique (DocuSign).",
+    "Applicabilité": "Infos sensibles",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Sécurité",
+    "Point": "Suppression des données",
+    "Description": "Données de test supprimées sur demande après projet.",
+    "Applicabilité": "Après projet",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Sécurité",
+    "Point": "Partage identifiants",
+    "Description": "1Password ou Bitwarden recommandés pour mots de passe et clés.",
+    "Applicabilité": "Échange d'infos",
+    "Notes": "Pas par e-mail"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Commerce",
+    "Point": "Conférences",
+    "Description": "Disponible comme speaker pour conférences tech ou design.",
+    "Applicabilité": "Événements externes",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Commerce",
+    "Point": "Formation",
+    "Description": "Sessions sur gestion d'assets et guidelines.",
+    "Applicabilité": "Clients",
+    "Notes": "1 session gratuite"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Commerce",
+    "Point": "Indépendance",
+    "Description": "Freelance indépendant ; aucune agence.",
+    "Applicabilité": "Tout travail",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Commerce",
+    "Point": "White-label",
+    "Description": "Travail white-label possible en tant que partenaire agence.",
+    "Applicabilité": "B2B",
+    "Notes": "Tarifs sur mesure"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Service",
+    "Point": "Localisation",
+    "Description": "Traduction et localisation anglaises pour contenu coréen.",
+    "Applicabilité": "Tout contenu",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Service",
+    "Point": "Consultation gratuite",
+    "Description": "15 min de conseil technique avant démarrage du projet.",
+    "Applicabilité": "Nouvelles demandes",
+    "Notes": "Google Meet"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Service",
+    "Point": "Pro bono",
+    "Description": "Support MVP annuel pour un start-up non-profit.",
+    "Applicabilité": "ONG",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Communication",
+    "Point": "Invitation Slack",
+    "Description": "Prêt à rejoindre les espaces Slack des clients.",
+    "Applicabilité": "Collaboration",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Communication",
+    "Point": "Langue",
+    "Description": "Anglais professionnel courant.",
+    "Applicabilité": "Travail global",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Communication",
+    "Point": "Absence",
+    "Description": "Absence gérée par réponse automatique Gmail.",
+    "Applicabilité": "Absence",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Workflow",
+    "Point": "Deep Work",
+    "Description": "14h-16h consacrées au travail focalisé ; réponses possibles retard.",
+    "Applicabilité": "Jours ouvrés",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Workflow",
+    "Point": "Sans papier",
+    "Description": "Politique stricte bureau sans papier pour l'environnement.",
+    "Applicabilité": "Tout travail",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rédaction",
+    "Point": "Lisibilité",
+    "Description": "Paragraphes courts optimisés pour lecture mobile.",
+    "Applicabilité": "Tout contenu",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rédaction",
+    "Point": "Relecture",
+    "Description": "Relecture professionnelle grammaire et orthographe.",
+    "Applicabilité": "Tous les textes",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rédaction",
+    "Point": "Multimédia",
+    "Description": "Images stock gratuites (Unsplash) en phase avec le contenu.",
+    "Applicabilité": "Articles de blog",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rédaction",
+    "Point": "Longueur de brouillon",
+    "Description": "Tarifs standard sur 1 000 caractères (env. 500 mots).",
+    "Applicabilité": "Blog/Article",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rédaction",
+    "Point": "Formats",
+    "Description": "Livraison en Google Docs, MS Word ou Markdown.",
+    "Applicabilité": "Tous les textes",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rédaction",
+    "Point": "Interviews",
+    "Description": "Interviews Zoom pour articles max. env. 30 min.",
+    "Applicabilité": "Basé interview",
+    "Notes": "Supplément"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rédaction",
+    "Point": "Spécialités",
+    "Description": "Blogs tech IT, communiqués anglais, brand storytelling.",
+    "Applicabilité": "Stratégie contenu",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rédaction",
+    "Point": "Citations",
+    "Description": "Statistiques et données citées avec liens sources.",
+    "Applicabilité": "Contenu informatif",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rédaction",
+    "Point": "Analyse SEO",
+    "Description": "Optimisation via Google Keyword Planner.",
+    "Applicabilité": "Articles SEO",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rédaction",
+    "Point": "Ton",
+    "Description": "Adaptable décontracté, professionnel ou académique selon cible.",
+    "Applicabilité": "Tous les textes",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rédaction",
+    "Point": "Contrôle plagiat",
+    "Description": "Tous les brouillons vérifiés par outil anti-plagiat.",
+    "Applicabilité": "Tous les textes",
+    "Notes": "Originalité garantie"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Projet",
+    "Point": "Commandes urgentes",
+    "Description": "50 % de supplément pour livraison sous 24h ouvrées.",
+    "Applicabilité": "Urgent",
+    "Notes": "Sous disponibilité"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Projet",
+    "Point": "Références",
+    "Description": "Résultats plus précis avec exemples de référence du client.",
+    "Applicabilité": "Planification",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Projet",
+    "Point": "Sauvegarde",
+    "Description": "Fichiers en cours sauvegardés automatiquement en cloud à minuit.",
+    "Applicabilité": "Tous les projets",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Projet",
+    "Point": "Garantie",
+    "Description": "Bugs critiques ou fautes corrigés gratuitement 1 mois après livraison.",
+    "Applicabilité": "Support technique",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Projet",
+    "Point": "Références",
+    "Description": "Portfolio sur LinkedIn ou site personnel.",
+    "Applicabilité": "Tous les clients",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Projet",
+    "Point": "Workflow",
+    "Description": "Suivi de progression en temps réel via tableaux Trello.",
+    "Applicabilité": "Tous les projets",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Projet",
+    "Point": "Rapports hebdo",
+    "Description": "Rapports d'état chaque vendredi via Google Docs pour projets longs.",
+    "Applicabilité": "Retainers",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Projet",
+    "Point": "Jalons",
+    "Description": "Jalons majeurs partagés via Google Calendar dédié.",
+    "Applicabilité": "Retainers",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Projet",
+    "Point": "Tests appareils",
+    "Description": "Tests finaux sur iPhone et Android physiques.",
+    "Applicabilité": "Développement app",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Projet",
+    "Point": "Stockage",
+    "Description": "Livrables finaux archivés en cloud au moins 1 an.",
+    "Applicabilité": "Tous les projets",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Projet",
+    "Point": "Intégration polices",
+    "Description": "Optimisation du poids des polices web pour chargement plus rapide.",
+    "Applicabilité": "Développement web",
+    "Notes": "-"
   }
 ]

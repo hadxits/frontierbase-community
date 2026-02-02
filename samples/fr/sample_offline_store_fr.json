@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Personnel",
+    "Point": "Vision",
+    "Description": "Nous visons l'outil d'actualité le plus rapide et précis face au flux d'informations.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Moteur de recherche",
+    "Description": "Utilise l'API Google Custom Search pour des actualités pertinentes.",
+    "Applicabilité": "À la requête",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Période",
+    "Description": "Par défaut, actualités des 24 dernières heures.",
+    "Applicabilité": "Briefing actualités",
+    "Notes": "Paramétrable"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Recherche multilingue",
+    "Description": "Recherche en temps réel de reportages mondiaux avec mots-clés anglais.",
+    "Applicabilité": "Reportages globaux",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Filtre crédibilité",
+    "Description": "Fake news et rumeurs non vérifiées exclues.",
+    "Applicabilité": "Liste blanche",
+    "Notes": "Filtrage par domaine"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Documents similaires",
+    "Description": "Documents à plus de 80 % de similarité exclus.",
+    "Applicabilité": "Efficacité",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Dédoublonnage",
+    "Description": "Actualités de sources différentes sur le même sujet regroupées.",
+    "Applicabilité": "Regroupement",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Recherche",
+    "Point": "Formats de fichiers",
+    "Description": "DOCX et PPTX supportés en plus du PDF.",
+    "Applicabilité": "Extension",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonction",
+    "Point": "Personnalisation",
+    "Description": "Actualités selon les mots-clés d'intérêt définis par l'utilisateur.",
+    "Applicabilité": "Abonnés",
+    "Notes": "Compte Google"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonction",
+    "Point": "Mind Map",
+    "Description": "Génération d'une mind map visuelle de la structure du rapport.",
+    "Applicabilité": "Structuration",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonction",
+    "Point": "Actualités court format",
+    "Description": "Génération automatique de scripts pour Shorts/Reels à partir des résumés.",
+    "Applicabilité": "Créateurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonction",
+    "Point": "Notification",
+    "Description": "Notification Slack pour actualités importantes sur mots-clés définis.",
+    "Applicabilité": "Payant/Interne",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonction",
+    "Point": "Traduction",
+    "Description": "Actualités internationales traduites et résumées.",
+    "Applicabilité": "Actualités globales",
+    "Notes": "Comparaison original possible"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonction",
+    "Point": "Résumé vocal",
+    "Description": "Résumé audio via Google TTS.",
+    "Applicabilité": "Mobile/Véhicule",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonction",
+    "Point": "Q&A",
+    "Description": "Répond à des questions comme « Comment cette actualité impacte Samsung Electronics ? »",
+    "Applicabilité": "Analyse corrélations",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonction",
+    "Point": "Génération de quiz",
+    "Description": "Quiz pour vérifier la compréhension du résumé.",
+    "Applicabilité": "Éducation",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fonction",
+    "Point": "Vérification des faits",
+    "Description": "En cas d'infos contradictoires : mention explicite 'En vérification'.",
+    "Applicabilité": "Sujets controversés",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technologie",
+    "Point": "API",
+    "Description": "APIs pour usage externe de la fonction de résumé.",
+    "Applicabilité": "B2B",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technologie",
+    "Point": "Analyse PDF",
+    "Description": "OCR pour extraction de texte des rapports scannés.",
+    "Applicabilité": "Rapports scannés",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technologie",
+    "Point": "Grounding",
+    "Description": "Chaque phrase du résumé liée à la source originale.",
+    "Applicabilité": "Vérification RAG",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technologie",
+    "Point": "Vitesse",
+    "Description": "Résumé en moyenne en 5 secondes après upload.",
+    "Applicabilité": "Performance",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technologie",
+    "Point": "Modèle de résumé",
+    "Description": "LLM les plus récents pour meilleure compréhension du contexte.",
+    "Applicabilité": "Moteur",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technologie",
+    "Point": "Embedding",
+    "Description": "Similarité sémantique entre actualités pour clusters pertinents.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technologie",
+    "Point": "Chunking",
+    "Description": "Rapports longs découpés en unités sémantiques.",
+    "Applicabilité": "Documents longs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technologie",
+    "Point": "Limite texte",
+    "Description": "Max. 500 caractères par résumé d'actualité.",
+    "Applicabilité": "Standard",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technologie",
+    "Point": "Hallucination",
+    "Description": "Contrôle strict contre l'invention de chiffres ou faits.",
+    "Applicabilité": "Qualité",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Lisibilité",
+    "Description": "Mots redondants supprimés, phrases à puces concises.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Météo",
+    "Description": "Résumé basé sur les API météo.",
+    "Applicabilité": "Quotidien",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Exclusivité",
+    "Description": "Exclusives ou breaking news mises en avant selon la source.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Réaction lecteurs",
+    "Description": "Résumé en une phrase de l'opinion publique tirée des communautés.",
+    "Applicabilité": "Optionnel",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Classification",
+    "Description": "Classement automatique en 8 catégories (Économie, Tech, International, etc.).",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Description d'images",
+    "Description": "Signification des photos ou infographies importantes résumée.",
+    "Applicabilité": "Multimodal",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Résultats sport",
+    "Description": "Scores et highlights juste après la fin du match.",
+    "Applicabilité": "Sport",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Cycle de mise à jour",
+    "Description": "Breaking news en temps réel ; actualités générales toutes les heures.",
+    "Applicabilité": "Breaking/ général",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Embargo",
+    "Description": "Actualités sous embargo diffusées uniquement après date de levée officielle.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Comparaison annuelle",
+    "Description": "Comparaison avec résumés passés sur le même sujet.",
+    "Applicabilité": "Analyse historique",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Presse étrangère",
+    "Description": "Traduction et résumé en temps réel de BBC, CNN, Al Jazeera.",
+    "Applicabilité": "Global",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Principe de résumé",
+    "Description": "Factuel (5W1H) avec position neutre.",
+    "Applicabilité": "Tous",
+    "Notes": "Sans interprétation subjective"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Résumé d'interview",
+    "Description": "Seules les déclarations principales de l'interviewé extraites.",
+    "Applicabilité": "Articles interview",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Sources",
+    "Description": "Priorité à Google News et agences vérifiées (AP, Reuters).",
+    "Applicabilité": "Tous",
+    "Notes": "Lien source obligatoire"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Neutralité politique",
+    "Description": "Formulations partiales automatiquement filtrées.",
+    "Applicabilité": "Tous",
+    "Notes": "Lignes directrices IA"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Briefing hebdo",
+    "Description": "Top 10 de la semaine résumé chaque dimanche soir.",
+    "Applicabilité": "Service régulier",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "État des marchés",
+    "Description": "Résumé des grands indices et causes après clôture.",
+    "Applicabilité": "Bourse",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Actualités locales",
+    "Description": "Actualités locales priorisées selon la position de l'utilisateur.",
+    "Applicabilité": "Avec consentement localisation",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Actualités",
+    "Point": "Titres",
+    "Description": "Titres accrocheurs reformulés de manière neutre.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rapport",
+    "Point": "Conclusion en premier",
+    "Description": "Résumé en 3 lignes en tête du rapport.",
+    "Applicabilité": "Tous les rapports",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rapport",
+    "Point": "Citation de données",
+    "Description": "Graphiques et chiffres cités exactement comme l'original.",
+    "Applicabilité": "Données numériques",
+    "Notes": "Vérification unités"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rapport",
+    "Point": "Objectif de cours",
+    "Description": "Modifications d'objectifs de prix obligatoires dans les rapports actions.",
+    "Applicabilité": "Analyse actions",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rapport",
+    "Point": "Date de publication",
+    "Description": "Date réelle de publication clairement indiquée au début.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rapport",
+    "Point": "Résumé comparatif",
+    "Description": "Confrontation des avis contradictoires de différents instituts.",
+    "Applicabilité": "Analyse approfondie",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rapport",
+    "Point": "Perspectives secteur",
+    "Description": "Perspectives sectorielles semestrielles dans notre domaine.",
+    "Applicabilité": "Analyse secteur",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rapport",
+    "Point": "Vérification chiffres",
+    "Description": "Avertissement en cas d'erreurs possibles si les totaux ne concordent pas.",
+    "Applicabilité": "Vérification données",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rapport",
+    "Point": "Cibles de résumé",
+    "Description": "Rapports courtiers, publications gouvernementales, analyses de marché en PDF.",
+    "Applicabilité": "Mode rapport",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rapport",
+    "Point": "Versions de résumé",
+    "Description": "Version 1 min (court) et 5 min (détaillé).",
+    "Applicabilité": "Sélectionnable",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rapport",
+    "Point": "Glossaire",
+    "Description": "Liens vers dictionnaires de base avant lecture du rapport.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rapport",
+    "Point": "Termes techniques",
+    "Description": "Explications des termes économiques ou techniques difficiles en bas.",
+    "Applicabilité": "Rapport technique",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rapport",
+    "Point": "Politique gouvernementale",
+    "Description": "Changements clés des nouvelles lois ou lignes directrices résumés.",
+    "Applicabilité": "Actualités politique",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rapport",
+    "Point": "Source institutionnelle",
+    "Description": "Priorité à Goldman Sachs, JP Morgan, etc.",
+    "Applicabilité": "Research global",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Rapport",
+    "Point": "Risque d'investissement",
+    "Description": "Avertissement d'investissement toujours en fin de rapports pertinents.",
+    "Applicabilité": "Rapports finances",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Sécurité",
+    "Point": "Confidentialité",
+    "Description": "Résumés internes non utilisés pour l'entraînement IA.",
+    "Applicabilité": "B2B/Interne",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Sécurité",
+    "Point": "Chiffrement",
+    "Description": "Tous les PDF transmis chiffrés SSL.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Sécurité",
+    "Point": "Journal d'accès",
+    "Description": "Toutes les requêtes d'analyse de rapports enregistrées pour sécurité.",
+    "Applicabilité": "Admin",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Analyse",
+    "Point": "Analyse de sentiment",
+    "Description": "Sentiment de marché à partir des scores positifs/négatifs des actualités.",
+    "Applicabilité": "Économie/Bourse",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Analyse",
+    "Point": "Actualités liées",
+    "Description": "Actualités les plus liées au résumé actuellement lu.",
+    "Applicabilité": "Algorithme recommandation",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Analyse",
+    "Point": "Analyse d'impact",
+    "Description": "Impact de certaines actualités sur les secteurs : Élevé/Moyen/Faible.",
+    "Applicabilité": "Économie",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Analyse",
+    "Point": "Carte des relations",
+    "Description": "Relations entre personnes dans les actualités résumées en graphe.",
+    "Applicabilité": "Politique/Société",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Analyse",
+    "Point": "Intégration actions",
+    "Description": "Graphiques de cours en temps réel à côté du résumé du rapport.",
+    "Applicabilité": "Finances",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Analyse",
+    "Point": "Analyse tendances",
+    "Description": "Mots-clés tendance actuels liés à Google Trends.",
+    "Applicabilité": "Tendance temps réel",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Analyse",
+    "Point": "Score Buzz",
+    "Description": "Actualités notées selon les mentions sur les réseaux sociaux.",
+    "Applicabilité": "Temps réel",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Newsletter",
+    "Description": "Newsletter des sujets principaux automatiquement chaque matin à 8h.",
+    "Applicabilité": "Abonnés",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Mode sombre",
+    "Description": "Mode sombre pour une lecture plus confortable.",
+    "Applicabilité": "Web/App",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Horaires de service",
+    "Description": "Serveurs actualités disponibles 24h/24 sans interruption.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Archives",
+    "Description": "Résumés passés conservés au maximum 1 an.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Abonnement payant",
+    "Description": "Résumés de rapports professionnels réservés aux membres premium.",
+    "Applicabilité": "Service payant",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Demande",
+    "Description": "Signaler erreurs ou questions fonctionnelles via Google Forms.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Droits d'auteur",
+    "Description": "Lignes directrices fair use ; textes complets interdits.",
+    "Applicabilité": "Droits d'auteur",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Feedback",
+    "Description": "Révision de la logique de résumé en cas de plaintes qualité.",
+    "Applicabilité": "Amélioration qualité",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Exploitation",
+    "Point": "Historique",
+    "Description": "Liste des résumés d'actualités récemment lus enregistrée.",
+    "Applicabilité": "Utilisateurs connectés",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Politique",
+    "Point": "Correction",
+    "Description": "Résumé mis à jour immédiatement en cas de correction de l'original.",
+    "Applicabilité": "Mise à jour faits",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Lien experts",
+    "Description": "Orientation vers experts pour questions complémentaires sur le rapport.",
+    "Applicabilité": "Option payante",
+    "Notes": "-"
   }
 ]

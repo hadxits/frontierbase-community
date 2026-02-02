@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Personnel",
+    "Point": "Valeurs",
+    "Description": "Nous visons une culture fan saine où artistes et fans grandissent ensemble.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Personnel",
+    "Point": "Protection des données",
+    "Description": "Données collectées lors des événements supprimées après remise des prix.",
+    "Applicabilité": "Participants",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Concert",
+    "Point": "Zone d'attente",
+    "Description": "En attente à l'extérieur, emporter parapluie, chaufferettes, etc.",
+    "Applicabilité": "Sur place",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Concert",
+    "Point": "Consigne",
+    "Description": "Vérifier la disponibilité des consignes sur la page billetterie.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Concert",
+    "Point": "Interdictions",
+    "Description": "Objets dangereux (bouteilles en verre, pyrotechnie, laser) interdits.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Concert",
+    "Point": "Transfert de billets",
+    "Description": "Billets transférés non vérifiables = refus d'entrée ; pas de remboursement.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Concert",
+    "Point": "Heure d'entrée",
+    "Description": "Se présenter au moins 30 min avant le début.",
+    "Applicabilité": "Public",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Étiquette",
+    "Point": "Goodies fans",
+    "Description": "Distribution de goodies près de la salle uniquement dans les zones prévues.",
+    "Applicabilité": "Fans individuels",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Étiquette",
+    "Point": "Accessoires de soutien",
+    "Description": "Lightsticks officiels uniquement ; autres accessoires limités.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Étiquette",
+    "Point": "Interdiction d'enregistrement",
+    "Description": "Photos et vidéos interdites pour droits d'auteur.",
+    "Applicabilité": "Pendant le spectacle",
+    "Notes": "Expulsion en cas de violation"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Merchandising",
+    "Point": "Moyens de paiement",
+    "Description": "Boutique officielle : cartes locales et internationales, E-Wallet, PayPal.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Merchandising",
+    "Point": "Offizieller Shop",
+    "Description": "Offizielle Goods über die [Shop]-App erhältlich.",
+    "Applicabilité": "Tous",
+    "Notes": "Weltweiter Versand"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Merchandising",
+    "Point": "Versandverzögerung",
+    "Description": "Bei Comeback-Phasen kann der Versand wegen hoher Bestellmenge 1–2 Wochen dauern.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Merchandising",
+    "Point": "Umtausch bei Mängeln",
+    "Description": "Bei Schäden binnen 7 Tagen mit Unboxing-Video melden.",
+    "Applicabilité": "Käufer",
+    "Notes": "Video erforderlich"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Merchandising",
+    "Point": "Produktfotos",
+    "Description": "Vor dem Kauf Fotos und Inhaltsliste auf der MD-Seite prüfen.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Merchandising",
+    "Point": "Précommande",
+    "Description": "Articles en précommande sur commande ; annulation souvent impossible après paiement.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Merchandising",
+    "Point": "Pop-up-Store",
+    "Description": "Comeback-Pop-up-Stores eventuell nur mit Voranmeldung.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Merchandising",
+    "Point": "Lightstick-Sync",
+    "Description": "Sitznummer vor der Show per offizieller App mit dem Lightstick verbinden.",
+    "Applicabilité": "Public",
+    "Notes": "Bluetooth-Sync"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Merchandising",
+    "Point": "Nachbestellung",
+    "Description": "Nachschub ausverkaufter Artikel wird über offiziellen Twitter angekündigt.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Technisch",
+    "Point": "App-Fehler",
+    "Description": "En cas de problème de connexion avec l'app Fan Community, contacter le service client.",
+    "Applicabilité": "App-Nutzer",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Spenden-Unterstützung",
+    "Description": "Dons au nom de l'artiste soutenus ; attestation officielle possible.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Geschenke/Catering",
+    "Description": "Essen und Geschenke nur nach vorheriger E-Mail-Genehmigung durch die Agentur.",
+    "Applicabilité": "Support-Teams",
+    "Notes": "Genehmigungsnummer"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Abgelehnte Gegenstände",
+    "Description": "Aliments périssables ou cadeaux de luxe peuvent être refusés.",
+    "Applicabilité": "Support",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Empfangsbestätigung",
+    "Description": "Keine Einzelbestätigung zum Empfang von Support-Artikeln.",
+    "Applicabilité": "Support-Teams",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Lieferantenkoordination",
+    "Description": "Termine mit dem Sicherheitsteam der Agentur abstimmen.",
+    "Applicabilité": "Support-Teams",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Finanzbericht",
+    "Description": "Finanzielle Aufstellung transparent innerhalb der Fangemeinde teilen.",
+    "Applicabilité": "Empfohlen",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Support",
+    "Point": "Gratulationsgestecke",
+    "Description": "Compositions florales sur les lieux de concert peuvent être restreintes par la salle.",
+    "Applicabilité": "Fangemeinden",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Termine",
+    "Point": "Offizieller Kalender",
+    "Description": "Broadcasts, Events und Auftritte auf der offiziellen Website.",
+    "Applicabilité": "Tous",
+    "Notes": "Echtzeit-Updates"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Termine",
+    "Point": "Live-Broadcast",
+    "Description": "Überraschungs-Lives per Push-Benachrichtigung der Community-App.",
+    "Applicabilité": "Tous",
+    "Notes": "Benachrichtigungen aktivieren"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Termine",
+    "Point": "Music Shows",
+    "Description": "Teilnahmedetails am Vortag unter ‚Music Show Notice‘ in der Community.",
+    "Applicabilité": "Fanclub-Mitglieder",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Termine",
+    "Point": "Private Termine",
+    "Description": "Visites d'espaces privés ou de rendez-vous non publics interdites ; bannissement en cas de violation.",
+    "Applicabilité": "Tous",
+    "Notes": "Null Toleranz"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Termine",
+    "Point": "Voraufzeichnung",
+    "Description": "Teilnahme an Vor- oder Nachaufzeichnungen nur nach vorheriger Bestätigung.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Termine",
+    "Point": "Zeitzone",
+    "Description": "Alle Termine in KST (UTC+9).",
+    "Applicabilité": "Internationale Fans",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Termine",
+    "Point": "Absage",
+    "Description": "Modifications ou annulations pour raisons de santé communiquées immédiatement par SNS.",
+    "Applicabilité": "Notfall",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "System",
+    "Point": "Benachrichtigungen",
+    "Description": "Wichtige Mitteilungen per Telegram oder offizielle App.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "System",
+    "Point": "Mehrsprachige Suche",
+    "Description": "Automatische mehrsprachige Antworten auf häufige Fragen.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "System",
+    "Point": "Anfragenbearbeitung",
+    "Description": "Direkter Agenten-Kontakt werktags 11:00–16:00.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "System",
+    "Point": "Anfragevolumen",
+    "Description": "Während Comeback-Phasen kann die Antwortzeit länger sein.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "System",
+    "Point": "Chatbot-Grenzen",
+    "Description": "Der Bot dient nur der Information; kein direkter Dialog mit dem Künstler.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Künstlersicherheit",
+    "Point": "Live-Chat",
+    "Description": "Questions portant atteinte à la vie privée filtrées pendant les lives.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Künstlersicherheit",
+    "Point": "Gerüchte melden",
+    "Description": "Rechtsverletzungen oder Falschmeldungen an [protect@agency.com] melden.",
+    "Applicabilité": "Tous",
+    "Notes": "PDF-Screenshot"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Künstlersicherheit",
+    "Point": "Stalking",
+    "Description": "Stalking von Wohnort oder Fahrzeugen hat rechtliche Konsequenzen.",
+    "Applicabilité": "Tous",
+    "Notes": "Beweissicherung"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Künstlersicherheit",
+    "Point": "Hasskommentare",
+    "Description": "Commentaires haineux systématiquement poursuivis.",
+    "Applicabilité": "Tous",
+    "Notes": "Regelmäßige Updates"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Künstlersicherheit",
+    "Point": "Flughafen-Sicherheit",
+    "Description": "Aus Sicherheitsgründen Nahaufnahmen am Flughafen vermeiden.",
+    "Applicabilité": "Am Flughafen",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Künstlersicherheit",
+    "Point": "Welt-Tour",
+    "Description": "Hotel- oder Restaurantinfos während Touren nicht teilen.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Künstlersicherheit",
+    "Point": "Vor-Ort-Sicherheit",
+    "Description": "Anweisungen des Sicherheitsteams vor Ort befolgen.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Betrieb",
+    "Point": "Geschäftliches",
+    "Description": "Anfragen zu Werbung oder Kooperationen an [biz@agency.com].",
+    "Applicabilité": "Unternehmen",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Betrieb",
+    "Point": "Audition",
+    "Description": "Bewerbung als Trainee unter dem Tab [Audition].",
+    "Applicabilité": "Bewerber",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Betrieb",
+    "Point": "Meldungsformat",
+    "Description": "Bei Rechtsverletzungen: [Datum/Plattform/Inhalt/URL].",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Événement",
+    "Point": "Gewinnerprüfung",
+    "Description": "Gewinner per Kontakt oder offizielle Ankündigung.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Événement",
+    "Point": "Nummernschild",
+    "Description": "First-come-first-served nach Reihenfolge der verteilten Nummern.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Événement",
+    "Point": "Altersbeschränkung",
+    "Description": "Bei manchen Events ist elterliche Einwilligung unter 14 Jahren nötig.",
+    "Applicabilité": "Mineurs",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Événement",
+    "Point": "Video-Call",
+    "Description": "Stabile Internetverbindung; Call endet bei Anwesenheit Dritter.",
+    "Applicabilité": "Video-Call-Fansign",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Événement",
+    "Point": "Gruppenfoto",
+    "Description": "Gruppenfoto mit dem Künstler wird nach der Veranstaltung hochgeladen.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Événement",
+    "Point": "Voraussetzungen",
+    "Description": "Lightsticks, Alben und Ausweise oft Pflicht für Vor-Ort-Events.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Événement",
+    "Point": "Fansign",
+    "Description": "Per Los unter Albumkäufern; nur Gewinner nehmen teil.",
+    "Applicabilité": "Gewinner",
+    "Notes": "Ausweis nötig"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Événement",
+    "Point": "Internationale Events",
+    "Description": "Infos zu Touren und Events mehrsprachig über globale Ankündigungen.",
+    "Applicabilité": "Internationale Fans",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Informationen",
+    "Point": "Künstlerliste",
+    "Description": "Aktuelle Künstler unter [Artist] auf der Website.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Informationen",
+    "Point": "Standort",
+    "Description": "Büro in OO-Gebäude; Rundgänge nicht möglich.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Inhalte",
+    "Point": "Exklusive Fotos",
+    "Description": "Mitglieder-exklusive Fotos monatlich am 1. aktualisiert.",
+    "Applicabilité": "Zahlende Mitglieder",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Inhalte",
+    "Point": "Unveröffentlichte Fotos",
+    "Description": "Unveröffentlichte Photocards zufällig in jedem Album.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Inhalte",
+    "Point": "Behind-the-Scenes",
+    "Description": "Behind-the-Scenes-Videos freitags 18 Uhr auf dem offiziellen YouTube.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Inhalte",
+    "Point": "Streaming",
+    "Description": "Zu Musik- und Video-Streaming die Fangemeinde-Richtlinien beachten.",
+    "Applicabilité": "Tous",
+    "Notes": "Empfohlen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Inhalte",
+    "Point": "Untertitel",
+    "Description": "Englisch, Japanisch und Chinesisch für alle offiziellen Videos.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Inhalte",
+    "Point": "Urheberrecht",
+    "Description": "Unerlaubte Aufnahme oder Weitergabe kostenpflichtiger Inhalte hat rechtliche Folgen.",
+    "Applicabilité": "Nur Mitglieder",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Inhalte",
+    "Point": "Fotobuch",
+    "Description": "Season's Greetings und Fotobuch-Vorbestellungen im zweiten Halbjahr.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Ticketing",
+    "Point": "Illegaler Handel",
+    "Description": "Wiederverkauf oder Bots führen zu Stornierung und Sperre.",
+    "Applicabilité": "Tous",
+    "Notes": "Kein Weiterverkauf"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Ticketing",
+    "Point": "Vorverkauf",
+    "Description": "Vorverkauf für verifizierte Mitglieder vor dem allgemeinen Verkauf.",
+    "Applicabilité": "Auftritte",
+    "Notes": "Konto verknüpfen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Ticketing",
+    "Point": "Rollstuhlplätze",
+    "Description": "Rollstuhlplätze nur per Telefon beim Ticketing-Kundenservice.",
+    "Applicabilité": "Menschen mit Behinderung",
+    "Notes": "Preuve requise"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fan-Brief",
+    "Point": "Standardformat",
+    "Description": "Enveloppes standard recommandées ; lettres en colis peuvent être refusées.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fan-Brief",
+    "Point": "Verschickung",
+    "Description": "Briefe nur per Post oder an offiziellen Abgabestellen bei Events.",
+    "Applicabilité": "Tous",
+    "Notes": "Keine Lieferung an Wohnort"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fanclub",
+    "Point": "Mitgliedschaft",
+    "Description": "Kostenpflichtige Mitgliedschaft über offizielle Communities (Weverse, Bubble etc.).",
+    "Applicabilité": "Neue Mitglieder",
+    "Notes": "Zeitraum prüfen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fanclub",
+    "Point": "Verlängerung",
+    "Description": "Verlängerung 30 Tage vor/nach Ablauf möglich.",
+    "Applicabilité": "Bestehende Mitglieder",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fanclub",
+    "Point": "Nickname-Richtlinie",
+    "Description": "Pseudos contenant le nom de l'artiste ou vulgarité restreints.",
+    "Applicabilité": "Tous",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fanclub",
+    "Point": "Vorteile",
+    "Description": "Vorverkaufsrecht, exklusive Inhalte und Kit-Kaufberechtigung.",
+    "Applicabilité": "Zahlende Mitglieder",
+    "Notes": "Variiert nach Laufzeit"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fanclub",
+    "Point": "Adressänderung",
+    "Description": "Adresse in Mein Bereich vor Versand des Mitglieder-Kits aktualisieren.",
+    "Applicabilité": "Zahlende Mitglieder",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fanclub",
+    "Point": "Kit-Versand",
+    "Description": "Kits membres envoyés trimestriellement.",
+    "Applicabilité": "Zahlende Mitglieder",
+    "Notes": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fanclub",
+    "Point": "Nicht übertragbar",
+    "Description": "Droits d'adhésion non cessibles ni transférables.",
+    "Applicabilité": "Tous",
+    "Notes": "Dauerhafte Sperre"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Fanclub",
+    "Point": "Mitgliedskarte",
+    "Description": "Digitale Mitgliedskarte in Mein Bereich der Community-App.",
+    "Applicabilité": "Zahlende Mitglieder",
+    "Notes": "Physische Karte separat"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Catégorie": "Promotion",
+    "Point": "Slogans",
+    "Description": "Geburtstags-Anzeigen und Plakatwerbung nach Agentur-Richtlinien.",
+    "Applicabilité": "Tous",
+    "Notes": "Vorherige Genehmigung"
   }
 ]
