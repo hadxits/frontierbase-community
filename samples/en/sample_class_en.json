@@ -1,0 +1,562 @@
+[
+  {
+    "Category": "General",
+    "Item": "Academic Integrity",
+    "Description": "Plagiarism or unauthorized code reuse results in a zero grade and certificate revocation.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Advanced Inquiries",
+    "Description": "Topics outside the scope of the curriculum are discussed in the #advanced Slack channel.",
+    "Applicability": "Enrolled",
+    "Notes": "-"
+  },
+  {
+    "Category": "General",
+    "Item": "AI Ethics",
+    "Description": "Guidelines on AI ethics are included in the 'Future Outlook' section of the final module.",
+    "Applicability": "Module 8",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Alumni Networking",
+    "Description": "An exclusive Slack channel for alumni is provided to share job postings and career info.",
+    "Applicability": "Graduates",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "API Key Security",
+    "Description": "Ensure that API keys used during LLM practice sessions are not leaked externally.",
+    "Applicability": "LLM Practice",
+    "Notes": "-"
+  },
+  {
+    "Category": "Materials",
+    "Item": "Archive Access",
+    "Description": "Course materials remain accessible for 6 months after the cohort ends.",
+    "Applicability": "Graduates",
+    "Notes": "-"
+  },
+  {
+    "Category": "Assessment",
+    "Item": "Attendance Policy",
+    "Description": "70% or more participation in live sessions is required to be marked present.",
+    "Applicability": "Live Course",
+    "Notes": "-"
+  },
+  {
+    "Category": "Assessment",
+    "Item": "Appeal Process",
+    "Description": "Grade appeals can be submitted via email within 3 days of the result announcement.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Box Plot Analysis",
+    "Description": "Techniques for outlier detection using Box Plots are included in the 14th lesson materials.",
+    "Applicability": "Module 3",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Browser Settings",
+    "Description": "Disable popup blockers to ensure Google Colab functions correctly during practice.",
+    "Applicability": "Practice",
+    "Notes": "-"
+  },
+  {
+    "Category": "General",
+    "Item": "Career Support",
+    "Description": "For career-related consultations beyond technical help, please use LinkedIn DM.",
+    "Applicability": "Enrolled",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Case Study",
+    "Description": "Refer to the Google data analysis case study in Module 5 for your assignment.",
+    "Applicability": "Module 5",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Cheat Sheets",
+    "Description": "We provide a Pandas shortcut cheat sheet to improve your data analysis efficiency.",
+    "Applicability": "Practice",
+    "Notes": "-"
+  },
+  {
+    "Category": "General",
+    "Item": "Course Duration",
+    "Description": "A 12-week curriculum with an additional 4 weeks of review access.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "General",
+    "Item": "Course Structure",
+    "Description": "The program consists of 8 comprehensive modules and 24 focused lessons.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Materials",
+    "Item": "Copyright Policy",
+    "Description": "Unauthorized distribution or commercial use of course materials is strictly prohibited.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Correlation vs Causality",
+    "Description": "Examples to avoid confusing correlation with causality are on page 21.",
+    "Applicability": "Module 2",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Data Definitions",
+    "Description": "Module 1 covers the fundamental definitions and types of data (structured/unstructured).",
+    "Applicability": "Module 1",
+    "Notes": "-"
+  },
+  {
+    "Category": "General",
+    "Item": "Data Literacy Goals",
+    "Description": "Our core objective is building data literacy and proficiency with analytical tools.",
+    "Applicability": "All Students",
+    "Notes": "Refer to Syllabus"
+  },
+  {
+    "Category": "Content",
+    "Item": "Dataset Sourcing",
+    "Description": "Practice datasets are derived and processed from public Kaggle data.",
+    "Applicability": "Practice",
+    "Notes": "-"
+  },
+  {
+    "Category": "General",
+    "Item": "Digital Certificate",
+    "Description": "Graduates receive a digital badge shareable on LinkedIn profiles.",
+    "Applicability": "Graduates",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Emergency Discord",
+    "Description": "In case of LMS outages, use the emergency Discord server for communication.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Error Reporting",
+    "Description": "Please report any typos or technical errors in the materials via Google Form.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Experimental Design",
+    "Description": "Step-by-step instructions for hypothesis testing are located on page 18.",
+    "Applicability": "Module 2",
+    "Notes": "-"
+  },
+  {
+    "Category": "Assignment",
+    "Item": "Feedback Requirement",
+    "Description": "Peer reviews for 2 other students' work are mandatory for the final project.",
+    "Applicability": "Final Project",
+    "Notes": "-"
+  },
+  {
+    "Category": "Assignment",
+    "Item": "File Naming",
+    "Description": "Follow the format: 'Name_Module#_AssignmentName.pdf' for all submissions.",
+    "Applicability": "Submissions",
+    "Notes": "-"
+  },
+  {
+    "Category": "Assessment",
+    "Item": "Final Project",
+    "Description": "The final exam is replaced by a project submission and a Loom video presentation.",
+    "Applicability": "Finals",
+    "Notes": "-"
+  },
+  {
+    "Category": "Materials",
+    "Item": "Format Availability",
+    "Description": "All lecture slides are provided as PDF files and Google Slides links.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Frequently Asked Questions",
+    "Description": "Reset your Google Colab runtime if you encounter environment setup errors.",
+    "Applicability": "Technical Help",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Glossary of Terms",
+    "Description": "A separate list of 100 essential technical terms (Glossary) is provided.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Assignment",
+    "Item": "Grading Rubric",
+    "Description": "Evaluated on Logic (40%), Tool Usage (30%), and Interpretation (30%).",
+    "Applicability": "Evaluation",
+    "Notes": "-"
+  },
+  {
+    "Category": "Assignment",
+    "Item": "Group Matching",
+    "Description": "Teams for project collaboration will be formed during the 3rd week of the course.",
+    "Applicability": "Team Tasks",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Hyperparameter Tuning",
+    "Description": "Tuning importance and optimization techniques are detailed in the Lesson 12 video.",
+    "Applicability": "Module 6",
+    "Notes": "-"
+  },
+  {
+    "Category": "General",
+    "Item": "Individual Success",
+    "Description": "We are here to support your journey toward a successful data career.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Assignment",
+    "Item": "Individual Task",
+    "Description": "Personal data analysis reports must be submitted in PDF format only.",
+    "Applicability": "Mid-term Task",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Instructor Response",
+    "Description": "Direct instructor feedback is provided within 24 business hours.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Interactive Tools",
+    "Description": "We utilize Slack and Notion for real-time Q&A and team project management.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Keyword Search Tip",
+    "Description": "Use 'Ctrl+F' within the PDF slide decks to quickly find specific content.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "General",
+    "Item": "Language Options",
+    "Description": "Subtitles are available in both English and Korean for all video content.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Assignment",
+    "Item": "Late Submission",
+    "Description": "Assignments are due by midnight the Sunday following each module's end.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "General",
+    "Item": "Learning Pathway",
+    "Description": "We recommend taking 'Advanced Machine Learning' after completing this course.",
+    "Applicability": "Graduates",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Live Office Hours",
+    "Description": "Live Q&A sessions are held every Thursday at 8 PM via Google Meet.",
+    "Applicability": "All Students",
+    "Notes": "Pre-submit questions"
+  },
+  {
+    "Category": "Content",
+    "Item": "Machine Learning Metrics",
+    "Description": "Check page 30 for the differences between Accuracy and F1-score.",
+    "Applicability": "Module 4",
+    "Notes": "-"
+  },
+  {
+    "Category": "Materials",
+    "Item": "Mobile Compatibility",
+    "Description": "PDF materials are optimized for high readability on mobile devices.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Assessment",
+    "Item": "Mid-term Exam",
+    "Description": "Conducted via Google Forms covering content from Modules 1 to 4.",
+    "Applicability": "Mid-term",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Missing Value Handling",
+    "Description": "Data cleansing strategies must always align with the specific analysis goal.",
+    "Applicability": "Practice 1",
+    "Notes": "-"
+  },
+  {
+    "Category": "Assignment",
+    "Item": "Outstanding Samples",
+    "Description": "Top student assignments are shared in the 'Best Practice' folder.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Materials",
+    "Item": "Ownership of Work",
+    "Description": "Students retain full copyright over their individual assignment submissions.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "PCA Visualization",
+    "Description": "Refer to the diagram on page 40 for the geometric meaning of PCA.",
+    "Applicability": "Module 5",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Practice Environment",
+    "Description": "Refer to the setup guide for Google Colab and VS Code installation.",
+    "Applicability": "Practice",
+    "Notes": "-"
+  },
+  {
+    "Category": "General",
+    "Item": "Prerequisites",
+    "Description": "Basic understanding of statistics (Mean, Variance) is required.",
+    "Applicability": "Intro Level",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Pre-processing scaling",
+    "Description": "Supplemental material on why feature scaling is necessary is in the Appendix.",
+    "Applicability": "Module 3",
+    "Notes": "-"
+  },
+  {
+    "Category": "Materials",
+    "Item": "Python Source Code",
+    "Description": "Code used in practice sessions is available via our GitHub repository.",
+    "Applicability": "Practice Sessions",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Python Version",
+    "Description": "Ensure your environment is running Python 3.9 or higher for compatibility.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Assessment",
+    "Item": "Passing Criteria",
+    "Description": "Certificate issued for 80%+ attendance and a total score of 70+.",
+    "Applicability": "Graduation",
+    "Notes": "-"
+  },
+  {
+    "Category": "Assessment",
+    "Item": "Quiz Format",
+    "Description": "A brief 5-question quiz is provided at the end of each lesson.",
+    "Applicability": "Per Lesson",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "RAG Concepts",
+    "Description": "Module 4 explains Retrieval-Augmented Generation using external knowledge.",
+    "Applicability": "Module 4",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Random Forest Logic",
+    "Description": "The operational logic of Random Forest is visualized on page 45.",
+    "Applicability": "Module 6",
+    "Notes": "-"
+  },
+  {
+    "Category": "Materials",
+    "Item": "Reading List",
+    "Description": "A list of academic papers for advanced study is included in each chapter.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Real-world Expert Tips",
+    "Description": "Chapter 7 includes actual interview questions and advice from industry pros.",
+    "Applicability": "Module 7",
+    "Notes": "-"
+  },
+  {
+    "Category": "Assessment",
+    "Item": "Retake Policy",
+    "Description": "One retake opportunity is provided if the passing score is not met.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "General",
+    "Item": "Refund Policy",
+    "Description": "Refunds may be restricted if course materials have been downloaded.",
+    "Applicability": "Payment",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Regex Patterns",
+    "Description": "A collection of Regex patterns for text pre-processing is in Appendix 2.",
+    "Applicability": "Module 3",
+    "Notes": "-"
+  },
+  {
+    "Category": "Materials",
+    "Item": "Report Templates",
+    "Description": "Google Docs templates for reporting are available in the resources folder.",
+    "Applicability": "Assignments",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Research Reviews",
+    "Description": "Live monthly streams review the latest data science research papers.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "General",
+    "Item": "Recommended Audience",
+    "Description": "Designed for non-majors and juniors looking to enter data analysis.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Response Foundation",
+    "Description": "Answers are based on official course slides and instructor notes.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Question Formatting",
+    "Description": "Include the specific slide page number for faster and more accurate help.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Software Stack",
+    "Description": "This course focuses on the Pandas, NumPy, and Scikit-learn libraries.",
+    "Applicability": "Practice",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Standard Deviation",
+    "Description": "Formulas are located in the 'Statistics Basics' section on page 15.",
+    "Applicability": "Module 2",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Supervised Learning",
+    "Description": "Differences between supervised and unsupervised learning are on page 22.",
+    "Applicability": "Module 3",
+    "Notes": "-"
+  },
+  {
+    "Category": "Materials",
+    "Item": "Supplemental Links",
+    "Description": "A curated list of YouTube tutorials is provided for extra help.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Term Definitions",
+    "Description": "'Embedding' refers to the process of converting text into vector numbers.",
+    "Applicability": "Module 2",
+    "Notes": "-"
+  },
+  {
+    "Category": "Materials",
+    "Item": "Text Transcripts",
+    "Description": "Scripts for all video lectures can be downloaded as text files.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Tool Access",
+    "Description": "Educational trial codes are provided for paid tools introduced in class.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Materials",
+    "Item": "Update Frequency",
+    "Description": "Materials are updated every cohort to reflect the latest industry trends.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Assignment",
+    "Item": "Video Submission",
+    "Description": "Presentations must be submitted via unlisted YouTube or Google Drive links.",
+    "Applicability": "All Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Visualization Principles",
+    "Description": "The five core principles for data readability are detailed in Module 8.",
+    "Applicability": "Module 8",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Visualization Tools",
+    "Description": "The curriculum focuses primarily on Matplotlib and Seaborn.",
+    "Applicability": "Practice",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Workspace Integration",
+    "Description": "Please link your Google Workspace apps using your student email.",
+    "Applicability": "New Students",
+    "Notes": "-"
+  }
+]

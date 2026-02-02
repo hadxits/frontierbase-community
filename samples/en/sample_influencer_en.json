@@ -1,0 +1,562 @@
+[
+  {
+    "Category": "Personal",
+    "Item": "MBTI",
+    "Description": "I am an ENFP, the 'Campaigner'—always enthusiastic and creative.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Pet",
+    "Description": "I have a 3-year-old Poodle named 'Choco.'",
+    "Applicability": "Pets",
+    "Notes": "Occasional video appearances"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Privacy",
+    "Description": "I do not disclose private information regarding my residence or family.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Workout",
+    "Description": "I try to maintain a daily routine of 30 minutes of morning jogging.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Food",
+    "Description": "My favorite food is Tteokbokki, especially the spicy kind.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Motto",
+    "Description": "My motto is 'The me of today creates the me of tomorrow.'",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Alcohol",
+    "Description": "My limit is about one bottle of Soju; I prefer wine over beer.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Books",
+    "Description": "I highly recommend the book 'Contradictions' (Mosun), which I recently read.",
+    "Applicability": "Recommendations",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Hobbies",
+    "Description": "When not filming, I enjoy reading and swimming.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Physicals",
+    "Description": "My profile height is 175cm; my weight is private.",
+    "Applicability": "Profile",
+    "Notes": "-"
+  },
+  {
+    "Category": "Merch",
+    "Item": "Official Shop",
+    "Description": "Official merchandise is currently available at Marpple Shop.",
+    "Applicability": "Standard Sales",
+    "Notes": "Excludes limited editions"
+  },
+  {
+    "Category": "Merch",
+    "Item": "Shipping",
+    "Description": "Please contact the retailer’s customer center for shipping inquiries.",
+    "Applicability": "Buyers",
+    "Notes": "-"
+  },
+  {
+    "Category": "Merch",
+    "Item": "Returns",
+    "Description": "Defective items can be exchanged within 7 days of receipt with photo proof via email.",
+    "Applicability": "Buyers",
+    "Notes": "-"
+  },
+  {
+    "Category": "Merch",
+    "Item": "Restock",
+    "Description": "There are currently no plans to restock sold-out limited edition items.",
+    "Applicability": "Limited Editions",
+    "Notes": "-"
+  },
+  {
+    "Category": "Merch",
+    "Item": "Global Shipping",
+    "Description": "International shipping is available through Marpple Shop.",
+    "Applicability": "Global Fans",
+    "Notes": "Varies by country"
+  },
+  {
+    "Category": "Rules",
+    "Item": "No Nicknaming",
+    "Description": "Please refrain from calling out other viewers' nicknames during the stream.",
+    "Applicability": "Live",
+    "Notes": "Prevents clique behavior"
+  },
+  {
+    "Category": "Rules",
+    "Item": "No Spamming",
+    "Description": "Repeating the same phrase 3+ times is considered spamming.",
+    "Applicability": "Live",
+    "Notes": "-"
+  },
+  {
+    "Category": "Rules",
+    "Item": "No Spoilers",
+    "Description": "Spoilers are strictly prohibited during game or movie reviews.",
+    "Applicability": "Reviews",
+    "Notes": "-"
+  },
+  {
+    "Category": "Rules",
+    "Item": "Abuse Policy",
+    "Description": "False rumors or personal attacks will face legal action.",
+    "Applicability": "Community",
+    "Notes": "Zero tolerance"
+  },
+  {
+    "Category": "Rules",
+    "Item": "Politics/Religion",
+    "Description": "Discussions regarding politics or religion are prohibited in the chat.",
+    "Applicability": "Live",
+    "Notes": "Immediate ban"
+  },
+  {
+    "Category": "Rules",
+    "Item": "No Cliques",
+    "Description": "Excessive private socializing between viewers in the live chat is prohibited.",
+    "Applicability": "Live",
+    "Notes": "Warning then kick"
+  },
+  {
+    "Category": "Rules",
+    "Item": "Other Creators",
+    "Description": "Please refrain from mentioning or comparing me to other YouTubers.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Membership",
+    "Item": "How to Join",
+    "Description": "You can join via the 'Join' button on the channel home page.",
+    "Applicability": "YouTube",
+    "Notes": "-"
+  },
+  {
+    "Category": "Membership",
+    "Item": "Perks",
+    "Description": "Benefits include exclusive emojis, badges, and private live streams.",
+    "Applicability": "Members",
+    "Notes": "Varies by tier"
+  },
+  {
+    "Category": "Membership",
+    "Item": "Private Videos",
+    "Description": "At least two member-only videos are uploaded every month.",
+    "Applicability": "Members",
+    "Notes": "-"
+  },
+  {
+    "Category": "Membership",
+    "Item": "Voting Rights",
+    "Description": "Member votes are reflected when choosing future content topics.",
+    "Applicability": "Members",
+    "Notes": "-"
+  },
+  {
+    "Category": "Membership",
+    "Item": "Donations",
+    "Description": "Support is available via Super Chat and Toonation during live streams.",
+    "Applicability": "Live",
+    "Notes": "-"
+  },
+  {
+    "Category": "Business",
+    "Item": "Speaking/Events",
+    "Description": "Speaking proposals must be sent at least one month in advance.",
+    "Applicability": "External Events",
+    "Notes": "-"
+  },
+  {
+    "Category": "Business",
+    "Item": "Group Buys",
+    "Description": "Active group buy links can be found in the Linktree on my profile.",
+    "Applicability": "Sales Period",
+    "Notes": "Limited quantity"
+  },
+  {
+    "Category": "Business",
+    "Item": "Ad/Collab Inquiries",
+    "Description": "Please email a detailed proposal; DMs are not monitored for business.",
+    "Applicability": "Brands",
+    "Notes": "No DMs"
+  },
+  {
+    "Category": "Business",
+    "Item": "Ad Rates",
+    "Description": "Rates vary based on expected views and brand category.",
+    "Applicability": "Brands",
+    "Notes": "Provided after proposal"
+  },
+  {
+    "Category": "Business",
+    "Item": "Seeding",
+    "Description": "Simple gifts (seeding) are accepted without review obligations.",
+    "Applicability": "Sponsorship",
+    "Notes": "Guidelines required"
+  },
+  {
+    "Category": "Business",
+    "Item": "Meeting Venue",
+    "Description": "Meetings are typically held at cafes or meeting rooms near the office.",
+    "Applicability": "Offline",
+    "Notes": "-"
+  },
+  {
+    "Category": "Business",
+    "Item": "Media Appearance",
+    "Description": "Television appearances (network/cable) are decided with careful consideration.",
+    "Applicability": "Broadcasting",
+    "Notes": "-"
+  },
+  {
+    "Category": "Business",
+    "Item": "Offline Pop-up",
+    "Description": "A pop-up store is planned for the first half of next year.",
+    "Applicability": "General",
+    "Notes": "Location TBD"
+  },
+  {
+    "Category": "Business",
+    "Item": "Disclosure",
+    "Description": "All paid content includes a 'Paid Promotion' disclaimer.",
+    "Applicability": "Ads",
+    "Notes": "FTC/KFTC compliant"
+  },
+  {
+    "Category": "Business",
+    "Item": "Email Address",
+    "Description": "Please reach out to contact@creator.com.",
+    "Applicability": "Inquiries",
+    "Notes": "-"
+  },
+  {
+    "Category": "Business",
+    "Item": "Interviews",
+    "Description": "Written interviews are possible depending on the schedule.",
+    "Applicability": "Press",
+    "Notes": "-"
+  },
+  {
+    "Category": "Business",
+    "Item": "Agency",
+    "Description": "I am currently an independent freelancer without an agency/MCN.",
+    "Applicability": "MCN",
+    "Notes": "-"
+  },
+  {
+    "Category": "Business",
+    "Item": "Image Rights",
+    "Description": "Unauthorized re-uploads or commercial use of my videos is prohibited.",
+    "Applicability": "General",
+    "Notes": "Includes short-form"
+  },
+  {
+    "Category": "Service",
+    "Item": "Voice Usage",
+    "Description": "Secondary creations using my voice are allowed for non-profit use.",
+    "Applicability": "AI/Cover",
+    "Notes": "Credit required"
+  },
+  {
+    "Category": "Schedule",
+    "Item": "Return Date",
+    "Description": "Scheduled to return in the first week of March after the break.",
+    "Applicability": "Hiatus",
+    "Notes": "-"
+  },
+  {
+    "Category": "Schedule",
+    "Item": "Year-end Review",
+    "Description": "A special review stream is held at the end of every December.",
+    "Applicability": "Annual",
+    "Notes": "-"
+  },
+  {
+    "Category": "Schedule",
+    "Item": "Vlogs",
+    "Description": "Behind-the-scenes sketches are uploaded following external shoots.",
+    "Applicability": "Irregular",
+    "Notes": "-"
+  },
+  {
+    "Category": "Schedule",
+    "Item": "Collabs",
+    "Description": "Collaborations with other creators are planned roughly once a month.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Schedule",
+    "Item": "Break Notices",
+    "Description": "Health or vacation breaks are announced in advance on the Community tab.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Tech Info",
+    "Item": "Audio Interface",
+    "Description": "I use the Focusrite Scarlett 2i2.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Tech Info",
+    "Item": "Makeup",
+    "Description": "Check the pinned comments for information on lip products used.",
+    "Applicability": "Beauty",
+    "Notes": "-"
+  },
+  {
+    "Category": "Tech Info",
+    "Item": "BGM",
+    "Description": "I use licensed music from Epidemic Sound.",
+    "Applicability": "BGM",
+    "Notes": "-"
+  },
+  {
+    "Category": "Tech Info",
+    "Item": "Main Gear",
+    "Description": "Camera: Sony A7C | Microphone: Shure MV7.",
+    "Applicability": "Filming",
+    "Notes": "-"
+  },
+  {
+    "Category": "Tech Info",
+    "Item": "Thumbnails",
+    "Description": "I design my own thumbnails using Adobe Photoshop.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Tech Info",
+    "Item": "Editing",
+    "Description": "I currently edit all my own videos; I do not outsource.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Tech Info",
+    "Item": "Outfit Info",
+    "Description": "Lookbook/outfit details are listed in the video description box.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Tech Info",
+    "Item": "Internet",
+    "Description": "I use a 1Gbps high-speed connection for stable streaming.",
+    "Applicability": "Live",
+    "Notes": "-"
+  },
+  {
+    "Category": "Tech Info",
+    "Item": "Lighting",
+    "Description": "Two Luxpad 43H units placed diagonally to the left and right.",
+    "Applicability": "Filming",
+    "Notes": "-"
+  },
+  {
+    "Category": "Tech Info",
+    "Item": "Location",
+    "Description": "Filming usually takes place at my studio or home.",
+    "Applicability": "Filming",
+    "Notes": "-"
+  },
+  {
+    "Category": "Tech Info",
+    "Item": "PC Specs",
+    "Description": "High-end PC based on the RTX 4090.",
+    "Applicability": "General",
+    "Notes": "Full specs posted"
+  },
+  {
+    "Category": "Tech Info",
+    "Item": "Software",
+    "Description": "Adobe Premiere Pro and After Effects.",
+    "Applicability": "Editing",
+    "Notes": "-"
+  },
+  {
+    "Category": "Tech Info",
+    "Item": "Fonts",
+    "Description": "Mainly commercial-use fonts from the 'Noonnu' site.",
+    "Applicability": "Subtitles",
+    "Notes": "-"
+  },
+  {
+    "Category": "Channel",
+    "Item": "Global Subs",
+    "Description": "English and Japanese subtitles are updated sequentially.",
+    "Applicability": "Select Videos",
+    "Notes": "-"
+  },
+  {
+    "Category": "Channel",
+    "Item": "Live Streams",
+    "Description": "Regular live streams every Saturday at 10:00 PM KST.",
+    "Applicability": "Platforms",
+    "Notes": "Check notices"
+  },
+  {
+    "Category": "Channel",
+    "Item": "Sub-channel",
+    "Description": "I operate a gaming sub-channel called 'Game Log.'",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Channel",
+    "Item": "Shorts/Reels",
+    "Description": "Short-form content is uploaded daily to Instagram and TikTok.",
+    "Applicability": "SNS",
+    "Notes": "-"
+  },
+  {
+    "Category": "Channel",
+    "Item": "Upload Cycle",
+    "Description": "New videos are posted every Tuesday and Friday at 8:00 PM KST.",
+    "Applicability": "YouTube",
+    "Notes": "Excludes Shorts"
+  },
+  {
+    "Category": "Channel",
+    "Item": "Content Focus",
+    "Description": "Daily Vlogs and IT/Tech Gear reviews.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Channel",
+    "Item": "Starter Guide",
+    "Description": "Newcomers should watch the 'Fan Guide' video first.",
+    "Applicability": "New Subs",
+    "Notes": "Pinned"
+  },
+  {
+    "Category": "Channel",
+    "Item": "International",
+    "Description": "English notices are provided on the Community tab for global fans.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Community",
+    "Item": "Chat Rooms",
+    "Description": "There is no official KakaoTalk Open Chat room. Beware of imposters.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Community",
+    "Item": "Discord",
+    "Description": "Fan Discord server is exclusive to channel members.",
+    "Applicability": "Members",
+    "Notes": "-"
+  },
+  {
+    "Category": "Community",
+    "Item": "Q&A Board",
+    "Description": "Please use the dedicated post on the YouTube Community tab for questions.",
+    "Applicability": "Questions",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fan Comm.",
+    "Item": "DM Policy",
+    "Description": "Responses to personal DMs may be slow. Use email for urgent matters.",
+    "Applicability": "SNS",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fan Comm.",
+    "Item": "HQ Photos",
+    "Description": "High-resolution wallpapers are uploaded to my blog.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fan Comm.",
+    "Item": "Nickname Policy",
+    "Description": "I plan to update/change my creator name roughly once a year.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fan Comm.",
+    "Item": "Comments",
+    "Description": "I can't reply to all, but I read as many as possible (I use 'Hearts' to communicate).",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fan Comm.",
+    "Item": "Birthday",
+    "Description": "This year's birthday celebration will be held via a live stream.",
+    "Applicability": "Birthday",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fan Comm.",
+    "Item": "Gifts/Support",
+    "Description": "Food or items with short shelf lives are politely declined. Letters are welcome!",
+    "Applicability": "Gifts",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fan Comm.",
+    "Item": "Meetups",
+    "Description": "Private meetings outside of official fan events are not possible.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fan Comm.",
+    "Item": "Custom Clips",
+    "Description": "Individual voice or video messages cannot be provided.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fan Comm.",
+    "Item": "Fandom Name",
+    "Description": "Our subscribers are affectionately called 'Dreamers' (Kkum-namu).",
+    "Applicability": "Subscribers",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fan Comm.",
+    "Item": "Fan Art",
+    "Description": "Use #FanArt; I share these to the Community tab.",
+    "Applicability": "General",
+    "Notes": "-"
+  }
+]

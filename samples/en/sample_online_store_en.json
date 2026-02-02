@@ -1,0 +1,562 @@
+[
+  {
+    "Category": "Shipping",
+    "Item": "Delivery Period",
+    "Description": "Average delivery takes 2-3 business days after ordering.",
+    "Applicability": "Standard",
+    "Notes": "Excludes weekends"
+  },
+  {
+    "Category": "Shipping",
+    "Item": "Delay",
+    "Description": "Delivery may be delayed by a day due to high volume.",
+    "Applicability": "Peak season",
+    "Notes": "Check notices"
+  },
+  {
+    "Category": "Shipping",
+    "Item": "Dispatch Time",
+    "Description": "Orders placed before 2 PM are dispatched the same day.",
+    "Applicability": "Weekdays",
+    "Notes": "Excludes weekends"
+  },
+  {
+    "Category": "Shipping",
+    "Item": "Combined Shipping",
+    "Description": "Items with the same order number are shipped together.",
+    "Applicability": "Same order",
+    "Notes": "Excludes split dispatch"
+  },
+  {
+    "Category": "Shipping",
+    "Item": "Split Dispatch",
+    "Description": "Orders may be shipped in parts depending on stock availability.",
+    "Applicability": "Out of stock",
+    "Notes": "Prior notice"
+  },
+  {
+    "Category": "Shipping",
+    "Item": "Shipping Fee",
+    "Description": "The basic shipping fee is 3,000 KRW.",
+    "Applicability": "General",
+    "Notes": "Excludes Jeju"
+  },
+  {
+    "Category": "Shipping",
+    "Item": "Remote Areas",
+    "Description": "Additional shipping fees apply to island and remote areas.",
+    "Applicability": "Remote areas",
+    "Notes": "Varies by region"
+  },
+  {
+    "Category": "Shipping",
+    "Item": "Express Delivery",
+    "Description": "Quick/Express delivery is not supported.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Shipping",
+    "Item": "Tracking",
+    "Description": "Tracking is available on the My Page section.",
+    "Applicability": "After dispatch",
+    "Notes": "Linked with courier"
+  },
+  {
+    "Category": "Shipping",
+    "Item": "Courier",
+    "Description": "The default courier is CJ Logistics.",
+    "Applicability": "General",
+    "Notes": "Subject to change"
+  },
+  {
+    "Category": "Refund",
+    "Item": "Refund Eligibility",
+    "Description": "Refunds are possible within 7 days of receiving the product.",
+    "Applicability": "Unused",
+    "Notes": "Round-trip fee applies"
+  },
+  {
+    "Category": "Refund",
+    "Item": "Non-refundable",
+    "Description": "Products with signs of use cannot be refunded.",
+    "Applicability": "After use",
+    "Notes": "Electronics"
+  },
+  {
+    "Category": "Refund",
+    "Item": "Refund Process",
+    "Description": "Refund requests can be made via My Page.",
+    "Applicability": "Order complete",
+    "Notes": "Auto-processed"
+  },
+  {
+    "Category": "Refund",
+    "Item": "Refund Period",
+    "Description": "It takes 3-5 business days for the refund to be processed.",
+    "Applicability": "Cancellation",
+    "Notes": "Varies by card issuer"
+  },
+  {
+    "Category": "Refund",
+    "Item": "Partial Refund",
+    "Description": "Partial refunds are not possible for set items.",
+    "Applicability": "Set items",
+    "Notes": "Full return required"
+  },
+  {
+    "Category": "Refund",
+    "Item": "Shipping Refund",
+    "Description": "Shipping fees are not refunded for change of mind.",
+    "Applicability": "Change of mind",
+    "Notes": "-"
+  },
+  {
+    "Category": "Refund",
+    "Item": "Wrong Delivery",
+    "Description": "Refunds for wrong items are processed without shipping fees.",
+    "Applicability": "Seller error",
+    "Notes": "Photo required"
+  },
+  {
+    "Category": "Refund",
+    "Item": "Defective Item",
+    "Description": "Defective items are eligible for exchange or refund.",
+    "Applicability": "Verified defect",
+    "Notes": "Proof required"
+  },
+  {
+    "Category": "Refund",
+    "Item": "Payment Method",
+    "Description": "Refunds are issued to the original payment method.",
+    "Applicability": "All",
+    "Notes": "No cash refunds"
+  },
+  {
+    "Category": "Refund",
+    "Item": "Cancel Request",
+    "Description": "Orders can be canceled immediately before dispatch.",
+    "Applicability": "Before dispatch",
+    "Notes": "Auto-cancel"
+  },
+  {
+    "Category": "Exchange",
+    "Item": "Exchange Eligibility",
+    "Description": "Exchanges are possible within 7 days of receipt.",
+    "Applicability": "Unused",
+    "Notes": "-"
+  },
+  {
+    "Category": "Exchange",
+    "Item": "Non-exchangeable",
+    "Description": "Sale items are not eligible for exchange.",
+    "Applicability": "Special deals",
+    "Notes": "Refer to notice"
+  },
+  {
+    "Category": "Exchange",
+    "Item": "Exchange Fee",
+    "Description": "A round-trip shipping fee applies for exchanges.",
+    "Applicability": "Change of mind",
+    "Notes": "6,000 KRW"
+  },
+  {
+    "Category": "Exchange",
+    "Item": "Defect Exchange",
+    "Description": "Shipping is free for exchanging defective items.",
+    "Applicability": "Defect",
+    "Notes": "-"
+  },
+  {
+    "Category": "Exchange",
+    "Item": "Color Exchange",
+    "Description": "Exchanges for different colors are possible.",
+    "Applicability": "In stock",
+    "Notes": "-"
+  },
+  {
+    "Category": "Exchange",
+    "Item": "Size Exchange",
+    "Description": "Size exchanges are limited to once per order.",
+    "Applicability": "Apparel",
+    "Notes": "-"
+  },
+  {
+    "Category": "Exchange",
+    "Item": "Exchange Period",
+    "Description": "The exchange process takes approximately 5-7 days.",
+    "Applicability": "After receipt",
+    "Notes": "-"
+  },
+  {
+    "Category": "Exchange",
+    "Item": "Stock Issue",
+    "Description": "If an exchange item is out of stock, a refund will be issued.",
+    "Applicability": "Out of stock",
+    "Notes": "-"
+  },
+  {
+    "Category": "Exchange",
+    "Item": "Exchange Process",
+    "Description": "Requests can be submitted through My Page.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Exchange",
+    "Item": "Return Address",
+    "Description": "Please follow the instructions provided by CS for the address.",
+    "Applicability": "Specific guide",
+    "Notes": "-"
+  },
+  {
+    "Category": "Product",
+    "Item": "Product Info",
+    "Description": "Please refer to the detailed page for specific product info.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Product",
+    "Item": "Restock",
+    "Description": "The restock schedule is currently undecided.",
+    "Applicability": "Sold out",
+    "Notes": "-"
+  },
+  {
+    "Category": "Product",
+    "Item": "Expiry Date",
+    "Description": "Expiry is at least 6 months from the date of dispatch.",
+    "Applicability": "Food",
+    "Notes": "-"
+  },
+  {
+    "Category": "Product",
+    "Item": "Origin",
+    "Description": "This product is made domestically (Korea).",
+    "Applicability": "Food",
+    "Notes": "-"
+  },
+  {
+    "Category": "Product",
+    "Item": "Warranty/AS",
+    "Description": "After-sales service follows the manufacturer's policy.",
+    "Applicability": "Electronics",
+    "Notes": "-"
+  },
+  {
+    "Category": "Product",
+    "Item": "Components",
+    "Description": "Included components are listed on the detailed page.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Product",
+    "Item": "Color Variation",
+    "Description": "Colors may vary depending on monitor settings.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Product",
+    "Item": "Size Error",
+    "Description": "Sizes may vary slightly depending on measurement methods.",
+    "Applicability": "Apparel",
+    "Notes": "±1~2cm"
+  },
+  {
+    "Category": "Product",
+    "Item": "Packaging",
+    "Description": "We utilize eco-friendly packaging materials.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Product",
+    "Item": "Gift Wrapping",
+    "Description": "Gift wrapping services are not provided.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Payment Method",
+    "Description": "Cards and Naver Pay are accepted.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Bank Transfer",
+    "Description": "Direct bank transfers are not supported.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Payment Error",
+    "Description": "Please contact your card issuer for payment failures.",
+    "Applicability": "Failures",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Installments",
+    "Description": "Installment options follow the card company's policy.",
+    "Applicability": "Credit cards",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Cash Receipt",
+    "Description": "Cash receipts cannot be issued.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Points",
+    "Description": "Naver Pay points can be used for payment.",
+    "Applicability": "Naver Pay",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Coupons",
+    "Description": "Coupons can be applied during the checkout stage.",
+    "Applicability": "Valid coupons",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Stacking Discounts",
+    "Description": "Duplicate coupon discounts are not allowed.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Cancel Payment",
+    "Description": "Payment cancellation is only possible before dispatch.",
+    "Applicability": "Before dispatch",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Receipt",
+    "Description": "Receipts can be checked and printed via My Page.",
+    "Applicability": "Payment complete",
+    "Notes": "-"
+  },
+  {
+    "Category": "Member",
+    "Item": "Guest Purchase",
+    "Description": "Purchases can be made as a guest without an account.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Member",
+    "Item": "Member Benefits",
+    "Description": "Exclusive discount benefits are provided to members.",
+    "Applicability": "Members",
+    "Notes": "-"
+  },
+  {
+    "Category": "Member",
+    "Item": "Update Profile",
+    "Description": "Member information can be changed in My Page.",
+    "Applicability": "Members",
+    "Notes": "-"
+  },
+  {
+    "Category": "Member",
+    "Item": "Withdrawal",
+    "Description": "Please contact CS to close your account.",
+    "Applicability": "Members",
+    "Notes": "-"
+  },
+  {
+    "Category": "Member",
+    "Item": "Marketing Opt-in",
+    "Description": "Agreeing to marketing notifications is optional.",
+    "Applicability": "Members",
+    "Notes": "-"
+  },
+  {
+    "Category": "Inquiry",
+    "Item": "Customer Center",
+    "Description": "Operating hours are weekdays from 10:00 to 17:00.",
+    "Applicability": "Weekdays",
+    "Notes": "Excludes lunch"
+  },
+  {
+    "Category": "Inquiry",
+    "Item": "Response Time",
+    "Description": "Inquiry responses are provided within 1 business day.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Inquiry",
+    "Item": "Phone Inquiry",
+    "Description": "Phone support is not available.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Inquiry",
+    "Item": "Chat Inquiry",
+    "Description": "Chat consultation services are under preparation.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Inquiry",
+    "Item": "Notice",
+    "Description": "Please refer to the store notices for important updates.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Price Change",
+    "Description": "Prices may change without prior notice.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Discontinuation",
+    "Description": "Products may be discontinued without notice.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Fake Reviews",
+    "Description": "False or malicious reviews are subject to reporting.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Resale Prohibited",
+    "Description": "Reselling products is strictly prohibited.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Bulk Purchase",
+    "Description": "Please contact us separately for bulk orders.",
+    "Applicability": "10+ units",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Overseas Shipping",
+    "Description": "International shipping is not supported.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Customs",
+    "Description": "Support for customs-related inquiries is not provided.",
+    "Applicability": "Overseas",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Legal Liability",
+    "Description": "Responsibility for product use lies with the purchaser.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Privacy",
+    "Description": "Personal information is used solely for delivery purposes.",
+    "Applicability": "All",
+    "Notes": "Security compliant"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Minor Purchase",
+    "Description": "Purchases by minors may require parental consent.",
+    "Applicability": "Minors",
+    "Notes": "-"
+  },
+  {
+    "Category": "Event",
+    "Item": "Review Points",
+    "Description": "Naver Points are awarded for photo reviews.",
+    "Applicability": "Reviewers",
+    "Notes": "Within 7 days"
+  },
+  {
+    "Category": "Event",
+    "Item": "Best Reviewer",
+    "Description": "Best reviewers are selected monthly for special gifts.",
+    "Applicability": "Top reviews",
+    "Notes": "Individual contact"
+  },
+  {
+    "Category": "Event",
+    "Item": "How to Join",
+    "Description": "Please follow the guides in the notice section for events.",
+    "Applicability": "Ongoing",
+    "Notes": "-"
+  },
+  {
+    "Category": "Event",
+    "Item": "Expired Event",
+    "Description": "Benefits cannot be provided for expired events.",
+    "Applicability": "Expired",
+    "Notes": "-"
+  },
+  {
+    "Category": "Shipping",
+    "Item": "Virtual Number",
+    "Description": "Courier texts may be missed when using virtual numbers.",
+    "Applicability": "Virtual number",
+    "Notes": "Verification needed"
+  },
+  {
+    "Category": "Shipping",
+    "Item": "Absence",
+    "Description": "Items will be left at a designated spot (e.g., front door) if absent.",
+    "Applicability": "Absent",
+    "Notes": "Delivery message"
+  },
+  {
+    "Category": "Product",
+    "Item": "Washing",
+    "Description": "Hand wash in cold water with neutral detergent is recommended.",
+    "Applicability": "Apparel/Fabric",
+    "Notes": "No dryer"
+  },
+  {
+    "Category": "Product",
+    "Item": "Recommended Age",
+    "Description": "This product is suitable for ages 14 and up.",
+    "Applicability": "Except children",
+    "Notes": "Safety certified"
+  },
+  {
+    "Category": "Refund",
+    "Item": "Return Address",
+    "Description": "Return address: OOO-dong, OOO-si, Gyeonggi-do.",
+    "Applicability": "Return process",
+    "Notes": "Auto-pickup recommended"
+  },
+  {
+    "Category": "Other",
+    "Item": "Pre-order",
+    "Description": "Please check the dispatch date on the pre-order page.",
+    "Applicability": "Pre-order items",
+    "Notes": "Sequential dispatch"
+  }
+]

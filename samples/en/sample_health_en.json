@@ -1,0 +1,562 @@
+[
+  {
+    "Category": "⚠️Must Read",
+    "Item": "Medication Use",
+    "Description": "Do not stop or change current medications without consulting your primary physician.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "⚠️Must Read",
+    "Item": "Emergency Contact",
+    "Description": "In case of emergency (chest pain, difficulty breathing, etc.), call 911 or visit the nearest ER immediately.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "⚠️Must Read",
+    "Item": "Medical Disclaimer",
+    "Description": "This service provides general info only and does not replace professional medical diagnosis.",
+    "Applicability": "All Content",
+    "Notes": "Mandatory in intro/outro"
+  },
+  {
+    "Category": "⚠️Must Read",
+    "Item": "Worsening Symptoms",
+    "Description": "If symptoms persist or worsen after following the provided tips, seek clinical care immediately.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "⚠️Must Read",
+    "Item": "Consultation Required",
+    "Description": "Do not rely solely on online information; always seek an in-person medical consultation.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Mission",
+    "Description": "To contribute to community health by delivering accurate and accessible health information.",
+    "Applicability": "All Work",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "BMI Calculation",
+    "Description": "BMI is a reference index calculated as [Weight(kg) / Height(m)²].",
+    "Applicability": "Obesity Check",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Hypertension",
+    "Description": "Reducing sodium intake and keeping a regular blood pressure log is critical.",
+    "Applicability": "Chronic Care",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Osteoporosis",
+    "Description": "Weight-bearing exercises (walking) and calcium intake are vital for bone health.",
+    "Applicability": "General Health",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Oral Hygiene",
+    "Description": "Effective oral care requires both proper brushing and consistent flossing.",
+    "Applicability": "Dental Health",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Hydration",
+    "Description": "Recommended 1.5–2L daily for adults, though this varies by individual health conditions.",
+    "Applicability": "General Health",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Smoking Cessation",
+    "Description": "Information on national support services and internal quit-smoking campaigns is available.",
+    "Applicability": "Quitters",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Eye Health",
+    "Description": "Follow the 20-20-20 rule: look 20 feet away for 20 seconds every 20 minutes.",
+    "Applicability": "Vision Care",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Diabetes Mgmt",
+    "Description": "Choose low-GI foods and take light walks after meals to manage blood sugar.",
+    "Applicability": "Chronic Care",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Immunity",
+    "Description": "Sufficient sleep, balanced nutrition, and stress management are the primary pillars.",
+    "Applicability": "General Health",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Fine Dust",
+    "Description": "KF94 (or N95) masks are recommended when fine dust concentrations are high.",
+    "Applicability": "Respiratory",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Vitamin D",
+    "Description": "15–20 minutes of sun exposure daily helps with Vitamin D synthesis.",
+    "Applicability": "Nutrition",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Anemia Prevention",
+    "Description": "Combine iron-rich foods (spinach, red meat) with Vitamin C for better absorption.",
+    "Applicability": "Nutrition",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Indigestion",
+    "Description": "Chew slowly and avoid lying down immediately after a meal.",
+    "Applicability": "Digestive",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Hand Washing",
+    "Description": "Wash hands with soap for at least 30 seconds to prevent infectious diseases.",
+    "Applicability": "Prevention",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Sleep Hygiene",
+    "Description": "Maintain a regular wake-up time and avoid smartphones before bed.",
+    "Applicability": "General Health",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Stress Relief",
+    "Description": "Meditation, deep breathing, or hobbies are effective for stress reduction.",
+    "Applicability": "Mental Health",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Stretching",
+    "Description": "Stretch your neck and shoulders every hour if sitting for long periods.",
+    "Applicability": "Postural Care",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Allergies",
+    "Description": "Minimize exposure to known triggers like specific foods or pollen.",
+    "Applicability": "General Health",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Supplements",
+    "Description": "Take supplements during or after meals for higher absorption rates.",
+    "Applicability": "General Health",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Vaccination",
+    "Description": "Annual influenza (flu) shots are recommended every autumn.",
+    "Applicability": "Prevention",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Balanced Diet",
+    "Description": "Consume vegetables, proteins, and carbs equally; reduce processed sugars.",
+    "Applicability": "General Health",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Aerobic Exercise",
+    "Description": "30+ minutes of moderate intensity (brisk walking) 5 times a week is recommended.",
+    "Applicability": "Exercise",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Alcohol Guide",
+    "Description": "Excessive drinking increases risks for liver and cardiovascular diseases.",
+    "Applicability": "General Health",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Sun Protection",
+    "Description": "Apply sunscreen 30 minutes before going outside to protect your skin.",
+    "Applicability": "Skin Care",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Healthy Weight",
+    "Description": "Maintaining a weight appropriate for your height prevents adult-onset diseases.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Regular Checkups",
+    "Description": "A checkup every 1–2 years is the best prevention, even without symptoms.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Caffeine Intake",
+    "Description": "Excessive caffeine can lead to insomnia or heart palpitations.",
+    "Applicability": "General Health",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Back Health",
+    "Description": "Bend your knees, not your waist, when lifting heavy objects.",
+    "Applicability": "Musculoskeletal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Health Info",
+    "Item": "Seasonal Care",
+    "Description": "Keep indoor humidity at 40–60% to protect respiratory mucous membranes.",
+    "Applicability": "General Health",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Public Seminars",
+    "Description": "Free health lectures are provided periodically for local residents.",
+    "Applicability": "Community",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Health Insurance",
+    "Description": "International patients must bring a passport and a valid insurance certificate.",
+    "Applicability": "International",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Checkup Center",
+    "Description": "Located on the 3rd floor; operates strictly by appointment.",
+    "Applicability": "Health Exams",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Payment Methods",
+    "Description": "Cash, Credit Cards, Samsung Pay, and major mobile payments are supported.",
+    "Applicability": "Billing",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Feedback",
+    "Description": "Submit complaints or suggestions at the 1F box or via the website.",
+    "Applicability": "All Visitors",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Visiting Hours",
+    "Description": "Limited to weekdays 18:00–20:00 to ensure patient stability.",
+    "Applicability": "Visitors",
+    "Notes": "Check current regs"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Guardian Stay",
+    "Description": "One guardian may stay, except in single rooms or integrated care wards.",
+    "Applicability": "Inpatients",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Uninsured Costs",
+    "Description": "Prices for non-covered items are posted at the administration desk.",
+    "Applicability": "All Patients",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Shuttle Bus",
+    "Description": "A free shuttle operates between the subway station and the hospital.",
+    "Applicability": "Visitors",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Surgery Booking",
+    "Description": "Fasting times and pre-op instructions are provided by the nursing staff.",
+    "Applicability": "Surgery",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Physical Exams",
+    "Description": "Pre-employment and driver’s license physicals are available.",
+    "Applicability": "General",
+    "Notes": "ID photo required"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Information Desk",
+    "Description": "The central lobby desk provides general guidance on hospital use.",
+    "Applicability": "Visitors",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Pharmacy Guide",
+    "Description": "Information on nearby pharmacies and their operating hours is provided.",
+    "Applicability": "Post-clinical",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Nutrition Counseling",
+    "Description": "Customized diet consultations for chronic patients are available.",
+    "Applicability": "Outpatients",
+    "Notes": "Additional fee"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Booking",
+    "Description": "Appointments available via phone or Google Calendar-integrated systems.",
+    "Applicability": "All Patients",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Telehealth",
+    "Description": "Limited video consultations are available for those with mobility issues.",
+    "Applicability": "Eligible only",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Location",
+    "Description": "5-minute walk from Station Exit 3 (based on Google Maps).",
+    "Applicability": "Offline",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Emergency Room",
+    "Description": "The Emergency Medical Center operates 24/7, 365 days a year.",
+    "Applicability": "Emergency",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Admission",
+    "Description": "Submit admission forms and receive ward assignments at the admin office.",
+    "Applicability": "Inpatients",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Funeral Hall",
+    "Description": "The funeral parlor is located in a separate, dedicated building.",
+    "Applicability": "Visitors",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Rehabilitation",
+    "Description": "Professional physical and occupational therapy for post-op recovery.",
+    "Applicability": "Rehab",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Certificates",
+    "Description": "Medical certificates and opinions are issued at the admin office after a doctor's visit.",
+    "Applicability": "Documents",
+    "Notes": "ID required"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Parking",
+    "Description": "Basement parking is available; 2 hours free for patients.",
+    "Applicability": "Visitors",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Requirements",
+    "Description": "First-time visitors must bring a valid photo ID (Driver's License, etc.).",
+    "Applicability": "New Patients",
+    "Notes": "Insurance check"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Operating Hours",
+    "Description": "Weekdays 09:00–18:00; Saturdays until 13:00.",
+    "Applicability": "Clinic",
+    "Notes": "Lunch 13:00-14:00"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Discharge",
+    "Description": "Pay fees, receive discharge meds, and confirm follow-up appointments before leaving.",
+    "Applicability": "Inpatients",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Amenities",
+    "Description": "Convenience store, cafe, and ATM are located on Basement Floor 1.",
+    "Applicability": "Visitors",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Hemodialysis",
+    "Description": "An artificial kidney center with night dialysis support is available.",
+    "Applicability": "Kidney Care",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Recovery Room",
+    "Description": "Dedicated rooms for post-surgical stabilization and rest.",
+    "Applicability": "Post-op",
+    "Notes": "-"
+  },
+  {
+    "Category": "Hospital",
+    "Item": "Wheelchairs",
+    "Description": "Wheelchairs are available for free loan at the lobby information desk.",
+    "Applicability": "Visitors",
+    "Notes": "Free"
+  },
+  {
+    "Category": "System",
+    "Item": "Data Security",
+    "Description": "Health inquiry data is encrypted in compliance with privacy laws.",
+    "Applicability": "All Data",
+    "Notes": "-"
+  },
+  {
+    "Category": "System",
+    "Item": "Location-based",
+    "Description": "With consent, the system directs you to the nearest affiliated hospital.",
+    "Applicability": "Finding Care",
+    "Notes": "-"
+  },
+  {
+    "Category": "System",
+    "Item": "Anonymity",
+    "Description": "Personal health queries are used for statistics only and never leaked.",
+    "Applicability": "All Data",
+    "Notes": "-"
+  },
+  {
+    "Category": "System",
+    "Item": "Sources",
+    "Description": "Info is based on the National Health Info Portal and internal guidelines.",
+    "Applicability": "All Info",
+    "Notes": "-"
+  },
+  {
+    "Category": "System",
+    "Item": "Accuracy",
+    "Description": "If info is incorrect, please use the 'Request Correction' button.",
+    "Applicability": "All Content",
+    "Notes": "-"
+  },
+  {
+    "Category": "Departments",
+    "Item": "Internal Med.",
+    "Description": "Covers colds, hypertension, diabetes, and general chronic conditions.",
+    "Applicability": "Specialty",
+    "Notes": "-"
+  },
+  {
+    "Category": "Departments",
+    "Item": "Urology",
+    "Description": "Diagnosis and treatment of kidney, bladder, and urinary tract issues.",
+    "Applicability": "Specialty",
+    "Notes": "-"
+  },
+  {
+    "Category": "Departments",
+    "Item": "OB/GYN",
+    "Description": "Women’s health exams, prenatal care, and gynecological clinicals.",
+    "Applicability": "Specialty",
+    "Notes": "-"
+  },
+  {
+    "Category": "Departments",
+    "Item": "Pediatrics",
+    "Description": "Infant checkups, vaccinations, and specialized child care.",
+    "Applicability": "Specialty",
+    "Notes": "-"
+  },
+  {
+    "Category": "Departments",
+    "Item": "Ophthalmology",
+    "Description": "Vision tests, cataracts, glaucoma, and general eye exams.",
+    "Applicability": "Specialty",
+    "Notes": "-"
+  },
+  {
+    "Category": "Departments",
+    "Item": "ENT",
+    "Description": "Specializes in rhinitis, sinusitis, dizziness, and hearing tests.",
+    "Applicability": "Specialty",
+    "Notes": "-"
+  },
+  {
+    "Category": "Departments",
+    "Item": "Mental Health",
+    "Description": "Counseling and treatment for depression, anxiety, and sleep disorders.",
+    "Applicability": "Specialty",
+    "Notes": "-"
+  },
+  {
+    "Category": "Departments",
+    "Item": "Orthopedics",
+    "Description": "Clinical care for joint pain, fractures, and physical therapy.",
+    "Applicability": "Specialty",
+    "Notes": "-"
+  },
+  {
+    "Category": "Departments",
+    "Item": "Dental",
+    "Description": "Scalings, cavity treatment, and oral health checkups.",
+    "Applicability": "Specialty",
+    "Notes": "-"
+  },
+  {
+    "Category": "Departments",
+    "Item": "Dermatology",
+    "Description": "Care for acne, atopy, skin diseases, and laser treatments.",
+    "Applicability": "Specialty",
+    "Notes": "-"
+  }
+]

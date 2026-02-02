@@ -1,0 +1,562 @@
+[
+  {
+    "Category": "Personal",
+    "Item": "MBTI",
+    "Description": "My personality type is ISTP.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Location",
+    "Description": "I live near Seodaemun-gu, Seoul.",
+    "Applicability": "Profile",
+    "Notes": "Detailed address private"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Age/Birthday",
+    "Description": "Born in the 90s; birthday is May 20th.",
+    "Applicability": "Profile",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Pet",
+    "Description": "I have a cat named 'Nabi'.",
+    "Applicability": "All",
+    "Notes": "Occasional cam appearance"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Disliked Food",
+    "Description": "I never eat eggplant or cucumbers.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Favorite Food",
+    "Description": "I like mint chocolate and pineapple pizza.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Alcohol Tolerance",
+    "Description": "About half a bottle of Soju; I get drunk quickly.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Hobbies",
+    "Description": "I usually cook or watch movies when not streaming.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Subscription",
+    "Item": "Gift Subs",
+    "Description": "Viewers can gift subscriptions to each other.",
+    "Applicability": "Chzzk/AfreecaTV",
+    "Notes": "-"
+  },
+  {
+    "Category": "Subscription",
+    "Item": "Sub Duration",
+    "Description": "Badge shapes change based on continuous sub duration.",
+    "Applicability": "Subscribers",
+    "Notes": "-"
+  },
+  {
+    "Category": "Subscription",
+    "Item": "Sub Benefits",
+    "Description": "Exclusive emotes, badges, and ad-free viewing.",
+    "Applicability": "Subscribers",
+    "Notes": "-"
+  },
+  {
+    "Category": "Rules",
+    "Item": "Spamming",
+    "Description": "Repeating the same message 3+ times is considered spam.",
+    "Applicability": "Chat",
+    "Notes": "600s timeout"
+  },
+  {
+    "Category": "Rules",
+    "Item": "Honorifics",
+    "Description": "Default is polite speech; casual speech only for specific content.",
+    "Applicability": "Live",
+    "Notes": "-"
+  },
+  {
+    "Category": "Rules",
+    "Item": "Harassment",
+    "Description": "Sexual remarks or harassment will face legal action.",
+    "Applicability": "All",
+    "Notes": "Zero-tolerance"
+  },
+  {
+    "Category": "Rules",
+    "Item": "Journaling",
+    "Description": "Please refrain from sharing excessive personal worries or daily logs.",
+    "Applicability": "Live",
+    "Notes": "-"
+  },
+  {
+    "Category": "Rules",
+    "Item": "Politics",
+    "Description": "Mentions of specific political parties or views are prohibited.",
+    "Applicability": "All",
+    "Notes": "Immediate ban"
+  },
+  {
+    "Category": "Rules",
+    "Item": "Other Streamers",
+    "Description": "Refrain from mentioning other streamers unless collaborating.",
+    "Applicability": "Chat",
+    "Notes": "-"
+  },
+  {
+    "Category": "Rules",
+    "Item": "Backseating/Spoilers",
+    "Description": "Unsolicited game advice or spoilers will result in an immediate ban.",
+    "Applicability": "Gaming",
+    "Notes": "-"
+  },
+  {
+    "Category": "Donation",
+    "Item": "Mission Amount",
+    "Description": "In-game missions start from a minimum of 5,000 KRW.",
+    "Applicability": "Game Missions",
+    "Notes": "-"
+  },
+  {
+    "Category": "Donation",
+    "Item": "Signature Sound",
+    "Description": "Exclusive sounds trigger for specific donation amounts.",
+    "Applicability": "10,000+ KRW",
+    "Notes": "-"
+  },
+  {
+    "Category": "Donation",
+    "Item": "Video Donation",
+    "Description": "100 KRW per second; inappropriate videos will be skipped.",
+    "Applicability": "Live",
+    "Notes": "Copyright compliance"
+  },
+  {
+    "Category": "Donation",
+    "Item": "Toonation/Twip",
+    "Description": "Donations appearing on screen use Toonation and Twip.",
+    "Applicability": "Live",
+    "Notes": "-"
+  },
+  {
+    "Category": "Streaming",
+    "Item": "BGM Info",
+    "Description": "I only use NCS or licensed tracks.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Streaming",
+    "Item": "TTS Voice",
+    "Description": "Voices during donations are AI-generated.",
+    "Applicability": "Donations",
+    "Notes": "-"
+  },
+  {
+    "Category": "Streaming",
+    "Item": "Recording Requests",
+    "Description": "Sharing of raw recordings is not allowed, even for personal use.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Streaming",
+    "Item": "VODs",
+    "Description": "Full VODs are only available to membership members.",
+    "Applicability": "Membership",
+    "Notes": "Edits are public"
+  },
+  {
+    "Category": "Streaming",
+    "Item": "Mic Test",
+    "Description": "Mount and mic checks are done for 5 mins before start.",
+    "Applicability": "Standby",
+    "Notes": "-"
+  },
+  {
+    "Category": "Streaming",
+    "Item": "End Time",
+    "Description": "Usually ends around 1 AM.",
+    "Applicability": "Live",
+    "Notes": "Varies by condition"
+  },
+  {
+    "Category": "Streaming",
+    "Item": "Copyright",
+    "Description": "Unauthorized re-uploading or processing of my videos is prohibited.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Streaming",
+    "Item": "Schedule",
+    "Description": "Every Mon/Wed/Fri at 9 PM.",
+    "Applicability": "Live",
+    "Notes": "Notices on Discord"
+  },
+  {
+    "Category": "Streaming",
+    "Item": "Tardiness",
+    "Description": "If more than 10 mins late, a penalty roulette will be spun.",
+    "Applicability": "Live",
+    "Notes": "-"
+  },
+  {
+    "Category": "Streaming",
+    "Item": "Day-off Notice",
+    "Description": "Sudden days off will be posted on YouTube/Fan Cafe.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Business",
+    "Item": "Lectures",
+    "Description": "Lectures for university festivals or game events are possible.",
+    "Applicability": "External",
+    "Notes": "-"
+  },
+  {
+    "Category": "Business",
+    "Item": "Ads",
+    "Description": "Contact official email: admin@streamer.com.",
+    "Applicability": "Corporate",
+    "Notes": "No DMs"
+  },
+  {
+    "Category": "Business",
+    "Item": "MCN",
+    "Description": "Currently active as an independent (no agency).",
+    "Applicability": "Status",
+    "Notes": "-"
+  },
+  {
+    "Category": "Business",
+    "Item": "Agency Proposal",
+    "Description": "I have no plans to sign with an agency at the moment.",
+    "Applicability": "MCN",
+    "Notes": "-"
+  },
+  {
+    "Category": "Business",
+    "Item": "Offline Events",
+    "Description": "Participation in events like G-Star will be announced in advance.",
+    "Applicability": "External",
+    "Notes": "-"
+  },
+  {
+    "Category": "Business",
+    "Item": "Interviews",
+    "Description": "For written interviews, please send the questionnaire by email first.",
+    "Applicability": "Media",
+    "Notes": "-"
+  },
+  {
+    "Category": "Settings",
+    "Item": "OBS",
+    "Description": "I use OBS Studio for broadcasting.",
+    "Applicability": "Streaming",
+    "Notes": "-"
+  },
+  {
+    "Category": "Settings",
+    "Item": "Mouse Sensitivity",
+    "Description": "DPI 800 (Logitech G Pro X Superlight).",
+    "Applicability": "Gaming",
+    "Notes": "In-game varies"
+  },
+  {
+    "Category": "Settings",
+    "Item": "Lighting",
+    "Description": "Two Elgato Key Lights placed on both sides.",
+    "Applicability": "Cam",
+    "Notes": "-"
+  },
+  {
+    "Category": "YouTube",
+    "Item": "Ad Disclosure",
+    "Description": "Paid promotions are always clearly marked.",
+    "Applicability": "Branded",
+    "Notes": "FTC compliance"
+  },
+  {
+    "Category": "YouTube",
+    "Item": "Shorts Cycle",
+    "Description": "Shorts are uploaded randomly 3+ times a week.",
+    "Applicability": "Shorts",
+    "Notes": "-"
+  },
+  {
+    "Category": "YouTube",
+    "Item": "Thumbnailer",
+    "Description": "Thumbnails are outsourced to professional artists.",
+    "Applicability": "YouTube",
+    "Notes": "-"
+  },
+  {
+    "Category": "YouTube",
+    "Item": "Thumbnail Font",
+    "Description": "I prefer the 'Kyukdong Gothic' font for visibility.",
+    "Applicability": "Thumbnail",
+    "Notes": "-"
+  },
+  {
+    "Category": "YouTube",
+    "Item": "Upload Schedule",
+    "Description": "Edited videos are uploaded every Saturday at 6 PM.",
+    "Applicability": "Main Channel",
+    "Notes": "-"
+  },
+  {
+    "Category": "YouTube",
+    "Item": "Subtitle Font",
+    "Description": "Mainly use 'Gmarket Sans' and 'Black Han Sans'.",
+    "Applicability": "Editing",
+    "Notes": "-"
+  },
+  {
+    "Category": "YouTube",
+    "Item": "Editor",
+    "Description": "Currently working with one dedicated editor.",
+    "Applicability": "Editing",
+    "Notes": "Self-edit combined"
+  },
+  {
+    "Category": "Event",
+    "Item": "Sub Goal",
+    "Description": "Q&A stream planned for reaching 100k subscribers.",
+    "Applicability": "Goals",
+    "Notes": "-"
+  },
+  {
+    "Category": "Event",
+    "Item": "Goods Sale",
+    "Description": "Custom hoodies are on sale in limited quantities.",
+    "Applicability": "Shop",
+    "Notes": "Link in bio"
+  },
+  {
+    "Category": "Event",
+    "Item": "Viewer Participation",
+    "Description": "Viewer participation games every Sunday.",
+    "Applicability": "Live",
+    "Notes": "Apply via Discord"
+  },
+  {
+    "Category": "Schedule",
+    "Item": "Long Break",
+    "Description": "A one-week break once a year to prevent burnout.",
+    "Applicability": "Vacation",
+    "Notes": "-"
+  },
+  {
+    "Category": "Equipment",
+    "Item": "PC Specs",
+    "Description": "CPU: i9-14900K, GPU: RTX 4080 Super.",
+    "Applicability": "PC",
+    "Notes": "-"
+  },
+  {
+    "Category": "Equipment",
+    "Item": "Microphone",
+    "Description": "Currently using the Shure SM7B.",
+    "Applicability": "Audio",
+    "Notes": "-"
+  },
+  {
+    "Category": "Equipment",
+    "Item": "Sub Monitor",
+    "Description": "A 27-inch monitor is used for checking chat.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Equipment",
+    "Item": "Stream Deck",
+    "Description": "Elgato Stream Deck (15 keys) for scene transitions.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Equipment",
+    "Item": "Chair",
+    "Description": "Secretlab TITAN series.",
+    "Applicability": "Furniture",
+    "Notes": "-"
+  },
+  {
+    "Category": "Equipment",
+    "Item": "Internet",
+    "Description": "KT Giga Internet (1Gbps).",
+    "Applicability": "Environment",
+    "Notes": "-"
+  },
+  {
+    "Category": "Equipment",
+    "Item": "Camera",
+    "Description": "Logitech Brio 4K webcam.",
+    "Applicability": "Cam",
+    "Notes": "-"
+  },
+  {
+    "Category": "Equipment",
+    "Item": "Cam Settings",
+    "Description": "Using YouCam filters for correction.",
+    "Applicability": "Cam",
+    "Notes": "-"
+  },
+  {
+    "Category": "Equipment",
+    "Item": "Chroma Key",
+    "Description": "A physical chroma key cloth is used for the background.",
+    "Applicability": "Filming",
+    "Notes": "-"
+  },
+  {
+    "Category": "Channel",
+    "Item": "Sub Channel",
+    "Description": "I have a sub-channel called 'Streamer's Life'.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Community",
+    "Item": "Open Chat",
+    "Description": "I don't run open chats to avoid impersonation.",
+    "Applicability": "All",
+    "Notes": "Beware of fakes"
+  },
+  {
+    "Category": "Community",
+    "Item": "Polls",
+    "Description": "Next games are decided via YouTube community polls.",
+    "Applicability": "Irregular",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Counseling",
+    "Description": "Radio counseling stream on the last night of every month.",
+    "Applicability": "Live",
+    "Notes": "Story submission req."
+  },
+  {
+    "Category": "Content",
+    "Item": "Reactions",
+    "Description": "Check the reaction list via the link at the bottom of the screen.",
+    "Applicability": "Donations",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Mukbang",
+    "Description": "Communicating while eating delivery food every Wednesday.",
+    "Applicability": "Night stream",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Mission Request",
+    "Description": "Missions can be suggested via donations during streams.",
+    "Applicability": "Live",
+    "Notes": "Difficulty negotiable"
+  },
+  {
+    "Category": "Content",
+    "Item": "Vlog",
+    "Description": "A daily vlog is uploaded once a month.",
+    "Applicability": "YouTube",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Main Games",
+    "Description": "Mainly League of Legends and new Steam games.",
+    "Applicability": "Gaming",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Collab Inquiry",
+    "Description": "Sudden collab requests from strangers will be declined.",
+    "Applicability": "Creators",
+    "Notes": "Email inquiries"
+  },
+  {
+    "Category": "Fan Interaction",
+    "Item": "Banned Words",
+    "Description": "Degrading others, politics, or religion-related words are banned.",
+    "Applicability": "Chat",
+    "Notes": "Auto-delete"
+  },
+  {
+    "Category": "Fan Interaction",
+    "Item": "Calling Nicknames",
+    "Description": "I try to call out nicknames as much as possible when receiving donations.",
+    "Applicability": "Donations",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fan Interaction",
+    "Item": "Titles",
+    "Description": "Casual titles like 'Hyung' or 'Noona' are fine, but keep it respectful.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fan Interaction",
+    "Item": "Physical Gifts",
+    "Description": "I do not accept food or cash-equivalent gifts.",
+    "Applicability": "Support",
+    "Notes": "Fancim recommended"
+  },
+  {
+    "Category": "Fan Interaction",
+    "Item": "Offline Meeting",
+    "Description": "Brief greetings are welcome if we meet on the street.",
+    "Applicability": "Outdoors",
+    "Notes": "No unauthorized filming"
+  },
+  {
+    "Category": "Fan Interaction",
+    "Item": "Friend-shipping",
+    "Description": "Excessive mentioning of other viewers or 'clique' behavior is prohibited.",
+    "Applicability": "Chat",
+    "Notes": "Warning then ban"
+  },
+  {
+    "Category": "Fan Interaction",
+    "Item": "Fan Nickname",
+    "Description": "Our viewers are called 'Star Sweets' (Byeolsatang).",
+    "Applicability": "Subscribers",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fan Interaction",
+    "Item": "Fan Cafe",
+    "Description": "Please use the 'Streamer Fan Village' on Naver Cafe.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fan Interaction",
+    "Item": "Mail Address",
+    "Description": "Check the Fan Cafe notice for the PO Box address.",
+    "Applicability": "Mail",
+    "Notes": "-"
+  }
+]

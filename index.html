@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Frontierbase upload excel samples</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { font-family: system-ui, -apple-system, sans-serif; margin: 0; padding: 2rem; line-height: 1.6; color: #1a1a1a; background: #f8f9fa; }
+    .container { max-width: 720px; margin: 0 auto; }
+    h1 { font-size: 1.5rem; margin-bottom: 0.5rem; }
+    p { color: #555; margin: 0 0 1.5rem; }
+    a { color: #0066cc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .card { background: #fff; border-radius: 8px; padding: 1.25rem; margin-bottom: 1rem; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+    .card h2 { font-size: 1rem; margin: 0 0 0.75rem; font-weight: 600; }
+    .langs { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .langs a { display: inline-block; padding: 0.35rem 0.75rem; background: #e8ecef; border-radius: 6px; font-size: 0.9rem; }
+    .langs a:hover { background: #dde1e6; }
+    .meta { font-size: 0.85rem; color: #777; margin-top: 1rem; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Frontierbase Community Samples</h1>
+    <p><a href="https://www.frontierbase.io">Frontierbase</a> sample document repository · Reference and use from related projects</p>
+
+    <div class="card">
+      <h2>Samples by language</h2>
+      <div class="langs" id="langs"></div>
+    </div>
+
+    <div class="card">
+      <h2>Access URLs</h2>
+      <ul style="margin: 0; padding-left: 1.25rem; font-size: 0.9rem;">
+        <li><strong>manifest.json</strong> · <a href="manifest.json">manifest.json</a></li>
+        <li><strong>Example</strong> · <code>samples/en/sample_pen_en.json</code></li>
+        <li><strong>CDN (jsDelivr)</strong> · <code>https://cdn.jsdelivr.net/gh/{org}/{repo}@main/</code></li>
+      </ul>
+    </div>
+
+    <p class="meta">This page is hosted on GitHub Pages.</p>
+  </div>
+  <script>
+    const langs = [
+      { code: 'en', name: 'English' },
+      { code: 'ko', name: 'Korean' },
+      { code: 'ja', name: '日本語' },
+      { code: 'zh', name: '中文' },
+      { code: 'es', name: 'Español' },
+      { code: 'it', name: 'Italiano' },
+      { code: 'de', name: 'Deutsch' },
+      { code: 'fr', name: 'Français' }
+    ];
+    document.getElementById('langs').innerHTML = langs.map(l =>
+      `<a href="samples/${l.code}/">${l.name} (${l.code})</a>`
+    ).join('');
+  </script>
+</body>
+</html>

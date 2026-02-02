@@ -1,0 +1,562 @@
+[
+  {
+    "Category": "Personal",
+    "Item": "Values",
+    "Description": "We pursue a healthy fandom culture where artists and fans grow and communicate together.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Privacy",
+    "Description": "Information collected for events will be destroyed immediately after prize delivery.",
+    "Applicability": "Event participants",
+    "Notes": "-"
+  },
+  {
+    "Category": "Performance",
+    "Item": "Waiting Area",
+    "Description": "Please prepare personal items (umbrella, heat packs, etc.) for outdoor waiting in case of weather changes.",
+    "Applicability": "Offline",
+    "Notes": "-"
+  },
+  {
+    "Category": "Performance",
+    "Item": "Storage",
+    "Description": "Check the ticket booking page for availability of storage lockers at the venue.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Performance",
+    "Item": "Prohibited Items",
+    "Description": "Dangerous items such as glass bottles, fireworks, and lasers are prohibited inside the venue.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Performance",
+    "Item": "Transfer Policy",
+    "Description": "Transferred tickets that cannot be verified will be denied entry and are non-refundable.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Performance",
+    "Item": "Entry Time",
+    "Description": "Please complete entry at least 30 minutes before the show starts for a smooth experience.",
+    "Applicability": "Audience",
+    "Notes": "-"
+  },
+  {
+    "Category": "Etiquette",
+    "Item": "Fan Giveaways",
+    "Description": "Goods distribution near the venue is only allowed in designated areas to avoid blocking traffic.",
+    "Applicability": "Individual fans",
+    "Notes": "-"
+  },
+  {
+    "Category": "Etiquette",
+    "Item": "Cheering Tools",
+    "Description": "Cheering tools of other artists or non-standard slogans are restricted, except for official lightsticks.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Etiquette",
+    "Item": "Recording Policy",
+    "Description": "All photography, video recording, and audio recording are prohibited to protect copyrights.",
+    "Applicability": "During show",
+    "Notes": "Ejection if caught"
+  },
+  {
+    "Category": "Merchandise",
+    "Item": "Payment Method",
+    "Description": "The official shop supports domestic/international cards, simple payments, and PayPal.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Merchandise",
+    "Item": "Official Shop",
+    "Description": "Official goods can be purchased through the [Shop Name] mobile app.",
+    "Applicability": "All",
+    "Notes": "Global shipping"
+  },
+  {
+    "Category": "Merchandise",
+    "Item": "Shipping Delay",
+    "Description": "During comeback periods, shipping may be delayed by 1-2 weeks due to high order volume.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Merchandise",
+    "Item": "Defect Exchange",
+    "Description": "If items are damaged, please contact us within 7 days of receipt with an unboxing video.",
+    "Applicability": "Purchasers",
+    "Notes": "Video mandatory"
+  },
+  {
+    "Category": "Merchandise",
+    "Item": "Product Photos",
+    "Description": "Always check the actual photos and component list on the MD detail page before purchasing.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Merchandise",
+    "Item": "Pre-order",
+    "Description": "Pre-order items are made-to-order, so cancellations may be difficult after payment.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Merchandise",
+    "Item": "Pop-up Store",
+    "Description": "Comeback celebration pop-up stores may operate on a pre-reservation basis.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Merchandise",
+    "Item": "Lightstick Sync",
+    "Description": "Please sync (map) your seat number with the lightstick via the official app before the show.",
+    "Applicability": "Audience",
+    "Notes": "Bluetooth sync"
+  },
+  {
+    "Category": "Merchandise",
+    "Item": "Restock",
+    "Description": "Restocking of sold-out items will be announced via official Twitter once confirmed.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "App Error",
+    "Description": "Please contact the platform's customer center for fan community app connection issues.",
+    "Applicability": "App users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Donation Support",
+    "Description": "Donation support made in the artist's name is encouraged and official certification is supported.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Gifts/Catering",
+    "Description": "Food and gift support can only proceed after prior email approval from the agency.",
+    "Applicability": "Support teams",
+    "Notes": "Approval No. req."
+  },
+  {
+    "Category": "Support",
+    "Item": "Rejected Items",
+    "Description": "Perishable food items or luxury high-end gifts may be rejected.",
+    "Applicability": "Support",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Receipt Confirmation",
+    "Description": "We do not provide individual confirmation regarding the receipt of support items.",
+    "Applicability": "Support teams",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Vendor Coordination",
+    "Description": "Meeting times must be coordinated with the agency's security team before vendor visits.",
+    "Applicability": "Support teams",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Financial Report",
+    "Description": "Detailed financial records must be transparently shared within the fan union community after support.",
+    "Applicability": "Recommended",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Congratulatory Wreaths",
+    "Description": "Installation of wreaths at concert venues may be restricted by venue regulations.",
+    "Applicability": "Fan unions",
+    "Notes": "-"
+  },
+  {
+    "Category": "Schedule",
+    "Item": "Official Schedule",
+    "Description": "Artist broadcasts, events, and performance schedules are available on the official website calendar.",
+    "Applicability": "All",
+    "Notes": "Real-time updates"
+  },
+  {
+    "Category": "Schedule",
+    "Item": "Live Broadcast",
+    "Description": "Surprise live broadcasts will be notified via community app push notifications.",
+    "Applicability": "All",
+    "Notes": "Enable alerts"
+  },
+  {
+    "Category": "Schedule",
+    "Item": "Music Shows",
+    "Description": "Check the 'Music Show Notice' on the official community the day before for participation details.",
+    "Applicability": "Fanclub members",
+    "Notes": "-"
+  },
+  {
+    "Category": "Schedule",
+    "Item": "Private Schedule",
+    "Description": "Visiting private spaces or non-public schedules is strictly prohibited and results in ban.",
+    "Applicability": "All",
+    "Notes": "Zero-tolerance"
+  },
+  {
+    "Category": "Schedule",
+    "Item": "Pre-recording",
+    "Description": "Participation in pre-recordings or post-recordings is limited to pre-confirmed individuals.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Schedule",
+    "Item": "Time Zone",
+    "Description": "All schedules are displayed in Korea Standard Time (KST, UTC+9).",
+    "Applicability": "Global fans",
+    "Notes": "-"
+  },
+  {
+    "Category": "Schedule",
+    "Item": "Cancellation",
+    "Description": "Schedule changes or cancellations due to health reasons will be announced immediately via SNS.",
+    "Applicability": "Emergency",
+    "Notes": "-"
+  },
+  {
+    "Category": "System",
+    "Item": "Notifications",
+    "Description": "Important notices are sent in real-time via Telegram or official app alerts.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "System",
+    "Item": "Multilingual Search",
+    "Description": "Multilingual auto-responses are supported for major questions for global fans.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "System",
+    "Item": "Inquiry Response",
+    "Description": "Direct agent connection hours are weekdays 11:00-16:00.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "System",
+    "Item": "Inquiry Volume",
+    "Description": "Please understand that responses may be delayed during comeback periods due to high volume.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "System",
+    "Item": "Chatbot Limit",
+    "Description": "This bot is for information only and does not support direct conversation with the artist.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Artist Security",
+    "Item": "Live Chat",
+    "Description": "Questions infringing on the artist's privacy during live broadcasts will be filtered and blocked.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Artist Security",
+    "Item": "Report Rumors",
+    "Description": "Email [protect@agency.com] to report infringement of rights or spreading of false rumors.",
+    "Applicability": "All",
+    "Notes": "PDF capture rec."
+  },
+  {
+    "Category": "Artist Security",
+    "Item": "Stalking Response",
+    "Description": "Stalking artist's dorms or vehicles is subject to legal action.",
+    "Applicability": "All",
+    "Notes": "Collecting evidence"
+  },
+  {
+    "Category": "Artist Security",
+    "Item": "Malicious Comments",
+    "Description": "Legal action against malicious comments will be taken strictly without leniency.",
+    "Applicability": "All",
+    "Notes": "Check periodic updates"
+  },
+  {
+    "Category": "Artist Security",
+    "Item": "Airport Safety",
+    "Description": "Please refrain from close-up photography at the airport to ensure safety.",
+    "Applicability": "At airport",
+    "Notes": "-"
+  },
+  {
+    "Category": "Artist Security",
+    "Item": "Global Tour",
+    "Description": "Sharing hotel or restaurant info during tours is prohibited for artist safety.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Artist Security",
+    "Item": "On-site Security",
+    "Description": "Please follow the instructions of on-site security to ensure the artist's movement path.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Business",
+    "Description": "Please send proposals for advertisements or collaborations to [biz@agency.com].",
+    "Applicability": "Corporations",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Audition",
+    "Description": "Check the [Audition] tab for instructions on how to apply as a trainee.",
+    "Applicability": "Applicants",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Report Format",
+    "Description": "When reporting rights infringement, use the format: [Date/Platform/Content/URL].",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Event",
+    "Item": "Winner Check",
+    "Description": "Winners can be checked via individual contact or the official notice board.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Event",
+    "Item": "Number Tags",
+    "Description": "First-come, first-served events follow the sequence of the distributed number tags.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Event",
+    "Item": "Age Limit",
+    "Description": "Some events require parental consent for participants under the age of 14.",
+    "Applicability": "Minors",
+    "Notes": "-"
+  },
+  {
+    "Category": "Event",
+    "Item": "Video Call",
+    "Description": "Wait in a stable network environment; calls will end if another person is present.",
+    "Applicability": "Video call fansign",
+    "Notes": "-"
+  },
+  {
+    "Category": "Event",
+    "Item": "Group Photo",
+    "Description": "A group photo taken with the artist after the event will be uploaded.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Event",
+    "Item": "Requirements",
+    "Description": "Lightsticks, albums, and IDs are often mandatory for participating in on-site events.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Event",
+    "Item": "Fansign",
+    "Description": "Conducted via lottery for album buyers; only the winner may participate.",
+    "Applicability": "Winners",
+    "Notes": "ID required"
+  },
+  {
+    "Category": "Event",
+    "Item": "Global Event",
+    "Description": "Global tour and event info is provided in multiple languages via global notices.",
+    "Applicability": "Global fans",
+    "Notes": "-"
+  },
+  {
+    "Category": "Information",
+    "Item": "Artist List",
+    "Description": "The current list of affiliated artists is available under the [Artist] menu on the website.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Information",
+    "Item": "Location",
+    "Description": "The office is at OO Building, OO-dong; internal tours are not allowed.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Contents",
+    "Item": "Exclusive Photos",
+    "Description": "Membership-exclusive photos are updated on the 1st of every month.",
+    "Applicability": "Paid members",
+    "Notes": "-"
+  },
+  {
+    "Category": "Contents",
+    "Item": "Unreleased Photos",
+    "Description": "Unreleased photocards are randomly included in each album.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Contents",
+    "Item": "Behind-the-scenes",
+    "Description": "Behind-the-scenes videos on the official YouTube are uploaded Fridays at 6 PM.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Contents",
+    "Item": "Streaming",
+    "Description": "Please refer to the fan union guidelines for music and music video streaming.",
+    "Applicability": "All",
+    "Notes": "Recommended"
+  },
+  {
+    "Category": "Contents",
+    "Item": "Subtitles",
+    "Description": "English, Japanese, and Chinese subtitles are provided for all official videos.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Contents",
+    "Item": "Copyright",
+    "Description": "Unauthorized capture or sharing of paid content may result in legal penalties.",
+    "Applicability": "Membership only",
+    "Notes": "-"
+  },
+  {
+    "Category": "Contents",
+    "Item": "Photobook",
+    "Description": "Schedules for Season's Greetings and photobook pre-orders are announced in the second half.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Ticketing",
+    "Item": "Illegal Trading",
+    "Description": "Scalping or using macros will result in ticket cancellation and blacklisting.",
+    "Applicability": "All",
+    "Notes": "No transfers"
+  },
+  {
+    "Category": "Ticketing",
+    "Item": "Pre-sale Guide",
+    "Description": "Pre-sales are available for verified membership members before general sales.",
+    "Applicability": "Performances",
+    "Notes": "Link account"
+  },
+  {
+    "Category": "Ticketing",
+    "Item": "Wheelchair Seats",
+    "Description": "Wheelchair seats can only be booked via phone through the ticketing customer center.",
+    "Applicability": "Disabled",
+    "Notes": "Proof req."
+  },
+  {
+    "Category": "Fan Letter",
+    "Item": "Standard Size",
+    "Description": "Standard envelopes are recommended; parcel-type letters may be rejected.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fan Letter",
+    "Item": "How to Send",
+    "Description": "Letters can only be sent via mail or designated drop-boxes at official events.",
+    "Applicability": "All",
+    "Notes": "No dorm delivery"
+  },
+  {
+    "Category": "Fanclub",
+    "Item": "Membership Join",
+    "Description": "Paid memberships can be joined through official fan communities (Weverse, Bubble, etc.).",
+    "Applicability": "New members",
+    "Notes": "Check period"
+  },
+  {
+    "Category": "Fanclub",
+    "Item": "Renewal",
+    "Description": "Renewal is possible within 30 days before/after membership expiration.",
+    "Applicability": "Existing members",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fanclub",
+    "Item": "Nickname Policy",
+    "Description": "Nicknames using artist names or profanity will be restricted.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fanclub",
+    "Item": "Benefits",
+    "Description": "Benefits include pre-sale rights, exclusive content access, and kit purchase eligibility.",
+    "Applicability": "Paid members",
+    "Notes": "Varies by term"
+  },
+  {
+    "Category": "Fanclub",
+    "Item": "Address Change",
+    "Description": "Update your latest address in My Page before the membership kit shipping starts.",
+    "Applicability": "Paid members",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fanclub",
+    "Item": "Kit Shipping",
+    "Description": "Membership kits are shipped quarterly and may take time to receive.",
+    "Applicability": "Paid members",
+    "Notes": "-"
+  },
+  {
+    "Category": "Fanclub",
+    "Item": "Benefit Transfer",
+    "Description": "Membership rights cannot be sold or transferred to others.",
+    "Applicability": "All",
+    "Notes": "Permanent ban"
+  },
+  {
+    "Category": "Fanclub",
+    "Item": "Membership Card",
+    "Description": "Mobile membership cards can be viewed in the My Page section of the community app.",
+    "Applicability": "Paid members",
+    "Notes": "Physical card sep."
+  },
+  {
+    "Category": "Promotion",
+    "Item": "Slogans",
+    "Description": "Birthday ads and electronic billboard support can proceed if agency guidelines are met.",
+    "Applicability": "All",
+    "Notes": "Prior approval"
+  }
+]

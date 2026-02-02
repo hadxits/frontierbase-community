@@ -1,0 +1,562 @@
+[
+  {
+    "Category": "Development",
+    "Item": "API Documentation",
+    "Description": "API specifications via Swagger are provided for all backend development projects.",
+    "Applicability": "Backend Projects",
+    "Notes": "-"
+  },
+  {
+    "Category": "Development",
+    "Item": "SEO Optimization",
+    "Description": "Strict adherence to semantic markup optimized for Google Search engines.",
+    "Applicability": "All Web",
+    "Notes": "-"
+  },
+  {
+    "Category": "Development",
+    "Item": "Tech Stack",
+    "Description": "Primary stack: React, TypeScript, and Node.js. Other stacks require prior consultation.",
+    "Applicability": "Web Projects",
+    "Notes": "-"
+  },
+  {
+    "Category": "Development",
+    "Item": "Mobile Responsiveness",
+    "Description": "Responsive web design is applied by default to ensure an optimal mobile experience.",
+    "Applicability": "Web Development",
+    "Notes": "-"
+  },
+  {
+    "Category": "Development",
+    "Item": "Documentation",
+    "Description": "Comprehensive in-code comments and detailed README files are provided.",
+    "Applicability": "All Projects",
+    "Notes": "-"
+  },
+  {
+    "Category": "Development",
+    "Item": "Deployment Support",
+    "Description": "Initial deployment assistance for Google Cloud or AWS environments.",
+    "Applicability": "Deployment Option",
+    "Notes": "Domain/Server fees extra"
+  },
+  {
+    "Category": "Development",
+    "Item": "Version Control",
+    "Description": "Strict adherence to Git commit conventions for transparent code history.",
+    "Applicability": "All Projects",
+    "Notes": "-"
+  },
+  {
+    "Category": "Development",
+    "Item": "Browser Support",
+    "Description": "Optimized for the latest versions of Google Chrome and Safari. IE is not supported.",
+    "Applicability": "Web/App",
+    "Notes": "-"
+  },
+  {
+    "Category": "Development",
+    "Item": "Performance",
+    "Description": "Targeting a score of 90+ on Google PageSpeed Insights for all web deliveries.",
+    "Applicability": "Web Development",
+    "Notes": "-"
+  },
+  {
+    "Category": "Development",
+    "Item": "External Libraries",
+    "Description": "Only security-verified npm packages are selected and used.",
+    "Applicability": "All Projects",
+    "Notes": "-"
+  },
+  {
+    "Category": "Development",
+    "Item": "Unit Testing",
+    "Description": "Frontend unit test code is written using Jest.",
+    "Applicability": "Quality Assurance",
+    "Notes": "Optional"
+  },
+  {
+    "Category": "Development",
+    "Item": "Code Management",
+    "Description": "All source code is managed and shared via private GitHub repositories.",
+    "Applicability": "All Projects",
+    "Notes": "Invitation required"
+  },
+  {
+    "Category": "Development",
+    "Item": "Code Review",
+    "Description": "Quality is verified through ESLint and internal code reviews before delivery.",
+    "Applicability": "All Projects",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Location",
+    "Description": "Currently based in Chiang Mai, Thailand, as a Digital Nomad.",
+    "Applicability": "Contact",
+    "Notes": "Mind the time zone"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Newsletter",
+    "Description": "I publish a weekly IT Trends newsletter every Monday.",
+    "Applicability": "All Users",
+    "Notes": "Substack subscription"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Vision",
+    "Description": "I strive to provide solutions that bridge the gap between technology and design.",
+    "Applicability": "All Projects",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Awards",
+    "Description": "I am a Red Dot Design Award-winning designer.",
+    "Applicability": "Design Projects",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Certification",
+    "Description": "I hold an AWS Certified Developer certification.",
+    "Applicability": "Development",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Stripe",
+    "Description": "Global credit card payment links are provided via Stripe.",
+    "Applicability": "Card Payment",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Receipts",
+    "Description": "PayPal receipts are available for corporate expense verification.",
+    "Applicability": "All Payments",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Invoicing",
+    "Description": "Invoices are issued on the last day of each month via Google Drive.",
+    "Applicability": "Retainers",
+    "Notes": "PDF format"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Auto-Pay",
+    "Description": "Stripe auto-billing is integrated for monthly maintenance contracts.",
+    "Applicability": "Maintenance",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Late Fees",
+    "Description": "A 5% weekly late fee is added to overdue invoices.",
+    "Applicability": "Unpaid Invoices",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "PayPal Fees",
+    "Description": "The client is responsible for the 4.4% transaction fee associated with PayPal.",
+    "Applicability": "PayPal Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Currency",
+    "Description": "All quotes are based on US Dollars (USD).",
+    "Applicability": "Global",
+    "Notes": "Exchange rates apply"
+  },
+  {
+    "Category": "Contract",
+    "Item": "Down Payment",
+    "Description": "Work commences after a 50% deposit of the total project value is confirmed.",
+    "Applicability": "Over $1,000",
+    "Notes": "-"
+  },
+  {
+    "Category": "Contract",
+    "Item": "IP Ownership",
+    "Description": "All intellectual property rights transfer to the client upon final payment.",
+    "Applicability": "Payment Complete",
+    "Notes": "Includes portfolio use"
+  },
+  {
+    "Category": "Contract",
+    "Item": "Communication",
+    "Description": "Slack or Google Meet are preferred for documented collaboration.",
+    "Applicability": "Collaboration",
+    "Notes": "-"
+  },
+  {
+    "Category": "Contract",
+    "Item": "Revision Policy",
+    "Description": "Two free revisions within the scope of work are provided within 7 days of delivery.",
+    "Applicability": "Post-delivery",
+    "Notes": "Extra fees out of scope"
+  },
+  {
+    "Category": "Contract",
+    "Item": "Business Hours",
+    "Description": "Response time: Mon–Fri, 09:00 - 18:00 (GMT+9/KST).",
+    "Applicability": "Weekdays",
+    "Notes": "No weekend emergencies"
+  },
+  {
+    "Category": "Contract",
+    "Item": "Termination",
+    "Description": "Upon cancellation, costs are settled based on progress. Deposits are non-refundable.",
+    "Applicability": "Cancellations",
+    "Notes": "-"
+  },
+  {
+    "Category": "Design",
+    "Item": "Dark Mode",
+    "Description": "Web designs include a Dark Mode-compatible theme as standard.",
+    "Applicability": "UI/UX",
+    "Notes": "-"
+  },
+  {
+    "Category": "Design",
+    "Item": "Tools",
+    "Description": "Figma for UI/UX; Adobe Creative Cloud for graphic design.",
+    "Applicability": "All Design",
+    "Notes": "Source files on request"
+  },
+  {
+    "Category": "Design",
+    "Item": "Mockups",
+    "Description": "Includes 3D mockup images to help visualize the final outcome.",
+    "Applicability": "Package/Branding",
+    "Notes": "-"
+  },
+  {
+    "Category": "Design",
+    "Item": "Vector Files",
+    "Description": "Scalable AI or EPS source files are delivered.",
+    "Applicability": "Final Delivery",
+    "Notes": "-"
+  },
+  {
+    "Category": "Design",
+    "Item": "Color Modes",
+    "Description": "Files are provided in both CMYK (Print) and RGB (Web) formats.",
+    "Applicability": "Logo/Graphics",
+    "Notes": "-"
+  },
+  {
+    "Category": "Design",
+    "Item": "Style Guide",
+    "Description": "Includes brand color codes (HEX) and typography guidelines.",
+    "Applicability": "Branding Set",
+    "Notes": "-"
+  },
+  {
+    "Category": "Design",
+    "Item": "Concepts",
+    "Description": "Three initial design concepts are provided for logo projects.",
+    "Applicability": "Logo Design",
+    "Notes": "Extra fees for more"
+  },
+  {
+    "Category": "Design",
+    "Item": "Asset Formats",
+    "Description": "Icons and images are provided in SVG, PNG, and PDF formats.",
+    "Applicability": "Delivery Phase",
+    "Notes": "-"
+  },
+  {
+    "Category": "Design",
+    "Item": "Print Supervision",
+    "Description": "On-site supervision for large-scale print jobs is available.",
+    "Applicability": "Offline",
+    "Notes": "Travel fees extra"
+  },
+  {
+    "Category": "Design",
+    "Item": "Copyright Check",
+    "Description": "All assets used are verified for commercial usage rights.",
+    "Applicability": "All Design",
+    "Notes": "-"
+  },
+  {
+    "Category": "Design",
+    "Item": "Fonts",
+    "Description": "Google Fonts (Commercial use) are suggested by default.",
+    "Applicability": "All Design",
+    "Notes": "Excludes paid licenses"
+  },
+  {
+    "Category": "Security",
+    "Item": "2FA",
+    "Description": "Two-factor authentication (2FA) is applied to all Google accounts used for work.",
+    "Applicability": "All Work",
+    "Notes": "-"
+  },
+  {
+    "Category": "Security",
+    "Item": "NDA",
+    "Description": "Non-Disclosure Agreements are handled via electronic signatures (DocuSign).",
+    "Applicability": "Sensitive Info",
+    "Notes": "-"
+  },
+  {
+    "Category": "Security",
+    "Item": "Data Disposal",
+    "Description": "All test data is permanently deleted upon request after project completion.",
+    "Applicability": "Post-project",
+    "Notes": "-"
+  },
+  {
+    "Category": "Security",
+    "Item": "Credential Sharing",
+    "Description": "1Password or Bitwarden is recommended for sharing keys and passwords.",
+    "Applicability": "Info Sharing",
+    "Notes": "Avoid email"
+  },
+  {
+    "Category": "Business",
+    "Item": "Speaking",
+    "Description": "Available as a speaker for tech conferences or design seminars.",
+    "Applicability": "External Events",
+    "Notes": "-"
+  },
+  {
+    "Category": "Business",
+    "Item": "Training",
+    "Description": "Training sessions on asset management and guidelines are provided.",
+    "Applicability": "Clients",
+    "Notes": "1 free session"
+  },
+  {
+    "Category": "Business",
+    "Item": "Affiliation",
+    "Description": "Independent freelancer; not affiliated with any agency.",
+    "Applicability": "All Work",
+    "Notes": "-"
+  },
+  {
+    "Category": "Business",
+    "Item": "White-label",
+    "Description": "Available for anonymous white-label work as an agency partner.",
+    "Applicability": "B2B",
+    "Notes": "Custom rates"
+  },
+  {
+    "Category": "Service",
+    "Item": "Localization",
+    "Description": "English translation and localization for Korean content are available.",
+    "Applicability": "All Content",
+    "Notes": "-"
+  },
+  {
+    "Category": "Service",
+    "Item": "Free Consultation",
+    "Description": "A 15-minute technical consultation is provided before project kickoff.",
+    "Applicability": "New Inquiries",
+    "Notes": "Google Meet"
+  },
+  {
+    "Category": "Service",
+    "Item": "Pro Bono",
+    "Description": "I support MVP development for one non-profit startup annually.",
+    "Applicability": "NGOs",
+    "Notes": "-"
+  },
+  {
+    "Category": "Communication",
+    "Item": "Slack Invite",
+    "Description": "Willing to join client Slack workspaces for real-time collaboration.",
+    "Applicability": "Collaboration",
+    "Notes": "-"
+  },
+  {
+    "Category": "Communication",
+    "Item": "Language Prof.",
+    "Description": "Fluent in professional business English.",
+    "Applicability": "Global Work",
+    "Notes": "-"
+  },
+  {
+    "Category": "Communication",
+    "Item": "Auto-Reply",
+    "Description": "Vacation schedules are managed via Gmail automated out-of-office replies.",
+    "Applicability": "Absence",
+    "Notes": "-"
+  },
+  {
+    "Category": "Workflow",
+    "Item": "Deep Work",
+    "Description": "14:00 to 16:00 is designated for focused work; responses may be delayed.",
+    "Applicability": "Weekdays",
+    "Notes": "-"
+  },
+  {
+    "Category": "Workflow",
+    "Item": "Paperless",
+    "Description": "Operating under a strict Paperless Office policy for environmental sustainability.",
+    "Applicability": "All Work",
+    "Notes": "-"
+  },
+  {
+    "Category": "Writing",
+    "Item": "Readability",
+    "Description": "Writing style focuses on short paragraphs optimized for mobile readability.",
+    "Applicability": "All Content",
+    "Notes": "-"
+  },
+  {
+    "Category": "Writing",
+    "Item": "Proofreading",
+    "Description": "All drafts undergo professional-level grammar and spelling checks.",
+    "Applicability": "All Writing",
+    "Notes": "-"
+  },
+  {
+    "Category": "Writing",
+    "Item": "Multimedia",
+    "Description": "Curates free stock images (Unsplash) that align with the content flow.",
+    "Applicability": "Blog Posts",
+    "Notes": "-"
+  },
+  {
+    "Category": "Writing",
+    "Item": "Draft Length",
+    "Description": "Standard rates are based on 1,000 characters (approx. 500 words).",
+    "Applicability": "Blog/Article",
+    "Notes": "-"
+  },
+  {
+    "Category": "Writing",
+    "Item": "Formats",
+    "Description": "Deliveries available in Google Docs, MS Word, or Markdown.",
+    "Applicability": "All Writing",
+    "Notes": "-"
+  },
+  {
+    "Category": "Writing",
+    "Item": "Interviews",
+    "Description": "Zoom interviews for articles are limited to approximately 30 minutes.",
+    "Applicability": "Interview-based",
+    "Notes": "Extra fees apply"
+  },
+  {
+    "Category": "Writing",
+    "Item": "Specialties",
+    "Description": "Specializing in IT tech blogs, English press releases, and brand storytelling.",
+    "Applicability": "Content Strategy",
+    "Notes": "-"
+  },
+  {
+    "Category": "Writing",
+    "Item": "Citations",
+    "Description": "All cited statistics and data are hyperlinked to their original sources.",
+    "Applicability": "Informative Content",
+    "Notes": "-"
+  },
+  {
+    "Category": "Writing",
+    "Item": "SEO Analysis",
+    "Description": "Search term optimization using Google Keyword Planner.",
+    "Applicability": "SEO Posts",
+    "Notes": "-"
+  },
+  {
+    "Category": "Writing",
+    "Item": "Tone & Manner",
+    "Description": "Adaptable to casual, business, or academic tones based on target audience.",
+    "Applicability": "All Writing",
+    "Notes": "-"
+  },
+  {
+    "Category": "Writing",
+    "Item": "Plagiarism Check",
+    "Description": "All drafts are screened via plagiarism detection tools (e.g., CopyKiller).",
+    "Applicability": "All Writing",
+    "Notes": "Originality guaranteed"
+  },
+  {
+    "Category": "Project",
+    "Item": "Rush Orders",
+    "Description": "A 50% rush fee is applied for deliveries required within 24 business hours.",
+    "Applicability": "Urgent",
+    "Notes": "Subject to availability"
+  },
+  {
+    "Category": "Project",
+    "Item": "References",
+    "Description": "Results are more accurate when clients provide benchmarking examples.",
+    "Applicability": "Planning",
+    "Notes": "-"
+  },
+  {
+    "Category": "Project",
+    "Item": "Backup",
+    "Description": "Work-in-progress files are automatically backed up to the cloud at midnight.",
+    "Applicability": "All Projects",
+    "Notes": "-"
+  },
+  {
+    "Category": "Project",
+    "Item": "Warranty",
+    "Description": "Critical bugs or typos are fixed free of charge for 1 month after delivery.",
+    "Applicability": "Tech Support",
+    "Notes": "-"
+  },
+  {
+    "Category": "Project",
+    "Item": "Samples",
+    "Description": "Portfolios are available for review on LinkedIn or my personal website.",
+    "Applicability": "All Clients",
+    "Notes": "-"
+  },
+  {
+    "Category": "Project",
+    "Item": "Workflow",
+    "Description": "Real-time progress tracking is provided via Trello boards.",
+    "Applicability": "All Projects",
+    "Notes": "-"
+  },
+  {
+    "Category": "Project",
+    "Item": "Weekly Reports",
+    "Description": "Status reports are sent via Google Docs every Friday for long-term projects.",
+    "Applicability": "Retainers",
+    "Notes": "-"
+  },
+  {
+    "Category": "Project",
+    "Item": "Milestones",
+    "Description": "Major milestones are shared via a dedicated Google Calendar.",
+    "Applicability": "Retainers",
+    "Notes": "-"
+  },
+  {
+    "Category": "Project",
+    "Item": "Device Testing",
+    "Description": "Final tests are conducted on physical iPhone and Android devices.",
+    "Applicability": "App Development",
+    "Notes": "-"
+  },
+  {
+    "Category": "Project",
+    "Item": "Storage",
+    "Description": "Final deliverables are securely archived in the cloud for at least 1 year.",
+    "Applicability": "All Projects",
+    "Notes": "-"
+  },
+  {
+    "Category": "Project",
+    "Item": "Font Embedding",
+    "Description": "Web font weight optimization is performed for faster loading speeds.",
+    "Applicability": "Web Development",
+    "Notes": "-"
+  }
+]

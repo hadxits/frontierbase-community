@@ -1,0 +1,562 @@
+[
+  {
+    "Category": "⚠️Caution",
+    "Item": "Not Legal Advice",
+    "Description": "This response is for general information only and does not replace individual legal counsel for specific cases.",
+    "Applicability": "All",
+    "Notes": "Mandatory in all responses"
+  },
+  {
+    "Category": "⚠️Caution",
+    "Item": "Consult an Attorney",
+    "Description": "For legal actions based on specific facts, always consult a legal professional (e.g., an attorney).",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "⚠️Caution",
+    "Item": "Fact-Sensitivity",
+    "Description": "Note that legal judgments can vary significantly based on minor differences in factual circumstances.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "⚠️Caution",
+    "Item": "Statute of Limitations",
+    "Description": "All legal rights have set exercise periods; please verify the relevant statute of limitations.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "⚠️Caution",
+    "Item": "Precedent Updates",
+    "Description": "Legal interpretations and Supreme Court precedents can change without notice; check for the latest info.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Mission",
+    "Description": "We aim to improve information accessibility by lowering the barrier of difficult legal terminology.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "System",
+    "Item": "Anonymity",
+    "Description": "Legal Q&A is used only for statistics and service improvement; real names are not stored.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "System",
+    "Item": "Sources",
+    "Description": "Information is based on the National Law Information Center and court precedent guides.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Provisional Attachment",
+    "Description": "A measure to freeze a debtor's assets to prevent them from being hidden or disposed of.",
+    "Applicability": "Civil",
+    "Notes": "Conducted before the main lawsuit"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Provisional Injunction",
+    "Description": "A temporary measure to maintain the status quo regarding specific objects or rights (non-monetary).",
+    "Applicability": "Civil",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Compulsory Execution",
+    "Description": "The process where state power forcibly realizes a right based on an executive title like a judgment.",
+    "Applicability": "Civil",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Cancellation/Termination",
+    "Description": "Cancellation (Haeye) voids a contract retroactively; Termination (Haeji) voids it only for the future.",
+    "Applicability": "Civil",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Complaint/Accusation",
+    "Description": "A 'Complaint' is filed by the victim; an 'Accusation' is filed by a third party.",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Legal Deposit (Gong-tak)",
+    "Description": "Depositing money or securities with the court to preserve rights as prescribed by law.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Trial Date",
+    "Description": "The date when the judge, prosecutor, and defendant gather in court for trial proceedings.",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Negligence Resulting in Death/Injury",
+    "Description": "A crime committed by failing to uphold a duty of care, leading to injury or death.",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Fixed Mortgage (Keun-jeodang)",
+    "Description": "A security interest set on real estate as collateral for future potential debts.",
+    "Applicability": "Real Estate",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Suspension of Indictment",
+    "Description": "When a prosecutor acknowledges the crime but chooses not to prosecute based on various factors.",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Contributory Portion",
+    "Description": "Additional shares given to an heir who specially supported the deceased or contributed to asset formation.",
+    "Applicability": "Family",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Certification of Contents",
+    "Description": "A system where the post office certifies what document was sent to whom and when.",
+    "Applicability": "Civil/General",
+    "Notes": "No inherent legal force"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Defense of Simultaneous Performance",
+    "Description": "The right to refuse one's obligation until the other party fulfills their obligation.",
+    "Applicability": "Civil",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Visitation Rights",
+    "Description": "The right of a non-custodial parent to meet their child on a regular basis.",
+    "Applicability": "Family",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Presumption of Innocence",
+    "Description": "The principle that a defendant is considered innocent until a guilty verdict is finalized.",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Implicit Renewal",
+    "Description": "Automatic extension of a lease if neither party objects before expiration.",
+    "Applicability": "Real Estate",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Miranda Rights",
+    "Description": "The requirement to inform a suspect of their right to counsel and silence upon arrest.",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Request for Distribution",
+    "Description": "An act where a creditor reports their claim to the court during an auction to receive payment.",
+    "Applicability": "Civil/Execution",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Bail System",
+    "Description": "A system where a detained defendant is released upon paying a deposit until the verdict.",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Unjust Enrichment",
+    "Description": "Gaining profit from another's assets without legal cause, causing loss to the other party.",
+    "Applicability": "Civil",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Unfair Dismissal",
+    "Description": "Firing an employee without just cause; relief can be sought via the Labor Relations Commission.",
+    "Applicability": "Labor",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Tort (Illegality)",
+    "Description": "An unlawful act causing damage to another, committed intentionally or through negligence.",
+    "Applicability": "Civil",
+    "Notes": "Basis for damages claim"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Fraud",
+    "Description": "A crime committed by deceiving another person to obtain property or financial gain.",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Defamation (Truth-based)",
+    "Description": "A crime that can occur even when spreading truth if it lowers another's social standing.",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Inheritance Rank",
+    "Description": "1st: Children, 2nd: Parents, 3rd: Siblings, 4th: Collateral relatives (within 4th degree).",
+    "Applicability": "Family",
+    "Notes": "Spouse inherits jointly"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Right to Claim Inheritance Recovery",
+    "Description": "A claim by a true heir to restore rights infringed upon by a pretended heir.",
+    "Applicability": "Family",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Sentencing Date",
+    "Description": "The day when the judge reads the final verdict/conclusion of the trial.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Statute of Limitations",
+    "Description": "A system where a right is extinguished if not exercised for a set period.",
+    "Applicability": "General",
+    "Notes": "Civil 10yr, Commercial 5yr"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Damages vs Compensation",
+    "Description": "'Damages' (Baesang) for unlawful acts; 'Compensation' (Bosang) for lawful public acts.",
+    "Applicability": "General",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Abduction/Enticement",
+    "Description": "The crime of moving a person from a state of freedom to the control of oneself or a third party.",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Child Support Table",
+    "Description": "A table setting standard child support based on combined parental income and child age.",
+    "Applicability": "Family",
+    "Notes": "Provided by the Court"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Plaintiff & Defendant",
+    "Description": "The party filing a civil lawsuit is the Plaintiff; the party being sued is the Defendant.",
+    "Applicability": "Civil",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Duty of Restitution",
+    "Description": "The obligation to return an object to its original state upon contract cancellation or lease end.",
+    "Applicability": "Civil",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Alimony (Wija-ryo)",
+    "Description": "Compensation for mental suffering, distinct from the division of property.",
+    "Applicability": "Family",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Legally Reserved Share",
+    "Description": "The minimum inheritance ratio guaranteed by law to heirs, regardless of a will.",
+    "Applicability": "Family",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Lessor/Lessee",
+    "Description": "Lessor is the landlord (owner); Lessee is the tenant (renter).",
+    "Applicability": "Real Estate",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Registration of Leasehold",
+    "Description": "Entering a leasehold into the registry to disclose one's deposit rights to third parties.",
+    "Applicability": "Real Estate",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Self-Defense",
+    "Description": "A necessary act to defend the interests of oneself or others with reasonable cause.",
+    "Applicability": "Criminal",
+    "Notes": "Justification ground"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Request for Formal Trial",
+    "Description": "The procedure to object to a summary order (e.g., fine) and request a formal court trial.",
+    "Applicability": "Criminal",
+    "Notes": "Within 7 days of notice"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Right to Silence",
+    "Description": "The constitutional right to refuse to make statements that are disadvantageous to oneself.",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Suspension of Execution",
+    "Description": "When a sentence is handed down but the execution is delayed for a set period.",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Default of Obligation",
+    "Description": "The state of failing to fulfill contractual duties without a justifiable reason.",
+    "Applicability": "Civil",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Non-punishment Request",
+    "Description": "A document where the victim expresses that they do not wish for the perpetrator to be punished.",
+    "Applicability": "Criminal",
+    "Notes": "Mitigating factor"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Acquisitive Prescription",
+    "Description": "Gaining ownership by occupying another's property peacefully for a set period.",
+    "Applicability": "Civil",
+    "Notes": "Real Estate 20yr"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Parental/Custodial Rights",
+    "Description": "Parental rights involve status/assets; Custodial rights involve the right to raise the child.",
+    "Applicability": "Family",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Ordinary Wage",
+    "Description": "The hourly/daily rate fixed to be paid regularly and uniformly to an employee.",
+    "Applicability": "Labor",
+    "Notes": "Basis for overtime pay"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Suspect & Defendant",
+    "Description": "A person under investigation is a 'Suspect'; once indicted, they are a 'Defendant.'",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Final Judgment",
+    "Description": "A judgment that has become legally binding and can no longer be contested in higher courts.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Terminology",
+    "Item": "Embezzlement & Breach of Trust",
+    "Description": "Embezzlement: taking property in custody; Breach of Trust: violating duties for profit.",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Family Investigation",
+    "Description": "A process to examine marriage failure causes or childcare environments in family lawsuits.",
+    "Applicability": "Family",
+    "Notes": "-"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Personal Rehabilitation",
+    "Description": "A system where a debtor with income can have debts partially forgiven with court approval.",
+    "Applicability": "Insolvency",
+    "Notes": "Handled by Rehab Court"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Labor Dept. Filing",
+    "Description": "A petition can be filed with the Labor Office for wage arrears or unfair dismissal.",
+    "Applicability": "Labor",
+    "Notes": "-"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Arrest Warrant Review",
+    "Description": "A judge interrogates a suspect to determine the validity of an arrest warrant.",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Pro Se Litigation",
+    "Description": "Conducting a lawsuit without a lawyer; common in small claims (under 30M KRW).",
+    "Applicability": "Small Claims",
+    "Notes": "-"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Civil Lawsuit Steps",
+    "Description": "Filing Complaint → Service → Submitting Answer → Pleading Date → Judgment.",
+    "Applicability": "Civil",
+    "Notes": "-"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Civil Mediation",
+    "Description": "A procedure where parties reach an agreement via a mediator instead of a judgment.",
+    "Applicability": "Civil",
+    "Notes": "-"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Legal Aid Corporation",
+    "Description": "Economically disadvantaged individuals can receive free legal counseling via KLAC.",
+    "Applicability": "General",
+    "Notes": "If criteria are met"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Statement of Grounds for Appeal",
+    "Description": "Must be submitted to the Supreme Court within 20 days of notice; strict deadline.",
+    "Applicability": "Criminal/Civil",
+    "Notes": "-"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Disclaimer/Limited Acceptance",
+    "Description": "If debts exceed assets, one must disclaim or accept inheritance limitedly within 3 months.",
+    "Applicability": "Family",
+    "Notes": "-"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Litigation Aid",
+    "Description": "A system where the court defers payment of costs for those unable to afford them.",
+    "Applicability": "Civil",
+    "Notes": "-"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Small Claims Trial",
+    "Description": "A system to quickly handle claims for monetary payment under 30 million KRW.",
+    "Applicability": "Civil",
+    "Notes": "Short-term principle"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "How to File a Complaint",
+    "Description": "Submit online via the e-Litigation site or directly at the competent court.",
+    "Applicability": "Civil",
+    "Notes": "Fees apply"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Divorce Procedure",
+    "Description": "Dissolving a relationship through mutual agreement or a lawsuit.",
+    "Applicability": "Family",
+    "Notes": "Cooling-off period applies"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Electronic Access",
+    "Description": "The process for parties to check and read their own trial records via the internet.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Tenant Protection",
+    "Description": "One must complete a move-in report and obtain a fixed date for priority repayment rights.",
+    "Applicability": "Real Estate",
+    "Notes": "-"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Preservation of Evidence",
+    "Description": "A request for the court to secure evidence before a lawsuit if there is a risk of its loss.",
+    "Applicability": "Civil",
+    "Notes": "-"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Payment Order",
+    "Description": "A simplified procedure where the court orders payment based on the creditor's application.",
+    "Applicability": "Debt/Claim",
+    "Notes": "Becomes lawsuit if contested"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Special Supply/Subscription",
+    "Description": "Apartment supply procedures for specific groups like newlyweds or large families.",
+    "Applicability": "Real Estate",
+    "Notes": "-"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Appeals (High/Supreme)",
+    "Description": "Appealing a 1st instance (High Court) or 2nd instance (Supreme Court) judgment.",
+    "Applicability": "All",
+    "Notes": "Within 2 weeks for Civil"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Criminal Settlement",
+    "Description": "The process where a perpetrator compensates the victim to lower the punishment level.",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Criminal Trial Phases",
+    "Description": "Investigation → Indictment → Trial (Pleading) → Judgment & Execution.",
+    "Applicability": "Criminal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Procedure",
+    "Item": "Summary Order Procedure",
+    "Description": "A procedure where a court imposes a fine based on documents without a formal trial.",
+    "Applicability": "Criminal",
+    "Notes": "Can request formal trial"
+  }
+]

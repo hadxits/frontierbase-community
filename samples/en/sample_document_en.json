@@ -1,0 +1,562 @@
+[
+  {
+    "Category": "Personal",
+    "Item": "Core Value",
+    "Description": "We connect scattered information to help anyone find the knowledge they need within 3 seconds.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Title Weighting",
+    "Description": "Higher search weights are assigned to keywords found in the 'Title' compared to the body text.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Search Method",
+    "Description": "Supports both standard keyword matching and meaning-based 'Semantic' search.",
+    "Applicability": "All Users",
+    "Notes": "Natural language queries"
+  },
+  {
+    "Category": "Search",
+    "Item": "Search Scope",
+    "Description": "Indexes text within registered PDFs, Google Docs, and Notion pages, including text in images.",
+    "Applicability": "All Users",
+    "Notes": "OCR supported"
+  },
+  {
+    "Category": "Search",
+    "Item": "Result Limits",
+    "Description": "Displays the top 3–5 most relevant document snippets to ensure response precision.",
+    "Applicability": "Standard Settings",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Date Filtering",
+    "Description": "Users can restrict searches to specific periods (e.g., 'Only documents after 2024').",
+    "Applicability": "Advanced Search",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Version Control",
+    "Description": "Search results prioritize the latest active version of a document over previous iterations.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Dept Filtering",
+    "Description": "Allows users to narrow down results to specific departments such as HR, Finance, or Dev.",
+    "Applicability": "Enterprise",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Stopword Handling",
+    "Description": "The system lowers the weight of meaningless particles/conjunctions to improve accuracy.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Format Optimization",
+    "Description": "Provides optimized filters for finding specific document types, such as report templates.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Cross-lingual Support",
+    "Description": "Search English documents and get Korean summaries (or vice versa).",
+    "Applicability": "Multilingual Mode",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Exclude Filter",
+    "Description": "Supports excluding documents that contain specific 'negative' keywords from results.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Comment Inclusion",
+    "Description": "Text within document comments or marginalia is also searchable.",
+    "Applicability": "Optional",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Query Matching",
+    "Description": "Matches documents based on query types, such as 'How-to' vs. 'Numerical Inquiry'.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Index Freshness",
+    "Description": "Document edits are reflected in the search index within a maximum of 1 hour.",
+    "Applicability": "Real-time Sync",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Code Search",
+    "Description": "Identifies and searches source code blocks within technical docs by programming language.",
+    "Applicability": "Technical Docs",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "File Size Limit",
+    "Description": "Indexing is supported for individual files up to 50MB in size.",
+    "Applicability": "System Limits",
+    "Notes": "-"
+  },
+  {
+    "Category": "Admin",
+    "Item": "Scalability",
+    "Description": "Architecture is designed to handle real-time searches across over 1 million documents.",
+    "Applicability": "System-wide",
+    "Notes": "-"
+  },
+  {
+    "Category": "Admin",
+    "Item": "Data Disposal",
+    "Description": "Deleted documents are immediately removed from the search index.",
+    "Applicability": "On Deletion",
+    "Notes": "Non-recoverable"
+  },
+  {
+    "Category": "Admin",
+    "Item": "Link Validation",
+    "Description": "The system periodically checks the validity of external links embedded in documents.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Admin",
+    "Item": "Metadata Filtering",
+    "Description": "Supports filtering by title, author, tags, and the date of the last modification.",
+    "Applicability": "Advanced Search",
+    "Notes": "-"
+  },
+  {
+    "Category": "Admin",
+    "Item": "Auto-Indexing",
+    "Description": "Files uploaded to the dedicated Google Drive folder are automatically indexed.",
+    "Applicability": "Administrators",
+    "Notes": "PDF, DOCX, TXT"
+  },
+  {
+    "Category": "Admin",
+    "Item": "OCR Processing",
+    "Description": "Scanned image PDFs are converted into searchable text via OCR technology.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Admin",
+    "Item": "Knowledge Approval",
+    "Description": "Only documents approved by administrators are utilized as knowledge for the AI bot.",
+    "Applicability": "Quality Control",
+    "Notes": "-"
+  },
+  {
+    "Category": "Admin",
+    "Item": "Archiving Policy",
+    "Description": "Legacy documents older than 5 years are archived and excluded from standard results.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Admin",
+    "Item": "Author-based Search",
+    "Description": "Users can search for documents authored by specific individuals or teams.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Admin",
+    "Item": "Access Control",
+    "Description": "Search results only display documents permitted by the user’s Access Control List (ACL).",
+    "Applicability": "Enterprise",
+    "Notes": "Security compliant"
+  },
+  {
+    "Category": "Admin",
+    "Item": "Duplicate Handling",
+    "Description": "In cases of duplicate content, the most recently edited version takes priority.",
+    "Applicability": "Duplicates",
+    "Notes": "-"
+  },
+  {
+    "Category": "Admin",
+    "Item": "Tagging System",
+    "Description": "Maintains a standardized tagging system (e.g., #Manual, #Regulation, #TechSupport).",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "API Integration",
+    "Description": "The search bot can be invoked directly within Slack or Microsoft Teams.",
+    "Applicability": "External Integrations",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Ranking System",
+    "Description": "Uses Reranking logic to optimize results based on user click-through feedback.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Vector DB",
+    "Description": "Utilizes a high-performance Vector Database to return results in under 1 second.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Privacy Masking",
+    "Description": "Sensitive PII (Personally Identifiable Information) in search results can be masked.",
+    "Applicability": "PII Security",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Rate Limiting",
+    "Description": "Constraints are applied to prevent system overloads from automated mass queries.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Knowledge Snapshot",
+    "Description": "Allows users to view knowledge base snapshots to verify historical regulations.",
+    "Applicability": "Compliance",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Entity Recognition",
+    "Description": "Identifies proper nouns like product or project names for precise matching.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Visual Analysis",
+    "Description": "Analyzes captions and metadata for diagrams or charts found in documents.",
+    "Applicability": "Multimodal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Embeddings",
+    "Description": "Uses state-of-the-art embedding models to calculate semantic similarity between sentences.",
+    "Applicability": "System",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Intent Analysis",
+    "Description": "Detects the user's intent (e.g., requesting explanation, method, or specific figure).",
+    "Applicability": "Query Analysis",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Chunking Strategy",
+    "Description": "Documents are split into semantic chunks to maximize retrieval accuracy.",
+    "Applicability": "All Users",
+    "Notes": "Maintains context"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Result Caching",
+    "Description": "Search results for frequently asked questions are cached for near-instant responses.",
+    "Applicability": "Performance",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Context Memory",
+    "Description": "Remembers the context of previous questions to allow for follow-up search queries.",
+    "Applicability": "Conversational Search",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Query Expansion",
+    "Description": "Expands short user keywords into richer sentences for better semantic retrieval.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Tokenization",
+    "Description": "Segments text into optimal token units to maximize embedding efficiency.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technical",
+    "Item": "Hybrid Search",
+    "Description": "Combines the strengths of Vector (Semantic) search and Keyword (Lexical) search.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Response",
+    "Item": "Readability",
+    "Description": "Minimizes wordiness and utilizes bullet points for clear, scannable answers.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Response",
+    "Item": "Related Queries",
+    "Description": "Recommends 'Related Search Terms' at the bottom of the response.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Response",
+    "Item": "Long Doc Summary",
+    "Description": "If the source is too long, a summary is shown first with a 'Read More' option.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Response",
+    "Item": "Step-by-Step",
+    "Description": "Provides numbered steps (1, 2, 3) when explaining processes or guides.",
+    "Applicability": "Methodology",
+    "Notes": "-"
+  },
+  {
+    "Category": "Response",
+    "Item": "Citations",
+    "Description": "Lists document names and page numbers for all data points to ensure credibility.",
+    "Applicability": "All Users",
+    "Notes": "Ensures source trust"
+  },
+  {
+    "Category": "Response",
+    "Item": "No-Info Policy",
+    "Description": "If no relevant info is found, the bot states it directly instead of guessing.",
+    "Applicability": "Data Gap",
+    "Notes": "Anti-hallucination"
+  },
+  {
+    "Category": "Response",
+    "Item": "Confidence Score",
+    "Description": "Internally calculates a score representing how well the answer aligns with the source.",
+    "Applicability": "Validation",
+    "Notes": "-"
+  },
+  {
+    "Category": "Response",
+    "Item": "Summary Style",
+    "Description": "Summaries are grounded strictly in the source text to prevent hallucinations.",
+    "Applicability": "Summary Mode",
+    "Notes": "-"
+  },
+  {
+    "Category": "Response",
+    "Item": "Author Tagging",
+    "Description": "Includes direct Slack message links for the document's original author.",
+    "Applicability": "Enterprise",
+    "Notes": "-"
+  },
+  {
+    "Category": "Response",
+    "Item": "Blockquotes",
+    "Description": "Uses the blockquote (>) format to highlight key verbatim phrases from the source.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Response",
+    "Item": "File Preview",
+    "Description": "Provides a thumbnail preview of the specific page from which the info was extracted.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Response",
+    "Item": "Tables/Charts",
+    "Description": "Reconstructs tabular data into Markdown format for optimal readability.",
+    "Applicability": "Data-heavy",
+    "Notes": "-"
+  },
+  {
+    "Category": "Response",
+    "Item": "Deep Linking",
+    "Description": "Provides direct links to the exact location within Google Drive or Notion.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Security",
+    "Item": "Data Isolation",
+    "Description": "Knowledge data for different clients is logically separated and isolated.",
+    "Applicability": "B2B",
+    "Notes": "-"
+  },
+  {
+    "Category": "Security",
+    "Item": "Data Encryption",
+    "Description": "Indexed text data is encrypted and stored in a secure cloud environment.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Security",
+    "Item": "Data Sovereignty",
+    "Description": "Documents requested for deletion are fully wiped within 24 hours, including backups.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Security",
+    "Item": "Audit Logging",
+    "Description": "Maintains security logs of who searched for which documents.",
+    "Applicability": "Compliance",
+    "Notes": "-"
+  },
+  {
+    "Category": "Security",
+    "Item": "Anomalous Access",
+    "Description": "Sends alerts to the security team if abnormal mass document access is detected.",
+    "Applicability": "Enhanced Security",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Keyword Analysis",
+    "Description": "Analyzes popular search terms to identify and fill knowledge gaps.",
+    "Applicability": "Administrators",
+    "Notes": "PII excluded"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Notice Pinning",
+    "Description": "Urgent or latest documents can be pinned to the top of search results.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Satisfaction Survey",
+    "Description": "Collects user satisfaction data to fine-tune AI model performance.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Usage Statistics",
+    "Description": "Visualizes daily query counts and success rates on an admin dashboard.",
+    "Applicability": "Administrators",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Subscription Alerts",
+    "Description": "Sends notifications when new documents related to a user's interests are added.",
+    "Applicability": "Subscription",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Upload Status",
+    "Description": "Displays an 'Updating' status during mass document uploads.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Spell Correction",
+    "Description": "Automatically corrects typos in search queries to ensure relevant results.",
+    "Applicability": "All Users",
+    "Notes": "Google-style search"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Internal Glossary",
+    "Description": "Maintains a mapping dictionary for technical jargon and internal abbreviations.",
+    "Applicability": "All Users",
+    "Notes": "Synonym support"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Quarterly Training",
+    "Description": "Holds quarterly training sessions to maximize user proficiency with the bot.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Integrity Checks",
+    "Description": "Performs weekly integrity checks of the search index every Sunday morning.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "User Feedback",
+    "Description": "Users can rate search quality using 'Thumb up/down' buttons.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Confidentiality",
+    "Description": "Documents restricted from public view are managed with an 'Internal Use Only' tag.",
+    "Applicability": "Secure Docs",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Intellectual Property",
+    "Description": "Copyright for searched documents remains with the original author/department.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Search Operators",
+    "Description": "Provides guides on using advanced operators (AND, OR, \"\") for precise searching.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Consistency Support",
+    "Description": "Ensures translation consistency for technical terms during multilingual searches.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "No-Result Inquiries",
+    "Description": "Directs users to the relevant department contact if information is missing.",
+    "Applicability": "Data Gap",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Offline Mode",
+    "Description": "Supports searching locally cached documents even without an internet connection.",
+    "Applicability": "App Version",
+    "Notes": "-"
+  }
+]

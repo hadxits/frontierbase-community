@@ -1,0 +1,562 @@
+[
+  {
+    "Category": "Personal",
+    "Item": "Vision",
+    "Description": "Becoming a tool that delivers the fastest and most accurate insights in an era of information overload.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Search Engine",
+    "Description": "Utilizes Google Custom Search API to explore relevant news.",
+    "Applicability": "Upon search request",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Timeframe Setting",
+    "Description": "Reflects news from the last 24 hours in search results by default.",
+    "Applicability": "News briefing",
+    "Notes": "Adjustable period"
+  },
+  {
+    "Category": "Search",
+    "Item": "Multi-language Search",
+    "Description": "Explores global reports in real-time by searching with English keywords.",
+    "Applicability": "Global report",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Credibility Filter",
+    "Description": "Excludes fake news or unverified rumor sites from search results.",
+    "Applicability": "Whitelist",
+    "Notes": "Domain filtering"
+  },
+  {
+    "Category": "Search",
+    "Item": "Similar Documents",
+    "Description": "Excludes documents that are more than 80% similar to the current report.",
+    "Applicability": "Efficiency",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "Deduplication",
+    "Description": "Integrates and summarizes news from multiple outlets covering the same event.",
+    "Applicability": "Clustering",
+    "Notes": "-"
+  },
+  {
+    "Category": "Search",
+    "Item": "File Formats",
+    "Description": "Supports reports in DOCX and PPTX formats in addition to PDF.",
+    "Applicability": "Extension support",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Personalization",
+    "Description": "Selects news based on keywords of interest set by the user.",
+    "Applicability": "Subscribers",
+    "Notes": "Google account integration"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Mind Map",
+    "Description": "Generates a visual mind map image of the report structure.",
+    "Applicability": "Structuring",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Short-form News",
+    "Description": "Automatically generates scripts for Shorts/Reels based on news summaries.",
+    "Applicability": "For creators",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Alert Service",
+    "Description": "Sends Slack notifications when important news regarding designated keywords occurs.",
+    "Applicability": "Paid/Internal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Translation",
+    "Description": "Summarizes international news in Korean after translation.",
+    "Applicability": "Global news",
+    "Notes": "Original text comparison available"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Voice Summary",
+    "Description": "Briefs the summary content via audio using Google TTS.",
+    "Applicability": "Mobile/Vehicle",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Q&A",
+    "Description": "Answers questions like 'How does this news affect Samsung Electronics?'.",
+    "Applicability": "Correlation analysis",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Quiz Generation",
+    "Description": "Creates quizzes to verify the understanding of the summarized content.",
+    "Applicability": "Education/Learning",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Fact Check",
+    "Description": "Explicitly states 'Under verification' if there is conflicting information.",
+    "Applicability": "Controversial issues",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "API Integration",
+    "Description": "Provides APIs for other services to use our summarization features.",
+    "Applicability": "B2B",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "PDF Analysis",
+    "Description": "Uses OCR technology to extract text from image-based reports.",
+    "Applicability": "Scanned reports",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Grounding",
+    "Description": "Indexes every sentence in the summary to its source in the original text.",
+    "Applicability": "RAG verification",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Speed Optimization",
+    "Description": "Aims for completion of summarization within an average of 5 seconds after upload.",
+    "Applicability": "Performance",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Summary Model",
+    "Description": "Utilizes the latest LLMs to enhance context comprehension capabilities.",
+    "Applicability": "Engine",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Embedding",
+    "Description": "Calculates contextual similarity between news to create relevant clusters.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Chunking Strategy",
+    "Description": "Splits long reports into semantic units to summarize without omissions.",
+    "Applicability": "Long documents",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Text Limit",
+    "Description": "Limits the maximum summary length per news item to 500 characters.",
+    "Applicability": "Standard summary",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Hallucination",
+    "Description": "Strictly verifies to ensure no invention of figures or facts not in the original text.",
+    "Applicability": "Quality control",
+    "Notes": "-"
+  },
+  {
+    "Category": "News",
+    "Item": "Readability",
+    "Description": "Removes unnecessary modifiers and uses concise, bulleted sentences.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "News",
+    "Item": "Weather Info",
+    "Description": "Summarizes information based on KMA and global weather APIs.",
+    "Applicability": "Daily",
+    "Notes": "-"
+  },
+  {
+    "Category": "News",
+    "Item": "Exclusive News",
+    "Description": "Separately highlights and summarizes exclusive or breaking stories by outlet.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "News",
+    "Item": "Reader Reaction",
+    "Description": "Includes a one-sentence summary of public opinion from major communities/comments.",
+    "Applicability": "Optional",
+    "Notes": "-"
+  },
+  {
+    "Category": "News",
+    "Item": "Classification",
+    "Description": "Automatically classifies news into 8 categories (Economy, Tech, International, etc.).",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "News",
+    "Item": "Photo Description",
+    "Description": "Summarizes the meaning of major photos or infographics included in the news.",
+    "Applicability": "Multimodal",
+    "Notes": "-"
+  },
+  {
+    "Category": "News",
+    "Item": "Sports Results",
+    "Description": "Summarizes scores and key highlights immediately after the game ends.",
+    "Applicability": "Sports",
+    "Notes": "-"
+  },
+  {
+    "Category": "News",
+    "Item": "Update Cycle",
+    "Description": "Breaking news updated in real-time; general news updated every hour.",
+    "Applicability": "Breaking/General",
+    "Notes": "-"
+  },
+  {
+    "Category": "News",
+    "Item": "Embargo",
+    "Description": "Does not expose news under embargo until the official release time.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "News",
+    "Item": "Yearly Comparison",
+    "Description": "Analyzes changes by comparing with summaries of past news on the same issue.",
+    "Applicability": "History analysis",
+    "Notes": "-"
+  },
+  {
+    "Category": "News",
+    "Item": "Foreign Press",
+    "Description": "Real-time translation and summary of major outlets like BBC, CNN, and Al Jazeera.",
+    "Applicability": "Global",
+    "Notes": "-"
+  },
+  {
+    "Category": "News",
+    "Item": "Summary Principle",
+    "Description": "Summarizes based on core facts (5W1H) with a neutral stance.",
+    "Applicability": "All",
+    "Notes": "Excludes subjective interpretation"
+  },
+  {
+    "Category": "News",
+    "Item": "Interview Summary",
+    "Description": "Extracts only the key points of the main interviewee's statements.",
+    "Applicability": "Interview articles",
+    "Notes": "-"
+  },
+  {
+    "Category": "News",
+    "Item": "Information Sources",
+    "Description": "Prioritizes Google News and verified news agencies like AP and Reuters.",
+    "Applicability": "All",
+    "Notes": "Source link mandatory"
+  },
+  {
+    "Category": "News",
+    "Item": "Political Neutrality",
+    "Description": "Automatically filters out modifiers biased toward specific parties or ideologies.",
+    "Applicability": "All",
+    "Notes": "AI guideline compliance"
+  },
+  {
+    "Category": "News",
+    "Item": "Weekly Briefing",
+    "Description": "Summarizes the top 10 news stories of the week every Sunday evening.",
+    "Applicability": "Regular service",
+    "Notes": "-"
+  },
+  {
+    "Category": "News",
+    "Item": "Market Status",
+    "Description": "Reports summaries of major indices and causes of fluctuations after market close.",
+    "Applicability": "Securities",
+    "Notes": "-"
+  },
+  {
+    "Category": "News",
+    "Item": "Local News",
+    "Description": "Prioritizes local news based on the user's location information.",
+    "Applicability": "Upon location consent",
+    "Notes": "-"
+  },
+  {
+    "Category": "News",
+    "Item": "Headline",
+    "Description": "Modifies sensationalist 'clickbait' titles from the original text into neutral ones.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Report",
+    "Item": "Conclusion First",
+    "Description": "Places a '3-line core summary' at the very top of the report summary.",
+    "Applicability": "All reports",
+    "Notes": "-"
+  },
+  {
+    "Category": "Report",
+    "Item": "Data Citation",
+    "Description": "Principle of quoting charts and figures from the report exactly as they appear.",
+    "Applicability": "Numerical data",
+    "Notes": "Unit verification mandatory"
+  },
+  {
+    "Category": "Report",
+    "Item": "Stock Estimate",
+    "Description": "Mandatory display of target price changes when summarizing stock reports.",
+    "Applicability": "Stock analysis",
+    "Notes": "-"
+  },
+  {
+    "Category": "Report",
+    "Item": "Publication Date",
+    "Description": "Clearly states the actual publication date of the original report at the beginning.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Report",
+    "Item": "Comparative Summary",
+    "Description": "Compares and summarizes conflicting views from various institutions on the same topic.",
+    "Applicability": "In-depth analysis",
+    "Notes": "-"
+  },
+  {
+    "Category": "Report",
+    "Item": "Industry Outlook",
+    "Description": "Manages semi-annual industry outlook reports in a separate special section.",
+    "Applicability": "Industry analysis",
+    "Notes": "-"
+  },
+  {
+    "Category": "Report",
+    "Item": "Numerical Verification",
+    "Description": "Notifies of possible errors if total figures in the text do not match.",
+    "Applicability": "Data verification",
+    "Notes": "-"
+  },
+  {
+    "Category": "Report",
+    "Item": "Summary Targets",
+    "Description": "Summarizes brokerage reports, government publications, and market analysis PDFs.",
+    "Applicability": "Report mode",
+    "Notes": "-"
+  },
+  {
+    "Category": "Report",
+    "Item": "Summary Versions",
+    "Description": "Provides a 1-minute (simple) and a 5-minute (detailed) version.",
+    "Applicability": "Selective",
+    "Notes": "-"
+  },
+  {
+    "Category": "Report",
+    "Item": "Glossary",
+    "Description": "Provides links to basic knowledge dictionaries required before reading the report.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Report",
+    "Item": "Technical Terms",
+    "Description": "Attaches separate explanations for difficult economic or technical terms at the bottom.",
+    "Applicability": "Technical report",
+    "Notes": "-"
+  },
+  {
+    "Category": "Report",
+    "Item": "Govt Policy",
+    "Description": "Summarizes core changes in newly announced bills or policies.",
+    "Applicability": "Policy news",
+    "Notes": "-"
+  },
+  {
+    "Category": "Report",
+    "Item": "Institution Source",
+    "Description": "Prioritizes reports from major institutions like Goldman Sachs and JP Morgan.",
+    "Applicability": "Global research",
+    "Notes": "-"
+  },
+  {
+    "Category": "Report",
+    "Item": "Investment Risk",
+    "Description": "Always attaches an investment responsibility notice at the bottom of related reports.",
+    "Applicability": "Financial report",
+    "Notes": "-"
+  },
+  {
+    "Category": "Security",
+    "Item": "Confidentiality",
+    "Description": "Data from internal report summaries are not used for AI training.",
+    "Applicability": "B2B/Internal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Security",
+    "Item": "Data Encryption",
+    "Description": "All transmitted PDF files undergo SSL encryption.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Security",
+    "Item": "Access Logs",
+    "Description": "Logs all report analysis requests for security purposes.",
+    "Applicability": "Admin",
+    "Notes": "-"
+  },
+  {
+    "Category": "Analysis",
+    "Item": "Sentiment Analysis",
+    "Description": "Delivers market atmosphere by analyzing positive/negative sentiment scores of news.",
+    "Applicability": "Economy/Securities",
+    "Notes": "-"
+  },
+  {
+    "Category": "Analysis",
+    "Item": "Related News",
+    "Description": "Recommends news most deeply related to the current summary being read.",
+    "Applicability": "Recommendation algorithm",
+    "Notes": "-"
+  },
+  {
+    "Category": "Analysis",
+    "Item": "Impact Analysis",
+    "Description": "Indicates the impact of specific news on related industries as High/Mid/Low.",
+    "Applicability": "Economy",
+    "Notes": "-"
+  },
+  {
+    "Category": "Analysis",
+    "Item": "Relationship Map",
+    "Description": "Summarizes relationships between figures in the news in a graph format.",
+    "Applicability": "Politics/Social",
+    "Notes": "-"
+  },
+  {
+    "Category": "Analysis",
+    "Item": "Stock Integration",
+    "Description": "Displays real-time stock charts next to the report summary screen.",
+    "Applicability": "Finance",
+    "Notes": "-"
+  },
+  {
+    "Category": "Analysis",
+    "Item": "Trend Analysis",
+    "Description": "Shows current trending keywords in connection with Google Trends data.",
+    "Applicability": "Real-time trend",
+    "Notes": "-"
+  },
+  {
+    "Category": "Analysis",
+    "Item": "Buzz Score",
+    "Description": "Rates news based on social media mention volume.",
+    "Applicability": "Real-time",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Newsletter",
+    "Description": "Automatically generates a newsletter summarizing major issues every morning at 8 AM.",
+    "Applicability": "Subscribers",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Dark Mode",
+    "Description": "Supports a dark mode viewer to optimize the news reading environment.",
+    "Applicability": "Web/App",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Service Hours",
+    "Description": "News servers operate 24 hours a day without interruption.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Archive",
+    "Description": "Past summary data is stored for a maximum of 1 year before disposal.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Paid Subscription",
+    "Description": "Professional report summaries are provided only to premium members.",
+    "Applicability": "Paid service",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Inquiry",
+    "Description": "Please use Google Forms to report summary errors or functional inquiries.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Copyright",
+    "Description": "The service complies with fair use guidelines; posting full texts is prohibited.",
+    "Applicability": "Copyright Law",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Feedback",
+    "Description": "Review summarization logic upon receiving feedback about low quality.",
+    "Applicability": "Quality improvement",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operation",
+    "Item": "History",
+    "Description": "Saves a list of news summaries recently read by the user.",
+    "Applicability": "Logged-in users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Correction",
+    "Description": "Summaries are immediately updated if corrections occur in the original article.",
+    "Applicability": "Fact update",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Expert Connection",
+    "Description": "Connects users to relevant experts for further questions on report content.",
+    "Applicability": "Paid option",
+    "Notes": "-"
+  }
+]

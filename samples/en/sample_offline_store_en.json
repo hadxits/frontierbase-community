@@ -1,0 +1,562 @@
+[
+  {
+    "Category": "Payment",
+    "Item": "Simple Payment",
+    "Description": "On-site payment available via Zero Pay and Naver Pay.",
+    "Applicability": "All",
+    "Notes": "QR code method"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Payment Methods",
+    "Description": "Credit cards, Samsung Pay, and Apple Pay are all accepted.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Corporate Cards",
+    "Description": "Corporate card payments and tax invoice issuance are available.",
+    "Applicability": "Corporate",
+    "Notes": "Prior info required"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Split Payment",
+    "Description": "Bill splitting per person is available.",
+    "Applicability": "Group/Individual",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Prepayment Credits",
+    "Description": "Get an extra 5% credit for prepayments in units of 100,000 KRW.",
+    "Applicability": "Group/Regulars",
+    "Notes": "Valid for 1 year"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Affiliate Discount",
+    "Description": "A 10% discount applies to specific credit card companies.",
+    "Applicability": "Affiliate cards",
+    "Notes": "Limit once per month"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Local Gift Certificates",
+    "Description": "Local currency payments for the relevant city are accepted.",
+    "Applicability": "Local residents",
+    "Notes": "Paper/Card both available"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Cash Receipt",
+    "Description": "Issued immediately upon request during payment.",
+    "Applicability": "Cash payment",
+    "Notes": "-"
+  },
+  {
+    "Category": "Menu",
+    "Item": "Signature Menu",
+    "Description": "Our signature steak seasoned with homemade sauce.",
+    "Applicability": "All",
+    "Notes": "Daily limited quantity"
+  },
+  {
+    "Category": "Menu",
+    "Item": "Decaf",
+    "Description": "All coffee menus can be changed to decaf.",
+    "Applicability": "Coffee orders",
+    "Notes": "Extra 500 KRW"
+  },
+  {
+    "Category": "Menu",
+    "Item": "Refill Policy",
+    "Description": "Side dishes can be refilled freely at the self-bar.",
+    "Applicability": "Dine-in",
+    "Notes": "Excludes main dishes"
+  },
+  {
+    "Category": "Menu",
+    "Item": "Spice Level",
+    "Description": "Selectable from level 1 to level 3.",
+    "Applicability": "Upon ordering",
+    "Notes": "-"
+  },
+  {
+    "Category": "Menu",
+    "Item": "Delivery Service",
+    "Description": "Orders can be placed via Baemin or Coupang Eats.",
+    "Applicability": "Delivery zone",
+    "Notes": "-"
+  },
+  {
+    "Category": "Menu",
+    "Item": "New Menu Launch",
+    "Description": "Seasonal limited menus are introduced every season.",
+    "Applicability": "Seasonal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Menu",
+    "Item": "Allergy",
+    "Description": "Please inform us before ordering if you have a nut allergy.",
+    "Applicability": "Affected persons",
+    "Notes": "-"
+  },
+  {
+    "Category": "Menu",
+    "Item": "Portion Control",
+    "Description": "Rice portions can be adjusted upon request during ordering.",
+    "Applicability": "Upon ordering",
+    "Notes": "Free service"
+  },
+  {
+    "Category": "Menu",
+    "Item": "Origin",
+    "Description": "Beef is from the USA; rice and cabbage are domestic (Korea).",
+    "Applicability": "All",
+    "Notes": "Stated at bottom of menu"
+  },
+  {
+    "Category": "Menu",
+    "Item": "Alcohol Sales",
+    "Description": "Alcohol is not sold to minors.",
+    "Applicability": "All",
+    "Notes": "ID check mandatory"
+  },
+  {
+    "Category": "Menu",
+    "Item": "Vegan Options",
+    "Description": "Some menus can be changed to vegan options.",
+    "Applicability": "Upon request",
+    "Notes": "No extra cost"
+  },
+  {
+    "Category": "Menu",
+    "Item": "Recommended Pairing",
+    "Description": "We recommend the steak paired with our house wine.",
+    "Applicability": "Menu selection",
+    "Notes": "-"
+  },
+  {
+    "Category": "Menu",
+    "Item": "Calories",
+    "Description": "Nutritional facts for each menu can be found on our website.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Menu",
+    "Item": "Extra Toppings",
+    "Description": "Various toppings can be added to suit your preference.",
+    "Applicability": "Upon ordering",
+    "Notes": "Refer to menu"
+  },
+  {
+    "Category": "Menu",
+    "Item": "Packaging",
+    "Description": "We use eco-friendly biodegradable containers.",
+    "Applicability": "Takeout/Delivery",
+    "Notes": "Certified by Ministry of Env."
+  },
+  {
+    "Category": "Menu",
+    "Item": "Takeout Sale",
+    "Description": "All menus available for takeout with a discount applied.",
+    "Applicability": "Takeout order",
+    "Notes": "1,000 KRW discount"
+  },
+  {
+    "Category": "Service",
+    "Item": "Goods for Sale",
+    "Description": "In-house produced mugs and coffee beans are for sale.",
+    "Applicability": "All",
+    "Notes": "Inquire at counter"
+  },
+  {
+    "Category": "Service",
+    "Item": "Designated Driver",
+    "Description": "We can assist in calling a designated driver service if needed.",
+    "Applicability": "Upon request",
+    "Notes": "-"
+  },
+  {
+    "Category": "Service",
+    "Item": "Review Event",
+    "Description": "Receive a free dessert upon writing a Naver review.",
+    "Applicability": "All",
+    "Notes": "Photo must be included"
+  },
+  {
+    "Category": "Service",
+    "Item": "Wet Wipes",
+    "Description": "Available in the drawer next to the table or at the self-bar.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Service",
+    "Item": "Birthday Benefit",
+    "Description": "Get one free drink when visiting on your actual birthday.",
+    "Applicability": "Member",
+    "Notes": "ID verification"
+  },
+  {
+    "Category": "Service",
+    "Item": "Stamp Card",
+    "Description": "Get one free main menu item after 10 visits.",
+    "Applicability": "Paper card",
+    "Notes": "-"
+  },
+  {
+    "Category": "Service",
+    "Item": "Kids Welcome Zone",
+    "Description": "Dedicated tableware sets for children are available.",
+    "Applicability": "With infants/children",
+    "Notes": "-"
+  },
+  {
+    "Category": "Service",
+    "Item": "Coupon Usage",
+    "Description": "Cannot be used in conjunction with other promotions.",
+    "Applicability": "Coupon holders",
+    "Notes": "-"
+  },
+  {
+    "Category": "Service",
+    "Item": "Point Accrual",
+    "Description": "3% of the payment amount is earned as points.",
+    "Applicability": "Member",
+    "Notes": "Usable from 1,000P"
+  },
+  {
+    "Category": "Service",
+    "Item": "Pickup Service",
+    "Description": "Pickup service to nearby subway stations is not supported.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Service",
+    "Item": "Hand Cream",
+    "Description": "High-end hand cream is provided in the restroom.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Service",
+    "Item": "Membership",
+    "Description": "Sign up easily just by entering your phone number.",
+    "Applicability": "All",
+    "Notes": "Via tablet"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Air Purifier",
+    "Description": "Three large-capacity air purifiers are in operation within the store.",
+    "Applicability": "All",
+    "Notes": "24/7 operation"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Laptop Usage",
+    "Description": "Please refrain from using laptops for an extended period.",
+    "Applicability": "Peak hours",
+    "Notes": "2-hour limit"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Group Seating",
+    "Description": "Group rooms accommodating up to 12 people are available.",
+    "Applicability": "5+ people",
+    "Notes": "Reservation recommended"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Blanket Rental",
+    "Description": "Lap blankets are available for rent for cold customers.",
+    "Applicability": "Upon request",
+    "Notes": "Inquire at counter"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Pets",
+    "Description": "Entry is allowed only for terrace seats.",
+    "Applicability": "Pets",
+    "Notes": "Carrier mandatory"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Background Music",
+    "Description": "Please let us know if the music volume needs adjustment.",
+    "Applicability": "Upon request",
+    "Notes": "-"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Power Bank",
+    "Description": "A shared power bank rental machine is installed in-store.",
+    "Applicability": "All",
+    "Notes": "Paid service"
+  },
+  {
+    "Category": "Facility",
+    "Item": "High Chairs",
+    "Description": "A total of 5 high chairs are available.",
+    "Applicability": "With infants",
+    "Notes": "First-come basis"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Outdoor Seating",
+    "Description": "Outdoor seats are open only during spring and autumn seasons.",
+    "Applicability": "Seasonal",
+    "Notes": "Closed on rainy days"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Wi-Fi",
+    "Description": "Free Wi-Fi is provided within the store.",
+    "Applicability": "Dine-in",
+    "Notes": "PW: store1234"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Umbrella Stand",
+    "Description": "Umbrella bags and stands are set up at the entrance on rainy days.",
+    "Applicability": "Rainy days",
+    "Notes": "-"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Disposable Apron",
+    "Description": "Disposable aprons are provided upon request.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Full-length Mirror",
+    "Description": "A full-length mirror for the photo zone is at the entrance.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Parking Availability",
+    "Description": "Parking is available in the B1 and B2 levels of the building.",
+    "Applicability": "Visitors",
+    "Notes": "2 hours free"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Parking Validation",
+    "Description": "Please provide the last 4 digits of your vehicle number at checkout.",
+    "Applicability": "Parking users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Luggage Storage",
+    "Description": "Large suitcases can be stored for travelers.",
+    "Applicability": "Upon request",
+    "Notes": "-"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Outlets",
+    "Description": "Available at the window-side bar table seats.",
+    "Applicability": "Specific seats",
+    "Notes": "-"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Restroom Location",
+    "Description": "Located at the end of the hallway to the right of the main entrance.",
+    "Applicability": "All",
+    "Notes": "Gender separated"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Wheelchair",
+    "Description": "Ramps are installed at the entrance for easy wheelchair access.",
+    "Applicability": "Vulnerable",
+    "Notes": "-"
+  },
+  {
+    "Category": "Facility",
+    "Item": "Smoking Room",
+    "Description": "The entire store is non-smoking; please use the outdoor area.",
+    "Applicability": "All",
+    "Notes": "Statutory non-smoking"
+  },
+  {
+    "Category": "Reservation",
+    "Item": "No-show Policy",
+    "Description": "Reservations may be auto-cancelled after 15 minutes of delay.",
+    "Applicability": "Reservation holders",
+    "Notes": "-"
+  },
+  {
+    "Category": "Reservation",
+    "Item": "Same-day Booking",
+    "Description": "Same-day bookings are confirmed only via phone inquiry.",
+    "Applicability": "Same-day",
+    "Notes": "Check availability"
+  },
+  {
+    "Category": "Reservation",
+    "Item": "Venue Rental Fee",
+    "Description": "A separate rental fee applies per hour.",
+    "Applicability": "Full rental",
+    "Notes": "Regardless of headcount"
+  },
+  {
+    "Category": "Reservation",
+    "Item": "Waiting System",
+    "Description": "You must register for waiting at the entrance kiosk upon visit.",
+    "Applicability": "When full",
+    "Notes": "Kakaotalk alert"
+  },
+  {
+    "Category": "Reservation",
+    "Item": "Booking Method",
+    "Description": "Reservations available via Naver or phone.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Reservation",
+    "Item": "Cancellation",
+    "Description": "Cancellations allowed without penalty up to 1 day before visit.",
+    "Applicability": "Reservation holders",
+    "Notes": "Same-day not possible"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Job Info",
+    "Description": "We are currently hiring for weekend part-time positions.",
+    "Applicability": "Recruitment",
+    "Notes": "Check Albamon post"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Last Order",
+    "Description": "Orders are accepted until 30 minutes before closing.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Holiday Operation",
+    "Description": "Closed on New Year's Day and Chuseok.",
+    "Applicability": "Holidays",
+    "Notes": "Notice before holidays"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Quarantine Rules",
+    "Description": "We comply with government guidelines for pandemic prevention.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Break Time",
+    "Description": "Ingredient preparation time is from 3 PM to 5 PM.",
+    "Applicability": "Weekdays",
+    "Notes": "Excludes weekends"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Emergency Exit",
+    "Description": "Emergency stairs are located at the back of the store.",
+    "Applicability": "All",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Noise Warning",
+    "Description": "No loud shouting at night due to proximity to residential areas.",
+    "Applicability": "After 20:00",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Business Hours",
+    "Description": "Open from 10 AM to 9 PM on both weekdays and weekends.",
+    "Applicability": "All",
+    "Notes": "Open year-round"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Filming Rental",
+    "Description": "Consultation for full venue rental outside business hours is possible.",
+    "Applicability": "Rental",
+    "Notes": "Phone consultation"
+  },
+  {
+    "Category": "Operation",
+    "Item": "Closing Info",
+    "Description": "Regularly closed on the first Monday of every month.",
+    "Applicability": "Regular closing",
+    "Notes": "Next day if holiday"
+  },
+  {
+    "Category": "Nearby",
+    "Item": "Transportation",
+    "Description": "Close to City Hall Station (Line 2) Exit 3.",
+    "Applicability": "Public transit",
+    "Notes": "3 min walk"
+  },
+  {
+    "Category": "Nearby",
+    "Item": "Nearby Attractions",
+    "Description": "Central Park is a 5-minute walk from the store.",
+    "Applicability": "Nearby",
+    "Notes": "-"
+  },
+  {
+    "Category": "Claim",
+    "Item": "Payment Cancellation",
+    "Description": "Cancellation possible only on the same day with receipt.",
+    "Applicability": "Same day",
+    "Notes": "-"
+  },
+  {
+    "Category": "Claim",
+    "Item": "Lost and Found",
+    "Description": "Lost items are kept for up to 2 weeks before disposal.",
+    "Applicability": "Lost items",
+    "Notes": "Inquire at CS"
+  },
+  {
+    "Category": "Claim",
+    "Item": "Hygiene Management",
+    "Description": "Quarantine is performed daily by a professional firm.",
+    "Applicability": "Facility mgmt",
+    "Notes": "Cesco Members"
+  },
+  {
+    "Category": "Claim",
+    "Item": "Cold Food",
+    "Description": "We will reheat your food if it has cooled down.",
+    "Applicability": "Upon request",
+    "Notes": "-"
+  },
+  {
+    "Category": "Claim",
+    "Item": "Order Error",
+    "Description": "Inform staff immediately for a re-cook.",
+    "Applicability": "On-site",
+    "Notes": "-"
+  },
+  {
+    "Category": "Claim",
+    "Item": "Parking Error",
+    "Description": "Press call button if not verified at the kiosk before exit.",
+    "Applicability": "Parking lot",
+    "Notes": "-"
+  }
+]

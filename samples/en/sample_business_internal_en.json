@@ -1,0 +1,562 @@
+[
+  {
+    "Category": "Policy",
+    "Item": "2FA Authentication",
+    "Description": "Google 2FA is mandatory for accessing all internal systems.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Mission Statement",
+    "Description": "We share a vision of making the world more convenient through technology.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Anti-Harassment",
+    "Description": "We maintain a zero-tolerance policy toward workplace bullying or harassment.",
+    "Applicability": "All Staff",
+    "Notes": "Anonymous reporting"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Attendance Tracking",
+    "Description": "Clock in/out via our internal app or designated Slack commands.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Business Cards",
+    "Description": "Request physical cards via the Admin team after Manager approval.",
+    "Applicability": "Relevant Staff",
+    "Notes": "Approx. 1 week"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Business Travel",
+    "Description": "Lodging is paid via fixed rates; transportation is reimbursed at actual cost.",
+    "Applicability": "Travelers",
+    "Notes": "Follow standard guide"
+  },
+  {
+    "Category": "Support",
+    "Item": "Cafeteria Discount",
+    "Description": "All beverages at the in-house cafe are 50% off for employees.",
+    "Applicability": "All Staff",
+    "Notes": "Pay via ID Card"
+  },
+  {
+    "Category": "Support",
+    "Item": "Career Certification",
+    "Description": "Exam fees for job-related certifications are fully reimbursed.",
+    "Applicability": "All Staff",
+    "Notes": "Upon passing"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Clean Desk Policy",
+    "Description": "Lock your laptop screen (Win+L) when leaving your desk in common areas.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Code of Conduct",
+    "Description": "Employees must not accept gifts or entertainment exceeding $50 from partners.",
+    "Applicability": "All Staff",
+    "Notes": "Integrity policy"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Company Wi-Fi",
+    "Description": "Internal Wi-Fi access is restricted to work-authorized devices only.",
+    "Applicability": "All Staff",
+    "Notes": "Separate Guest Wi-Fi"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Confidentiality (NDA)",
+    "Description": "Trade secrets obtained during employment must be protected even after resignation.",
+    "Applicability": "Including Leavers",
+    "Notes": "Based on NDA"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Conflict of Interest",
+    "Description": "Prior approval from your Manager is required for external lectures or writing.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Corporate Card",
+    "Description": "Strictly no personal use of corporate cards; only for business purposes.",
+    "Applicability": "Cardholders",
+    "Notes": "Violations subject to recovery"
+  },
+  {
+    "Category": "Support",
+    "Item": "Courier/Mail Services",
+    "Description": "The 1F Front Desk assists with outbound quick-delivery and mail requests.",
+    "Applicability": "Business Use",
+    "Notes": "Charged to team"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Data Storage",
+    "Description": "Work files must be saved to Google Drive Team Drives, not local storage.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Disciplinary Action",
+    "Description": "Warnings are issued after 3 unexcused tardies; meetings will be scheduled.",
+    "Applicability": "Violators",
+    "Notes": "-"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Disciplinary Committee",
+    "Description": "Convened for security incidents or 3+ days of unexcused absence.",
+    "Applicability": "Violators",
+    "Notes": "-"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Dress Code",
+    "Description": "Business casual is recommended; shorts are permitted.",
+    "Applicability": "All Staff",
+    "Notes": "Except client meetings"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Dual Employment",
+    "Description": "Cannot serve as an employee or consultant for other firms without permission.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Onboarding",
+    "Item": "Email Signature",
+    "Description": "Apply the standard company signature template found in Google Docs.",
+    "Applicability": "New Hires",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Emergency Contact",
+    "Description": "Google Chat emergency tree is activated during disasters.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Employee Referral",
+    "Description": "Referral bonuses are paid if the hire passes their probation period.",
+    "Applicability": "Referrer",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "ESG Initiatives",
+    "Description": "Actively participate in eco-friendly policies, such as reducing disposables.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Facility Heating/AC",
+    "Description": "Centrally controlled; contact the IT/Facility team for local temperature requests.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Fitness Center",
+    "Description": "24/7 free access to the in-house gym at HQ.",
+    "Applicability": "All Staff",
+    "Notes": "Bring your own gear"
+  },
+  {
+    "Category": "Support",
+    "Item": "Funeral Support",
+    "Description": "We provide funeral supplies and a director for the loss of immediate family.",
+    "Applicability": "All Staff",
+    "Notes": "24/7 Center"
+  },
+  {
+    "Category": "Onboarding",
+    "Item": "Google Workspace",
+    "Description": "Your account will be provisioned by the morning of your first day.",
+    "Applicability": "New Hires",
+    "Notes": "Check IT email"
+  },
+  {
+    "Category": "Perks",
+    "Item": "Health Checkup",
+    "Description": "Comprehensive annual medical checkups are provided at designated hospitals.",
+    "Applicability": "All Staff",
+    "Notes": "Includes spouse"
+  },
+  {
+    "Category": "Perks",
+    "Item": "Holiday Gifts",
+    "Description": "$100 value catalog gifts provided during major lunar holidays.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Internal Directory",
+    "Description": "Find contact info and the org chart via Google Search/Workspace.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "IT Helpdesk",
+    "Description": "Report hardware or software issues via the Slack #it-support channel.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Onboarding",
+    "Item": "Jira Access",
+    "Description": "Jira accounts are provided for task management and project tracking.",
+    "Applicability": "New Hires",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Lactation Room",
+    "Description": "A dedicated nursing and rest room for mothers is located on the 5th floor.",
+    "Applicability": "Relevant Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Leave of Absence",
+    "Description": "Parental or self-development leave can be requested for up to 1 year.",
+    "Applicability": "1+ Year Tenure",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Legal Advisory",
+    "Description": "Access internal legal counsel for work-related legal disputes.",
+    "Applicability": "Work Related",
+    "Notes": "-"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Life Event Support",
+    "Description": "Cash gifts and wreaths are sent for weddings and funerals.",
+    "Applicability": "All Staff",
+    "Notes": "Apply via ERP"
+  },
+  {
+    "Category": "Support",
+    "Item": "Lift Protocol",
+    "Description": "Observe low/high-zone separation during peak hours (e.g., Lunch).",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Massage Chairs",
+    "Description": "Lounge areas on each floor are equipped with premium massage chairs.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Perks",
+    "Item": "Meal Allowance",
+    "Description": "Up to $200/month via corporate card for lunch expenses.",
+    "Applicability": "All Staff",
+    "Notes": "Google Pay compatible"
+  },
+  {
+    "Category": "Onboarding",
+    "Item": "Mentorship Program",
+    "Description": "A team mentor is assigned for the first 3 months to help you adjust.",
+    "Applicability": "New Hires",
+    "Notes": "-"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Moonlighting",
+    "Description": "Hobby-based side gigs in non-competing fields are allowed with report.",
+    "Applicability": "All Staff",
+    "Notes": "Must not affect work"
+  },
+  {
+    "Category": "Onboarding",
+    "Item": "New Hire Training",
+    "Description": "Mandatory compliance training must be completed within the first week.",
+    "Applicability": "New Hires",
+    "Notes": "Via LMS"
+  },
+  {
+    "Category": "Onboarding",
+    "Item": "Notion Wiki",
+    "Description": "All major company guides and policies are available on the Notion Wiki.",
+    "Applicability": "New Hires",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Office Supplies",
+    "Description": "Consumables requested by Wednesday are distributed weekly.",
+    "Applicability": "All Staff",
+    "Notes": "Via Intranet"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Overtime Approval",
+    "Description": "Manager approval is mandatory for work exceeding 40 hours per week.",
+    "Applicability": "All Staff",
+    "Notes": "Compensatory leave"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Paid Sick Leave",
+    "Description": "Up to 10 days of paid sick leave per year.",
+    "Applicability": "Illness/Injury",
+    "Notes": "Doctor's note if 3+ days"
+  },
+  {
+    "Category": "Support",
+    "Item": "Parking Management",
+    "Description": "Free parking is available for one registered vehicle per employee.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Parcel Collection",
+    "Description": "Personal packages must be collected from the B1 automated lockers.",
+    "Applicability": "All Staff",
+    "Notes": "No office delivery"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Performance Rewards",
+    "Description": "$500 bonus for quarterly 'Top Performer' based on peer nominations.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Personal Data Privacy",
+    "Description": "Employee data is collected solely for HR purposes in compliance with GDPR.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Onboarding",
+    "Item": "Photo Submission",
+    "Description": "Upload your photo via Google Form for your physical ID badge.",
+    "Applicability": "New Hires",
+    "Notes": "Plain background"
+  },
+  {
+    "Category": "Support",
+    "Item": "Psychological Counseling",
+    "Description": "5 annual sessions of anonymous counseling via an external partner.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Re-employment",
+    "Description": "Former employees may re-apply after 1 year has passed since resignation.",
+    "Applicability": "Leavers",
+    "Notes": "HR review required"
+  },
+  {
+    "Category": "Onboarding",
+    "Item": "Required Documents",
+    "Description": "Upload degrees and bank info to the ERP within 3 days of joining.",
+    "Applicability": "New Hires",
+    "Notes": "-"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Resignation Notice",
+    "Description": "Submit notice 30 days in advance and complete the hand-over process.",
+    "Applicability": "Leavers",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Room Reservations",
+    "Description": "Book all meeting rooms via Google Calendar prior to use.",
+    "Applicability": "All Staff",
+    "Notes": "Max 3 hours"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Secondment Allowance",
+    "Description": "The company covers airfare and living expenses for overseas assignments.",
+    "Applicability": "Expatriates",
+    "Notes": "-"
+  },
+  {
+    "Category": "Onboarding",
+    "Item": "Seating Assignment",
+    "Description": "Desk locations are assigned according to each team's operational guide.",
+    "Applicability": "New Hires",
+    "Notes": "-"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Self-Development Fund",
+    "Description": "Up to $1,000/year for books, courses, or fitness expenses.",
+    "Applicability": "6+ Months Tenure",
+    "Notes": "Receipts required"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Sexual Harassment Prevention",
+    "Description": "Mandatory annual online training for all employees.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Onboarding",
+    "Item": "Slack Introduction",
+    "Description": "Join official Slack channels and post a brief self-introduction.",
+    "Applicability": "New Hires",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Smoking Policy",
+    "Description": "The building is strictly non-smoking; use the 1F outdoor designated area.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Software Compliance",
+    "Description": "Installing unauthorized software without IT approval is prohibited.",
+    "Applicability": "IT Assets",
+    "Notes": "-"
+  },
+  {
+    "Category": "Perks",
+    "Item": "Special Occasions",
+    "Description": "Work half-day on your birthday and receive a $50 gift card.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Perks",
+    "Item": "Team Clubs",
+    "Description": "Monthly $20 stipend per person for clubs with 5+ members.",
+    "Applicability": "All Staff",
+    "Notes": "Monthly report"
+  },
+  {
+    "Category": "Perks",
+    "Item": "Telecom Subsidy",
+    "Description": "Monthly $30 subsidy for those using personal phones for business.",
+    "Applicability": "Field/Admin Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Tenure Milestones",
+    "Description": "Sabbaticals and bonuses are awarded at 3, 5, and 10-year marks.",
+    "Applicability": "Long-term Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Translation Support",
+    "Description": "Professional translation services are available for global collaboration.",
+    "Applicability": "As Needed",
+    "Notes": "-"
+  },
+  {
+    "Category": "Perks",
+    "Item": "Tuition Assistance",
+    "Description": "Partial coverage for children's tuition from preschool to university.",
+    "Applicability": "5+ Years Tenure",
+    "Notes": "Apply per semester"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Untitled Honorifics",
+    "Description": "Use nicknames or 'Name-san/Nim' instead of hierarchical titles.",
+    "Applicability": "All Staff",
+    "Notes": "Flat culture"
+  },
+  {
+    "Category": "Regulation",
+    "Item": "Vacation Policy",
+    "Description": "15 days base annual leave; 1 extra day for every 2 years of service.",
+    "Applicability": "All Staff",
+    "Notes": "Sync with G-Cal"
+  },
+  {
+    "Category": "Support",
+    "Item": "Vehicle Booking",
+    "Description": "Reserve company cars via the app for off-site business meetings.",
+    "Applicability": "All Staff",
+    "Notes": "License required"
+  },
+  {
+    "Category": "Onboarding",
+    "Item": "Welcome Kit",
+    "Description": "A kit including a hoodie, tumbler, and planner will be on your desk.",
+    "Applicability": "New Hires",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Work Asset Security",
+    "Description": "Report lost IT assets (laptops, etc.) immediately to the IT team.",
+    "Applicability": "All Staff",
+    "Notes": "Liability check"
+  },
+  {
+    "Category": "Perks",
+    "Item": "Work from Home (WFH)",
+    "Description": "Remote work is available up to 2 days a week upon team consultation.",
+    "Applicability": "All Staff",
+    "Notes": "Set Slack status"
+  },
+  {
+    "Category": "Perks",
+    "Item": "Workplace Flexibility",
+    "Description": "Core hours are 11:00–16:00; start anytime between 08:00 and 11:00.",
+    "Applicability": "Full-time",
+    "Notes": "8-hour workday"
+  },
+  {
+    "Category": "Support",
+    "Item": "World Environment Day",
+    "Description": "Personal tumblers provided to all staff to discourage single-use cups.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Onboarding",
+    "Item": "Zero-Waste Policy",
+    "Description": "We provide personal tumblers to all staff to eliminate disposable cups.",
+    "Applicability": "All Staff",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Zone Evacuation",
+    "Description": "In case of fire, use emergency stairs and gather at the 1F plaza.",
+    "Applicability": "All Staff",
+    "Notes": "Bi-annual drills"
+  }
+]

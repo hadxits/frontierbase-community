@@ -1,0 +1,562 @@
+[
+  {
+    "Category": "Support",
+    "Item": "24/7 Monitoring",
+    "Description": "Our server infrastructure is monitored 24/7/365 to ensure maximum uptime.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Account",
+    "Item": "Account Deactivation",
+    "Description": "You can close your account in Settings; all personal data is purged immediately.",
+    "Applicability": "Registered",
+    "Notes": "Non-recoverable"
+  },
+  {
+    "Category": "Account",
+    "Item": "Account Lockout",
+    "Description": "Accounts are locked for 30 minutes after 5 consecutive failed login attempts.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "API Documentation",
+    "Description": "Developer documentation for external integrations is available in the Dev Center.",
+    "Applicability": "Developers",
+    "Notes": "Open API"
+  },
+  {
+    "Category": "Billing",
+    "Item": "Apple Pay Support",
+    "Description": "We support frictionless payments via Apple Pay, PayPal, and major credit cards.",
+    "Applicability": "Paid Plans",
+    "Notes": "Visa, Master"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Automation",
+    "Description": "Streamline repetitive tasks by setting up custom triggers and automation rules.",
+    "Applicability": "Paid Plans",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Availability",
+    "Description": "We support Web, iOS, Android, macOS, and Windows native applications.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Backup Frequency",
+    "Description": "Full data backups are performed daily and stored in physically separate locations.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Billing",
+    "Item": "Billing Cycle",
+    "Description": "Choose between monthly or yearly billing cycles for your convenience.",
+    "Applicability": "Paid Plans",
+    "Notes": "20% Annual Discount"
+  },
+  {
+    "Category": "Error",
+    "Item": "Browser Cache Issues",
+    "Description": "If layout issues occur, please verify your zoom is at 100% and clear your cache.",
+    "Applicability": "Web",
+    "Notes": "-"
+  },
+  {
+    "Category": "Billing",
+    "Item": "Cancellation Policy",
+    "Description": "Cancel your subscription at any time via the billing dashboard.",
+    "Applicability": "Paid Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Billing",
+    "Item": "Card Errors",
+    "Description": "Please check your card limit or international payment blocks if a transaction fails.",
+    "Applicability": "Payment Failure",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Community Forum",
+    "Description": "Exchange tips and best practices with other users in our official user forum.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Billing",
+    "Item": "Currency Standard",
+    "Description": "All global transactions are processed in US Dollars (USD).",
+    "Applicability": "Global",
+    "Notes": "Exchange rates apply"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Custom Dashboard",
+    "Description": "Configure a personalized dashboard to manage your unique workflow and schedule.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Dark Mode",
+    "Description": "Switch between Dark and Light UI modes via the display settings menu.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Data Encryption",
+    "Description": "All data is encrypted using 256-bit AES both in transit and at rest.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Data Sovereignty",
+    "Description": "Users retain full ownership of their data and can export a full backup at any time.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Datacenter Regions",
+    "Description": "Data is distributed across Google Cloud regions in the US and Europe.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Error",
+    "Item": "Desktop Push Notifications",
+    "Description": "Ensure notification permissions are enabled in both your browser and OS settings.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Account",
+    "Item": "Dormant Accounts",
+    "Description": "Inactive Free accounts (no login for 1+ year) may be subject to suspension.",
+    "Applicability": "Free Users",
+    "Notes": "Advance notice sent"
+  },
+  {
+    "Category": "Billing",
+    "Item": "Education Discount",
+    "Description": "Students and educators with valid .edu emails receive a 50% discount on Pro.",
+    "Applicability": "Academic",
+    "Notes": "-"
+  },
+  {
+    "Category": "Account",
+    "Item": "Email Verification",
+    "Description": "New accounts must be activated by clicking the link in the verification email.",
+    "Applicability": "Sign-up",
+    "Notes": "Check Spam folder"
+  },
+  {
+    "Category": "Billing",
+    "Item": "Enterprise Quotes",
+    "Description": "Custom enterprise plans are available for large organizations with 50+ members.",
+    "Applicability": "Corporate",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Export Formats",
+    "Description": "Export your work instantly into CSV, PDF, or PNG file formats.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Fair Use Policy",
+    "Description": "Excessive API calls that strain system resources may be subject to rate limiting.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "File Sharing Security",
+    "Description": "Add an extra layer of security by password-protecting your external share links.",
+    "Applicability": "Pro+",
+    "Notes": "-"
+  },
+  {
+    "Category": "Error",
+    "Item": "Firewall Blocks",
+    "Description": "Corporate firewalls may block verification emails; please consult your IT team.",
+    "Applicability": "Enterprise",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Global Search",
+    "Description": "Search across all documents, text content, and filenames simultaneously.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Help Center",
+    "Description": "Access a comprehensive library of guides and documentation hosted on Google Drive.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Account",
+    "Item": "ID Uniqueness",
+    "Description": "Only one account can be created per unique email address.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Integration Support",
+    "Description": "Seamlessly connect with Slack, Google Drive, and Jira for unified workflows.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Billing",
+    "Item": "Invoice Support",
+    "Description": "Invoices and expense documentation are provided for corporate tax compliance.",
+    "Applicability": "Business Plan",
+    "Notes": "-"
+  },
+  {
+    "Category": "Billing",
+    "Item": "Itemized Receipts",
+    "Description": "Automated invoices are sent to your registered email upon successful payment.",
+    "Applicability": "Paid Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Keyboard Shortcuts",
+    "Description": "Boost productivity with an extensive range of system-wide hotkeys.",
+    "Applicability": "Web/App",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Live Chat Support",
+    "Description": "Pro and Business users have access to real-time technical support via live chat.",
+    "Applicability": "Pro+",
+    "Notes": "-"
+  },
+  {
+    "Category": "Error",
+    "Item": "Login Issues",
+    "Description": "If you see an 'Invalid Access' error, try clearing your browser cookies.",
+    "Applicability": "Technical",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Mail Support",
+    "Description": "Send further inquiries to support@service.com for a direct response.",
+    "Applicability": "All Users",
+    "Notes": "Within 24 business hours"
+  },
+  {
+    "Category": "Error",
+    "Item": "Maintenance Notice",
+    "Description": "Scheduled maintenance is announced via the dashboard's top banner.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Error",
+    "Item": "Mobile App Crashes",
+    "Description": "If the app terminates unexpectedly, please check for the latest store updates.",
+    "Applicability": "Mobile",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Multi-language Support",
+    "Description": "We support 12 languages, including English, Korean, Japanese, and Spanish.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Billing",
+    "Item": "Non-profit Eligibility",
+    "Description": "NGOs and non-profits may apply for free access upon document review.",
+    "Applicability": "NGOs",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Offline Mode",
+    "Description": "Edit content without an internet connection; data syncs once you are back online.",
+    "Applicability": "Desktop App",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Partner Inquiries",
+    "Description": "Submit reseller or partnership requests through our dedicated B2B form.",
+    "Applicability": "Partners",
+    "Notes": "-"
+  },
+  {
+    "Category": "Account",
+    "Item": "Password Recovery",
+    "Description": "Lost your password? Request a reset link via your registered email address.",
+    "Applicability": "Non-logged-in",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Permissions Management",
+    "Description": "Assign granular roles such as Viewer, Editor, or Admin to team members.",
+    "Applicability": "Paid Plans",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Project Filtering",
+    "Description": "Filter your workspace by date, author, or custom tags for better organization.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Billing",
+    "Item": "Promotion Codes",
+    "Description": "Limited-time discount codes can be applied during the checkout process.",
+    "Applicability": "Coupon Holders",
+    "Notes": "-"
+  },
+  {
+    "Category": "Billing",
+    "Item": "Prorated Billing",
+    "Description": "When upgrading plans, you are only charged the prorated difference immediately.",
+    "Applicability": "Plan Change",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Real-time Whiteboard",
+    "Description": "Collaborate on a digital whiteboard for real-time brainstorming sessions.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Billing",
+    "Item": "Refund Policy",
+    "Description": "100% refund available if requested within 7 days of purchase with no usage.",
+    "Applicability": "Cancellations",
+    "Notes": "-"
+  },
+  {
+    "Category": "Billing",
+    "Item": "Renewal Settings",
+    "Description": "Subscriptions auto-renew 24 hours before expiry unless disabled in settings.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Error",
+    "Item": "Report Unauthorized Charges",
+    "Description": "Report any unrecognized billing activity to our support team immediately.",
+    "Applicability": "Security",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Screen Reader Support",
+    "Description": "Our tool supports screen readers and high-contrast modes for accessibility.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Service",
+    "Item": "Service Roadmap",
+    "Description": "Check our official Roadmap page for upcoming features and scheduled updates.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Account",
+    "Item": "Social Sign-on",
+    "Description": "Sign up easily using your Google or Apple ID, or a standard email address.",
+    "Applicability": "New Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Service",
+    "Item": "Software Updates",
+    "Description": "Web versions update automatically; mobile/desktop apps update via stores.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Service",
+    "Item": "System Requirements",
+    "Description": "We recommend a minimum of 4GB RAM for a smooth user experience.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Error",
+    "Item": "System Status Updates",
+    "Description": "For real-time outage reports, follow our official X account: @ServiceStatus.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Team Invitations",
+    "Description": "Invite team members to your projects directly via their email address.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Templates Library",
+    "Description": "Access over 100+ free, pre-designed templates tailored for various industries.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "Terms of Service",
+    "Description": "Review our full legal terms via the 'Terms' link at the bottom of our site.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Time Tracking",
+    "Description": "Track and measure actual working hours spent on specific projects.",
+    "Applicability": "Pro+",
+    "Notes": "-"
+  },
+  {
+    "Category": "Billing",
+    "Item": "Tier Comparison",
+    "Description": "We offer Free, Pro, and Business plans; visit our site for a full comparison.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Two-Factor Auth (2FA)",
+    "Description": "Secure your workspace with 2FA via apps like Google Authenticator.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Error",
+    "Item": "Upload Capacity",
+    "Description": "Max file size per upload: 100MB for Free users / 2GB for Pro users.",
+    "Applicability": "Data Transfer",
+    "Notes": "-"
+  },
+  {
+    "Category": "Policy",
+    "Item": "User Privacy (GDPR)",
+    "Description": "We strictly adhere to GDPR and global privacy laws to protect your data.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Account",
+    "Item": "User Profile Customization",
+    "Description": "Update your display name and avatar at any time in the Profile settings.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Value Proposition",
+    "Description": "We build the ultimate tools designed to maximize user productivity.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Billing",
+    "Item": "VAT Compliance",
+    "Description": "VAT may be added to your total based on local tax regulations.",
+    "Applicability": "Global",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Version History",
+    "Description": "Restore previous versions of your documents from the last 30 days.",
+    "Applicability": "Pro+",
+    "Notes": "-"
+  },
+  {
+    "Category": "Service",
+    "Item": "Vibrant Community",
+    "Description": "We are a cloud-based tool built for real-time project management.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Video Tutorials",
+    "Description": "Watch step-by-step feature tutorials on our official YouTube channel.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Visual Analytics",
+    "Description": "Monitor team progress through intuitive, visualized data reports.",
+    "Applicability": "Business Plan",
+    "Notes": "-"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Watermark Policy",
+    "Description": "PDF exports from Free plan accounts will include a system watermark.",
+    "Applicability": "Free Plan",
+    "Notes": "-"
+  },
+  {
+    "Category": "Service",
+    "Item": "Web Optimization",
+    "Description": "Our platform is fully optimized for the latest version of Google Chrome.",
+    "Applicability": "Web",
+    "Notes": "Safari/Edge compatible"
+  },
+  {
+    "Category": "Account",
+    "Item": "Welcome Trial",
+    "Description": "New users get 14 days of full Pro features for free upon sign-up.",
+    "Applicability": "New Accounts",
+    "Notes": "No credit card required"
+  },
+  {
+    "Category": "Account",
+    "Item": "Workspace Downgrade",
+    "Description": "Unpaid trials automatically revert to Free plans; your data remains safe.",
+    "Applicability": "New Accounts",
+    "Notes": "Data retention"
+  },
+  {
+    "Category": "Feature",
+    "Item": "Workspace Notifications",
+    "Description": "Fine-tune your desktop push and email notification preferences in settings.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Error",
+    "Item": "Workspace Sync Lag",
+    "Description": "If data isn't syncing, check your connection and refresh the page (F5).",
+    "Applicability": "Web",
+    "Notes": "-"
+  }
+]

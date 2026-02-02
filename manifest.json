@@ -1,0 +1,17 @@
+{
+  "name": "frontierbase-community-samples",
+  "description": "Sample documents for Frontierbase - https://www.frontierbase.io",
+  "version": "1.0.0",
+  "defaultLanguage": "en",
+  "languages": [
+    { "code": "en", "name": "English" },
+    { "code": "ko", "name": "Korean" },
+    { "code": "ja", "name": "Japanese" },
+    { "code": "zh", "name": "Chinese" },
+    { "code": "es", "name": "Spanish" },
+    { "code": "it", "name": "Italian" },
+    { "code": "de", "name": "German" },
+    { "code": "fr", "name": "French" }
+  ],
+  "basePath": "samples"
+}

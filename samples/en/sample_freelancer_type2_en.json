@@ -1,0 +1,562 @@
+[
+  {
+    "Category": "IP",
+    "Item": "Intellectual Property",
+    "Description": "All course curricula and materials remain the sole copyright of the instructor.",
+    "Applicability": "All Services",
+    "Notes": "-"
+  },
+  {
+    "Category": "IP",
+    "Item": "Content Citation",
+    "Description": "All external sources are cited with direct hyperlinks in reports and materials.",
+    "Applicability": "Reports/Materials",
+    "Notes": "-"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "Q&A Session",
+    "Description": "A 15-minute live Q&A session is held immediately following each lecture.",
+    "Applicability": "All Lectures",
+    "Notes": "-"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "Delivery Mode",
+    "Description": "Real-time online lectures via Google Meet are preferred.",
+    "Applicability": "Online",
+    "Notes": "-"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "Handouts",
+    "Description": "Summary PDF handouts are distributed post-lecture. Original PPT files are not provided.",
+    "Applicability": "All Students",
+    "Notes": "PDF only"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "Group Coaching",
+    "Description": "Intensive coaching sessions for small groups (4–5 people) are available.",
+    "Applicability": "Workshops",
+    "Notes": "-"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "Difficulty Levels",
+    "Description": "Customized curricula ranging from beginner to expert professional levels.",
+    "Applicability": "All Courses",
+    "Notes": "-"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "Recording Policy",
+    "Description": "Commercial resale of lecture recordings is strictly prohibited.",
+    "Applicability": "All Lectures",
+    "Notes": "Prior approval required"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "Live Webinars",
+    "Description": "Private webinars via YouTube Live are supported.",
+    "Applicability": "Online",
+    "Notes": "-"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "Content Renewal",
+    "Description": "All lecture content is updated with the latest industry data every H1 (First Half).",
+    "Applicability": "All Content",
+    "Notes": "-"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "Pre-assignments",
+    "Description": "Pre-reading materials are distributed to maximize learning efficiency.",
+    "Applicability": "All Lectures",
+    "Notes": "-"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "Capacity",
+    "Description": "A maximum of 20 participants is recommended for hands-on workshop efficiency.",
+    "Applicability": "Workshops",
+    "Notes": "Negotiable"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "Certification",
+    "Description": "Digital Certificates of Completion (PDF) are issued upon request.",
+    "Applicability": "Long-term Courses",
+    "Notes": "-"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "Lab Environment",
+    "Description": "Hands-on environments are provided via Google Colab.",
+    "Applicability": "Data Courses",
+    "Notes": "-"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "In-person Lectures",
+    "Description": "On-site visits are available upon request; travel expenses are billed separately.",
+    "Applicability": "Offline",
+    "Notes": "Calculated by distance"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "Captions",
+    "Description": "AI-powered real-time captions are available for English-language sessions.",
+    "Applicability": "Global Students",
+    "Notes": "-"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "AV Setup",
+    "Description": "High-definition broadcasts using a Logitech 4K Cam and Blue Yeti Mic.",
+    "Applicability": "Online",
+    "Notes": "-"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "LMS Integration",
+    "Description": "Recorded content can be uploaded to the client’s Learning Management System.",
+    "Applicability": "Recorded Content",
+    "Notes": "-"
+  },
+  {
+    "Category": "Lecture",
+    "Item": "Feedback",
+    "Description": "Satisfaction surveys are conducted via Google Forms after every session.",
+    "Applicability": "All Lectures",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "MBTI",
+    "Description": "ENTJ: I prefer systematic, strategy-driven approaches.",
+    "Applicability": "Profile",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Residence",
+    "Description": "Based in South Korea, operating globally via remote collaboration.",
+    "Applicability": "Location",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Availability",
+    "Description": "07:00–09:00 KST is reserved for self-development; responses may be delayed.",
+    "Applicability": "Weekdays",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Vision",
+    "Description": "My mission is to empower others through the systematic sharing of knowledge.",
+    "Applicability": "All Work",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Interests",
+    "Description": "I spend weekends hiking to generate new lecture ideas.",
+    "Applicability": "Personal",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Methods",
+    "Description": "Foreign currency transfers are accepted via PayPal, Stripe, and Wise.",
+    "Applicability": "Global Clients",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Pre-payment",
+    "Description": "Tuition fees must be paid in full 7 days prior to the start date.",
+    "Applicability": "Education Services",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Taxes",
+    "Description": "Withholding taxes for international payments are the responsibility of the client.",
+    "Applicability": "Global Contracts",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Late Fees",
+    "Description": "A 5% weekly surcharge is added to all overdue payments.",
+    "Applicability": "Unpaid Invoices",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Receipts",
+    "Description": "PayPal receipts are provided for corporate expense documentation.",
+    "Applicability": "All Payments",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Invoicing",
+    "Description": "Official invoices are issued via email and hosted on Google Drive.",
+    "Applicability": "All Clients",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Loyalty Points",
+    "Description": "A 5% credit is applied to repeat lecture bookings.",
+    "Applicability": "Returning Clients",
+    "Notes": "-"
+  },
+  {
+    "Category": "Payment",
+    "Item": "Refunds",
+    "Description": "For early termination, refunds are provided for remaining sessions only.",
+    "Applicability": "Education",
+    "Notes": "Fees deducted"
+  },
+  {
+    "Category": "Contract",
+    "Item": "NDA",
+    "Description": "Work begins only after signing an NDA to protect client management data.",
+    "Applicability": "Consulting",
+    "Notes": "-"
+  },
+  {
+    "Category": "Contract",
+    "Item": "Execution",
+    "Description": "Electronic contracts are sent and signed via DocuSign.",
+    "Applicability": "All Contracts",
+    "Notes": "-"
+  },
+  {
+    "Category": "Contract",
+    "Item": "Content Usage",
+    "Description": "Secondary modification or redistribution of materials requires prior negotiation.",
+    "Applicability": "All Materials",
+    "Notes": "-"
+  },
+  {
+    "Category": "Contract",
+    "Item": "Extensions",
+    "Description": "Project extensions require mutual agreement 2 weeks in advance.",
+    "Applicability": "Long-term",
+    "Notes": "-"
+  },
+  {
+    "Category": "Contract",
+    "Item": "Scheduling",
+    "Description": "Please book sessions via the Calendly link (integrated with Google Calendar).",
+    "Applicability": "All Meetings",
+    "Notes": "24h advance booking"
+  },
+  {
+    "Category": "Contract",
+    "Item": "Business Address",
+    "Description": "Registered business address for tax and accounting purposes is in Seoul.",
+    "Applicability": "Tax/Admin",
+    "Notes": "-"
+  },
+  {
+    "Category": "Contract",
+    "Item": "Cancellation",
+    "Description": "Cancellations within 24 hours of a meeting incur a 50% session fee.",
+    "Applicability": "All Meetings",
+    "Notes": "-"
+  },
+  {
+    "Category": "Marketing",
+    "Item": "Newsletter",
+    "Description": "Monthly industry trend reports are distributed via newsletter.",
+    "Applicability": "Subscribers",
+    "Notes": "-"
+  },
+  {
+    "Category": "Marketing",
+    "Item": "Blog",
+    "Description": "I contribute professional columns to Medium and Brunch.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Marketing",
+    "Item": "Public Speaking",
+    "Description": "Annual speaker at global tech and strategy conferences.",
+    "Applicability": "All Work",
+    "Notes": "-"
+  },
+  {
+    "Category": "Marketing",
+    "Item": "Referrals",
+    "Description": "A 10% discount is offered on the next session for successful referrals.",
+    "Applicability": "All Clients",
+    "Notes": "-"
+  },
+  {
+    "Category": "Security",
+    "Item": "2FA",
+    "Description": "All business accounts are secured with Google OTP (2-Factor Authentication).",
+    "Applicability": "All Work",
+    "Notes": "-"
+  },
+  {
+    "Category": "Security",
+    "Item": "Credential Sharing",
+    "Description": "Sensitive credentials are shared exclusively via Bitwarden.",
+    "Applicability": "Collaboration",
+    "Notes": "-"
+  },
+  {
+    "Category": "Security",
+    "Item": "Data Disposal",
+    "Description": "Project data is permanently deleted 6 months after the termination date.",
+    "Applicability": "Post-project",
+    "Notes": "-"
+  },
+  {
+    "Category": "Security",
+    "Item": "Backups",
+    "Description": "All meeting transcripts and documents are backed up to Google Drive.",
+    "Applicability": "All Projects",
+    "Notes": "-"
+  },
+  {
+    "Category": "Comm.",
+    "Item": "Intro Call",
+    "Description": "A 15-minute compatibility consultation is provided free of charge.",
+    "Applicability": "New Clients",
+    "Notes": "-"
+  },
+  {
+    "Category": "Comm.",
+    "Item": "Channels",
+    "Description": "Communication is handled via Email and Slack, except for emergencies.",
+    "Applicability": "All Work",
+    "Notes": "-"
+  },
+  {
+    "Category": "Comm.",
+    "Item": "Language",
+    "Description": "Business consulting is available in both Korean and English.",
+    "Applicability": "All Work",
+    "Notes": "-"
+  },
+  {
+    "Category": "Comm.",
+    "Item": "Hours",
+    "Description": "Real-time responses are available Mon–Fri, 09:00–18:00 (GMT+9).",
+    "Applicability": "Weekdays",
+    "Notes": "-"
+  },
+  {
+    "Category": "Comm.",
+    "Item": "Style",
+    "Description": "Appropriate use of emojis is encouraged for flexible and fluid communication.",
+    "Applicability": "All Work",
+    "Notes": "-"
+  },
+  {
+    "Category": "Workflow",
+    "Item": "Prioritization",
+    "Description": "Maintenance for existing clients is treated as the highest priority.",
+    "Applicability": "All Work",
+    "Notes": "-"
+  },
+  {
+    "Category": "Workflow",
+    "Item": "Partnership",
+    "Description": "Integrated solutions are provided through a network of subject matter experts.",
+    "Applicability": "Large Scale",
+    "Notes": "-"
+  },
+  {
+    "Category": "Workflow",
+    "Item": "Paperless",
+    "Description": "All documents are delivered digitally to support paperless values.",
+    "Applicability": "All Work",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Tools",
+    "Description": "Notion workspaces are created for long-term project asset sharing.",
+    "Applicability": "Long-term",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Holiday Notice",
+    "Description": "Holiday schedules are announced via email 2 weeks in advance.",
+    "Applicability": "All Clients",
+    "Notes": "-"
+  },
+  {
+    "Category": "Info",
+    "Item": "Experience",
+    "Description": "Detailed career history is available on my LinkedIn profile.",
+    "Applicability": "Bio",
+    "Notes": "-"
+  },
+  {
+    "Category": "Info",
+    "Item": "Social Media",
+    "Description": "Real-time insights are shared via X (Twitter) and LinkedIn.",
+    "Applicability": "Public",
+    "Notes": "-"
+  },
+  {
+    "Category": "Info",
+    "Item": "Certification",
+    "Description": "Holder of Google Analytics and PMP certifications.",
+    "Applicability": "Bio",
+    "Notes": "-"
+  },
+  {
+    "Category": "Info",
+    "Item": "Specialty",
+    "Description": "Expert in data-driven marketing strategy and organizational culture.",
+    "Applicability": "Consulting",
+    "Notes": "-"
+  },
+  {
+    "Category": "Info",
+    "Item": "Publications",
+    "Description": "Author of strategy-related e-books available on Amazon Kindle.",
+    "Applicability": "Bio",
+    "Notes": "-"
+  },
+  {
+    "Category": "Info",
+    "Item": "Portfolio",
+    "Description": "Client logos and success stories are public on my website (subject to NDA).",
+    "Applicability": "Public",
+    "Notes": "-"
+  },
+  {
+    "Category": "Info",
+    "Item": "Education",
+    "Description": "MBA holder from a university in the United States.",
+    "Applicability": "Bio",
+    "Notes": "-"
+  },
+  {
+    "Category": "Consulting",
+    "Item": "Market Analysis",
+    "Description": "Market research using Google Search and premium analytic tools.",
+    "Applicability": "Marketing",
+    "Notes": "-"
+  },
+  {
+    "Category": "Consulting",
+    "Item": "Urgent Advisory",
+    "Description": "A 1.5x premium rate applies to same-day urgent advisory requests.",
+    "Applicability": "Urgent",
+    "Notes": "-"
+  },
+  {
+    "Category": "Consulting",
+    "Item": "Setup Support",
+    "Description": "Assistance with Google Workspace implementation for operational efficiency.",
+    "Applicability": "Implementation",
+    "Notes": "-"
+  },
+  {
+    "Category": "Consulting",
+    "Item": "Venue",
+    "Description": "Shared office meeting rooms (e.g., WeWork) are used for offline sessions.",
+    "Applicability": "Offline",
+    "Notes": "-"
+  },
+  {
+    "Category": "Consulting",
+    "Item": "Benchmarking",
+    "Description": "Includes analysis of global best practices in comparable industries.",
+    "Applicability": "Strategy",
+    "Notes": "-"
+  },
+  {
+    "Category": "Consulting",
+    "Item": "Formats",
+    "Description": "Reports are available in either Google Slides or Google Docs.",
+    "Applicability": "Delivery",
+    "Notes": "-"
+  },
+  {
+    "Category": "Consulting",
+    "Item": "Maintenance",
+    "Description": "One follow-up meeting per month for 30 days post-project is included.",
+    "Applicability": "Package Deals",
+    "Notes": "-"
+  },
+  {
+    "Category": "Consulting",
+    "Item": "KPIs",
+    "Description": "Specific KPIs are established and measured at project kickoff.",
+    "Applicability": "All Projects",
+    "Notes": "-"
+  },
+  {
+    "Category": "Consulting",
+    "Item": "Scope",
+    "Description": "Scope excludes operational execution (agency work) unless specified.",
+    "Applicability": "All Projects",
+    "Notes": "Extra quote"
+  },
+  {
+    "Category": "Consulting",
+    "Item": "Retainers",
+    "Description": "Monthly subscription models for unlimited Q&A are available.",
+    "Applicability": "Retainers",
+    "Notes": "-"
+  },
+  {
+    "Category": "Consulting",
+    "Item": "Crisis Mgmt",
+    "Description": "Emergency response scenarios are provided within 24 hours of risk detection.",
+    "Applicability": "Strategy",
+    "Notes": "-"
+  },
+  {
+    "Category": "Consulting",
+    "Item": "Interviews",
+    "Description": "Stakeholder 1:1 interviews are limited to 45 minutes per session.",
+    "Applicability": "Diagnostics",
+    "Notes": "-"
+  },
+  {
+    "Category": "Consulting",
+    "Item": "Hourly Rate",
+    "Description": "Consultation rate is set at $200 per hour.",
+    "Applicability": "Ad-hoc",
+    "Notes": "Min. 1 hour"
+  },
+  {
+    "Category": "Consulting",
+    "Item": "Strategy Report",
+    "Description": "A comprehensive PDF report containing analysis and execution roadmaps.",
+    "Applicability": "Strategy",
+    "Notes": "-"
+  },
+  {
+    "Category": "Consulting",
+    "Item": "Diagnostics",
+    "Description": "Pre-diagnosis is conducted via Google Forms during the first session.",
+    "Applicability": "New Projects",
+    "Notes": "-"
+  },
+  {
+    "Category": "Consulting",
+    "Item": "Site Audits",
+    "Description": "On-site business visits and interviews are conducted when necessary.",
+    "Applicability": "On-site",
+    "Notes": "-"
+  }
+]

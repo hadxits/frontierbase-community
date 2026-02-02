@@ -1,0 +1,562 @@
+[
+  {
+    "Category": "Administration",
+    "Item": "Archiving Policy",
+    "Description": "High-value informational posts are permanently preserved in the 'Hall of Fame'.",
+    "Applicability": "All Posts",
+    "Notes": "-"
+  },
+  {
+    "Category": "Ads/Business",
+    "Item": "Affiliate Inquiries",
+    "Description": "Contact the official email for banner ads or group-buy partnership inquiries.",
+    "Applicability": "Businesses",
+    "Notes": "-"
+  },
+  {
+    "Category": "Etiquette",
+    "Item": "Anti-Doxxing",
+    "Description": "Posting others' contact info or photos without consent is strictly prohibited.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Auto-Save",
+    "Description": "Drafts are automatically saved to prevent data loss if the browser closes.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Anonymous Board",
+    "Description": "Posters remain anonymous on designated boards; no logs are stored on the server.",
+    "Applicability": "Anonymous Board",
+    "Notes": "-"
+  },
+  {
+    "Category": "Sanctions",
+    "Item": "Appeal Process",
+    "Description": "Users can appeal sanctions within 7 days via the official Google Form.",
+    "Applicability": "Sanctioned Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Board Creation",
+    "Description": "New boards are created for topics that receive a specific threshold of 'Upvotes'.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Board Moderators",
+    "Description": "Active and dedicated members may be appointed as 'Board Keepers' for specific sections.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Category Tags",
+    "Description": "Users must select appropriate tags (Question, Info, Review, etc.) for every post.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Career/Business Help",
+    "Description": "Use the dedicated business email for collaboration proposals outside of advertising.",
+    "Applicability": "Businesses/Orgs",
+    "Notes": "-"
+  },
+  {
+    "Category": "Etiquette",
+    "Item": "Citation Requirement",
+    "Description": "Always credit the source (links, etc.) when citing external data or articles.",
+    "Applicability": "All Users",
+    "Notes": "Copyright protection"
+  },
+  {
+    "Category": "Etiquette",
+    "Item": "Conflict Mediation",
+    "Description": "Staff will mediate disputes; both parties may be sanctioned in cases of mutual fault.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Dark Mode",
+    "Description": "A low-light UI theme is available to reduce eye strain for night users.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Data Saver Mode",
+    "Description": "Option to lower image resolution in mobile environments to save mobile data.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Dashboard Widgets",
+    "Description": "Users can pin widgets for their favorite boards onto their personal dashboard.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Other",
+    "Item": "Donation Badges",
+    "Description": "Special icons are displayed next to nicknames for members who participate in donations.",
+    "Applicability": "Donors",
+    "Notes": "-"
+  },
+  {
+    "Category": "Other",
+    "Item": "Donation Campaigns",
+    "Description": "We run regular campaigns to donate a portion of community points to social charities.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Events",
+    "Item": "Daily Check-in",
+    "Description": "Activity points are automatically credited for checking in every day.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Expert Columns",
+    "Description": "In-depth columns written by verified professional members are archived in a special section.",
+    "Applicability": "Professionals",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "File Restrictions",
+    "Description": "Executable files (.exe) are prohibited to prevent the spread of malware.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Filtering Tools",
+    "Description": "Set 'Banned Words' in your personal settings to hide specific keywords from your view.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Events",
+    "Item": "Graduation/Birthday",
+    "Description": "Members receive special points and a congratulatory message on their birthday.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Etiquette",
+    "Item": "Hate Speech",
+    "Description": "Zero-tolerance policy for hate speech regarding race, gender, or religion.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Hot Posts",
+    "Description": "Posts that exceed a certain view/recommendation threshold are featured on the main page.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Inactive Accounts",
+    "Description": "Accounts inactive for over 1 year are set to dormant status to protect user data.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Image Guidelines",
+    "Description": "Upload only non-copyrighted images; a width of 1200px is recommended.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Image Search",
+    "Description": "The system helps find similar posts based on the images uploaded within the community.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Sanctions",
+    "Item": "IP Range Blocking",
+    "Description": "IP ranges of accounts spreading malicious spam will be permanently blocked.",
+    "Applicability": "Malicious Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Legal Assistance",
+    "Description": "Support is provided for legal action in cases of severe insult or defamation.",
+    "Applicability": "Victims",
+    "Notes": "-"
+  },
+  {
+    "Category": "Sanctions",
+    "Item": "Life-time Ban",
+    "Description": "Permanent bans are issued without exception for fraud or criminal involvement.",
+    "Applicability": "Severe Violations",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Link Sharing",
+    "Description": "Sharing unauthorized links to copyrighted or paid content is prohibited.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Mention System",
+    "Description": "Send notifications to specific members using the '@Username' format.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Mobile App",
+    "Description": "Real-time communication is available anywhere via our dedicated mobile application.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Multiple Accounts",
+    "Description": "Strictly one account per person; attempts to manipulate opinion will result in a ban.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Etiquette",
+    "Item": "Mutual Respect",
+    "Description": "Honorifics/polite speech is the standard for all members. No casual speech.",
+    "Applicability": "All Users",
+    "Notes": "Except specific boards"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Nickname Policy",
+    "Description": "Offensive nicknames or those impersonating staff are prohibited.",
+    "Applicability": "All Users",
+    "Notes": "Warning before ban"
+  },
+  {
+    "Category": "Etiquette",
+    "Item": "No Targeted Attacks",
+    "Description": "Publicly shaming, harassing, or 'calling out' specific members is forbidden.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Etiquette",
+    "Item": "No Proselytizing",
+    "Description": "The promotion or forced persuasion of specific religions is prohibited.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Etiquette",
+    "Item": "No Gatekeeping",
+    "Description": "Avoid forming 'cliques' that discourage or exclude new or other members.",
+    "Applicability": "All Users",
+    "Notes": "Anti-clique rule"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Notification Alerts",
+    "Description": "Push notifications are sent for comments on your posts or mentions.",
+    "Applicability": "All Users",
+    "Notes": "Toggle in settings"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Official Notices",
+    "Description": "Important notices are pinned to the top; users are responsible for reading them.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Other",
+    "Item": "Offline Lounge",
+    "Description": "Guidelines are provided for accessing the community's exclusive offline member lounge.",
+    "Applicability": "Members",
+    "Notes": "-"
+  },
+  {
+    "Category": "Events",
+    "Item": "Offline Meetups",
+    "Description": "Quarterly offline gatherings are held to foster friendship among members.",
+    "Applicability": "Applicants",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "One-on-One Inquiry",
+    "Description": "Use the 1:1 inquiry system for personal account issues or payment questions.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Administration",
+    "Item": "Operational Transparency",
+    "Description": "Sanction logs and operating expense reports are disclosed quarterly.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Personal",
+    "Item": "Personal Vision",
+    "Description": "We aim to be the warmest online space for sharing knowledge and joy.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Sanctions",
+    "Item": "Privacy Deletion",
+    "Description": "All personal data is permanently deleted within 30 days of account withdrawal.",
+    "Applicability": "Leaving Members",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Point Ecosystem",
+    "Description": "Earn points by sharing useful info; points can be exchanged for gifticons.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Etiquette",
+    "Item": "Political Debates",
+    "Description": "Writing rights may be restricted if political debates disrupt the board atmosphere.",
+    "Applicability": "General Boards",
+    "Notes": "Use Political Board"
+  },
+  {
+    "Category": "Content",
+    "Item": "Post Deletion",
+    "Description": "Slander, profanity, or spam may be deleted by staff without prior notice.",
+    "Applicability": "All Users",
+    "Notes": "Staff discretion"
+  },
+  {
+    "Category": "Content",
+    "Item": "Post Editing",
+    "Description": "Posts can only be edited within 1 hour of the initial registration.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Events",
+    "Item": "Profile Badges",
+    "Description": "Earn badges for milestones like your first post or reaching 100 comments.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Ads/Business",
+    "Item": "Promotion Board",
+    "Description": "Business or YouTuber self-promo is allowed only once a month in the 'Promo Board'.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Q&A Rewards",
+    "Description": "Points are awarded to both the asker and responder when a 'Best Answer' is chosen.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Ranking System",
+    "Description": "User levels consist of 5 tiers based on activity points (comments, posts).",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Administration",
+    "Item": "Recruitment",
+    "Description": "Community staff (Moderators) are recruited regularly from active top members.",
+    "Applicability": "Elite Members",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Real Name Verification",
+    "Description": "Financial or trading boards require real-name identity verification.",
+    "Applicability": "Specific Boards",
+    "Notes": "-"
+  },
+  {
+    "Category": "Sanctions",
+    "Item": "Re-registration Limit",
+    "Description": "Users who were forcibly removed cannot re-register with the same IP or phone.",
+    "Applicability": "Banned Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Report Feature",
+    "Description": "Use the 'Report' button on the bottom right to flag rule-breaking content.",
+    "Applicability": "All Users",
+    "Notes": "Anonymous guaranteed"
+  },
+  {
+    "Category": "Etiquette",
+    "Item": "Rumor Prevention",
+    "Description": "Legal liability may arise from spreading unverified false information.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Search Filters",
+    "Description": "Search old posts by combining title, body, and author keywords.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "Server Maintenance",
+    "Description": "Temporary maintenance for stabilization is announced 3 hours in advance.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Etiquette",
+    "Item": "Spam Prevention",
+    "Description": "Repeatedly posting identical or similar content in a short time is prohibited.",
+    "Applicability": "All Users",
+    "Notes": "Anti-spam rule"
+  },
+  {
+    "Category": "Etiquette",
+    "Item": "Spoiler Alerts",
+    "Description": "Avoid mentioning major twists of recent content even in the comments.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Spoiler Formatting",
+    "Description": "Include [SPOILER] in the title for content regarding movies or books.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Administration",
+    "Item": "Staff Recruitment",
+    "Description": "Sub-moderators are regularly recruited from outstanding active members.",
+    "Applicability": "Top Tier",
+    "Notes": "-"
+  },
+  {
+    "Category": "Support",
+    "Item": "Suggestion Box",
+    "Description": "Submit community feature improvement ideas via the 'Suggestions' board.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Other",
+    "Item": "Supporter Program",
+    "Description": "Special emblems are awarded to 'Supporters' who help grow the community.",
+    "Applicability": "Selected Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Two-Factor Auth",
+    "Description": "Enhance account security by enabling 2FA in your account settings.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Technology",
+    "Item": "Translation Tool",
+    "Description": "A real-time comment translation button is provided for global communication.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Ads/Business",
+    "Item": "Trading Rules",
+    "Description": "Second-hand trades between users require actual photos and a clear price.",
+    "Applicability": "Marketplace",
+    "Notes": "-"
+  },
+  {
+    "Category": "Information",
+    "Item": "Terms of Service",
+    "Description": "The full text of the ToS agreed upon during signup is available via the footer link.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Information",
+    "Item": "User Guide",
+    "Description": "Check the 'Usage Guide' menu for instructions on how to use bot features.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Operations",
+    "Item": "User Onboarding",
+    "Description": "New members must post an 'Intro' to be eligible for an automatic level-up.",
+    "Applicability": "New Hires",
+    "Notes": "-"
+  },
+  {
+    "Category": "Events",
+    "Item": "Voting System",
+    "Description": "Voting tools are used for operational decisions or popularity polls.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Events",
+    "Item": "Weekly Curation",
+    "Description": "The best posts of the week are selected and featured in the weekly newsletter.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Content",
+    "Item": "Word Count Limit",
+    "Description": "Posts must be at least 10 characters long to prevent low-effort spam.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Sanctions",
+    "Item": "Warning System",
+    "Description": "1st Violation: Warning, 2nd: Suspension, 3rd: Permanent Kick.",
+    "Applicability": "Violators",
+    "Notes": "-"
+  },
+  {
+    "Category": "Sanctions",
+    "Item": "Withdrawal Period",
+    "Description": "A 30-day 'cooling-off' period applies before re-joining after voluntary exit.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  },
+  {
+    "Category": "Events",
+    "Item": "Year-End Awards",
+    "Description": "Gifts are presented to the members who made the greatest contributions each year.",
+    "Applicability": "All Users",
+    "Notes": "-"
+  }
+]
