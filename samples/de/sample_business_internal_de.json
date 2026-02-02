@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "2FA-Authentifizierung",
+    "Beschreibung": "Google 2FA ist für den Zugang zu allen internen Systemen verpflichtend.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Persönlich",
+    "Punkt": "Leitbild",
+    "Beschreibung": "Wir teilen die Vision, die Welt durch Technologie einfacher zu machen.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Anti-Mobbing",
+    "Beschreibung": "Null Toleranz bei Mobbing und Belästigung am Arbeitsplatz.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Anonyme Meldung"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Arbeitszeiterfassung",
+    "Beschreibung": "Stempeln über interne App oder festgelegte Slack-Befehle.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Geschäftskarten",
+    "Beschreibung": "Antrag über Admin-Team nach Genehmigung durch Vorgesetzten.",
+    "Bedingung": "Berechtigte",
+    "Hinweise": "Ca. 1 Woche"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Dienstreisen",
+    "Beschreibung": "Übernachtung pauschal, Fahrtkosten als Reisekostenabrechnung.",
+    "Bedingung": "Dienstreisende",
+    "Hinweise": "Standardrichtlinie beachten"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Cafeteria-Rabatt",
+    "Beschreibung": "Alle Getränke in der Firmencafeteria 50 % günstiger für Mitarbeiter.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Mit Mitarbeiterausweis"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Zertifizierungen",
+    "Beschreibung": "Prüfungsgebühren für berufsrelevante Zertifikate werden erstattet.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Bei Bestehen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Sauberer Schreibtisch",
+    "Beschreibung": "Bildschirm sperren (Win+L), wenn Sie den Arbeitsplatz in Gemeinschaftsbereichen verlassen.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Verhaltenskodex",
+    "Beschreibung": "Keine Geschenke oder Einladungen über 50 $ von Partnern annehmen.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Integritätsrichtlinie"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Firmen-WLAN",
+    "Beschreibung": "Internes WLAN nur für dienstlich freigegebene Geräte.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Separates Gäste-WLAN"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Verschwiegenheit (NDA)",
+    "Beschreibung": "Geschäftsgeheimnisse aus dem Arbeitsverhältnis auch nach Ausscheiden wahren.",
+    "Bedingung": "Auch Ausscheidende",
+    "Hinweise": "Laut NDA"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Interessenkonflikt",
+    "Beschreibung": "Vor externen Vorträgen oder Publikationen Vorgesetzten-Genehmigung einholen.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Firmenkreditkarte",
+    "Beschreibung": "Strenge Trennung: Nur geschäftliche Nutzung, keine privaten Ausgaben.",
+    "Bedingung": "Karteninhaber",
+    "Hinweise": "Bei Verstößen Rückforderung"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Kurier- und Postdienst",
+    "Beschreibung": "1. OG Empfang unterstützt bei Express- und Postsendungen.",
+    "Bedingung": "Geschäftlich",
+    "Hinweise": "Kosten gehen ans Team"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Datenspeicherung",
+    "Beschreibung": "Arbeitsdateien in Google-Drive-Teamordnern speichern, nicht lokal.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Abmahnung",
+    "Beschreibung": "Nach 3 unentschuldigten Verspätungen erfolgt eine Abmahnung und ein Gespräch.",
+    "Bedingung": "Verstöße",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Disziplinarausschuss",
+    "Beschreibung": "Zusammentritt bei Sicherheitsvorfällen oder 3+ Tagen unentschuldigter Abwesenheit.",
+    "Bedingung": "Verstöße",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Kleiderordnung",
+    "Beschreibung": "Business Casual empfohlen; Shorts sind erlaubt.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Außer bei Kundenterminen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Nebentätigkeit",
+    "Beschreibung": "Tätigkeit bei anderen Firmen ohne Genehmigung nicht gestattet.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Onboarding",
+    "Punkt": "E-Mail-Signatur",
+    "Beschreibung": "Standardvorlage aus Google Docs übernehmen und nutzen.",
+    "Bedingung": "Neue Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Notfallkontakt",
+    "Beschreibung": "Google-Chat-Notfallkette wird bei Krisen aktiviert.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Mitarbeiterempfehlung",
+    "Beschreibung": "Empfehlungsbonus nach erfolgreicher Probezeit des Bewerbers.",
+    "Bedingung": "Empfehlende",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "ESG-Initiativen",
+    "Beschreibung": "Aktive Mitarbeit bei Umweltmaßnahmen, z. B. Reduktion von Einwegartikeln.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Heizung/Klima",
+    "Beschreibung": "Zentral gesteuert; lokale Wünsche an IT/Facility-Team melden.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Fitnessstudio",
+    "Beschreibung": "24/7 kostenloser Zugang zum hauseigenen Fitnessraum.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Eigene Kleidung mitbringen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Trauerfall-Unterstützung",
+    "Beschreibung": "Unterstützung bei Bestattung naher Angehöriger inkl. Beratung.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "24/7 Ansprechpartner"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Onboarding",
+    "Punkt": "Google Workspace",
+    "Beschreibung": "Konto wird am Morgen des ersten Arbeitstags eingerichtet.",
+    "Bedingung": "Neue Mitarbeiter",
+    "Hinweise": "IT-E-Mail prüfen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vorteile",
+    "Punkt": "Vorsorgeuntersuchung",
+    "Beschreibung": "Jährliche Vorsorge bei ausgewählten Partnerkliniken.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Inkl. Partner"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vorteile",
+    "Punkt": "Feiertagsgeschenke",
+    "Beschreibung": "Kataloggeschenke im Wert von 100 $ zu wichtigen Feiertagen.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Interne Verzeichnisse",
+    "Beschreibung": "Kontakte und Organigramm über Google Search/Workspace finden.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "IT-Helpdesk",
+    "Beschreibung": "Hard- und Softwareprobleme über Slack #it-support melden.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Onboarding",
+    "Punkt": "Jira-Zugang",
+    "Beschreibung": "Jira-Konten für Aufgaben- und Projektverwaltung.",
+    "Bedingung": "Neue Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Stillraum",
+    "Beschreibung": "Still- und Ruheraum für Mütter im 5. Stock.",
+    "Bedingung": "Betroffene",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Sonderurlaub",
+    "Beschreibung": "Bildungs- und Elternurlaub bis zu 1 Jahr beantragbar.",
+    "Bedingung": "Mind. 1 Jahr Betriebszugehörigkeit",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Rechtsberatung",
+    "Beschreibung": "Rechtliche Beratung bei arbeitsbezogenen Streitfällen.",
+    "Bedingung": "Arbeitsbezogen",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Familienereignisse",
+    "Beschreibung": "Zuschüsse und Blumen bei Hochzeit und Trauerfällen.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Über ERP beantragen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Aufzugsnutzung",
+    "Beschreibung": "In Stoßzeiten (z. B. Mittag) getrennte Zonen einhalten.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Massagesessel",
+    "Beschreibung": "Auf jeder Etage Pausenbereiche mit Massagesesseln.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vorteile",
+    "Punkt": "Essenszuschuss",
+    "Beschreibung": "Bis 200 $/Monat über Firmenkarte für Mittagessen.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Google Pay möglich"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Onboarding",
+    "Punkt": "Mentoring-Programm",
+    "Beschreibung": "Die ersten 3 Monate begleitet Sie ein Team-Mentor.",
+    "Bedingung": "Neue Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Nebenerwerb",
+    "Beschreibung": "Hobby-Nebentätigkeit in nicht konkurrierenden Bereichen mit Meldung möglich.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Keine Auswirkung auf Arbeit"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Onboarding",
+    "Punkt": "Einarbeitungsschulung",
+    "Beschreibung": "Compliance-Schulung innerhalb der ersten Woche verpflichtend.",
+    "Bedingung": "Neue Mitarbeiter",
+    "Hinweise": "Über LMS"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Onboarding",
+    "Punkt": "Notion-Wiki",
+    "Beschreibung": "Zentrale Unternehmensrichtlinien im Notion-Wiki.",
+    "Bedingung": "Neue Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Büromaterial",
+    "Beschreibung": "Bestellungen bis Mittwoch werden wöchentlich ausgeliefert.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Über Intranet"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Überstunden",
+    "Beschreibung": "Genehmigung nötig bei mehr als 40 Stunden pro Woche.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Zeitausgleich"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Bezahlter Krankenurlaub",
+    "Beschreibung": "Bis zu 10 Tage bezahlter Krankenstand pro Jahr.",
+    "Bedingung": "Krankheit/Verletzung",
+    "Hinweise": "Arztbestätigung ab 3 Tagen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Parkplatz",
+    "Beschreibung": "Ein kostenloser Parkplatz pro angemeldetem Fahrzeug.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Paketabholung",
+    "Beschreibung": "Private Pakete im B1-Paketschrank abholen.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Keine Zustellung ins Büro"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Leistungsprämie",
+    "Beschreibung": "500 $ Prämie für vierteljährliche Top-Performer durch Kollegen-Vorschlag.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Datenschutz",
+    "Beschreibung": "Personendaten nur für HR-Zwecke, DSGVO-konform.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Onboarding",
+    "Punkt": "Foto für Ausweis",
+    "Beschreibung": "Foto über Google Formular für den Mitarbeiterausweis hochladen.",
+    "Bedingung": "Neue Mitarbeiter",
+    "Hinweise": "Neutraler Hintergrund"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Psychologische Beratung",
+    "Beschreibung": "5 Beratungsgespräche pro Jahr, anonym über externen Partner.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Wiedereinstellung",
+    "Beschreibung": "Frühere Mitarbeiter können sich 1 Jahr nach Ausscheiden wieder bewerben.",
+    "Bedingung": "Ausscheidende",
+    "Hinweise": "HR-Prüfung"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Onboarding",
+    "Punkt": "Pflichtdokumente",
+    "Beschreibung": "Abschlüsse und Bankdaten binnen 3 Tagen im ERP hochladen.",
+    "Bedingung": "Neue Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Kündigungsfrist",
+    "Beschreibung": "30 Tage im Voraus kündigen und Übergabe abschließen.",
+    "Bedingung": "Ausscheidende",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Raumbuchung",
+    "Beschreibung": "Besprechungsräume über Google Calendar buchen.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Max. 3 Stunden"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Auslandsentsendung",
+    "Beschreibung": "Firma übernimmt Flug und Lebenshaltungskosten.",
+    "Bedingung": "Entsandte",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Onboarding",
+    "Punkt": "Sitzplatz",
+    "Beschreibung": "Arbeitsplätze nach Teamrichtlinie zugewiesen.",
+    "Bedingung": "Neue Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Weiterbildungsbudget",
+    "Beschreibung": "Bis 1.000 $/Jahr für Bücher, Kurse oder Fitness.",
+    "Bedingung": "Ab 6 Monaten",
+    "Hinweise": "Belege erforderlich"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Schulung gegen Belästigung",
+    "Beschreibung": "Jährliche verpflichtende Online-Schulung.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Onboarding",
+    "Punkt": "Slack-Einführung",
+    "Beschreibung": "Offiziellen Slack-Channels beitreten und sich kurz vorstellen.",
+    "Bedingung": "Neue Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Rauchen",
+    "Beschreibung": "Gebäude rauchfrei; Außenbereich im 1. OG nutzen.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Software-Richtlinie",
+    "Beschreibung": "Ohne IT-Genehmigung keine unautorisierte Software installieren.",
+    "Bedingung": "IT-Assets",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vorteile",
+    "Punkt": "Geburtstag",
+    "Beschreibung": "An Geburtstagen halbtags arbeiten und 50 $ Gutschein erhalten.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vorteile",
+    "Punkt": "Mitarbeiterclubs",
+    "Beschreibung": "20 $ pro Person/Monat für Clubs mit mind. 5 Mitgliedern.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Monatlicher Bericht"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vorteile",
+    "Punkt": "Handy-Zuschuss",
+    "Beschreibung": "30 $/Monat für private Handynutzung im Job.",
+    "Bedingung": "Außendienst/Verwaltung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Dienstjubiläen",
+    "Beschreibung": "Urlaub und Prämien bei 3, 5 und 10 Jahren.",
+    "Bedingung": "Langjährige",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Übersetzungsdienst",
+    "Beschreibung": "Professionelle Übersetzung für internationale Zusammenarbeit.",
+    "Bedingung": "Bei Bedarf",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vorteile",
+    "Punkt": "Studienbeihilfe",
+    "Beschreibung": "Teilfinanzierung der Ausbildung der Kinder vom Kindergarten bis Uni.",
+    "Bedingung": "Ab 5 Jahren",
+    "Hinweise": "Pro Semester"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Anrede",
+    "Beschreibung": "Vornamen oder ‚-san/-nim‘ statt hierarchischer Titel nutzen.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Flache Hierarchie"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Urlaubsregelung",
+    "Beschreibung": "15 Tage Basisurlaub; +1 Tag pro 2 Jahren Betriebszugehörigkeit.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Mit Google Kalender"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Firmenwagen",
+    "Beschreibung": "Firmenwagen über App für Außentermine reservieren.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Führerschein nötig"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Onboarding",
+    "Punkt": "Willkommenspaket",
+    "Beschreibung": "Paket mit Kapuze, Tasse und Planer auf dem Schreibtisch.",
+    "Bedingung": "Neue Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "IT-Sicherheit",
+    "Beschreibung": "Verlust von IT-Geräten sofort an IT melden.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Haftungsprüfung"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vorteile",
+    "Punkt": "Homeoffice",
+    "Beschreibung": "Bis zu 2 Tage/Woche nach Absprache mit dem Team.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Slack-Status setzen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vorteile",
+    "Punkt": "Gleitzeit",
+    "Beschreibung": "Kernzeit 11–16 Uhr; Start zwischen 8 und 11 Uhr.",
+    "Bedingung": "Vollzeit",
+    "Hinweise": "8-Stunden-Tag"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Umwelttag",
+    "Beschreibung": "Eigene Tassen für alle, um Einweg zu vermeiden.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Onboarding",
+    "Punkt": "Zero-Waste",
+    "Beschreibung": "Eigene Tassen für alle statt Einwegbecher.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Evakuierung",
+    "Beschreibung": "Bei Brand Notfalltreppen nutzen und sich am 1. OG-Platz sammeln.",
+    "Bedingung": "Alle Mitarbeiter",
+    "Hinweise": "Halbjährliche Übungen"
   }
 ]

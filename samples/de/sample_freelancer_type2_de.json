@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Geistiges Eigentum",
+    "Punkt": "Urheberrecht",
+    "Beschreibung": "Alle Kursinhalte und Materialien bleiben beim Dozenten.",
+    "Bedingung": "Alle Dienste",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Geistiges Eigentum",
+    "Punkt": "Quellenangabe",
+    "Beschreibung": "Externe Quellen mit direkten Hyperlinks in Berichten und Materialien.",
+    "Bedingung": "Berichte/Materialien",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "Q&A-Sitzung",
+    "Beschreibung": "15 Min. Live Q&A direkt nach jedem Vortrag.",
+    "Bedingung": "Alle Vorträge",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "Lieferform",
+    "Beschreibung": "Echtzeit-Online-Vorträge per Google Meet bevorzugt.",
+    "Bedingung": "Online",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "Handouts",
+    "Beschreibung": "Zusammenfassungs-PDF nach dem Vortrag; Original-PPT nicht.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "Nur PDF"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "Gruppen-Coaching",
+    "Beschreibung": "Intensives Coaching für kleine Gruppen (4–5 Personen).",
+    "Bedingung": "Workshops",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "Schwierigkeitsstufen",
+    "Beschreibung": "Curriculum von Anfänger bis Experte anpassbar.",
+    "Bedingung": "Alle Kurse",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "Aufzeichnungsregel",
+    "Beschreibung": "Kommerzielle Weitergabe von Aufzeichnungen verboten.",
+    "Bedingung": "Alle Vorträge",
+    "Hinweise": "Vorherige Genehmigung"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "Live-Webinare",
+    "Beschreibung": "Private Webinare über YouTube Live möglich.",
+    "Bedingung": "Online",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "Inhaltserneuerung",
+    "Beschreibung": "Alle Inhalte H1 mit aktuellen Branchendaten aktualisiert.",
+    "Bedingung": "Alle Inhalte",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "Vorbereitungsmaterial",
+    "Beschreibung": "Vorlesematerial vorab zur Steigerung der Effizienz.",
+    "Bedingung": "Alle Vorträge",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "Kapazität",
+    "Beschreibung": "Max. 20 Teilnehmer für Workshops empfohlen.",
+    "Bedingung": "Workshops",
+    "Hinweise": "Verhandelbar"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "Zertifikat",
+    "Beschreibung": "Digitale Abschlusszertifikate (PDF) auf Anfrage.",
+    "Bedingung": "Langzeitkurse",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "Laborumgebung",
+    "Beschreibung": "Praktische Umgebung über Google Colab.",
+    "Bedingung": "Datenkurse",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "Präsenzvorträge",
+    "Beschreibung": "Vor-Ort auf Anfrage; Reisekosten separat.",
+    "Bedingung": "Offline",
+    "Hinweise": "Nach Distanz"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "Untertitel",
+    "Beschreibung": "KI-Untertitel für englischsprachige Sessions.",
+    "Bedingung": "Internationale Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "AV-Ausstattung",
+    "Beschreibung": "HD-Ausstrahlung mit Logitech 4K Cam und Blue Yeti Mic.",
+    "Bedingung": "Online",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "LMS-Anbindung",
+    "Beschreibung": "Aufgezeichnete Inhalte ins LMS des Kunden hochladbar.",
+    "Bedingung": "Aufzeichnungen",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vortrag",
+    "Punkt": "Feedback",
+    "Beschreibung": "Zufriedenheitsumfrage per Google Forms nach jeder Sitzung.",
+    "Bedingung": "Alle Vorträge",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Persönlich",
+    "Punkt": "MBTI",
+    "Beschreibung": "ENTJ: Systematischer, strategieorientierter Ansatz.",
+    "Bedingung": "Profil",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Persönlich",
+    "Punkt": "Wohnsitz",
+    "Beschreibung": "Sitz in Südkorea; weltweite Zusammenarbeit remote.",
+    "Bedingung": "Standort",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Persönlich",
+    "Punkt": "Verfügbarkeit",
+    "Beschreibung": "07:00–09:00 KST für Selbstentwicklung; Antworten können verzögert sein.",
+    "Bedingung": "Werktags",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Persönlich",
+    "Punkt": "Vision",
+    "Beschreibung": "Andere durch systematische Wissensvermittlung stärken.",
+    "Bedingung": "Alle Arbeit",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Persönlich",
+    "Punkt": "Interessen",
+    "Beschreibung": "Am Wochenende Wandern für neue Vortragsideen.",
+    "Bedingung": "Persönlich",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Methoden",
+    "Beschreibung": "PayPal, Stripe und Wise für internationale Überweisungen.",
+    "Bedingung": "Globale Kunden",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Vorauszahlung",
+    "Beschreibung": "Gebühren vollständig 7 Tage vor Start.",
+    "Bedingung": "Bildungsdienste",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Steuern",
+    "Beschreibung": "Quellensteuern bei internationalen Zahlungen trägt der Kunde.",
+    "Bedingung": "Globale Verträge",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Mahngebühren",
+    "Beschreibung": "5 % wöchentlicher Aufschlag bei überfälligen Zahlungen.",
+    "Bedingung": "Unbezahlt",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Belege",
+    "Beschreibung": "PayPal-Belege für betriebliche Dokumentation.",
+    "Bedingung": "Alle Zahlungen",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Rechnungsstellung",
+    "Beschreibung": "Rechnungen per E-Mail und Google Drive.",
+    "Bedingung": "Alle Kunden",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Treuepunkte",
+    "Beschreibung": "5 % Gutschrift bei wiederholten Buchungen.",
+    "Bedingung": "Stammkunden",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Rückerstattung",
+    "Beschreibung": "Bei vorzeitiger Beendigung Rückerstattung nur für verbleibende Sitzungen.",
+    "Bedingung": "Bildung",
+    "Hinweise": "Gebühren abgezogen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vertrag",
+    "Punkt": "NDA",
+    "Beschreibung": "Arbeit erst nach Unterzeichnung eines NDA zum Schutz von Kundendaten.",
+    "Bedingung": "Beratung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vertrag",
+    "Punkt": "Ausführung",
+    "Beschreibung": "Elektronische Verträge per DocuSign.",
+    "Bedingung": "Alle Verträge",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vertrag",
+    "Punkt": "Nutzung von Inhalten",
+    "Beschreibung": "Weitere Änderung oder Weitergabe bedarf vorheriger Absprache.",
+    "Bedingung": "Alle Materialien",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vertrag",
+    "Punkt": "Verlängerung",
+    "Beschreibung": "Projektverlängerung 2 Wochen im Voraus einvernehmlich.",
+    "Bedingung": "Langfristig",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vertrag",
+    "Punkt": "Terminplanung",
+    "Beschreibung": "Terminbuchung über Calendly-Link (Google-Kalender integriert).",
+    "Bedingung": "Alle Termine",
+    "Hinweise": "24h Voranmeldung"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vertrag",
+    "Punkt": "Geschäftsadresse",
+    "Beschreibung": "Registrierte Adresse für Steuer und Buchhaltung in Seoul.",
+    "Bedingung": "Steuer/Verwaltung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Vertrag",
+    "Punkt": "Stornierung",
+    "Beschreibung": "Stornierung binnen 24 Std. vor Termin: 50 % Sitzungsgebühr.",
+    "Bedingung": "Alle Termine",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Marketing",
+    "Punkt": "Newsletter",
+    "Beschreibung": "Monatliche Branchentrend-Berichte per Newsletter.",
+    "Bedingung": "Abonnenten",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Marketing",
+    "Punkt": "Blog",
+    "Beschreibung": "Kolumnen auf Medium und Brunch.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Marketing",
+    "Punkt": "Vorträge",
+    "Beschreibung": "Jährlicher Speaker bei globalen Tech- und Strategiekonferenzen.",
+    "Bedingung": "Alle Arbeit",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Marketing",
+    "Punkt": "Empfehlungen",
+    "Beschreibung": "10 % Rabatt auf nächste Sitzung bei erfolgreicher Empfehlung.",
+    "Bedingung": "Alle Kunden",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sicherheit",
+    "Punkt": "2FA",
+    "Beschreibung": "Alle Geschäftskonten mit Google OTP gesichert.",
+    "Bedingung": "Alle Arbeit",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sicherheit",
+    "Punkt": "Zugangsdaten",
+    "Beschreibung": "Sensible Daten ausschließlich über Bitwarden geteilt.",
+    "Bedingung": "Zusammenarbeit",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sicherheit",
+    "Punkt": "Datenlöschung",
+    "Beschreibung": "Projektdaten 6 Monate nach Beendigung gelöscht.",
+    "Bedingung": "Nach Projekt",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sicherheit",
+    "Punkt": "Backups",
+    "Beschreibung": "Transkripte und Dokumente in Google Drive gesichert.",
+    "Bedingung": "Alle Projekte",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Kommunikation",
+    "Punkt": "Intro-Call",
+    "Beschreibung": "15 Min. kostenlose Kompatibilitätsberatung.",
+    "Bedingung": "Neue Kunden",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Kommunikation",
+    "Punkt": "Kanäle",
+    "Beschreibung": "Kommunikation per E-Mail und Slack; Notfälle ausgenommen.",
+    "Bedingung": "Alle Arbeit",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Kommunikation",
+    "Punkt": "Sprache",
+    "Beschreibung": "Beratung auf Koreanisch und Englisch.",
+    "Bedingung": "Alle Arbeit",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Kommunikation",
+    "Punkt": "Zeiten",
+    "Beschreibung": "Echtzeit-Antworten Mo–Fr 09:00–18:00 (GMT+9).",
+    "Bedingung": "Werktags",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Kommunikation",
+    "Punkt": "Stil",
+    "Beschreibung": "Emojis für lockere, flüssige Kommunikation willkommen.",
+    "Bedingung": "Alle Arbeit",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Workflow",
+    "Punkt": "Priorität",
+    "Beschreibung": "Wartung für bestehende Kunden hat höchste Priorität.",
+    "Bedingung": "Alle Arbeit",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Workflow",
+    "Punkt": "Partnerschaft",
+    "Beschreibung": "Integrierte Lösungen über Fach Experten-Netzwerk.",
+    "Bedingung": "Großprojekte",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Workflow",
+    "Punkt": "Papierlos",
+    "Beschreibung": "Alle Dokumente digital für Papierlos-Werte.",
+    "Bedingung": "Alle Arbeit",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Tools",
+    "Beschreibung": "Notion-Workspaces für langfristige Projekt-Assets.",
+    "Bedingung": "Langfristig",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Urlaubsankündigung",
+    "Beschreibung": "Urlaubsplanung 2 Wochen im Voraus per E-Mail.",
+    "Bedingung": "Alle Kunden",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Info",
+    "Punkt": "Erfahrung",
+    "Beschreibung": "Detaillierter Werdegang auf LinkedIn.",
+    "Bedingung": "Bio",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Info",
+    "Punkt": "Social Media",
+    "Beschreibung": "Echtzeit-Insights über X (Twitter) und LinkedIn.",
+    "Bedingung": "Öffentlich",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Info",
+    "Punkt": "Zertifizierung",
+    "Beschreibung": "Google Analytics und PMP zertifiziert.",
+    "Bedingung": "Bio",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Info",
+    "Punkt": "Spezialisierung",
+    "Beschreibung": "Experte für datengetriebene Marketingstrategie und Organisationskultur.",
+    "Bedingung": "Beratung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Info",
+    "Punkt": "Publikationen",
+    "Beschreibung": "Strategie-E-Books auf Amazon Kindle.",
+    "Bedingung": "Bio",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Info",
+    "Punkt": "Portfolio",
+    "Beschreibung": "Kundenlogos und Erfolgsgeschichten öffentlich (NDA unterworfen).",
+    "Bedingung": "Öffentlich",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Info",
+    "Punkt": "Bildung",
+    "Beschreibung": "MBA von einer US-amerikanischen Hochschule.",
+    "Bedingung": "Bio",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Beratung",
+    "Punkt": "Marktanalyse",
+    "Beschreibung": "Marktforschung mit Google Search und Premium-Tools.",
+    "Bedingung": "Marketing",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Beratung",
+    "Punkt": "Dringende Beratung",
+    "Beschreibung": "1,5-facher Satz bei gleichtägigen Dringlichkeitsanfragen.",
+    "Bedingung": "Dringend",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Beratung",
+    "Punkt": "Setup-Support",
+    "Beschreibung": "Unterstützung bei Google Workspace-Implementierung.",
+    "Bedingung": "Implementierung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Beratung",
+    "Punkt": "Ort",
+    "Beschreibung": "Shared-Office-Meetingräume (z. B. WeWork) für Offline-Sitzungen.",
+    "Bedingung": "Offline",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Beratung",
+    "Punkt": "Benchmarking",
+    "Beschreibung": "Analyse globaler Best Practices vergleichbarer Branchen.",
+    "Bedingung": "Strategie",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Beratung",
+    "Punkt": "Formate",
+    "Beschreibung": "Berichte in Google Slides oder Google Docs.",
+    "Bedingung": "Lieferung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Beratung",
+    "Punkt": "Nachbetreuung",
+    "Beschreibung": "Ein Folgetermin pro Monat 30 Tage nach Projekt inklusive.",
+    "Bedingung": "Pakete",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Beratung",
+    "Punkt": "KPIs",
+    "Beschreibung": "Spezifische KPIs zu Projektbeginn festgelegt und gemessen.",
+    "Bedingung": "Alle Projekte",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Beratung",
+    "Punkt": "Umfang",
+    "Beschreibung": "Umfang ohne operative Ausführung (Agenturarbeit) außer anders vereinbart.",
+    "Bedingung": "Alle Projekte",
+    "Hinweise": "Separates Angebot"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Beratung",
+    "Punkt": "Retainer",
+    "Beschreibung": "Monatliche Abos für unbegrenztes Q&A verfügbar.",
+    "Bedingung": "Retainer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Beratung",
+    "Punkt": "Krisenmanagement",
+    "Beschreibung": "Notfallreaktionsszenarien binnen 24 Std. nach Risikoerkennung.",
+    "Bedingung": "Strategie",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Beratung",
+    "Punkt": "Interviews",
+    "Beschreibung": "Stakeholder-1:1-Interviews max. 45 Min. pro Sitzung.",
+    "Bedingung": "Diagnostik",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Beratung",
+    "Punkt": "Stundensatz",
+    "Beschreibung": "200 $ pro Stunde Beratung.",
+    "Bedingung": "Ad-hoc",
+    "Hinweise": "Min. 1 Std."
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Beratung",
+    "Punkt": "Strategiebericht",
+    "Beschreibung": "Umfassender PDF-Bericht mit Analyse und Umsetzungsplan.",
+    "Bedingung": "Strategie",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Beratung",
+    "Punkt": "Diagnostik",
+    "Beschreibung": "Vordiagnose per Google Forms in der ersten Sitzung.",
+    "Bedingung": "Neue Projekte",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Beratung",
+    "Punkt": "Vor-Ort-Audits",
+    "Beschreibung": "Vor-Ort-Besuche und Interviews bei Bedarf.",
+    "Bedingung": "Vor Ort",
+    "Hinweise": "-"
   }
 ]

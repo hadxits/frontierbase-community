@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verwaltung",
+    "Punkt": "Archivierungsrichtlinie",
+    "Beschreibung": "Besonders wertvolle Beiträge werden dauerhaft in der 'Hall of Fame' gespeichert.",
+    "Bedingung": "Alle Beiträge",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Werbung/Geschäft",
+    "Punkt": "Partneranfragen",
+    "Beschreibung": "Für Bannerwerbung oder Gruppenkauf-Partnerschaften die offizielle E-Mail nutzen.",
+    "Bedingung": "Unternehmen",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Etikette",
+    "Punkt": "Anti-Doxxing",
+    "Beschreibung": "Das Posten von Kontaktdaten oder Fotos anderer ohne Einwilligung ist streng verboten.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technologie",
+    "Punkt": "Auto-Speicherung",
+    "Beschreibung": "Entwürfe werden automatisch gespeichert, um Datenverlust bei Browser-Schließung zu vermeiden.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technologie",
+    "Punkt": "Anonymes Board",
+    "Beschreibung": "In bestimmten Boards bleiben Poster anonym; es werden keine Logs auf dem Server gespeichert.",
+    "Bedingung": "Anonymes Board",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sanktionen",
+    "Punkt": "Einspruchsverfahren",
+    "Beschreibung": "Sanktionen können binnen 7 Tagen über das offizielle Google-Formular angefochten werden.",
+    "Bedingung": "Sanktionierte",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Board-Erstellung",
+    "Beschreibung": "Neue Boards entstehen für Themen, die eine bestimmte Anzahl an Upvotes erreichen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Board-Moderatoren",
+    "Beschreibung": "Aktive Mitglieder können als 'Board-Keeper' für bestimmte Bereiche eingesetzt werden.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Kategorie-Tags",
+    "Beschreibung": "Pro Beitrag passende Tags (Frage, Info, Rezension usw.) wählen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Karriere-/Geschäftshilfe",
+    "Beschreibung": "Für Kooperationsanfragen außerhalb von Werbung die dedizierte Geschäfts-E-Mail nutzen.",
+    "Bedingung": "Unternehmen/Organisationen",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Etikette",
+    "Punkt": "Quellenangabe",
+    "Beschreibung": "Bei Zitaten aus externen Quellen immer die Herkunft (Links etc.) angeben.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "Urheberrechtsschutz"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Etikette",
+    "Punkt": "Konfliktschlichtung",
+    "Beschreibung": "Bei Streit vermittelt das Team; bei beidseitigem Verschulden können beide sanktioniert werden.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technologie",
+    "Punkt": "Dunkelmodus",
+    "Beschreibung": "Schonendes UI-Theme für Nachtnutzer verfügbar.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technologie",
+    "Punkt": "Datensparmodus",
+    "Beschreibung": "Option zur Reduzierung der Bildauflösung auf mobilen Geräten zur Dateneinsparung.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technologie",
+    "Punkt": "Dashboard-Widgets",
+    "Beschreibung": "Nutzer können Widgets ihrer Lieblingsboards auf dem persönlichen Dashboard anheften.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sonstiges",
+    "Punkt": "Spender-Badges",
+    "Beschreibung": "Spender erhalten besondere Symbole neben ihrem Nicknamen.",
+    "Bedingung": "Spender",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sonstiges",
+    "Punkt": "Spendenaktionen",
+    "Beschreibung": "Regelmäßige Aktionen, bei denen Community-Punkte an soziale Einrichtungen gespendet werden.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Veranstaltungen",
+    "Punkt": "Täglicher Check-in",
+    "Beschreibung": "Für täglichen Check-in werden automatisch Aktivitätspunkte gutgeschrieben.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Experten-Kolumnen",
+    "Beschreibung": "Kolumnen verifizierter Fachleute werden in einem eigenen Bereich archiviert.",
+    "Bedingung": "Fachleute",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Datei-Einschränkungen",
+    "Beschreibung": "Ausführbare Dateien (.exe) sind zur Schadsoftware-Vermeidung verboten.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technologie",
+    "Punkt": "Filter",
+    "Beschreibung": "In den Einstellungen 'Gesperrte Wörter' festlegen, um bestimmte Begriffe auszublenden.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Veranstaltungen",
+    "Punkt": "Abschluss/Geburtstag",
+    "Beschreibung": "An Geburtstagen erhalten Mitglieder besondere Punkte und eine Glückwunschnachricht.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Etikette",
+    "Punkt": "Hassrede",
+    "Beschreibung": "Null Toleranz bei Hassrede zu Rasse, Geschlecht oder Religion.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Trend-Beiträge",
+    "Beschreibung": "Beiträge mit hohen Klick- oder Empfehlungszahlen erscheinen auf der Startseite.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Inaktive Konten",
+    "Beschreibung": "Konten ohne Aktivität seit über 1 Jahr werden ruhend gestellt.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Bildrichtlinien",
+    "Beschreibung": "Nur urheberrechtsfreie Bilder hochladen; Breite von 1200px empfohlen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technologie",
+    "Punkt": "Bildsuche",
+    "Beschreibung": "Ähnliche Beiträge lassen sich anhand hochgeladener Bilder finden.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sanktionen",
+    "Punkt": "IP-Sperre",
+    "Beschreibung": "IP-Bereiche von Spam- und Schadkonten werden dauerhaft gesperrt.",
+    "Bedingung": "Störenfriede",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Rechtsberatung",
+    "Beschreibung": "Unterstützung bei rechtlichen Schritten bei Beleidigung oder Verleumdung.",
+    "Bedingung": "Betroffene",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sanktionen",
+    "Punkt": "Dauerhafte Sperre",
+    "Beschreibung": "Betrug oder strafbare Handlungen führen ohne Ausnahme zur dauerhaften Sperre.",
+    "Bedingung": "Schwerwiegende Verstöße",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Link-Sharing",
+    "Beschreibung": "Das Teilen unbefugter Links zu urheberrechtlich geschütztem oder kostenpflichtigem Inhalt ist verboten.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technologie",
+    "Punkt": "Erwähnungssystem",
+    "Beschreibung": "Mit @Username andere Nutzer erwähnen und benachrichtigen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technologie",
+    "Punkt": "Mobile App",
+    "Beschreibung": "Echtzeit-Kommunikation überall über die Community-App.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Mehrfachkonten",
+    "Beschreibung": "Pro Person nur ein Konto; Manipulationsversuche führen zur Sperre.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Etikette",
+    "Punkt": "Gegenseitiger Respekt",
+    "Beschreibung": "Höfliche Anrede ist Standard; keine flapsige Sprache.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "Außer in bestimmten Boards"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Nickname-Richtlinie",
+    "Beschreibung": "Beleidigende oder teamimitierende Nicknames sind verboten.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "Verwarnung vor Sperre"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Etikette",
+    "Punkt": "Keine Hetze",
+    "Beschreibung": "Öffentliche Bloßstellung, Belästigung oder Anprangerung einzelner Mitglieder ist verboten.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Etikette",
+    "Punkt": "Keine Missionierung",
+    "Beschreibung": "Werbung oder Druck für bestimmte Religionen ist verboten.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Etikette",
+    "Punkt": "Kein Gatekeeping",
+    "Beschreibung": "Keine elitären Cliquen, die Neuankömmlinge oder andere ausschließen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "Anti-Clique-Regel"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technologie",
+    "Punkt": "Benachrichtigungen",
+    "Beschreibung": "Push-Benachrichtigungen bei Kommentaren oder Erwähnungen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "In Einstellungen aktivierbar"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Offizielle Ankündigungen",
+    "Beschreibung": "Wichtige Ankündigungen werden oben angeheftet; Lesen ist Nutzerpflicht.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sonstiges",
+    "Punkt": "Offline-Lounge",
+    "Beschreibung": "Hinweise zum Zugang zur exklusiven Offline-Mitgliederlounge.",
+    "Bedingung": "Mitglieder",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Veranstaltungen",
+    "Punkt": "Offline-Treffen",
+    "Beschreibung": "Vierteljährliche Offline-Treffen zur Förderung der Gemeinschaft.",
+    "Bedingung": "Bewerber",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Persönliche Anfrage",
+    "Beschreibung": "Für Konten- oder Zahlungsfragen das 1:1-Anfragesystem nutzen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verwaltung",
+    "Punkt": "Transparenz",
+    "Beschreibung": "Sanktionsprotokolle und Betriebskosten werden vierteljährlich veröffentlicht.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Persönlich",
+    "Punkt": "Vision",
+    "Beschreibung": "Wir wollen der freundlichste Online-Raum für Austausch von Wissen und Freude sein.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sanktionen",
+    "Punkt": "Datenlöschung",
+    "Beschreibung": "Alle personenbezogenen Daten werden binnen 30 Tagen nach Austritt gelöscht.",
+    "Bedingung": "Austretende",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Punkte-System",
+    "Beschreibung": "Punkte durch nützliche Beiträge; Umtausch in Gifticons möglich.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Etikette",
+    "Punkt": "Politische Debatten",
+    "Beschreibung": "Schreibrechte können eingeschränkt werden, wenn politische Debatten das Board stören.",
+    "Bedingung": "Allgemeine Boards",
+    "Hinweise": "Politisches Board nutzen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Beitragslöschung",
+    "Beschreibung": "Beleidigungen, Vulgarität oder Spam können ohne Vorankündigung gelöscht werden.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "Nach Ermessen des Teams"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Beitragsbearbeitung",
+    "Beschreibung": "Beiträge nur innerhalb von 1 Stunde nach Erstellung bearbeitbar.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Veranstaltungen",
+    "Punkt": "Profil-Badges",
+    "Beschreibung": "Badges z. B. für den ersten Beitrag oder 100 Kommentare.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Werbung/Geschäft",
+    "Punkt": "Werbeboard",
+    "Beschreibung": "Eigene Werbung für Unternehmen oder YouTuber nur 1x monatlich im Promo-Board.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Q&A-Belohnungen",
+    "Beschreibung": "Fragende und Antwortende erhalten Punkte bei ‚Beste Antwort‘.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Rangsystem",
+    "Beschreibung": "5 Stufen basierend auf Aktivitätspunkten (Kommentare, Beiträge).",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verwaltung",
+    "Punkt": "Moderatoren-Rekrutierung",
+    "Beschreibung": "Moderatoren werden regelmäßig aus aktiven Top-Mitgliedern gewählt.",
+    "Bedingung": "Elite-Mitglieder",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Klarnamenpflicht",
+    "Beschreibung": "Bei Finanz- oder Handelsboards ist die Verifizierung des Klarnamens erforderlich.",
+    "Bedingung": "Bestimmte Boards",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sanktionen",
+    "Punkt": "Neuregistrierung",
+    "Beschreibung": "Gesperrte Nutzer dürfen sich nicht erneut mit derselben IP oder Handynummer registrieren.",
+    "Bedingung": "Gesperrte",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Meldefunktion",
+    "Beschreibung": "Regelverstöße über den ‚Melden‘-Button unten rechts melden.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "Anonymität garantiert"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Etikette",
+    "Punkt": "Gerüchte",
+    "Beschreibung": "Die Verbreitung ungeprüfter Falschinformationen kann rechtliche Folgen haben.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technologie",
+    "Punkt": "Suchfilter",
+    "Beschreibung": "Ältere Beiträge nach Titel, Text und Autor durchsuchen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Server-Wartung",
+    "Beschreibung": "Geplante Wartungen werden 3 Stunden im Voraus angekündigt.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Etikette",
+    "Punkt": "Spam-Vermeidung",
+    "Beschreibung": "Wiederholtes Posten identischer oder sehr ähnlicher Inhalte in kurzer Zeit ist verboten.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "Anti-Spam-Regel"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Etikette",
+    "Punkt": "Spoiler-Hinweise",
+    "Beschreibung": "Große Spoiler auch in Kommentaren vermeiden.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Spoiler-Format",
+    "Beschreibung": "Bei Filmen oder Büchern [SPOILER] im Titel angeben.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verwaltung",
+    "Punkt": "Team-Rekrutierung",
+    "Beschreibung": "Unter-Moderatoren werden aus besonders aktiven Mitgliedern rekrutiert.",
+    "Bedingung": "Top-Stufe",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Vorschlagsbox",
+    "Beschreibung": "Verbesserungsideen über das Board ‚Vorschläge‘ einreichen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sonstiges",
+    "Punkt": "Unterstützer-Programm",
+    "Beschreibung": "Unterstützer erhalten besondere Abzeichen.",
+    "Bedingung": "Ausgewählte",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technologie",
+    "Punkt": "Zwei-Faktor-Auth",
+    "Beschreibung": "2FA in den Kontoeinstellungen aktivieren.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technologie",
+    "Punkt": "Übersetzungstool",
+    "Beschreibung": "Echtzeit-Übersetzung von Kommentaren für globale Kommunikation.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Werbung/Geschäft",
+    "Punkt": "Handelsregeln",
+    "Beschreibung": "Gebrauchtverkäufe zwischen Nutzern erfordern Fotos und einen klaren Preis.",
+    "Bedingung": "Marktplatz",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Informationen",
+    "Punkt": "Nutzungsbedingungen",
+    "Beschreibung": "Vollständige ToS über den Link in der Fußzeile abrufbar.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Informationen",
+    "Punkt": "Benutzerhandbuch",
+    "Beschreibung": "Anleitung zu Bot-Funktionen im Menü ‚Nutzungshinweise‘.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Nutzer-Onboarding",
+    "Beschreibung": "Neue Mitglieder müssen eine ‚Intro‘ posten, um Stufenaufstieg zu erhalten.",
+    "Bedingung": "Neue Mitglieder",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Veranstaltungen",
+    "Punkt": "Abstimmungssystem",
+    "Beschreibung": "Abstimmungstools für Entscheidungen oder Beliebtheitsumfragen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Veranstaltungen",
+    "Punkt": "Wochen-Curation",
+    "Beschreibung": "Beste Beiträge der Woche im Newsletter hervorgehoben.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Mindestzeichenzahl",
+    "Beschreibung": "Beiträge müssen mindestens 10 Zeichen haben, um Spam zu vermeiden.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sanktionen",
+    "Punkt": "Verwarnsystem",
+    "Beschreibung": "1. Verstoß: Verwarnung, 2.: Sperre, 3.: dauerhafte Sperre.",
+    "Bedingung": "Verstöße",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sanktionen",
+    "Punkt": "Wartezeit bei Austritt",
+    "Beschreibung": "30 Tage Karenzzeit vor erneuter Registrierung nach freiwilligem Austritt.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Veranstaltungen",
+    "Punkt": "Jahrespreise",
+    "Beschreibung": "Geschenke für Mitglieder mit den größten Beiträgen im Jahr.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   }
 ]

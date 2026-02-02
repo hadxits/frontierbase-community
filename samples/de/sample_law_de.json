@@ -1,555 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "⚠️Hinweis",
+    "Punkt": "Keine Rechtsberatung",
+    "Beschreibung": "Nur allgemeine Information; ersetzt keine individuelle Rechtsberatung.",
+    "Bedingung": "Alle",
+    "Hinweise": "In allen Antworten Pflicht"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "⚠️Hinweis",
+    "Punkt": "Anwalt konsultieren",
+    "Beschreibung": "Bei rechtlichen Schritten immer einen Rechtsanwalt konsultieren.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "⚠️Hinweis",
+    "Punkt": "Tatsachenabhängigkeit",
+    "Beschreibung": "Rechtliche Beurteilungen können je nach Sachverhalt stark variieren.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "⚠️Hinweis",
+    "Punkt": "Verjährung",
+    "Beschreibung": "Alle Rechte haben Fristen; Verjährungsfristen prüfen.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "⚠️Hinweis",
+    "Punkt": "Rechtsprechungsänderung",
+    "Beschreibung": "Rechtsprechung kann sich ändern; stets aktuelle Infos prüfen.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Persönlich",
+    "Punkt": "Mission",
+    "Beschreibung": "Bessere Zugänglichkeit durch vereinfachte juristische Begriffe.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "System",
+    "Punkt": "Anonymität",
+    "Beschreibung": "Rechtliche Q&A nur für Statistik; keine Speicherung von Namen.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "System",
+    "Punkt": "Quellen",
+    "Beschreibung": "Infos basieren auf Nationalem Rechtsinformationszentrum und Präzedenzleitfäden.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Arrest/Vorläufige Verfügung",
+    "Beschreibung": "Maßnahme zur Sicherung von Schuldnervermögen vor Verheimlichung.",
+    "Bedingung": "Zivil",
+    "Hinweise": "Vor Hauptklage"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Einstweilige Verfügung",
+    "Beschreibung": "Vorläufige Maßnahme zur Aufrechterhaltung des Status quo (nicht-geldlich).",
+    "Bedingung": "Zivil",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Zwangsvollstreckung",
+    "Beschreibung": "Durchsetzung von Rechten durch staatliche Gewalt (z. B. Urteil).",
+    "Bedingung": "Zivil",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Rücktritt/Kündigung",
+    "Beschreibung": "Rücktritt wirkt rückwirkend; Kündigung nur für die Zukunft.",
+    "Bedingung": "Zivil",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Strafantrag/Anzeige",
+    "Beschreibung": "Strafantrag vom Geschädigten; Anzeige von Dritten.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Gerichtliche Hinterlegung",
+    "Beschreibung": "Hinterlegung von Geld oder Wertpapieren beim Gericht zur Rechtswahrung.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Verhandlungstermin",
+    "Beschreibung": "Termin, an dem Richter, Staatsanwalt und Angeklagter verhandeln.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Fahrlässige Tötung/Verletzung",
+    "Beschreibung": "Straftat bei Verletzung der Sorgfaltspflicht mit Todes-/Verletzungsfolge.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Sicherungshypothek",
+    "Beschreibung": "Grundpfandrecht auf Immobilie für künftige Forderungen.",
+    "Bedingung": "Immobilien",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Einstellung des Verfahrens",
+    "Beschreibung": "Staatsanwaltschaft erkennt Tat an, verzichtet aber auf Anklage.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Pflichtteilszuschlag",
+    "Beschreibung": "Zusätzlicher Erbanteil für Erben mit besonderer Unterstützung des Verstorbenen.",
+    "Bedingung": "Familie",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Zustellungsurkunde",
+    "Beschreibung": "Postamt bestätigt Inhalt, Empfänger und Zeitpunkt der Zustellung.",
+    "Bedingung": "Zivil/Allgemein",
+    "Hinweise": "Keine eigenständige Rechtskraft"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Einrede des nichterfüllten Vertrags",
+    "Beschreibung": "Recht, eigene Leistung zu verweigern, bis der andere erfüllt.",
+    "Bedingung": "Zivil",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Umgangsrecht",
+    "Beschreibung": "Recht des nicht sorgeberechtigten Elternteils auf regelmäßigen Umgang.",
+    "Bedingung": "Familie",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Unschuldsvermutung",
+    "Beschreibung": "Angeklagter gilt bis rechtskräftigem Schuldspruch als unschuldig.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Stillschweigende Verlängerung",
+    "Beschreibung": "Automatische Verlängerung des Mietvertrags bei fehlendem Widerspruch.",
+    "Bedingung": "Immobilien",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Belehrung (Miranda)",
+    "Beschreibung": "Pflicht, Verdächtige über Recht auf Anwalt und Schweigen zu informieren.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Verteilungsantrag",
+    "Beschreibung": "Gläubiger meldet Forderung bei Versteigerung zur Auszahlung.",
+    "Bedingung": "Zivil/Vollstreckung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Kautionssystem",
+    "Beschreibung": "Freilassung gegen Kaution bis zum Urteil.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Ungerechtfertigte Bereicherung",
+    "Beschreibung": "Vorteil aus fremdem Vermögen ohne Rechtsgrund zum Nachteil des anderen.",
+    "Bedingung": "Zivil",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Unwirksame Kündigung",
+    "Beschreibung": "Kündigung ohne wichtigen Grund; Abhilfe über Arbeitsgericht.",
+    "Bedingung": "Arbeitsrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Delikt",
+    "Beschreibung": "Rechtswidrige Handlung mit Schaden, vorsätzlich oder fahrlässig.",
+    "Bedingung": "Zivil",
+    "Hinweise": "Schadensersatzanspruch"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Betrug",
+    "Beschreibung": "Straftat durch Täuschung zur Erlangung von Vermögen.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Wahrheitsgemäße Verleumdung",
+    "Beschreibung": "Auch wahre Tatsachen können Verleumdung sein, wenn Ruf geschädigt.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Erbfolge",
+    "Beschreibung": "1. Kinder, 2. Eltern, 3. Geschwister, 4. weitere Verwandte (bis 4. Grad).",
+    "Bedingung": "Familie",
+    "Hinweise": "Ehegatte erbt gemeinsam"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Herausgabeanspruch",
+    "Beschreibung": "Anspruch des wahren Erben gegen Scheinerben auf Wiederherstellung.",
+    "Bedingung": "Familie",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Urteilsverkündung",
+    "Beschreibung": "Tag der Verkündung des Urteils durch den Richter.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Verjährung",
+    "Beschreibung": "Recht erlischt, wenn nicht innerhalb der Frist geltend gemacht.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "Zivil 10 J., Handelsrecht 5 J."
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Schadensersatz vs. Entschädigung",
+    "Beschreibung": "Schadensersatz bei Rechtswidrigkeit; Entschädigung bei rechtmäßigen Hoheitsakten.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Entführung",
+    "Beschreibung": "Straftat: Person aus Freiheit in eigene oder fremde Gewalt bringen.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Unterhaltstabelle",
+    "Beschreibung": "Tabelle für Standard-Unterhalt nach Elterneinkommen und Kindesalter.",
+    "Bedingung": "Familie",
+    "Hinweise": "Vom Gericht"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Kläger & Beklagter",
+    "Beschreibung": "Kläger erhebt Zivilklage; Beklagter wird verklagt.",
+    "Bedingung": "Zivil",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Rückgewährpflicht",
+    "Beschreibung": "Pflicht zur Rückgabe bei Vertragsauflösung oder Mietende.",
+    "Bedingung": "Zivil",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Schmerzensgeld",
+    "Beschreibung": "Entschädigung für immateriellen Schaden, getrennt von Vermögensausgleich.",
+    "Bedingung": "Familie",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Pflichtteil",
+    "Beschreibung": "Mindestanteil der Erben unabhängig vom Testament.",
+    "Bedingung": "Familie",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Vermieter/Mieter",
+    "Beschreibung": "Vermieter = Eigentümer; Mieter = Pächter.",
+    "Bedingung": "Immobilien",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Mietvermerk",
+    "Beschreibung": "Eintragung des Mietrechts im Grundbuch zur Offenlegung.",
+    "Bedingung": "Immobilien",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Notwehr",
+    "Beschreibung": "Erforderliche Verteidigung eigener oder fremder Interessen.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "Rechtfertigungsgrund"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Einspruch gegen Strafbefehl",
+    "Beschreibung": "Einspruch gegen Strafbefehl und Beantragung Hauptverhandlung.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "Binnen 7 Tagen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Schweigerecht",
+    "Beschreibung": "Verfassungsrecht: Aussage verweigern, die belasten könnte.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Strafaussetzung",
+    "Beschreibung": "Urteil ergangen, Vollstreckung auf Zeit ausgesetzt.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Schuldnerverzug",
+    "Beschreibung": "Nichterfüllung vertraglicher Pflichten ohne Rechtsgrund.",
+    "Bedingung": "Zivil",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Strafantragsrücknahme",
+    "Beschreibung": "Erklärung des Geschädigten, dass er keine Bestrafung wünscht.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "Mildernd"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Ersitzung",
+    "Beschreibung": "Eigentumserwerb durch rechtmäßigen Besitz über bestimmte Zeit.",
+    "Bedingung": "Zivil",
+    "Hinweise": "Immobilien 20 J."
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Eltern-/Sorgerecht",
+    "Beschreibung": "Elternrecht: Status/Vermögen; Sorgerecht: Erziehung des Kindes.",
+    "Bedingung": "Familie",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Regelarbeitsentgelt",
+    "Beschreibung": "Regelmäßig und einheitlich gezahlter Stunden-/Tageslohn.",
+    "Bedingung": "Arbeitsrecht",
+    "Hinweise": "Basis Überstunden"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Beschuldigter/Angeklagter",
+    "Beschreibung": "Person in Ermittlung = Beschuldigter; nach Anklage = Angeklagter.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Rechtskraft",
+    "Beschreibung": "Urteil rechtskräftig und nicht mehr anfechtbar.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Terminologie",
+    "Punkt": "Untreue/Veruntreuung",
+    "Beschreibung": "Untreue: Veruntreuung anvertrauten Guts; Vertragsbruch: Pflichtverletzung für Vorteil.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Familienermittlung",
+    "Beschreibung": "Prüfung von Scheitergründen oder Umgebung bei Familienstreitigkeiten.",
+    "Bedingung": "Familie",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Verbraucherinsolvenz",
+    "Beschreibung": "System zur teilweisen Schuldenbefreiung mit Gerichtsentscheidung.",
+    "Bedingung": "Insolvenz",
+    "Hinweise": "Insolvenzgericht"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Arbeitsamt-Antrag",
+    "Beschreibung": "Antrag beim Arbeitsamt bei Lohnrückstand oder unrechtmäßiger Kündigung.",
+    "Bedingung": "Arbeitsrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Haftprüfung",
+    "Beschreibung": "Richterliche Prüfung der Haftgründe des Verdächtigen.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Parteiverfahren",
+    "Beschreibung": "Klage ohne Anwalt; häufig bei Bagatellforderungen.",
+    "Bedingung": "Bagatellsachen",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Zivilverfahren",
+    "Beschreibung": "Klage → Zustellung → Klageerwiderung → Verhandlung → Urteil.",
+    "Bedingung": "Zivil",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Mediation",
+    "Beschreibung": "Einigung durch Mediator statt Urteil.",
+    "Bedingung": "Zivil",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Rechtsberatungsstelle",
+    "Beschreibung": "Kostenlose Rechtsberatung für wirtschaftlich Benachteiligte.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "Bei Voraussetzungen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Revisionsbegründung",
+    "Beschreibung": "Beim Obersten Gericht binnen 20 Tagen einzureichen.",
+    "Bedingung": "Straf-/Zivilrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Ausschlagung/Beschränkte Annahme",
+    "Beschreibung": "Bei Überschuldung Ausschlagung oder beschränkte Annahme binnen 3 Monaten.",
+    "Bedingung": "Familie",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Prozesskostenhilfe",
+    "Beschreibung": "Gericht stundet Kosten für Unvermögende.",
+    "Bedingung": "Zivil",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Mahnverfahren",
+    "Beschreibung": "Vereinfachtes Verfahren für Geldforderungen unter 30 Mio. KRW.",
+    "Bedingung": "Zivil",
+    "Hinweise": "Schnellverfahren"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Klageerhebung",
+    "Beschreibung": "Online über e-Litigation oder direkt beim zuständigen Gericht.",
+    "Bedingung": "Zivil",
+    "Hinweise": "Gebühren"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Scheidungsverfahren",
+    "Beschreibung": "Auflösung durch Einvernehmen oder Klage.",
+    "Bedingung": "Familie",
+    "Hinweise": "Trennungsfrist"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Elektronischer Zugang",
+    "Beschreibung": "Parteien prüfen Akten über das Internet.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Mieterschutz",
+    "Beschreibung": "Einzugsbericht und Prioritätsdatum für Rückzahlungsansprüche.",
+    "Bedingung": "Immobilien",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Beweissicherung",
+    "Beschreibung": "Antrag an Gericht zur Sicherung von Beweisen vor Klage.",
+    "Bedingung": "Zivil",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Zahlungsbefehl",
+    "Beschreibung": "Vereinfachtes Verfahren auf Antrag des Gläubigers.",
+    "Bedingung": "Forderung",
+    "Hinweise": "Wird Klage bei Widerspruch"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Sonderwohnraumvergabe",
+    "Beschreibung": "Wohnraumvergabe an bestimmte Gruppen (Jungverheiratete etc.).",
+    "Bedingung": "Immobilien",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Berufung/Revision",
+    "Beschreibung": "Anfechtung erstinstanzlicher (Berufung) oder zweitinstanzlicher (Revision) Urteile.",
+    "Bedingung": "Alle",
+    "Hinweise": "Zivil binnen 2 Wochen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Täter-Opfer-Ausgleich",
+    "Beschreibung": "Täter entschädigt Opfer zur Milderung der Strafe.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verfahren",
+    "Punkt": "Strafverfahren",
+    "Beschreibung": "Ermittlung → Anklage → Hauptverhandlung → Urteil & Vollstreckung.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "-"
+  },
+  {
+    "Kategorie": "Verfahren",
+    "Punkt": "Strafbefehlsverfahren",
+    "Beschreibung": "Geldbuße aufgrund von Akten ohne Hauptverhandlung.",
+    "Bedingung": "Strafrecht",
+    "Hinweise": "Hauptverhandlung beantragbar"
   }
 ]

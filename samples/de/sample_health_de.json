@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "⚠️Pflicht",
+    "Punkt": "Medikamenteneinnahme",
+    "Beschreibung": "Arzneien nicht ohne Rücksprache mit dem Arzt absetzen oder ändern.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "⚠️Pflicht",
+    "Punkt": "Notfall",
+    "Beschreibung": "Bei Notfall (Brustschmerz, Atemnot etc.) sofort 112 rufen oder Notaufnahme aufsuchen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "⚠️Pflicht",
+    "Punkt": "Haftungsausschluss",
+    "Beschreibung": "Dieser Service liefert nur allgemeine Infos und ersetzt keine ärztliche Diagnose.",
+    "Bedingung": "Alle Inhalte",
+    "Hinweise": "Pflicht in Intro/Outro"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "⚠️Pflicht",
+    "Punkt": "Verschlechterung",
+    "Beschreibung": "Bei andauernden oder sich verschlechternden Symptomen sofort ärztliche Hilfe suchen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "⚠️Pflicht",
+    "Punkt": "Arztbesuch",
+    "Beschreibung": "Nicht nur auf Online-Infos verlassen; immer persönliche ärztliche Beratung einholen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Persönlich",
+    "Punkt": "Mission",
+    "Beschreibung": "Beitrag zur Gesundheit durch verständliche und fundierte Gesundheitsinfos.",
+    "Bedingung": "Gesamte Arbeit",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "BMI-Berechnung",
+    "Beschreibung": "BMI = Gewicht(kg) / Größe(m)² als Referenzwert.",
+    "Bedingung": "Gewichtscheck",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Bluthochdruck",
+    "Beschreibung": "Natrium reduzieren und regelmäßig Blutdruck protokollieren.",
+    "Bedingung": "Chronische Pflege",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Osteoporose",
+    "Beschreibung": "Belastende Bewegung (Gehen) und Kalzium für die Knochen wichtig.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Mundhygiene",
+    "Beschreibung": "Gute Mundpflege: richtiges Putzen und regelmäßig Zahnseide.",
+    "Bedingung": "Zahnpflege",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Flüssigkeit",
+    "Beschreibung": "1,5–2 l täglich für Erwachsene empfohlen; individuell abweichend.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Raucherentwöhnung",
+    "Beschreibung": "Infos zu nationalen Hilfsangeboten und Nichtraucher-Kampagnen verfügbar.",
+    "Bedingung": "Aufhörwillige",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Augengesundheit",
+    "Beschreibung": "20-20-20-Regel: alle 20 Min. 20 Sek. in 20 Fuß Entfernung schauen.",
+    "Bedingung": "Augenpflege",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Diabetes",
+    "Beschreibung": "Niedriger glykämischer Index, leichte Spaziergänge nach dem Essen.",
+    "Bedingung": "Chronische Pflege",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Immunität",
+    "Beschreibung": "Ausreichend Schlaf, ausgewogene Ernährung und Stressmanagement.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Feinstaub",
+    "Beschreibung": "KF94- oder N95-Masken bei hoher Feinstaubkonzentration empfehlenswert.",
+    "Bedingung": "Atemwege",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Vitamin D",
+    "Beschreibung": "15–20 Min. täglich Sonne fördert Vitamin-D-Synthese.",
+    "Bedingung": "Ernährung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Anämie-Vorbeugung",
+    "Beschreibung": "Eisenreiche Lebensmittel (Spinat, Rind) mit Vitamin C kombinieren.",
+    "Bedingung": "Ernährung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Verdauungsprobleme",
+    "Beschreibung": "Langsam kauen, nicht direkt nach dem Essen hinlegen.",
+    "Bedingung": "Verdauung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Händewaschen",
+    "Beschreibung": "Mindestens 30 Sekunden mit Seife waschen gegen Infektionen.",
+    "Bedingung": "Vorbeugung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Schlafhygiene",
+    "Beschreibung": "Feste Aufwachzeiten; vor dem Schlafen kein Smartphone.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Stressabbau",
+    "Beschreibung": "Meditation, tiefes Atmen oder Hobbys wirken stressabbauend.",
+    "Bedingung": "Psyche",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Dehnen",
+    "Beschreibung": "Bei langem Sitzen stündlich Nacken und Schultern dehnen.",
+    "Bedingung": "Haltung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Allergien",
+    "Beschreibung": "Bekannte Auslöser (Lebensmittel, Pollen) möglichst meiden.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Nahrungsergänzung",
+    "Beschreibung": "Nahrungsergänzung zu oder nach den Mahlzeiten für bessere Aufnahme.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Impfung",
+    "Beschreibung": "Jährliche Grippeimpfung im Herbst empfohlen.",
+    "Bedingung": "Vorbeugung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Ausgewogene Ernährung",
+    "Beschreibung": "Gemüse, Proteine und Kohlenhydrate ausgewogen; weniger Zucker.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Ausdauersport",
+    "Beschreibung": "5x pro Woche mind. 30 Min. moderate Bewegung (zügiges Gehen).",
+    "Bedingung": "Sport",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Alkohol",
+    "Beschreibung": "Übermäßiger Alkohol erhöht Leber- und Herz-Kreislauf-Risiken.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Sonnenschutz",
+    "Beschreibung": "Sonnencreme 30 Min. vor dem Rausgehen auftragen.",
+    "Bedingung": "Hautpflege",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Gesundes Gewicht",
+    "Beschreibung": "Gewicht entsprechend der Größe beugt Zivilisationskrankheiten vor.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Vorsorge",
+    "Beschreibung": "Check-up alle 1–2 Jahre auch ohne Beschwerden empfohlen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Koffein",
+    "Beschreibung": "Zu viel Koffein kann zu Schlaflosigkeit oder Herzrasen führen.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Rückengesundheit",
+    "Beschreibung": "Beim Heben in die Knie gehen, nicht in den Rücken.",
+    "Bedingung": "Bewegungsapparat",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Gesundheitsinfo",
+    "Punkt": "Saisonale Pflege",
+    "Beschreibung": "Luftfeuchtigkeit 40–60 % für gesunde Atemwege.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Öffentliche Vorträge",
+    "Beschreibung": "Kostenlose Gesundheitsvorträge periodisch für Anwohner.",
+    "Bedingung": "Gemeinschaft",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Krankenversicherung",
+    "Beschreibung": "Internationale Patienten: Pass und Versicherungsnachweis mitbringen.",
+    "Bedingung": "Internationale",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Vorsorgezentrum",
+    "Beschreibung": "3. Stock; nur mit Termin.",
+    "Bedingung": "Check-up",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Zahlungsarten",
+    "Beschreibung": "Bar, Kreditkarte, Samsung Pay und gängige Mobile Payments.",
+    "Bedingung": "Rechnung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Feedback",
+    "Beschreibung": "Beschwerden oder Vorschläge am Empfang oder per Website.",
+    "Bedingung": "Besucher",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Besuchszeiten",
+    "Beschreibung": "Werktags 18:00–20:00 begrenzt für Patientenstabilität.",
+    "Bedingung": "Besucher",
+    "Hinweise": "Aktuelle Regelung prüfen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Begleitperson",
+    "Beschreibung": "Eine Begleitperson möglich, außer in Einzelzimmern oder Intensiv.",
+    "Bedingung": "Stationäre",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Nicht erstattete Kosten",
+    "Beschreibung": "Preise nicht erstatteter Leistungen am Empfang ausgehängt.",
+    "Bedingung": "Alle Patienten",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Shuttle-Bus",
+    "Beschreibung": "Kostenloser Shuttle zwischen U-Bahn und Krankenhaus.",
+    "Bedingung": "Besucher",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "OP-Termin",
+    "Beschreibung": "Nüchternzeiten und Vorbereitung durch Pflegepersonal.",
+    "Bedingung": "OP",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Vorsorgeuntersuchungen",
+    "Beschreibung": "Einstellungs- und Führerschein-Untersuchungen möglich.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "Passfoto erforderlich"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Infozentrum",
+    "Beschreibung": "Zentrale Auskunft in der Lobby für allgemeine Orientierung.",
+    "Bedingung": "Besucher",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Apotheken-Info",
+    "Beschreibung": "Infos zu nahegelegenen Apotheken und Öffnungszeiten.",
+    "Bedingung": "Nach Behandlung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Ernährungsberatung",
+    "Beschreibung": "Individuelle Ernährungsberatung für chronisch Kranke.",
+    "Bedingung": "Ambulante",
+    "Hinweise": "Zusatzgebühr"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Terminbuchung",
+    "Beschreibung": "Termine per Telefon oder Google-Kalender-Integration.",
+    "Bedingung": "Alle Patienten",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Telemedizin",
+    "Beschreibung": "Begrenzte Video-Sprechstunden für Menschen mit Mobilitätseinschränkung.",
+    "Bedingung": "Berechtigte",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Standort",
+    "Beschreibung": "5 Min. Fußweg ab Ausgang 3 (Google Maps).",
+    "Bedingung": "Vor Ort",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Notaufnahme",
+    "Beschreibung": "Notfallzentrum rund um die Uhr, 365 Tage im Jahr.",
+    "Bedingung": "Notfall",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Aufnahme",
+    "Beschreibung": "Aufnahmeformulare und Stationenzuteilung am Empfang.",
+    "Bedingung": "Stationäre",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Trauerhalle",
+    "Beschreibung": "Trauerhalle in separatem Gebäude.",
+    "Bedingung": "Besucher",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Rehabilitation",
+    "Beschreibung": "Physio- und Ergotherapie zur Genesung nach OP.",
+    "Bedingung": "Reha",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Bescheinigungen",
+    "Beschreibung": "Ärztliche Atteste nach ärztlicher Untersuchung am Empfang.",
+    "Bedingung": "Dokumente",
+    "Hinweise": "Ausweis erforderlich"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Parken",
+    "Beschreibung": "Tiefgarage; 2 Stunden kostenlos für Patienten.",
+    "Bedingung": "Besucher",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Anforderungen",
+    "Beschreibung": "Erstbesucher: gültigen Ausweis (Führerschein o. Ä.) mitbringen.",
+    "Bedingung": "Neue Patienten",
+    "Hinweise": "Versicherungsprüfung"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Öffnungszeiten",
+    "Beschreibung": "Werktags 09:00–18:00; Samstag bis 13:00.",
+    "Bedingung": "Ambulanz",
+    "Hinweise": "Mittagspause 13–14 Uhr"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Entlassung",
+    "Beschreibung": "Kosten zahlen, Medikamente erhalten und Folgetermine bestätigen.",
+    "Bedingung": "Stationäre",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Einkaufsmöglichkeiten",
+    "Beschreibung": "Supermarkt, Café und Geldautomaten in der Tiefgarage.",
+    "Bedingung": "Besucher",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Dialyse",
+    "Beschreibung": "Dialysezentrum mit nächtlicher Dialyse möglich.",
+    "Bedingung": "Nierenpflege",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Aufwachraum",
+    "Beschreibung": "Eigene Räume für Stabilisierung nach der OP.",
+    "Bedingung": "Nach OP",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Krankenhaus",
+    "Punkt": "Rollstühle",
+    "Beschreibung": "Rollstühle kostenlos an der Lobby-Auskunft ausleihbar.",
+    "Bedingung": "Besucher",
+    "Hinweise": "Kostenlos"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "System",
+    "Punkt": "Datensicherheit",
+    "Beschreibung": "Gesundheitsdaten verschlüsselt nach Datenschutzrichtlinien.",
+    "Bedingung": "Alle Daten",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "System",
+    "Punkt": "Standorterkennung",
+    "Beschreibung": "Mit Einwilligung Verweis zum nächsten Partnerkrankenhaus.",
+    "Bedingung": "Arzt finden",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "System",
+    "Punkt": "Anonymität",
+    "Beschreibung": "Gesundheitsanfragen nur für Statistiken; keine Weitergabe.",
+    "Bedingung": "Alle Daten",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "System",
+    "Punkt": "Quellen",
+    "Beschreibung": "Infos basieren auf nationalem Gesundheitsportal und internen Richtlinien.",
+    "Bedingung": "Alle Infos",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "System",
+    "Punkt": "Korrektheit",
+    "Beschreibung": "Bei Fehlern den Button ‚Korrektur anfordern‘ nutzen.",
+    "Bedingung": "Alle Inhalte",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Abteilungen",
+    "Punkt": "Innere Medizin",
+    "Beschreibung": "Erkältung, Bluthochdruck, Diabetes und chronische Erkrankungen.",
+    "Bedingung": "Fachrichtung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Abteilungen",
+    "Punkt": "Urologie",
+    "Beschreibung": "Niere, Blase und Harnwege.",
+    "Bedingung": "Fachrichtung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Abteilungen",
+    "Punkt": "Gynäkologie",
+    "Beschreibung": "Frauengesundheit, Vorsorge und gynäkologische Behandlung.",
+    "Bedingung": "Fachrichtung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Abteilungen",
+    "Punkt": "Kinderheilkunde",
+    "Beschreibung": "Vorsorge, Impfungen und kinderspezifische Pflege.",
+    "Bedingung": "Fachrichtung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Abteilungen",
+    "Punkt": "Augenheilkunde",
+    "Beschreibung": "Sehtests, Katarakt, Glaukom und Augenuntersuchungen.",
+    "Bedingung": "Fachrichtung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Abteilungen",
+    "Punkt": "HNO",
+    "Beschreibung": "Rhinitis, Sinusitis, Schwindel und Hörtests.",
+    "Bedingung": "Fachrichtung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Abteilungen",
+    "Punkt": "Psychische Gesundheit",
+    "Beschreibung": "Beratung bei Depression, Angst und Schlafstörungen.",
+    "Bedingung": "Fachrichtung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Abteilungen",
+    "Punkt": "Orthopädie",
+    "Beschreibung": "Gelenkbeschwerden, Frakturen und Physiotherapie.",
+    "Bedingung": "Fachrichtung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Abteilungen",
+    "Punkt": "Zahnmedizin",
+    "Beschreibung": "Professionelle Zahnreinigung, Karies und Mundgesundheit.",
+    "Bedingung": "Fachrichtung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Abteilungen",
+    "Punkt": "Dermatologie",
+    "Beschreibung": "Akne, Atopie, Hauterkrankungen und Lasertherapie.",
+    "Bedingung": "Fachrichtung",
+    "Hinweise": "-"
   }
 ]

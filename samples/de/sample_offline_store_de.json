@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Mobile Zahlung",
+    "Beschreibung": "Vor-Ort-Zahlung per Zero Pay und Naver Pay.",
+    "Bedingung": "Alle",
+    "Hinweise": "QR-Code"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Zahlungsarten",
+    "Beschreibung": "Kreditkarten, Samsung Pay und Apple Pay werden akzeptiert.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Firmenkarten",
+    "Beschreibung": "Firmenkartenzahlung und Steuerrechnungsstellung möglich.",
+    "Bedingung": "Unternehmen",
+    "Hinweise": "Vorherige Anmeldung"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Getrennte Rechnung",
+    "Beschreibung": "Rechnung pro Person möglich.",
+    "Bedingung": "Gruppe/Einzeln",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Vorauszahlungs-Guthaben",
+    "Beschreibung": "5 % Bonus bei Vorauszahlung in 100.000-KRW-Einheiten.",
+    "Bedingung": "Gruppe/Stammkunden",
+    "Hinweise": "1 Jahr gültig"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Partner-Rabatt",
+    "Beschreibung": "10 % Rabatt bei bestimmten Kreditkarten.",
+    "Bedingung": "Partnerkarten",
+    "Hinweise": "1x/Monat"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Lokale Gutscheine",
+    "Beschreibung": "Stadtgutscheine der jeweiligen Region akzeptiert.",
+    "Bedingung": "Einwohner",
+    "Hinweise": "Papier/Karte"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Kassenbon",
+    "Beschreibung": "Bei Barzahlung auf Wunsch sofort ausgestellt.",
+    "Bedingung": "Barzahlung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Menü",
+    "Punkt": "Haus-Spezialität",
+    "Beschreibung": "Steak mit hauseigener Sauce.",
+    "Bedingung": "Alle",
+    "Hinweise": "Tägliche Limitierung"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Menü",
+    "Punkt": "Entkoffeiniert",
+    "Beschreibung": "Kaffee auf entkoffeiniert umstellbar.",
+    "Bedingung": "Kaffee",
+    "Hinweise": "+500 KRW"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Menü",
+    "Punkt": "Nachschub",
+    "Beschreibung": "Beilagen am Self-Service-Buffet nachfüllbar.",
+    "Bedingung": "Vor Ort",
+    "Hinweise": "Ohne Hauptgerichte"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Menü",
+    "Punkt": "Schärfegrad",
+    "Beschreibung": "Wählbar Stufe 1 bis 3.",
+    "Bedingung": "Bei Bestellung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Menü",
+    "Punkt": "Lieferservice",
+    "Beschreibung": "Bestellung über Baemin oder Coupang Eats.",
+    "Bedingung": "Liefereinzugsgebiet",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Menü",
+    "Punkt": "Saison-Menü",
+    "Beschreibung": "Saisonale limitierte Menüs jeden Saisonwechsel.",
+    "Bedingung": "Saisonal",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Menü",
+    "Punkt": "Allergie",
+    "Beschreibung": "Bei Nussallergie vor Bestellung mitteilen.",
+    "Bedingung": "Betroffene",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Menü",
+    "Punkt": "Portionsgröße",
+    "Beschreibung": "Reisportionen bei Bestellung anpassbar.",
+    "Bedingung": "Bei Bestellung",
+    "Hinweise": "Kostenlos"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Menü",
+    "Punkt": "Herkunft",
+    "Beschreibung": "Rind aus USA; Reis und Kohl aus Korea.",
+    "Bedingung": "Alle",
+    "Hinweise": "Unten auf Menü"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Menü",
+    "Punkt": "Alkoholausschank",
+    "Beschreibung": "Kein Alkoholverkauf an Minderjährige.",
+    "Bedingung": "Alle",
+    "Hinweise": "Ausweiskontrolle"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Menü",
+    "Punkt": "Vegane Optionen",
+    "Beschreibung": "Einige Gerichte auf Wunsch vegan.",
+    "Bedingung": "Auf Anfrage",
+    "Hinweise": "Ohne Aufpreis"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Menü",
+    "Punkt": "Empfohlene Kombination",
+    "Beschreibung": "Steak empfohlen mit Hauswein.",
+    "Bedingung": "Menüwahl",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Menü",
+    "Punkt": "Kalorien",
+    "Beschreibung": "Nährwertangaben pro Gericht auf der Website.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Menü",
+    "Punkt": "Extras",
+    "Beschreibung": "Verschiedene Toppings auf Wunsch hinzufügbar.",
+    "Bedingung": "Bei Bestellung",
+    "Hinweise": "Siehe Menü"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Menü",
+    "Punkt": "Verpackung",
+    "Beschreibung": "Biologisch abbaubare Behälter für Mitnahme/Lieferung.",
+    "Bedingung": "Mitnahme/Lieferung",
+    "Hinweise": "Umweltzertifiziert"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Menü",
+    "Punkt": "Mitnahme-Rabatt",
+    "Beschreibung": "Alle Menüs zum Mitnehmen mit Rabatt.",
+    "Bedingung": "Mitnahme",
+    "Hinweise": "1.000 KRW Rabatt"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Service",
+    "Punkt": "Verkaufswaren",
+    "Beschreibung": "Hauseigene Tassen und Kaffeebohnen erhältlich.",
+    "Bedingung": "Alle",
+    "Hinweise": "An der Theke"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Service",
+    "Punkt": "Fahrer-Service",
+    "Beschreibung": "Hilfe beim Anruf eines Fahrer-Services auf Wunsch.",
+    "Bedingung": "Auf Anfrage",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Service",
+    "Punkt": "Bewertungsaktion",
+    "Beschreibung": "Kostenloses Dessert bei Naver-Bewertung.",
+    "Bedingung": "Alle",
+    "Hinweise": "Mit Foto"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Service",
+    "Punkt": "Feuchttücher",
+    "Beschreibung": "In der Tischschublade oder am Self-Service-Buffet.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Service",
+    "Punkt": "Geburtstagsvorteil",
+    "Beschreibung": "Ein kostenloses Getränk am Geburtstag.",
+    "Bedingung": "Mitglieder",
+    "Hinweise": "Ausweiskontrolle"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Service",
+    "Punkt": "Stempelkarte",
+    "Beschreibung": "Ein kostenloses Hauptgericht nach 10 Besuchen.",
+    "Bedingung": "Papierkarte",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Service",
+    "Punkt": "Kinderbereich",
+    "Beschreibung": "Kindergeschirr für Familien mit Kindern.",
+    "Bedingung": "Mit Kindern",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Service",
+    "Punkt": "Gutscheinnutzung",
+    "Beschreibung": "Nicht mit anderen Aktionen kombinierbar.",
+    "Bedingung": "Gutscheininhaber",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Service",
+    "Punkt": "Punkte",
+    "Beschreibung": "3 % des Betrags als Punkte.",
+    "Bedingung": "Mitglieder",
+    "Hinweise": "Ab 1.000 P"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Service",
+    "Punkt": "Abholservice",
+    "Beschreibung": "Abholservice zur U-Bahn nicht verfügbar.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Service",
+    "Punkt": "Handcreme",
+    "Beschreibung": "Handcreme in der Toilette verfügbar.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Service",
+    "Punkt": "Mitgliedschaft",
+    "Beschreibung": "Registrierung per Telefonnummer.",
+    "Bedingung": "Alle",
+    "Hinweise": "Über Tablet"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Luftreiniger",
+    "Beschreibung": "Drei Luftreiniger im Laden im Einsatz.",
+    "Bedingung": "Alle",
+    "Hinweise": "24/7"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Laptop-Nutzung",
+    "Beschreibung": "Lange Laptop-Nutzung in Stoßzeiten vermeiden.",
+    "Bedingung": "Stoßzeiten",
+    "Hinweise": "Max. 2 Std."
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Gruppenräume",
+    "Beschreibung": "Gruppenräume für bis zu 12 Personen.",
+    "Bedingung": "5+ Personen",
+    "Hinweise": "Reservierung empfohlen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Deckenverleih",
+    "Beschreibung": "Decken für kalte Gäste verfügbar.",
+    "Bedingung": "Auf Anfrage",
+    "Hinweise": "An der Theke"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Haustiere",
+    "Beschreibung": "Haustiere nur auf der Terrasse erlaubt.",
+    "Bedingung": "Haustiere",
+    "Hinweise": "Transportbox"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Hintergrundmusik",
+    "Beschreibung": "Lautstärke auf Wunsch anpassbar.",
+    "Bedingung": "Auf Anfrage",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Powerbank",
+    "Beschreibung": "Powerbank-Verleih im Laden.",
+    "Bedingung": "Alle",
+    "Hinweise": "Kostenpflichtig"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Hochstühle",
+    "Beschreibung": "5 Hochstühle verfügbar.",
+    "Bedingung": "Mit Kindern",
+    "Hinweise": "Nach Verfügbarkeit"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Außenbereich",
+    "Beschreibung": "Außenplätze nur im Frühjahr und Herbst.",
+    "Bedingung": "Saisonal",
+    "Hinweise": "Bei Regen geschlossen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "WLAN",
+    "Beschreibung": "Kostenloses WLAN im Laden.",
+    "Bedingung": "Vor Ort",
+    "Hinweise": "PW: store1234"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Regenschirmständer",
+    "Beschreibung": "Regenschirmtüten und Ständer bei Regen am Eingang.",
+    "Bedingung": "Regentage",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Schürzen",
+    "Beschreibung": "Einwegschürzen auf Anfrage.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Ganzkörperspiegel",
+    "Beschreibung": "Ganzkörperspiegel für Fotobereich am Eingang.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Parkplätze",
+    "Beschreibung": "Parkplätze in B1 und B2.",
+    "Bedingung": "Besucher",
+    "Hinweise": "2 Std. kostenlos"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Parkplatzbestätigung",
+    "Beschreibung": "Letzte 4 Ziffern des Kennzeichens an der Kasse angeben.",
+    "Bedingung": "Parkplatz",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Gepäckaufbewahrung",
+    "Beschreibung": "Große Koffer für Reisende auf Anfrage.",
+    "Bedingung": "Auf Anfrage",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Steckdosen",
+    "Beschreibung": "An Fenster-Barplätzen verfügbar.",
+    "Bedingung": "Bestimmte Plätze",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Toiletten",
+    "Beschreibung": "Rechts vom Eingang am Ende des Flurs.",
+    "Bedingung": "Alle",
+    "Hinweise": "Getrennt"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Rollstuhlzugang",
+    "Beschreibung": "Rampen am Eingang für Rollstühle.",
+    "Bedingung": "Eingeschränkt",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtung",
+    "Punkt": "Raucherbereich",
+    "Beschreibung": "Rauchen nur im Außenbereich.",
+    "Bedingung": "Alle",
+    "Hinweise": "Nichtraucherbereich"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Reservierung",
+    "Punkt": "No-Show",
+    "Beschreibung": "Reservierung bei 15 Min. Verspätung storniert.",
+    "Bedingung": "Reservierung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Reservierung",
+    "Punkt": "Tagesbuchung",
+    "Beschreibung": "Tagesbuchung nur per Telefon.",
+    "Bedingung": "Gleicher Tag",
+    "Hinweise": "Verfügbarkeit prüfen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Reservierung",
+    "Punkt": "Raummiete",
+    "Beschreibung": "Separate Mietgebühr pro Stunde.",
+    "Bedingung": "Komplette Anmietung",
+    "Hinweise": "Unabhängig von Personenzahl"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Reservierung",
+    "Punkt": "Warteliste",
+    "Beschreibung": "Anmeldung an der Kiosk am Eingang bei Vollauslastung.",
+    "Bedingung": "Wenn voll",
+    "Hinweise": "Kakaotalk-Benachrichtigung"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Reservierung",
+    "Punkt": "Buchungsart",
+    "Beschreibung": "Reservierung über Naver oder Telefon.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Reservierung",
+    "Punkt": "Stornierung",
+    "Beschreibung": "Stornierung ohne Gebühr bis 1 Tag vorher.",
+    "Bedingung": "Reservierung",
+    "Hinweise": "Am selben Tag nicht möglich"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Stellenangebote",
+    "Beschreibung": "Aktuell Teilzeit am Wochenende gesucht.",
+    "Bedingung": "Rekrutierung",
+    "Hinweise": "Albamon"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Letzte Bestellung",
+    "Beschreibung": "Bestellung bis 30 Min. vor Schließung.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Feiertage",
+    "Beschreibung": "Geschlossen an Neujahr und Chuseok.",
+    "Bedingung": "Feiertage",
+    "Hinweise": "Vorherige Ankündigung"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Hygiene",
+    "Beschreibung": "Beachtung behördlicher Pandemie-Richtlinien.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Pausenzeit",
+    "Beschreibung": "Vorbereitungszeit 15–17 Uhr.",
+    "Bedingung": "Werktags",
+    "Hinweise": "Wochenende ausgenommen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Notausgang",
+    "Beschreibung": "Nottreppen hinten im Laden.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Lärm",
+    "Beschreibung": "Kein lautes Rufen nach 20 Uhr wegen Wohngebiet.",
+    "Bedingung": "Nach 20:00",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Öffnungszeiten",
+    "Beschreibung": "Mo–So 10–21 Uhr.",
+    "Bedingung": "Alle",
+    "Hinweise": "Ganzjährig"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Dreh-Miete",
+    "Beschreibung": "Beratung für komplette Anmietung außerhalb der Öffnungszeiten.",
+    "Bedingung": "Miete",
+    "Hinweise": "Telefonische Beratung"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Regelmäßige Schließung",
+    "Beschreibung": "Erster Montag im Monat geschlossen.",
+    "Bedingung": "Regelmäßig",
+    "Hinweise": "Am Folgetag bei Feiertag"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Umgebung",
+    "Punkt": "Anfahrt",
+    "Beschreibung": "City-Hall-Station (Linie 2) Ausgang 3 in der Nähe.",
+    "Bedingung": "ÖPNV",
+    "Hinweise": "3 Min. Fußweg"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Umgebung",
+    "Punkt": "Sehenswürdigkeiten",
+    "Beschreibung": "Zentralpark 5 Min. Fußweg entfernt.",
+    "Bedingung": "Umgebung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Reklamation",
+    "Punkt": "Zahlungsstornierung",
+    "Beschreibung": "Stornierung nur am selben Tag mit Beleg.",
+    "Bedingung": "Gleicher Tag",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Reklamation",
+    "Punkt": "Fundbüro",
+    "Beschreibung": "Fundsachen bis 2 Wochen aufbewahrt.",
+    "Bedingung": "Verlorene Gegenstände",
+    "Hinweise": "Kundenservice"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Reklamation",
+    "Punkt": "Hygienemanagement",
+    "Beschreibung": "Tägliche Desinfektion durch Fachfirma.",
+    "Bedingung": "Einrichtung",
+    "Hinweise": "Cesco"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Reklamation",
+    "Punkt": "Kaltes Essen",
+    "Beschreibung": "Auf Wunsch wieder erwärmen.",
+    "Bedingung": "Auf Anfrage",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Reklamation",
+    "Punkt": "Bestellfehler",
+    "Beschreibung": "Bei Fehlern sofort Personal informieren für Neuauflage.",
+    "Bedingung": "Vor Ort",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Reklamation",
+    "Punkt": "Parkplatzfehler",
+    "Beschreibung": "Rufknopf drücken, wenn am Kiosk nicht bestätigt.",
+    "Bedingung": "Parkplatz",
+    "Hinweise": "-"
   }
 ]

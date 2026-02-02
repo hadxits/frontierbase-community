@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Persönlich",
+    "Punkt": "Bildungsphilosophie",
+    "Beschreibung": "Wir fördern eigenständiges Denken statt reines Auswendiglernen.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Zahlungsarten",
+    "Beschreibung": "PayPal, Stripe und gängige Kreditkarten werden akzeptiert.",
+    "Bedingung": "Online-Zahlung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Überfällige Gebühren",
+    "Beschreibung": "Bei über ein Woche überfälliger Zahlung kann die Kursteilnahme eingeschränkt werden.",
+    "Bedingung": "Überfällige",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Rechnungsstellung",
+    "Beschreibung": "Rechnungen gehen nach Zahlung sofort an die hinterlegte E-Mail der Erziehungsberechtigten.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "PDF verfügbar"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Langzeit-Rabatt",
+    "Beschreibung": "Bei 3 Monaten Vorauszahlung entfallen die Materialgebühren.",
+    "Bedingung": "Reguläre Kurse",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Zahlungsnachweis",
+    "Beschreibung": "Zahlungsbestätigungen können direkt auf der Mein-Bereich-Seite ausgedruckt werden.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Kartenfehler",
+    "Beschreibung": "Bei fehlgeschlagener Auslandskartenzahlung PayPal-Rechnung anfordern.",
+    "Bedingung": "Internationale Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Rabatt-Regel",
+    "Beschreibung": "Rabatte lassen sich nicht kombinieren; nur der höchste Rabatt gilt.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Geschwister-Rabatt",
+    "Beschreibung": "10 % Rabatt auf die Gesamtsumme bei 2 oder mehr Familienmitgliedern.",
+    "Bedingung": "Familie",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Rückerstattung",
+    "Beschreibung": "100 % vor Start; 2/3 vor 1/3 der Laufzeit; 1/2 vor 1/2 der Laufzeit.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verwaltung",
+    "Punkt": "Einzelberatung",
+    "Beschreibung": "Regelmäßige 1:1-Gespräche mit Teilnehmern zweimal pro Semester.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verwaltung",
+    "Punkt": "Gesundheit & Pausen",
+    "Beschreibung": "Bei langen Einheiten: 50 Min. Unterricht, 10 Min. Pause.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verwaltung",
+    "Punkt": "Proben",
+    "Beschreibung": "Vierteljährliche Proben zur Leistungsanalyse.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verwaltung",
+    "Punkt": "Punktesystem",
+    "Beschreibung": "Schüler des Monats nach Hausaufgaben und Verhalten ausgewählt.",
+    "Bedingung": "Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verwaltung",
+    "Punkt": "Fortschrittsberichte",
+    "Beschreibung": "Monatliche Leistungsberichte per Google Docs.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "Inkl. 1:1-Notizen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verwaltung",
+    "Punkt": "Lehrplan-Update",
+    "Beschreibung": "Wöchentliche Lernziele und Fortschrittsübersicht jeden Montag.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verwaltung",
+    "Punkt": "Beratung Aufnahme",
+    "Beschreibung": "Portfolio-Beratung für Bewerber höherer Bildungseinrichtungen.",
+    "Bedingung": "Vorbereitungskurse",
+    "Hinweise": "Nur nach Termin"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verwaltung",
+    "Punkt": "Anwesenheitsbenachrichtigung",
+    "Beschreibung": "Eltern werden 10 Min. nach Kursbeginn benachrichtigt.",
+    "Bedingung": "Minderjährige",
+    "Hinweise": "Slack/Nachricht"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Verwaltung",
+    "Punkt": "Digitale ID",
+    "Beschreibung": "Ein- und Ausstempeln per mobiler Schüler-ID.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Bildung",
+    "Punkt": "Dozentenqualifikation",
+    "Beschreibung": "Alle Dozenten haben mindestens Master oder 5+ Jahre Erfahrung.",
+    "Bedingung": "Dozenten",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Bildung",
+    "Punkt": "Mehrsprachigkeit",
+    "Beschreibung": "Alle Kurse wahlweise auf Englisch oder Koreanisch.",
+    "Bedingung": "Globale Kurse",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Bildung",
+    "Punkt": "Spezialisierungen",
+    "Beschreibung": "Schwerpunkt auf MINT und Design-Thinking-basiertem Lernen.",
+    "Bedingung": "Spezialkurse",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Bildung",
+    "Punkt": "Lehrplan-Überarbeitung",
+    "Beschreibung": "Lehrplan wird jährlich an aktuelle Bildungstrends angepasst.",
+    "Bedingung": "Alle Kurse",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Gesundheitsrichtlinien",
+    "Beschreibung": "Bei ansteckenden Krankheiten bis zur Genesung keine Teilnahme vor Ort.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "Online-Alternative"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Fluchtwege",
+    "Beschreibung": "Fluchtwege und Notausgänge an jeder Klassenraumtür.",
+    "Bedingung": "Vor-Ort",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Handy-Regel",
+    "Beschreibung": "Handys während des Unterrichts verboten; Abgabe in bereitgestellten Fächern.",
+    "Bedingung": "Teilnehmer",
+    "Hinweise": "Büro bei Dringlichkeit"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Campus-Sicherheit",
+    "Beschreibung": "Minderjährige dürfen ohne Einwilligung während des Unterrichts den Campus nicht verlassen.",
+    "Bedingung": "Minderjährige",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Essen & Trinken",
+    "Beschreibung": "Im Unterricht nur verschließbare Getränke erlaubt; kein Essen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "Pausenraum nutzen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Urheberrecht",
+    "Beschreibung": "Unerlaubte Vervielfältigung oder Weitergabe von Kursmaterialien ist strafbar.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Verspätung",
+    "Beschreibung": "3 Verspätungen gelten als 1 unentschuldigte Abwesenheit; Verwarnung.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Regelung",
+    "Punkt": "Verweis",
+    "Beschreibung": "Störung anderer oder beleidigende Sprache kann zu sofortigem Verweis führen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "Null Toleranz"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technisch",
+    "Punkt": "VPN-Zugang",
+    "Beschreibung": "Eigene VPN-Anleitung für internationale Teilnehmer zur stabilen Verbindung.",
+    "Bedingung": "Internationale Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technisch",
+    "Punkt": "Kontosupport",
+    "Beschreibung": "Bei Google-Login-Problemen IT-Support per E-Mail kontaktieren.",
+    "Bedingung": "Online-Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technisch",
+    "Punkt": "Datenspeicherung",
+    "Beschreibung": "Lern- und Prüfungsdaten 1 Jahr nach Abschluss, danach endgültige Löschung.",
+    "Bedingung": "Absolventen",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technisch",
+    "Punkt": "Mobile App",
+    "Beschreibung": "Vokabeltests und Notenübersicht über die Lern-App.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technisch",
+    "Punkt": "Server-Wartung",
+    "Beschreibung": "Wartung jeden Sonntag 02:00–04:00 Uhr.",
+    "Bedingung": "Web/LMS",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technisch",
+    "Punkt": "Kopfhörer",
+    "Beschreibung": "Für Sprachkurse eigene Kopfhörer mitbringen.",
+    "Bedingung": "Sprachkurse",
+    "Hinweise": "Verleih möglich"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sonstiges",
+    "Punkt": "Ferien-Intensivkurse",
+    "Beschreibung": "Kurzzeit-Camps in den Sommer- und Winterferien.",
+    "Bedingung": "Optional",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sonstiges",
+    "Punkt": "Shuttle-Service",
+    "Beschreibung": "Aus Sicherheitsgründen aktuell kein Shuttle-Bus.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sonstiges",
+    "Punkt": "Stipendien",
+    "Beschreibung": "Stipendien für Top-Leistungen und deutliche Verbesserung.",
+    "Bedingung": "Vierteljährlich",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sonstiges",
+    "Punkt": "Abschlussfeier",
+    "Beschreibung": "Feier im Februar für Absolventen regulärer Kurse.",
+    "Bedingung": "Absolventen",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sonstiges",
+    "Punkt": "Probestunden",
+    "Beschreibung": "Probegebühr wird bei anschließender Anmeldung erstattet.",
+    "Bedingung": "Neue Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sonstiges",
+    "Punkt": "Empfehlungsprogramm",
+    "Beschreibung": "20 $ Gutschein für Empfehlende bei neuer Anmeldung.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sonstiges",
+    "Punkt": "Elternseminare",
+    "Beschreibung": "Online-Webinare zu Semesterbeginn zur Vorstellung des Angebots.",
+    "Bedingung": "Eltern",
+    "Hinweise": "Google Meet"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Kommunikation",
+    "Punkt": "Vorschlagsbox",
+    "Beschreibung": "Anonyme Anregungen per Google-Formular.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Kommunikation",
+    "Punkt": "Newsletter",
+    "Beschreibung": "Monatlicher Newsletter mit Bildungsinfos.",
+    "Bedingung": "Abonnenten",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Kommunikation",
+    "Punkt": "Sprechzeiten",
+    "Beschreibung": "Schnellste Erreichbarkeit werktags 14:00–17:00.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Kommunikation",
+    "Punkt": "Ankündigungskanal",
+    "Beschreibung": "Wichtige Ankündigungen über den offiziellen Slack-Kanal.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Unterricht",
+    "Punkt": "Aufgabenabgabe",
+    "Beschreibung": "Alle Aufgaben bis zur Frist in Google Classroom hochladen.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "Fristen einhalten"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Unterricht",
+    "Punkt": "Gruppenarbeit",
+    "Beschreibung": "Freitags Teamprojekte und Präsentationen.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Unterricht",
+    "Punkt": "Aufzeichnungen",
+    "Beschreibung": "Wiederholungsvideos binnen 24 Std. nach Live-Sitzung, 7 Tage verfügbar.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Unterricht",
+    "Punkt": "Einstufungstest",
+    "Beschreibung": "Grunddiagnose per Google Forms vor Anmeldung.",
+    "Bedingung": "Neue Teilnehmer",
+    "Hinweise": "Ca. 30 Min."
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Unterricht",
+    "Punkt": "Mentoring",
+    "Beschreibung": "1:1-Mentoring mit älteren Teilnehmern.",
+    "Bedingung": "Bewerber",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Unterricht",
+    "Punkt": "Nachholregel",
+    "Beschreibung": "Aufzeichnung oder Nachholstunde nur bei 24h Vorankündigung.",
+    "Bedingung": "Persönliche Gründe",
+    "Hinweise": "Max. 1/Monat"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Unterricht",
+    "Punkt": "Klassengröße",
+    "Beschreibung": "Maximal 8 Teilnehmer pro Klasse.",
+    "Bedingung": "Reguläre Kurse",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Unterricht",
+    "Punkt": "Kursmaterialien",
+    "Beschreibung": "Eigene PDF-Skripte; externe Lehrbücher separat.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Unterricht",
+    "Punkt": "Unterrichtsform",
+    "Beschreibung": "Hybrid aus Präsenz und Live-Google-Meet-Sitzungen.",
+    "Bedingung": "Hybrid",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Unterricht",
+    "Punkt": "Stundenplan",
+    "Beschreibung": "Individuelle Pläne in Echtzeit per Google Sheets.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Unterricht",
+    "Punkt": "Vorbereitungsvideos",
+    "Beschreibung": "5-Min-Konzeptvideo vor dem Unterricht (Flipped Learning).",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Unterricht",
+    "Punkt": "Lernraum",
+    "Beschreibung": "Lernräume am Wochenende 10:00–12:00 geöffnet.",
+    "Bedingung": "Bewerber",
+    "Hinweise": "Betreuung vor Ort"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Unterricht",
+    "Punkt": "Q&A-Support",
+    "Beschreibung": "Fragen außerhalb des Unterrichts über Slack #Q&A; Antwort binnen 24 Std.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Unterricht",
+    "Punkt": "Bewertung",
+    "Beschreibung": "Bewertung aus Klausur, Portfolio und Mitarbeit.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Unterricht",
+    "Punkt": "Projektpräsentation",
+    "Beschreibung": "Abschlussprojekte per YouTube Live für Eltern.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "Live-Übertragung"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtungen",
+    "Punkt": "Schließfach",
+    "Beschreibung": "Persönliche Schließfächer ab 3 Monaten Anmeldung.",
+    "Bedingung": "Langzeit-Teilnehmer",
+    "Hinweise": "Kaution 10 $"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtungen",
+    "Punkt": "Klima",
+    "Beschreibung": "Klassenraumtemperatur 24 °C.",
+    "Bedingung": "Vor-Ort",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtungen",
+    "Punkt": "Fundbüro",
+    "Beschreibung": "Fundsachen 1 Woche am Empfang, danach Entsorgung.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtungen",
+    "Punkt": "Lernräume",
+    "Beschreibung": "Leere Räume nach Anmeldung als Lernraum nutzbar.",
+    "Bedingung": "Nur Teilnehmer",
+    "Hinweise": "Tagesbuchung"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtungen",
+    "Punkt": "WLAN",
+    "Beschreibung": "Kostenloses Giga-WLAN im gesamten Gebäude.",
+    "Bedingung": "Vor-Ort",
+    "Hinweise": "PW: study1234"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtungen",
+    "Punkt": "Wasserstationen",
+    "Beschreibung": "Wasserfilter im Pausenraum; eigene Becher erwünscht.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtungen",
+    "Punkt": "Beleuchtung",
+    "Beschreibung": "Spezielle LED-Lernbeleuchtung zur Schonung der Augen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Einrichtungen",
+    "Punkt": "Tablet-Verleih",
+    "Beschreibung": "iPad/Galaxy Tab bei Bedarf im Unterricht.",
+    "Bedingung": "Nur im Unterricht",
+    "Hinweise": "Nicht mitnehmen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Dozentenwechsel",
+    "Beschreibung": "Bei unvermeidbarem Wechsel mindestens 1 Woche Vorankündigung.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Notfall-Benachrichtigung",
+    "Beschreibung": "Google-Chat-Benachrichtigung an hinterlegte Notfallkontakte.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Feiertage",
+    "Beschreibung": "An Feiertagen geschlossen; Nachholtermine werden bekanntgegeben.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Beratungstermin",
+    "Beschreibung": "Terminvereinbarung über den geteilten Google-Kalender-Link.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "24h Voranmeldung"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Öffnungszeiten",
+    "Beschreibung": "Mo–Fr 13:00–22:00, Sa 09:00–18:00. Sonntags geschlossen.",
+    "Bedingung": "Alle Nutzer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Standort",
+    "Beschreibung": "Vor Ausgang 5, Hauptbahnhof (Google Maps).",
+    "Bedingung": "Vor-Ort",
+    "Hinweise": "Parken möglich"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Partner-Rabatte",
+    "Beschreibung": "10 % Rabatt in Partner-Buchhandlungen mit Schülerausweis.",
+    "Bedingung": "Aktive Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Betrieb",
+    "Punkt": "Parkplatz",
+    "Beschreibung": "1 Stunde kostenloses Parken für Besucher.",
+    "Bedingung": "Besucher",
+    "Hinweise": "Am Empfang fragen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Material-Verleih",
+    "Beschreibung": "Materialien für Programmieren und Robotik werden ausgeliehen.",
+    "Bedingung": "Praktische Kurse",
+    "Hinweise": "-"
   }
 ]

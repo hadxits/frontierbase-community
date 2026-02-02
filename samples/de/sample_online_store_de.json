@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Versand",
+    "Punkt": "Lieferzeit",
+    "Beschreibung": "Durchschnittlich 2–3 Werktage nach Bestellung.",
+    "Bedingung": "Standard",
+    "Hinweise": "Ohne Wochenende"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Versand",
+    "Punkt": "Verzögerung",
+    "Beschreibung": "Bei hohem Aufkommen kann sich die Lieferung um einen Tag verzögern.",
+    "Bedingung": "Hauptsaison",
+    "Hinweise": "Ankündigungen prüfen"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Versand",
+    "Punkt": "Versandzeit",
+    "Beschreibung": "Bestellungen vor 14 Uhr werden am selben Tag versendet.",
+    "Bedingung": "Werktags",
+    "Hinweise": "Ohne Wochenende"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Versand",
+    "Punkt": "Kombiversand",
+    "Beschreibung": "Artikel derselben Bestellung werden zusammen versendet.",
+    "Bedingung": "Gleiche Bestellung",
+    "Hinweise": "Außer Split-Versand"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Versand",
+    "Punkt": "Teilversand",
+    "Beschreibung": "Teilversand möglich je nach Verfügbarkeit.",
+    "Bedingung": "Nicht verfügbar",
+    "Hinweise": "Vorankündigung"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Versand",
+    "Punkt": "Versandkosten",
+    "Beschreibung": "Grundversand 3.000 KRW.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "Jeju ausgenommen"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Versand",
+    "Punkt": "Randgebiete",
+    "Beschreibung": "Für Inseln und Randgebiete fallen zusätzliche Versandkosten an.",
+    "Bedingung": "Randgebiete",
+    "Hinweise": "Je nach Region"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Versand",
+    "Punkt": "Express",
+    "Beschreibung": "Expressversand wird nicht angeboten.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Versand",
+    "Punkt": "Sendungsverfolgung",
+    "Beschreibung": "Verfolgung im Mein-Bereich.",
+    "Bedingung": "Nach Versand",
+    "Hinweise": "Kurierverknüpfung"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Versand",
+    "Punkt": "Kurier",
+    "Beschreibung": "Standardkurier ist CJ Logistics.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "Kann sich ändern"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Rückerstattung",
+    "Punkt": "Rückgaberecht",
+    "Beschreibung": "Rückerstattung binnen 7 Tagen nach Erhalt möglich.",
+    "Bedingung": "Ungenutzt",
+    "Hinweise": "Hin- und Rückversand"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Rückerstattung",
+    "Punkt": "Nicht rückerstattungsfähig",
+    "Beschreibung": "Produkte mit Gebrauchsspuren können nicht zurückgegeben werden.",
+    "Bedingung": "Nach Nutzung",
+    "Hinweise": "Elektronik"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Rückerstattung",
+    "Punkt": "Rückgabeprozess",
+    "Beschreibung": "Rückgabe über Mein-Bereich beantragen.",
+    "Bedingung": "Bestellung abgeschlossen",
+    "Hinweise": "Automatisch"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Rückerstattung",
+    "Punkt": "Rückerstattungsdauer",
+    "Beschreibung": "Rückerstattung dauert 3–5 Werktage.",
+    "Bedingung": "Stornierung",
+    "Hinweise": "Je nach Kartenaussteller"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Rückerstattung",
+    "Punkt": "Teilrückerstattung",
+    "Beschreibung": "Teilrückerstattung bei Set-Artikeln nicht möglich.",
+    "Bedingung": "Sets",
+    "Hinweise": "Vollständige Rückgabe"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Rückerstattung",
+    "Punkt": "Versand bei Rückgabe",
+    "Beschreibung": "Versandkosten werden bei Reue nicht erstattet.",
+    "Bedingung": "Reue",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Rückerstattung",
+    "Punkt": "Falschlieferung",
+    "Beschreibung": "Bei falscher Lieferung Rückerstattung ohne Versandkosten.",
+    "Bedingung": "Verkäuferfehler",
+    "Hinweise": "Foto erforderlich"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Rückerstattung",
+    "Punkt": "Mangelhafte Ware",
+    "Beschreibung": "Mangelhafte Artikel können umgetauscht oder erstattet werden.",
+    "Bedingung": "Bestätigter Mangel",
+    "Hinweise": "Nachweis erforderlich"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Rückerstattung",
+    "Punkt": "Zahlungsart",
+    "Beschreibung": "Rückerstattung auf die ursprüngliche Zahlungsmethode.",
+    "Bedingung": "Alle",
+    "Hinweise": "Keine Barerstattung"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Rückerstattung",
+    "Punkt": "Stornierung",
+    "Beschreibung": "Stornierung möglich, bis versandt wurde.",
+    "Bedingung": "Vor Versand",
+    "Hinweise": "Automatisch"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Umtausch",
+    "Punkt": "Umtauschberechtigung",
+    "Beschreibung": "Umtausch binnen 7 Tagen nach Erhalt möglich.",
+    "Bedingung": "Ungenutzt",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Umtausch",
+    "Punkt": "Nicht umtauschbar",
+    "Beschreibung": "Reduzierte Artikel sind nicht umtauschbar.",
+    "Bedingung": "Sonderangebote",
+    "Hinweise": "Siehe Ankündigung"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Umtausch",
+    "Punkt": "Umtauschgebühr",
+    "Beschreibung": "Bei Reue fallen Hin- und Rückversandkosten an.",
+    "Bedingung": "Reue",
+    "Hinweise": "6.000 KRW"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Umtausch",
+    "Punkt": "Mängelumtausch",
+    "Beschreibung": "Umtausch bei Mängeln versandkostenfrei.",
+    "Bedingung": "Mangel",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Umtausch",
+    "Punkt": "Farbumtausch",
+    "Beschreibung": "Umtausch in andere Farbe möglich.",
+    "Bedingung": "Auf Lager",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Umtausch",
+    "Punkt": "Größenumtausch",
+    "Beschreibung": "Größenumtausch pro Bestellung einmal möglich.",
+    "Bedingung": "Bekleidung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Umtausch",
+    "Punkt": "Umtauschdauer",
+    "Beschreibung": "Umtausch dauert etwa 5–7 Tage.",
+    "Bedingung": "Nach Erhalt",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Umtausch",
+    "Punkt": "Nicht verfügbar",
+    "Beschreibung": "Wenn Umtauschartikel nicht verfügbar: Rückerstattung.",
+    "Bedingung": "Nicht vorrätig",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Umtausch",
+    "Punkt": "Umtauschprozess",
+    "Beschreibung": "Antrag über Mein-Bereich.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Umtausch",
+    "Punkt": "Rücksendeadresse",
+    "Beschreibung": "Anweisungen des Kundenservices für die Adresse beachten.",
+    "Bedingung": "Bestimmte Anleitung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Produkt",
+    "Punkt": "Produktinfos",
+    "Beschreibung": "Details auf der Produktseite.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Produkt",
+    "Punkt": "Nachschub",
+    "Beschreibung": "Nachschub-Termin aktuell offen.",
+    "Bedingung": "Ausverkauft",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Produkt",
+    "Punkt": "Mindesthaltbarkeit",
+    "Beschreibung": "Mindestens 6 Monate ab Versanddatum.",
+    "Bedingung": "Lebensmittel",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Produkt",
+    "Punkt": "Herkunft",
+    "Beschreibung": "Dieses Produkt wird in Korea hergestellt.",
+    "Bedingung": "Lebensmittel",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Produkt",
+    "Punkt": "Garantie/AS",
+    "Beschreibung": "Gewährleistung nach Herstellerrichtlinie.",
+    "Bedingung": "Elektronik",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Produkt",
+    "Punkt": "Komponenten",
+    "Beschreibung": "Lieferumfang auf der Detailseite.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Produkt",
+    "Punkt": "Farbabweichung",
+    "Beschreibung": "Farben können je nach Bildschirm variieren.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Produkt",
+    "Punkt": "Größenabweichung",
+    "Beschreibung": "Größen können je nach Messung leicht variieren.",
+    "Bedingung": "Bekleidung",
+    "Hinweise": "±1–2 cm"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Produkt",
+    "Punkt": "Verpackung",
+    "Beschreibung": "Umweltfreundliche Verpackungsmaterialien.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Produkt",
+    "Punkt": "Geschenkverpackung",
+    "Beschreibung": "Geschenkverpackung wird nicht angeboten.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Zahlungsarten",
+    "Beschreibung": "Karten und Naver Pay akzeptiert.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Überweisung",
+    "Beschreibung": "Direkte Überweisung wird nicht unterstützt.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Zahlungsfehler",
+    "Beschreibung": "Bei Zahlungsfehlern Kartenaussteller kontaktieren.",
+    "Bedingung": "Fehler",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Ratenzahlung",
+    "Beschreibung": "Raten nach Richtlinie des Kartenanbieters.",
+    "Bedingung": "Kreditkarten",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Kassenbon",
+    "Beschreibung": "Kassenbons können nicht ausgestellt werden.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Punkte",
+    "Beschreibung": "Naver-Pay-Punkte können verwendet werden.",
+    "Bedingung": "Naver Pay",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Gutscheine",
+    "Beschreibung": "Gutscheine beim Checkout einlösbar.",
+    "Bedingung": "Gültige Gutscheine",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Kombinierte Rabatte",
+    "Beschreibung": "Doppelte Gutschein-Rabatte nicht möglich.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Zahlungsstornierung",
+    "Beschreibung": "Stornierung nur vor Versand möglich.",
+    "Bedingung": "Vor Versand",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Zahlung",
+    "Punkt": "Beleg",
+    "Beschreibung": "Belege in Mein-Bereich einsehbar und druckbar.",
+    "Bedingung": "Zahlung abgeschlossen",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Mitglied",
+    "Punkt": "Gastkauf",
+    "Beschreibung": "Kauf ohne Konto möglich.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Mitglied",
+    "Punkt": "Mitgliedervorteile",
+    "Beschreibung": "Exklusive Rabatte für Mitglieder.",
+    "Bedingung": "Mitglieder",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Mitglied",
+    "Punkt": "Profil aktualisieren",
+    "Beschreibung": "Mitgliedsdaten in Mein-Bereich änderbar.",
+    "Bedingung": "Mitglieder",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Mitglied",
+    "Punkt": "Kündigung",
+    "Beschreibung": "Kontoschließung über Kundenservice.",
+    "Bedingung": "Mitglieder",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Mitglied",
+    "Punkt": "Marketing",
+    "Beschreibung": "Marketing-Einwilligung optional.",
+    "Bedingung": "Mitglieder",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Anfrage",
+    "Punkt": "Kundenservice",
+    "Beschreibung": "Mo–Fr 10:00–17:00.",
+    "Bedingung": "Werktags",
+    "Hinweise": "Mittagspause ausgenommen"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Anfrage",
+    "Punkt": "Antwortzeit",
+    "Beschreibung": "Antwort binnen 1 Werktag.",
+    "Bedingung": "Allgemein",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Anfrage",
+    "Punkt": "Telefon",
+    "Beschreibung": "Telefonischer Support nicht verfügbar.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Anfrage",
+    "Punkt": "Chat",
+    "Beschreibung": "Chat-Beratung in Vorbereitung.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Anfrage",
+    "Punkt": "Ankündigungen",
+    "Beschreibung": "Wichtige Updates in den Shop-Ankündigungen.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Preisänderung",
+    "Beschreibung": "Preise können sich ohne Vorankündigung ändern.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Einstellung",
+    "Beschreibung": "Produkte können ohne Ankündigung eingestellt werden.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Fake-Bewertungen",
+    "Beschreibung": "Falsche oder böswillige Bewertungen werden gemeldet.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Wiederverkauf verboten",
+    "Beschreibung": "Wiederverkauf von Produkten ist untersagt.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Mengenbestellung",
+    "Beschreibung": "Ab 10 Stück separate Anfrage.",
+    "Bedingung": "10+ Stück",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Internationaler Versand",
+    "Beschreibung": "Internationaler Versand nicht möglich.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Zoll",
+    "Beschreibung": "Keine Unterstützung bei Zollfragen.",
+    "Bedingung": "Ausland",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Haftung",
+    "Beschreibung": "Verantwortung für Produktnutzung liegt beim Käufer.",
+    "Bedingung": "Alle",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Datenschutz",
+    "Beschreibung": "Personendaten nur für Versandzwecke.",
+    "Bedingung": "Alle",
+    "Hinweise": "Sicherheitskonform"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Richtlinie",
+    "Punkt": "Minderjährige",
+    "Beschreibung": "Käufe Minderjähriger können elterliche Einwilligung erfordern.",
+    "Bedingung": "Minderjährige",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Veranstaltung",
+    "Punkt": "Bewertungspunkte",
+    "Beschreibung": "Naver-Punkte für Fotobewertungen.",
+    "Bedingung": "Bewerter",
+    "Hinweise": "Binnen 7 Tagen"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Veranstaltung",
+    "Punkt": "Beste Bewertung",
+    "Beschreibung": "Monatliche Auswahl der besten Bewertungen für Sonderpreise.",
+    "Bedingung": "Top-Bewertungen",
+    "Hinweise": "Individuelle Kontaktaufnahme"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Veranstaltung",
+    "Punkt": "Teilnahme",
+    "Beschreibung": "Anleitung zu Veranstaltungen in den Ankündigungen.",
+    "Bedingung": "Laufend",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Veranstaltung",
+    "Punkt": "Abgelaufen",
+    "Beschreibung": "Vorteile abgelaufener Aktionen können nicht gewährt werden.",
+    "Bedingung": "Abgelaufen",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Versand",
+    "Punkt": "Virtuelle Nummer",
+    "Beschreibung": "Kurier-SMS können bei virtuellen Nummern fehlschlagen.",
+    "Bedingung": "Virtuelle Nummer",
+    "Hinweise": "Verifizierung nötig"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Versand",
+    "Punkt": "Abwesenheit",
+    "Beschreibung": "Bei Abwesenheit Ablage an vereinbarter Stelle.",
+    "Bedingung": "Abwesend",
+    "Hinweise": "Versandnachricht"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Produkt",
+    "Punkt": "Waschen",
+    "Beschreibung": "Handwäsche in kaltem Wasser mit neutralem Waschmittel empfohlen.",
+    "Bedingung": "Textilien",
+    "Hinweise": "Kein Trockner"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Produkt",
+    "Punkt": "Empfohlenes Alter",
+    "Beschreibung": "Produkt geeignet ab 14 Jahren.",
+    "Bedingung": "Außer Kinder",
+    "Hinweise": "Sicherheitszertifiziert"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Rückerstattung",
+    "Punkt": "Rücksendeadresse",
+    "Beschreibung": "Rücksendeadresse: OOO-dong, OOO-si, Gyeonggi-do.",
+    "Bedingung": "Rückgabeprozess",
+    "Hinweise": "Abholung empfohlen"
   },
   {
-    "카테고리": "",
-    "질문유형": "",
-    "답변내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Sonstiges",
+    "Punkt": "Vorbestellung",
+    "Beschreibung": "Versanddatum auf der Vorbestellseite prüfen.",
+    "Bedingung": "Vorbestellartikel",
+    "Hinweise": "Sequenzieller Versand"
   }
 ]

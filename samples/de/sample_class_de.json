@@ -1,562 +1,562 @@
 [
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Allgemein",
+    "Punkt": "Akademische Integrität",
+    "Beschreibung": "Plagiate oder unerlaubte Codeübernahme führen zur Note 0 und zum Entzug des Zertifikats.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Erweiterte Anfragen",
+    "Beschreibung": "Themen außerhalb des Lehrplans werden im #advanced Slack-Kanal besprochen.",
+    "Bedingung": "Eingeschrieben",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Allgemein",
+    "Punkt": "KI-Ethik",
+    "Beschreibung": "Richtlinien zu KI-Ethik finden Sie im Abschnitt „Zukunftsausblick“ des letzten Moduls.",
+    "Bedingung": "Modul 8",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Alumni-Netzwerk",
+    "Beschreibung": "Exklusiver Slack-Kanal für Absolventen zum Austausch von Stellenangeboten und Karrieretipps.",
+    "Bedingung": "Absolventen",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technisch",
+    "Punkt": "API-Schlüssel-Sicherheit",
+    "Beschreibung": "API-Schlüssel aus LLM-Übungen dürfen nicht nach außen gelangen.",
+    "Bedingung": "LLM-Übung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Materialien",
+    "Punkt": "Archivzugang",
+    "Beschreibung": "Kursmaterialien sind noch 6 Monate nach Kursende verfügbar.",
+    "Bedingung": "Absolventen",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Bewertung",
+    "Punkt": "Anwesenheit",
+    "Beschreibung": "Für Anwesenheit mindestens 70 % Teilnahme an Live-Sitzungen erforderlich.",
+    "Bedingung": "Live-Kurs",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Bewertung",
+    "Punkt": "Einspruchsverfahren",
+    "Beschreibung": "Einspruch gegen Noten binnen 3 Tagen nach Bekanntgabe per E-Mail.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Box-Plot-Analyse",
+    "Beschreibung": "Methoden zur Ausreißererkennung mit Box Plots in Lektion 14.",
+    "Bedingung": "Modul 3",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technisch",
+    "Punkt": "Browsereinstellungen",
+    "Beschreibung": "Popup-Blocker deaktivieren, damit Google Colab in den Übungen funktioniert.",
+    "Bedingung": "Übung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Allgemein",
+    "Punkt": "Karriereberatung",
+    "Beschreibung": "Für Karrierefragen außerhalb des Technischen bitte per LinkedIn DM melden.",
+    "Bedingung": "Eingeschrieben",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Fallstudie",
+    "Beschreibung": "Für die Aufgabe die Google-Datenanalyse-Fallstudie in Modul 5 heranziehen.",
+    "Bedingung": "Modul 5",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Kurzreferenzen",
+    "Beschreibung": "Pandas-Kurzreferenz zur effizienteren Datenanalyse wird bereitgestellt.",
+    "Bedingung": "Übung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Allgemein",
+    "Punkt": "Kursdauer",
+    "Beschreibung": "12 Wochen Lehrplan plus 4 Wochen Wiederholungszugang.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Allgemein",
+    "Punkt": "Kursstruktur",
+    "Beschreibung": "8 Module und 24 Lektionen.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Materialien",
+    "Punkt": "Urheberrecht",
+    "Beschreibung": "Unerlaubte Verbreitung oder kommerzielle Nutzung von Kursmaterialien ist untersagt.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Korrelation vs. Kausalität",
+    "Beschreibung": "Beispiele zur Abgrenzung von Korrelation und Kausalität auf Seite 21.",
+    "Bedingung": "Modul 2",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Datendefinitionen",
+    "Beschreibung": "Modul 1 behandelt grundlegende Definitionen und Datentypen (strukturiert/unstrukturiert).",
+    "Bedingung": "Modul 1",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Allgemein",
+    "Punkt": "Lernziele",
+    "Beschreibung": "Ziel ist die Vermittlung von Datenkompetenz und analytischen Werkzeugen.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "Siehe Lehrplan"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Datensatzquellen",
+    "Beschreibung": "Übungsdatensätze stammen aus öffentlichen Kaggle-Daten.",
+    "Bedingung": "Übung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Allgemein",
+    "Punkt": "Digitales Zertifikat",
+    "Beschreibung": "Absolventen erhalten ein digitales Badge für LinkedIn.",
+    "Bedingung": "Absolventen",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technisch",
+    "Punkt": "Notfall-Discord",
+    "Beschreibung": "Bei LMS-Ausfällen Notfall-Discord-Server zur Kommunikation nutzen.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Fehlermeldung",
+    "Beschreibung": "Tippfehler oder technische Fehler im Material bitte per Google Form melden.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Experimentelles Design",
+    "Beschreibung": "Schritt-für-Schritt-Anleitung zur Hypothesenprüfung auf Seite 18.",
+    "Bedingung": "Modul 2",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Aufgabe",
+    "Punkt": "Feedback-Pflicht",
+    "Beschreibung": "Für das Abschlussprojekt sind Peer-Reviews von 2 anderen Arbeiten verpflichtend.",
+    "Bedingung": "Abschlussprojekt",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Aufgabe",
+    "Punkt": "Dateinamen",
+    "Beschreibung": "Format für Abgaben: Name_Modul#_Aufgabenname.pdf",
+    "Bedingung": "Abgaben",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Bewertung",
+    "Punkt": "Abschlussprojekt",
+    "Beschreibung": "Klausur wird durch Projektabgabe und Loom-Videopräsentation ersetzt.",
+    "Bedingung": "Abschluss",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Materialien",
+    "Punkt": "Formate",
+    "Beschreibung": "Folien als PDF und Google-Slides-Links verfügbar.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Häufige Fragen",
+    "Beschreibung": "Bei Umgebungsfehlern Google-Colab-Runtime zurücksetzen.",
+    "Bedingung": "Technische Hilfe",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Glossar",
+    "Beschreibung": "Liste mit 100 wichtigen Fachbegriffen wird bereitgestellt.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Aufgabe",
+    "Punkt": "Bewertungskriterien",
+    "Beschreibung": "Bewertung: Logik (40 %), Werkzeugnutzung (30 %), Interpretation (30 %).",
+    "Bedingung": "Bewertung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Aufgabe",
+    "Punkt": "Gruppeneinteilung",
+    "Beschreibung": "Projektteams werden in der 3. Kurswoche gebildet.",
+    "Bedingung": "Teamarbeit",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Hyperparameter-Tuning",
+    "Beschreibung": "Tuning und Optimierung in Lektion-12-Video erläutert.",
+    "Bedingung": "Modul 6",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Allgemein",
+    "Punkt": "Individueller Erfolg",
+    "Beschreibung": "Wir unterstützen Sie auf dem Weg in eine erfolgreiche Datenkarriere.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Aufgabe",
+    "Punkt": "Einzelaufgabe",
+    "Beschreibung": "Datenanalyseberichte nur als PDF einreichen.",
+    "Bedingung": "Zwischenprüfung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Dozenten-Antwort",
+    "Beschreibung": "Rückmeldung vom Dozenten innerhalb von 24 Geschäftsstunden.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technisch",
+    "Punkt": "Interaktive Tools",
+    "Beschreibung": "Slack und Notion für Echtzeit-Q&A und Teamprojekte.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Suche-Tipp",
+    "Beschreibung": "Strg+F in den PDF-Folien zur schnellen Suche nutzen.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Allgemein",
+    "Punkt": "Sprachoptionen",
+    "Beschreibung": "Untertitel auf Englisch und Koreanisch für alle Videos.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Aufgabe",
+    "Punkt": "Verspätete Abgabe",
+    "Beschreibung": "Abgabe bis Mitternacht am Sonntag nach Modulende.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Allgemein",
+    "Punkt": "Weiterführender Weg",
+    "Beschreibung": "Nach dem Kurs ‚Advanced Machine Learning‘ empfehlenswert.",
+    "Bedingung": "Absolventen",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Live-Sprechstunde",
+    "Beschreibung": "Live-Q&A jeden Donnerstag um 20 Uhr per Google Meet.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "Fragen vorab einreichen"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "ML-Metriken",
+    "Beschreibung": "Unterschiede zwischen Accuracy und F1-Score auf Seite 30.",
+    "Bedingung": "Modul 4",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Materialien",
+    "Punkt": "Mobiloptimierung",
+    "Beschreibung": "PDF-Materialien für gute Lesbarkeit auf Mobilgeräten optimiert.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Bewertung",
+    "Punkt": "Zwischenprüfung",
+    "Beschreibung": "Per Google Forms, Inhalte aus Modul 1–4.",
+    "Bedingung": "Zwischenprüfung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Fehlende Werte",
+    "Beschreibung": "Bereinigungsstrategien müssen zum Analyseziel passen.",
+    "Bedingung": "Übung 1",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Aufgabe",
+    "Punkt": "Beispielarbeiten",
+    "Beschreibung": "Beste Arbeiten werden im Ordner ‚Best Practice‘ geteilt.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Materialien",
+    "Punkt": "Urheberschaft",
+    "Beschreibung": "Teilnehmer behalten alle Rechte an ihren Abgaben.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "PCA-Visualisierung",
+    "Beschreibung": "Die geometrische Bedeutung von PCA ist in der Grafik auf Seite 40 dargestellt.",
+    "Bedingung": "Modul 5",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technisch",
+    "Punkt": "Übungsumgebung",
+    "Beschreibung": "Einrichtungsanleitung für Google Colab und VS Code beachten.",
+    "Bedingung": "Übung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Allgemein",
+    "Punkt": "Voraussetzungen",
+    "Beschreibung": "Grundkenntnisse in Statistik (Mittelwert, Varianz) erforderlich.",
+    "Bedingung": "Anfänger",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Feature-Skalierung",
+    "Beschreibung": "Ergänzendes Material dazu im Anhang.",
+    "Bedingung": "Modul 3",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Materialien",
+    "Punkt": "Python-Quellcode",
+    "Beschreibung": "Übungscode über unser GitHub-Repository verfügbar.",
+    "Bedingung": "Übungsstunden",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technisch",
+    "Punkt": "Python-Version",
+    "Beschreibung": "Python 3.9 oder höher für Kompatibilität erforderlich.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Bewertung",
+    "Punkt": "Bestanden",
+    "Beschreibung": "Zertifikat bei mind. 80 % Anwesenheit und Gesamtpunktzahl 70+.",
+    "Bedingung": "Abschluss",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Bewertung",
+    "Punkt": "Quiz-Format",
+    "Beschreibung": "Am Ende jeder Lektion ein kurzes 5-Fragen-Quiz.",
+    "Bedingung": "Pro Lektion",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "RAG-Konzepte",
+    "Beschreibung": "Modul 4 erklärt Retrieval-Augmented Generation mit externem Wissen.",
+    "Bedingung": "Modul 4",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Random-Forest-Logik",
+    "Beschreibung": "Funktionsweise von Random Forest auf Seite 45 veranschaulicht.",
+    "Bedingung": "Modul 6",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Materialien",
+    "Punkt": "Literaturliste",
+    "Beschreibung": "Jedes Kapitel enthält weiterführende Fachartikel.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Praxistipps",
+    "Beschreibung": "Kapitel 7 enthält Interviewfragen und Ratschläge von Profis.",
+    "Bedingung": "Modul 7",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Bewertung",
+    "Punkt": "Nachschreibtermin",
+    "Beschreibung": "Ein Nachschreibtermin bei Nichtbestehen.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Allgemein",
+    "Punkt": "Rückerstattung",
+    "Beschreibung": "Rückerstattung ggf. ausgeschlossen bei bereits heruntergeladenen Materialien.",
+    "Bedingung": "Zahlung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Regex-Muster",
+    "Beschreibung": "Regex-Muster zur Textvorverarbeitung in Anhang 2.",
+    "Bedingung": "Modul 3",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Materialien",
+    "Punkt": "Berichtsvorlagen",
+    "Beschreibung": "Google-Docs-Vorlagen im Ressourcenordner.",
+    "Bedingung": "Abgaben",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Forschungsreviews",
+    "Beschreibung": "Monatliche Live-Streams zu aktuellen Data-Science-Papers.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Allgemein",
+    "Punkt": "Zielgruppe",
+    "Beschreibung": "Für Quereinsteiger und Einsteiger in die Datenanalyse.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Antwortbasis",
+    "Beschreibung": "Antworten basieren auf offiziellen Folien und Dozentennotizen.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Support",
+    "Punkt": "Fragenformat",
+    "Beschreibung": "Für schnelle Hilfe die konkrete Folienseite angeben.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technisch",
+    "Punkt": "Software-Stack",
+    "Beschreibung": "Fokus auf Pandas, NumPy und Scikit-learn.",
+    "Bedingung": "Übung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Standardabweichung",
+    "Beschreibung": "Formeln im Abschnitt ‚Statistik-Grundlagen‘ auf Seite 15.",
+    "Bedingung": "Modul 2",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Überwachtes Lernen",
+    "Beschreibung": "Unterschied zu unüberwachtem Lernen auf Seite 22.",
+    "Bedingung": "Modul 3",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Materialien",
+    "Punkt": "Zusatzlinks",
+    "Beschreibung": "Ausgewählte YouTube-Tutorials zur Unterstützung.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Begriffsdefinitionen",
+    "Beschreibung": "Embedding bezeichnet die Umwandlung von Text in Vektoren.",
+    "Bedingung": "Modul 2",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Materialien",
+    "Punkt": "Transkripte",
+    "Beschreibung": "Skripte aller Video-Vorlesungen als Textdateien herunterladbar.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technisch",
+    "Punkt": "Tool-Zugang",
+    "Beschreibung": "Bildungs-Testlizenzen für im Kurs vorgestellte kostenpflichtige Tools.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Materialien",
+    "Punkt": "Aktualisierung",
+    "Beschreibung": "Materialien werden pro Kursdurchlauf an aktuelle Trends angepasst.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Aufgabe",
+    "Punkt": "Video-Abgabe",
+    "Beschreibung": "Präsentationen als nicht gelistetes YouTube- oder Google-Drive-Video.",
+    "Bedingung": "Alle Teilnehmer",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Inhalt",
+    "Punkt": "Visualisierungsprinzipien",
+    "Beschreibung": "Fünf Grundsätze für gute Datenvisualisierung in Modul 8.",
+    "Bedingung": "Modul 8",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technisch",
+    "Punkt": "Visualisierungstools",
+    "Beschreibung": "Schwerpunkt auf Matplotlib und Seaborn.",
+    "Bedingung": "Übung",
+    "Hinweise": "-"
   },
   {
-    "카테고리": "",
-    "항목": "",
-    "상세내용": "",
-    "적용조건": "",
-    "비고": ""
+    "Kategorie": "Technisch",
+    "Punkt": "Workspace-Anbindung",
+    "Beschreibung": "Google-Workspace-Apps mit Studenten-E-Mail verbinden.",
+    "Bedingung": "Neue Teilnehmer",
+    "Hinweise": "-"
   }
 ]
