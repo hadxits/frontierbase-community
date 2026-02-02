@@ -1,82 +1,562 @@
 [
-  {"Categoría": "Personal", "Punto": "Valores", "Descripción": "Perseguimos una cultura de fandom sana donde artistas y fans crecen y se comunican juntos.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Personal", "Punto": "Privacidad", "Descripción": "La información recogida para eventos se destruye tras la entrega de premios.", "Aplicabilidad": "Participantes eventos", "Notas": "-"},
-  {"Categoría": "Actuación", "Punto": "Zona de espera", "Descripción": "Prepare objetos personales (paraguas, calientamanos, etc.) para espera exterior.", "Aplicabilidad": "Presencial", "Notas": "-"},
-  {"Categoría": "Actuación", "Punto": "Taquillas", "Descripción": "Consulte la página de reserva para disponibilidad de taquillas en el recinto.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Actuación", "Punto": "Objetos prohibidos", "Descripción": "Botellas de cristal, fuegos artificiales y láseres prohibidos en el recinto.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Actuación", "Punto": "Política de transferencia", "Descripción": "Entradas transferidas no verificables se deniegan y no son reembolsables.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Actuación", "Punto": "Hora de entrada", "Descripción": "Complete la entrada al menos 30 min antes del espectáculo.", "Aplicabilidad": "Audiencia", "Notas": "-"},
-  {"Categoría": "Etiqueta", "Punto": "Reparto de fans", "Descripción": "Reparto de goods cerca del recinto solo en zonas designadas.", "Aplicabilidad": "Fans individuales", "Notas": "-"},
-  {"Categoría": "Etiqueta", "Punto": "Herramientas de animación", "Descripción": "Herramientas de otros artistas o eslóganes no estándar restringidos.", "Aplicabilidad": "Todos", "Notas": "Excepto lightsticks oficiales"},
-  {"Categoría": "Etiqueta", "Punto": "Política de grabación", "Descripción": "Fotografía, vídeo y audio prohibidos para proteger derechos de autor.", "Aplicabilidad": "Durante el show", "Notas": "Expulsión si se descubre"},
-  {"Categoría": "Merchandising", "Punto": "Método de pago", "Descripción": "Tienda oficial: tarjetas nacionales/internacionales, pagos simples y PayPal.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Merchandising", "Punto": "Tienda oficial", "Descripción": "Goods oficiales vía app móvil [Shop Name].", "Aplicabilidad": "Todos", "Notas": "Envío global"},
-  {"Categoría": "Merchandising", "Punto": "Retraso de envío", "Descripción": "En periodos de comeback, el envío puede retrasarse 1-2 semanas por volumen.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Merchandising", "Punto": "Cambio por defecto", "Descripción": "Si hay daños, contacte en 7 días con vídeo de unboxing.", "Aplicabilidad": "Compradores", "Notas": "Vídeo obligatorio"},
-  {"Categoría": "Merchandising", "Punto": "Fotos de producto", "Descripción": "Verifique fotos reales y lista de componentes en la página MD antes de comprar.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Merchandising", "Punto": "Pre-pedido", "Descripción": "Los pre-pedidos son bajo pedido; cancelaciones difíciles tras pago.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Merchandising", "Punto": "Tienda pop-up", "Descripción": "Pop-ups de comeback pueden operar con reserva previa.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Merchandising", "Punto": "Sincronización lightstick", "Descripción": "Sincronice su número de asiento con el lightstick vía app oficial antes del show.", "Aplicabilidad": "Audiencia", "Notas": "Sincronización Bluetooth"},
-  {"Categoría": "Merchandising", "Punto": "Reposición", "Descripción": "La reposición de artículos agotados se anuncia por Twitter oficial.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Error de app", "Descripción": "Contacte el centro de atención de la plataforma por problemas de conexión.", "Aplicabilidad": "Usuarios app", "Notas": "-"},
-  {"Categoría": "Apoyo", "Punto": "Apoyo donaciones", "Descripción": "Donaciones a nombre del artista fomentadas; certificación oficial soportada.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Apoyo", "Punto": "Regalos/Catering", "Descripción": "Comida y regalos solo tras aprobación previa por email de la agencia.", "Aplicabilidad": "Equipos de apoyo", "Notas": "Nº aprobación req."},
-  {"Categoría": "Apoyo", "Punto": "Artículos rechazados", "Descripción": "Comida perecedera o regalos de lujo pueden rechazarse.", "Aplicabilidad": "Apoyo", "Notas": "-"},
-  {"Categoría": "Apoyo", "Punto": "Confirmación de recibo", "Descripción": "No damos confirmación individual sobre recepción de artículos de apoyo.", "Aplicabilidad": "Equipos de apoyo", "Notas": "-"},
-  {"Categoría": "Apoyo", "Punto": "Coordinación con proveedores", "Descripción": "Horarios de reunión con el equipo de seguridad antes de visitas.", "Aplicabilidad": "Equipos de apoyo", "Notas": "-"},
-  {"Categoría": "Apoyo", "Punto": "Informe financiero", "Descripción": "Registros financieros deben compartirse transparentemente en la comunidad.", "Aplicabilidad": "Recomendado", "Notas": "-"},
-  {"Categoría": "Apoyo", "Punto": "Coronas de felicitación", "Descripción": "La instalación de coronas puede estar restringida por normativa del recinto.", "Aplicabilidad": "Fans clubs", "Notas": "-"},
-  {"Categoría": "Calendario", "Punto": "Calendario oficial", "Descripción": "Emisiones, eventos y actuaciones en el calendario del sitio web oficial.", "Aplicabilidad": "Todos", "Notas": "Actualización en tiempo real"},
-  {"Categoría": "Calendario", "Punto": "Emisión en vivo", "Descripción": "Emisiones sorpresa notificadas por push de la app de comunidad.", "Aplicabilidad": "Todos", "Notas": "Active alertas"},
-  {"Categoría": "Calendario", "Punto": "Music Shows", "Descripción": "Consulte 'Music Show Notice' en la comunidad el día anterior.", "Aplicabilidad": "Miembros fanclub", "Notas": "-"},
-  {"Categoría": "Calendario", "Punto": "Agenda privada", "Descripción": "Visitar espacios privados o agendas no públicas prohibido; baneo.", "Aplicabilidad": "Todos", "Notas": "Tolerancia cero"},
-  {"Categoría": "Calendario", "Punto": "Pre-grabación", "Descripción": "Participación en pre o post-grabaciones limitada a personas preconfirmadas.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Calendario", "Punto": "Zona horaria", "Descripción": "Todos los horarios en hora estándar de Corea (KST, UTC+9).", "Aplicabilidad": "Fans globales", "Notas": "-"},
-  {"Categoría": "Calendario", "Punto": "Cancelación", "Descripción": "Cambios o cancelaciones por salud se anuncian por SNS de inmediato.", "Aplicabilidad": "Emergencia", "Notas": "-"},
-  {"Categoría": "Sistema", "Punto": "Notificaciones", "Descripción": "Avisos importantes vía Telegram o alertas de la app oficial.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Sistema", "Punto": "Búsqueda multilingüe", "Descripción": "Respuestas automáticas multilingües para preguntas principales.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Sistema", "Punto": "Respuesta a consultas", "Descripción": "Horario de conexión directa: laborables 11:00-16:00.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Sistema", "Punto": "Volumen de consultas", "Descripción": "Las respuestas pueden retrasarse en periodos de comeback por volumen.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Sistema", "Punto": "Límite del bot", "Descripción": "Este bot es solo informativo; no hay diálogo directo con el artista.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Seguridad artista", "Punto": "Chat en vivo", "Descripción": "Preguntas que infrinjan privacidad del artista se filtran y bloquean.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Seguridad artista", "Punto": "Reportar rumores", "Descripción": "Email [protect@agency.com] para reportar infracciones o rumores falsos.", "Aplicabilidad": "Todos", "Notas": "Captura PDF rec."},
-  {"Categoría": "Seguridad artista", "Punto": "Respuesta acoso", "Descripción": "Acosar residencias o vehículos del artista tiene consecuencias legales.", "Aplicabilidad": "Todos", "Notas": "Recopilación de pruebas"},
-  {"Categoría": "Seguridad artista", "Punto": "Comentarios maliciosos", "Descripción": "Acción legal contra comentarios maliciosos sin indulgencia.", "Aplicabilidad": "Todos", "Notas": "Consulte actualizaciones"},
-  {"Categoría": "Seguridad artista", "Punto": "Seguridad aeropuerto", "Descripción": "Evite fotografía cercana en el aeropuerto por seguridad.", "Aplicabilidad": "En aeropuerto", "Notas": "-"},
-  {"Categoría": "Seguridad artista", "Punto": "Gira global", "Descripción": "Compartir info de hotel o restaurante durante giras prohibido.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Seguridad artista", "Punto": "Seguridad in situ", "Descripción": "Siga instrucciones del personal de seguridad para el recorrido del artista.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Operación", "Punto": "Negocios", "Descripción": "Envíe propuestas de publicidad o colaboración a [biz@agency.com].", "Aplicabilidad": "Empresas", "Notas": "-"},
-  {"Categoría": "Operación", "Punto": "Audición", "Descripción": "Consulte la pestaña [Audición] para aplicar como trainee.", "Aplicabilidad": "Solicitantes", "Notas": "-"},
-  {"Categoría": "Operación", "Punto": "Formato de reporte", "Descripción": "Al reportar infracción: [Fecha/Plataforma/Contenido/URL].", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Evento", "Punto": "Verificación ganadores", "Descripción": "Ganadores vía contacto individual o tablón de avisos oficial.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Evento", "Punto": "Etiquetas numéricas", "Descripción": "Eventos por orden de llegada según secuencia de etiquetas distribuidas.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Evento", "Punto": "Límite de edad", "Descripción": "Algunos eventos requieren consentimiento parental para menores de 14 años.", "Aplicabilidad": "Menores", "Notas": "-"},
-  {"Categoría": "Evento", "Punto": "Videollamada", "Descripción": "Espere en red estable; las llamadas terminan si hay otra persona presente.", "Aplicabilidad": "Fansign videollamada", "Notas": "-"},
-  {"Categoría": "Evento", "Punto": "Foto grupal", "Descripción": "Foto grupal con el artista tras el evento se subirá.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Evento", "Punto": "Requisitos", "Descripción": "Lightsticks, álbumes e IDs a menudo obligatorios para eventos presenciales.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Evento", "Punto": "Fansign", "Descripción": "Por sorteo entre compradores de álbum; solo ganadores participan.", "Aplicabilidad": "Ganadores", "Notas": "ID requerido"},
-  {"Categoría": "Evento", "Punto": "Evento global", "Descripción": "Info de giras y eventos globales en varios idiomas vía avisos globales.", "Aplicabilidad": "Fans globales", "Notas": "-"},
-  {"Categoría": "Información", "Punto": "Lista de artistas", "Descripción": "Lista actual de artistas en el menú [Artist] del sitio web.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Información", "Punto": "Ubicación", "Descripción": "Oficina en Edificio OO, OO-dong; no hay visitas internas.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Contenidos", "Punto": "Fotos exclusivas", "Descripción": "Fotos exclusivas de membresía actualizadas el día 1 de cada mes.", "Aplicabilidad": "Miembros de pago", "Notas": "-"},
-  {"Categoría": "Contenidos", "Punto": "Fotos inéditas", "Descripción": "Photocards inéditas incluidas aleatoriamente en cada álbum.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Contenidos", "Punto": "Behind-the-scenes", "Descripción": "Vídeos behind-the-scenes en YouTube oficial los viernes a las 18h.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Contenidos", "Punto": "Streaming", "Descripción": "Consulte las directrices del fan union para streaming de música y vídeos.", "Aplicabilidad": "Todos", "Notas": "Recomendado"},
-  {"Categoría": "Contenidos", "Punto": "Subtítulos", "Descripción": "Subtítulos en inglés, japonés y chino en todos los vídeos oficiales.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Contenidos", "Punto": "Derechos de autor", "Descripción": "Captura o compartición no autorizada de contenido de pago puede tener consecuencias legales.", "Aplicabilidad": "Solo membresía", "Notas": "-"},
-  {"Categoría": "Contenidos", "Punto": "Fotolibro", "Descripción": "Season's Greetings y pre-pedidos de fotolibro se anuncian en el segundo semestre.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Ticketing", "Punto": "Comercio ilegal", "Descripción": "Reventa o macros resultan en cancelación y lista negra.", "Aplicabilidad": "Todos", "Notas": "Sin transferencias"},
-  {"Categoría": "Ticketing", "Punto": "Guía pre-venta", "Descripción": "Pre-ventas para miembros verificados antes de venta general.", "Aplicabilidad": "Actuaciones", "Notas": "Vincular cuenta"},
-  {"Categoría": "Ticketing", "Punto": "Asientos silla de ruedas", "Descripción": "Solo vía teléfono en el centro de atención de ticketing.", "Aplicabilidad": "Discapacitados", "Notas": "Prueba req."},
-  {"Categoría": "Carta fan", "Punto": "Formato estándar", "Descripción": "Sobres estándar recomendados; cartas en paquete pueden rechazarse.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Carta fan", "Punto": "Cómo enviar", "Descripción": "Cartas solo por correo o buzones en eventos oficiales.", "Aplicabilidad": "Todos", "Notas": "No entrega a residencia"},
-  {"Categoría": "Fanclub", "Punto": "Alta membresía", "Descripción": "Membresías de pago vía comunidades oficiales (Weverse, Bubble, etc.).", "Aplicabilidad": "Nuevos miembros", "Notas": "Consulte periodo"},
-  {"Categoría": "Fanclub", "Punto": "Renovación", "Descripción": "Renovación posible 30 días antes/después de expiración.", "Aplicabilidad": "Miembros existentes", "Notas": "-"},
-  {"Categoría": "Fanclub", "Punto": "Política de nick", "Descripción": "Nicks con nombres de artista o groserías restringidos.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Fanclub", "Punto": "Beneficios", "Descripción": "Derecho a pre-venta, contenido exclusivo y elegibilidad para kit.", "Aplicabilidad": "Miembros de pago", "Notas": "Varía según duración"},
-  {"Categoría": "Fanclub", "Punto": "Cambio de dirección", "Descripción": "Actualice su dirección en Mi Página antes del envío del kit.", "Aplicabilidad": "Miembros de pago", "Notas": "-"},
-  {"Categoría": "Fanclub", "Punto": "Envío de kit", "Descripción": "Kits de membresía enviados trimestralmente; pueden tardar.", "Aplicabilidad": "Miembros de pago", "Notas": "-"},
-  {"Categoría": "Fanclub", "Punto": "Transferencia de beneficios", "Descripción": "Los derechos de membresía no pueden venderse ni transferirse.", "Aplicabilidad": "Todos", "Notas": "Baneo permanente"},
-  {"Categoría": "Fanclub", "Punto": "Tarjeta de membresía", "Descripción": "Tarjetas móviles en Mi Página de la app de comunidad.", "Aplicabilidad": "Miembros de pago", "Notas": "Tarjeta física sep."},
-  {"Categoría": "Promoción", "Punto": "Lemas", "Descripción": "Anuncios de cumpleaños y apoyo a vallas electrónicas si se cumplen directrices.", "Aplicabilidad": "Todos", "Notas": "Aprobación previa"}
+  {
+    "Categoría": "Personal",
+    "Punto": "Valores",
+    "Descripción": "Perseguimos una cultura de fandom sana donde artistas y fans crecen y se comunican juntos.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Privacidad",
+    "Descripción": "La información recogida para eventos se destruye tras la entrega de premios.",
+    "Aplicabilidad": "Participantes eventos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Actuación",
+    "Punto": "Zona de espera",
+    "Descripción": "Prepare objetos personales (paraguas, calientamanos, etc.) para espera exterior.",
+    "Aplicabilidad": "Presencial",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Actuación",
+    "Punto": "Taquillas",
+    "Descripción": "Consulte la página de reserva para disponibilidad de taquillas en el recinto.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Actuación",
+    "Punto": "Objetos prohibidos",
+    "Descripción": "Botellas de cristal, fuegos artificiales y láseres prohibidos en el recinto.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Actuación",
+    "Punto": "Política de transferencia",
+    "Descripción": "Entradas transferidas no verificables se deniegan y no son reembolsables.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Actuación",
+    "Punto": "Hora de entrada",
+    "Descripción": "Complete la entrada al menos 30 min antes del espectáculo.",
+    "Aplicabilidad": "Audiencia",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Etiqueta",
+    "Punto": "Reparto de fans",
+    "Descripción": "Reparto de goods cerca del recinto solo en zonas designadas.",
+    "Aplicabilidad": "Fans individuales",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Etiqueta",
+    "Punto": "Herramientas de animación",
+    "Descripción": "Herramientas de otros artistas o eslóganes no estándar restringidos.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Excepto lightsticks oficiales"
+  },
+  {
+    "Categoría": "Etiqueta",
+    "Punto": "Política de grabación",
+    "Descripción": "Fotografía, vídeo y audio prohibidos para proteger derechos de autor.",
+    "Aplicabilidad": "Durante el show",
+    "Notas": "Expulsión si se descubre"
+  },
+  {
+    "Categoría": "Merchandising",
+    "Punto": "Método de pago",
+    "Descripción": "Tienda oficial: tarjetas nacionales/internacionales, pagos simples y PayPal.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Merchandising",
+    "Punto": "Tienda oficial",
+    "Descripción": "Goods oficiales vía app móvil [Shop Name].",
+    "Aplicabilidad": "Todos",
+    "Notas": "Envío global"
+  },
+  {
+    "Categoría": "Merchandising",
+    "Punto": "Retraso de envío",
+    "Descripción": "En periodos de comeback, el envío puede retrasarse 1-2 semanas por volumen.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Merchandising",
+    "Punto": "Cambio por defecto",
+    "Descripción": "Si hay daños, contacte en 7 días con vídeo de unboxing.",
+    "Aplicabilidad": "Compradores",
+    "Notas": "Vídeo obligatorio"
+  },
+  {
+    "Categoría": "Merchandising",
+    "Punto": "Fotos de producto",
+    "Descripción": "Verifique fotos reales y lista de componentes en la página MD antes de comprar.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Merchandising",
+    "Punto": "Pre-pedido",
+    "Descripción": "Los pre-pedidos son bajo pedido; cancelaciones difíciles tras pago.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Merchandising",
+    "Punto": "Tienda pop-up",
+    "Descripción": "Pop-ups de comeback pueden operar con reserva previa.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Merchandising",
+    "Punto": "Sincronización lightstick",
+    "Descripción": "Sincronice su número de asiento con el lightstick vía app oficial antes del show.",
+    "Aplicabilidad": "Audiencia",
+    "Notas": "Sincronización Bluetooth"
+  },
+  {
+    "Categoría": "Merchandising",
+    "Punto": "Reposición",
+    "Descripción": "La reposición de artículos agotados se anuncia por Twitter oficial.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Error de app",
+    "Descripción": "Contacte el centro de atención de la plataforma por problemas de conexión.",
+    "Aplicabilidad": "Usuarios app",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Apoyo",
+    "Punto": "Apoyo donaciones",
+    "Descripción": "Donaciones a nombre del artista fomentadas; certificación oficial soportada.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Apoyo",
+    "Punto": "Regalos/Catering",
+    "Descripción": "Comida y regalos solo tras aprobación previa por email de la agencia.",
+    "Aplicabilidad": "Equipos de apoyo",
+    "Notas": "Nº aprobación req."
+  },
+  {
+    "Categoría": "Apoyo",
+    "Punto": "Artículos rechazados",
+    "Descripción": "Comida perecedera o regalos de lujo pueden rechazarse.",
+    "Aplicabilidad": "Apoyo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Apoyo",
+    "Punto": "Confirmación de recibo",
+    "Descripción": "No damos confirmación individual sobre recepción de artículos de apoyo.",
+    "Aplicabilidad": "Equipos de apoyo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Apoyo",
+    "Punto": "Coordinación con proveedores",
+    "Descripción": "Horarios de reunión con el equipo de seguridad antes de visitas.",
+    "Aplicabilidad": "Equipos de apoyo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Apoyo",
+    "Punto": "Informe financiero",
+    "Descripción": "Registros financieros deben compartirse transparentemente en la comunidad.",
+    "Aplicabilidad": "Recomendado",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Apoyo",
+    "Punto": "Coronas de felicitación",
+    "Descripción": "La instalación de coronas puede estar restringida por normativa del recinto.",
+    "Aplicabilidad": "Fans clubs",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Calendario",
+    "Punto": "Calendario oficial",
+    "Descripción": "Emisiones, eventos y actuaciones en el calendario del sitio web oficial.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Actualización en tiempo real"
+  },
+  {
+    "Categoría": "Calendario",
+    "Punto": "Emisión en vivo",
+    "Descripción": "Emisiones sorpresa notificadas por push de la app de comunidad.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Active alertas"
+  },
+  {
+    "Categoría": "Calendario",
+    "Punto": "Music Shows",
+    "Descripción": "Consulte 'Music Show Notice' en la comunidad el día anterior.",
+    "Aplicabilidad": "Miembros fanclub",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Calendario",
+    "Punto": "Agenda privada",
+    "Descripción": "Visitar espacios privados o agendas no públicas prohibido; baneo.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Tolerancia cero"
+  },
+  {
+    "Categoría": "Calendario",
+    "Punto": "Pre-grabación",
+    "Descripción": "Participación en pre o post-grabaciones limitada a personas preconfirmadas.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Calendario",
+    "Punto": "Zona horaria",
+    "Descripción": "Todos los horarios en hora estándar de Corea (KST, UTC+9).",
+    "Aplicabilidad": "Fans globales",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Calendario",
+    "Punto": "Cancelación",
+    "Descripción": "Cambios o cancelaciones por salud se anuncian por SNS de inmediato.",
+    "Aplicabilidad": "Emergencia",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Sistema",
+    "Punto": "Notificaciones",
+    "Descripción": "Avisos importantes vía Telegram o alertas de la app oficial.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Sistema",
+    "Punto": "Búsqueda multilingüe",
+    "Descripción": "Respuestas automáticas multilingües para preguntas principales.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Sistema",
+    "Punto": "Respuesta a consultas",
+    "Descripción": "Horario de conexión directa: laborables 11:00-16:00.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Sistema",
+    "Punto": "Volumen de consultas",
+    "Descripción": "Las respuestas pueden retrasarse en periodos de comeback por volumen.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Sistema",
+    "Punto": "Límite del bot",
+    "Descripción": "Este bot es solo informativo; no hay diálogo directo con el artista.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad artista",
+    "Punto": "Chat en vivo",
+    "Descripción": "Preguntas que infrinjan privacidad del artista se filtran y bloquean.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad artista",
+    "Punto": "Reportar rumores",
+    "Descripción": "Email [protect@agency.com] para reportar infracciones o rumores falsos.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Captura PDF rec."
+  },
+  {
+    "Categoría": "Seguridad artista",
+    "Punto": "Respuesta acoso",
+    "Descripción": "Acosar residencias o vehículos del artista tiene consecuencias legales.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Recopilación de pruebas"
+  },
+  {
+    "Categoría": "Seguridad artista",
+    "Punto": "Comentarios maliciosos",
+    "Descripción": "Acción legal contra comentarios maliciosos sin indulgencia.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Consulte actualizaciones"
+  },
+  {
+    "Categoría": "Seguridad artista",
+    "Punto": "Seguridad aeropuerto",
+    "Descripción": "Evite fotografía cercana en el aeropuerto por seguridad.",
+    "Aplicabilidad": "En aeropuerto",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad artista",
+    "Punto": "Gira global",
+    "Descripción": "Compartir info de hotel o restaurante durante giras prohibido.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad artista",
+    "Punto": "Seguridad in situ",
+    "Descripción": "Siga instrucciones del personal de seguridad para el recorrido del artista.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Negocios",
+    "Descripción": "Envíe propuestas de publicidad o colaboración a [biz@agency.com].",
+    "Aplicabilidad": "Empresas",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Audición",
+    "Descripción": "Consulte la pestaña [Audición] para aplicar como trainee.",
+    "Aplicabilidad": "Solicitantes",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Formato de reporte",
+    "Descripción": "Al reportar infracción: [Fecha/Plataforma/Contenido/URL].",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Evento",
+    "Punto": "Verificación ganadores",
+    "Descripción": "Ganadores vía contacto individual o tablón de avisos oficial.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Evento",
+    "Punto": "Etiquetas numéricas",
+    "Descripción": "Eventos por orden de llegada según secuencia de etiquetas distribuidas.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Evento",
+    "Punto": "Límite de edad",
+    "Descripción": "Algunos eventos requieren consentimiento parental para menores de 14 años.",
+    "Aplicabilidad": "Menores",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Evento",
+    "Punto": "Videollamada",
+    "Descripción": "Espere en red estable; las llamadas terminan si hay otra persona presente.",
+    "Aplicabilidad": "Fansign videollamada",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Evento",
+    "Punto": "Foto grupal",
+    "Descripción": "Foto grupal con el artista tras el evento se subirá.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Evento",
+    "Punto": "Requisitos",
+    "Descripción": "Lightsticks, álbumes e IDs a menudo obligatorios para eventos presenciales.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Evento",
+    "Punto": "Fansign",
+    "Descripción": "Por sorteo entre compradores de álbum; solo ganadores participan.",
+    "Aplicabilidad": "Ganadores",
+    "Notas": "ID requerido"
+  },
+  {
+    "Categoría": "Evento",
+    "Punto": "Evento global",
+    "Descripción": "Info de giras y eventos globales en varios idiomas vía avisos globales.",
+    "Aplicabilidad": "Fans globales",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Información",
+    "Punto": "Lista de artistas",
+    "Descripción": "Lista actual de artistas en el menú [Artist] del sitio web.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Información",
+    "Punto": "Ubicación",
+    "Descripción": "Oficina en Edificio OO, OO-dong; no hay visitas internas.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contenidos",
+    "Punto": "Fotos exclusivas",
+    "Descripción": "Fotos exclusivas de membresía actualizadas el día 1 de cada mes.",
+    "Aplicabilidad": "Miembros de pago",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contenidos",
+    "Punto": "Fotos inéditas",
+    "Descripción": "Photocards inéditas incluidas aleatoriamente en cada álbum.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contenidos",
+    "Punto": "Behind-the-scenes",
+    "Descripción": "Vídeos behind-the-scenes en YouTube oficial los viernes a las 18h.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contenidos",
+    "Punto": "Streaming",
+    "Descripción": "Consulte las directrices del fan union para streaming de música y vídeos.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Recomendado"
+  },
+  {
+    "Categoría": "Contenidos",
+    "Punto": "Subtítulos",
+    "Descripción": "Subtítulos en inglés, japonés y chino en todos los vídeos oficiales.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contenidos",
+    "Punto": "Derechos de autor",
+    "Descripción": "Captura o compartición no autorizada de contenido de pago puede tener consecuencias legales.",
+    "Aplicabilidad": "Solo membresía",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contenidos",
+    "Punto": "Fotolibro",
+    "Descripción": "Season's Greetings y pre-pedidos de fotolibro se anuncian en el segundo semestre.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Ticketing",
+    "Punto": "Comercio ilegal",
+    "Descripción": "Reventa o macros resultan en cancelación y lista negra.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Sin transferencias"
+  },
+  {
+    "Categoría": "Ticketing",
+    "Punto": "Guía pre-venta",
+    "Descripción": "Pre-ventas para miembros verificados antes de venta general.",
+    "Aplicabilidad": "Actuaciones",
+    "Notas": "Vincular cuenta"
+  },
+  {
+    "Categoría": "Ticketing",
+    "Punto": "Asientos silla de ruedas",
+    "Descripción": "Solo vía teléfono en el centro de atención de ticketing.",
+    "Aplicabilidad": "Discapacitados",
+    "Notas": "Prueba req."
+  },
+  {
+    "Categoría": "Carta fan",
+    "Punto": "Formato estándar",
+    "Descripción": "Sobres estándar recomendados; cartas en paquete pueden rechazarse.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Carta fan",
+    "Punto": "Cómo enviar",
+    "Descripción": "Cartas solo por correo o buzones en eventos oficiales.",
+    "Aplicabilidad": "Todos",
+    "Notas": "No entrega a residencia"
+  },
+  {
+    "Categoría": "Fanclub",
+    "Punto": "Alta membresía",
+    "Descripción": "Membresías de pago vía comunidades oficiales (Weverse, Bubble, etc.).",
+    "Aplicabilidad": "Nuevos miembros",
+    "Notas": "Consulte periodo"
+  },
+  {
+    "Categoría": "Fanclub",
+    "Punto": "Renovación",
+    "Descripción": "Renovación posible 30 días antes/después de expiración.",
+    "Aplicabilidad": "Miembros existentes",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Fanclub",
+    "Punto": "Política de nick",
+    "Descripción": "Nicks con nombres de artista o groserías restringidos.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Fanclub",
+    "Punto": "Beneficios",
+    "Descripción": "Derecho a pre-venta, contenido exclusivo y elegibilidad para kit.",
+    "Aplicabilidad": "Miembros de pago",
+    "Notas": "Varía según duración"
+  },
+  {
+    "Categoría": "Fanclub",
+    "Punto": "Cambio de dirección",
+    "Descripción": "Actualice su dirección en Mi Página antes del envío del kit.",
+    "Aplicabilidad": "Miembros de pago",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Fanclub",
+    "Punto": "Envío de kit",
+    "Descripción": "Kits de membresía enviados trimestralmente; pueden tardar.",
+    "Aplicabilidad": "Miembros de pago",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Fanclub",
+    "Punto": "Transferencia de beneficios",
+    "Descripción": "Los derechos de membresía no pueden venderse ni transferirse.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Baneo permanente"
+  },
+  {
+    "Categoría": "Fanclub",
+    "Punto": "Tarjeta de membresía",
+    "Descripción": "Tarjetas móviles en Mi Página de la app de comunidad.",
+    "Aplicabilidad": "Miembros de pago",
+    "Notas": "Tarjeta física sep."
+  },
+  {
+    "Categoría": "Promoción",
+    "Punto": "Lemas",
+    "Descripción": "Anuncios de cumpleaños y apoyo a vallas electrónicas si se cumplen directrices.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Aprobación previa"
+  }
 ]

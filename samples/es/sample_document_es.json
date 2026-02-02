@@ -1,82 +1,562 @@
 [
-  {"Categoría": "Personal", "Punto": "Valor central", "Descripción": "Conectamos la información dispersa para que cualquiera encuentre el conocimiento que necesita en 3 segundos.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Ponderación del título", "Descripción": "Las palabras clave del título tienen mayor peso que las del cuerpo del texto.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Método de búsqueda", "Descripción": "Búsqueda por palabras clave y búsqueda semántica basada en el significado.", "Aplicabilidad": "Todos los usuarios", "Notas": "Consultas en lenguaje natural"},
-  {"Categoría": "Búsqueda", "Punto": "Alcance de búsqueda", "Descripción": "Indexa texto en PDF, Google Docs y Notion, incluido texto en imágenes.", "Aplicabilidad": "Todos los usuarios", "Notas": "OCR soportado"},
-  {"Categoría": "Búsqueda", "Punto": "Límite de resultados", "Descripción": "Muestra los 3-5 fragmentos más relevantes para garantizar precisión.", "Aplicabilidad": "Configuración estándar", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Filtro por fecha", "Descripción": "Los usuarios pueden restringir búsquedas a períodos (ej. solo documentos después de 2024).", "Aplicabilidad": "Búsqueda avanzada", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Control de versiones", "Descripción": "Los resultados priorizan la última versión activa sobre versiones anteriores.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Filtro por departamento", "Descripción": "Permite restringir resultados a departamentos como RRHH, Finanzas o Dev.", "Aplicabilidad": "Empresa", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Manejo de palabras vacías", "Descripción": "El sistema reduce el peso de partículas/conjunciones sin significado.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Optimización de formato", "Descripción": "Filtros optimizados para tipos de documento como plantillas de informe.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Soporte multilingüe", "Descripción": "Busque en documentos en inglés y obtenga resúmenes en coreano (o viceversa).", "Aplicabilidad": "Modo multilingüe", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Filtro de exclusión", "Descripción": "Permite excluir documentos con palabras clave 'negativas' específicas.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Inclusión de comentarios", "Descripción": "El texto de comentarios o anotaciones también es buscable.", "Aplicabilidad": "Opcional", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Coincidencia de consultas", "Descripción": "Coincide documentos según tipo de consulta (ej. 'Cómo' vs 'Consulta numérica').", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Frescura del índice", "Descripción": "Las ediciones se reflejan en el índice en un máximo de 1 hora.", "Aplicabilidad": "Sincronización en tiempo real", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Búsqueda de código", "Descripción": "Identifica y busca bloques de código en documentación técnica por lenguaje.", "Aplicabilidad": "Docs técnicos", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Límite de tamaño de archivo", "Descripción": "Soporta indexación de archivos de hasta 50 MB.", "Aplicabilidad": "Límites del sistema", "Notas": "-"},
-  {"Categoría": "Admin", "Punto": "Escalabilidad", "Descripción": "Arquitectura para búsqueda en tiempo real en más de 1 millón de documentos.", "Aplicabilidad": "Sistema completo", "Notas": "-"},
-  {"Categoría": "Admin", "Punto": "Eliminación de datos", "Descripción": "Los documentos eliminados se retiran del índice inmediatamente.", "Aplicabilidad": "Al eliminar", "Notas": "No recuperable"},
-  {"Categoría": "Admin", "Punto": "Validación de enlaces", "Descripción": "Comprueba periódicamente la validez de enlaces externos.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Admin", "Punto": "Filtrado por metadatos", "Descripción": "Filtro por título, autor, etiquetas y fecha de última modificación.", "Aplicabilidad": "Búsqueda avanzada", "Notas": "-"},
-  {"Categoría": "Admin", "Punto": "Auto-indexación", "Descripción": "Los archivos en la carpeta Google Drive designada se indexan automáticamente.", "Aplicabilidad": "Administradores", "Notas": "PDF, DOCX, TXT"},
-  {"Categoría": "Admin", "Punto": "Procesamiento OCR", "Descripción": "Los PDF escaneados se convierten en texto buscable vía OCR.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Admin", "Punto": "Aprobación de conocimiento", "Descripción": "Solo documentos aprobados por administradores sirven como base para el bot.", "Aplicabilidad": "Control de calidad", "Notas": "-"},
-  {"Categoría": "Admin", "Punto": "Política de archivo", "Descripción": "Documentos de más de 5 años se archivan y excluyen de resultados estándar.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Admin", "Punto": "Búsqueda por autor", "Descripción": "Búsqueda de documentos por autor o equipo.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Admin", "Punto": "Control de acceso", "Descripción": "Los resultados solo muestran documentos permitidos por la ACL del usuario.", "Aplicabilidad": "Empresa", "Notas": "Cumplimiento de seguridad"},
-  {"Categoría": "Admin", "Punto": "Manejo de duplicados", "Descripción": "En duplicados, la versión más recientemente editada tiene prioridad.", "Aplicabilidad": "Duplicados", "Notas": "-"},
-  {"Categoría": "Admin", "Punto": "Sistema de etiquetas", "Descripción": "Sistema de etiquetado estandarizado (#Manual, #Regulación, #SoporteTécnico).", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Integración API", "Descripción": "El bot de búsqueda puede invocarse desde Slack o Microsoft Teams.", "Aplicabilidad": "Integraciones externas", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Sistema de ranking", "Descripción": "Optimiza resultados según clics y feedback de usuarios.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Base de datos vectorial", "Descripción": "Base vectorial de alto rendimiento para respuestas en menos de 1 segundo.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Enmascaramiento de privacidad", "Descripción": "Los datos PII sensibles en resultados pueden enmascararse.", "Aplicabilidad": "Seguridad PII", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Limitación de tasa", "Descripción": "Límites para evitar sobrecarga por consultas masivas automatizadas.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Snapshot de conocimiento", "Descripción": "Snapshots de la base para verificar regulaciones históricas.", "Aplicabilidad": "Cumplimiento", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Reconocimiento de entidades", "Descripción": "Identifica nombres propios (productos, proyectos) para coincidencia precisa.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Análisis visual", "Descripción": "Analiza leyendas y metadatos de diagramas y gráficos.", "Aplicabilidad": "Multimodal", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Embeddings", "Descripción": "Modelos de embedding para calcular similitud semántica entre frases.", "Aplicabilidad": "Sistema", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Análisis de intención", "Descripción": "Detecta la intención del usuario (explicación, método, cifra concreta, etc.).", "Aplicabilidad": "Análisis de consultas", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Estrategia de fragmentación", "Descripción": "Los documentos se dividen en fragmentos semánticos para máxima precisión.", "Aplicabilidad": "Todos los usuarios", "Notas": "Mantiene contexto"},
-  {"Categoría": "Técnico", "Punto": "Caché de resultados", "Descripción": "Las consultas frecuentes se cachean para respuestas casi instantáneas.", "Aplicabilidad": "Rendimiento", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Memoria de contexto", "Descripción": "Recuerda el contexto de preguntas previas para consultas de seguimiento.", "Aplicabilidad": "Búsqueda conversacional", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Expansión de consultas", "Descripción": "Expande palabras clave cortas en frases más ricas.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Tokenización", "Descripción": "Segmenta texto en unidades de token óptimas para embeddings.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Búsqueda híbrida", "Descripción": "Combina búsqueda vectorial (semántica) y por palabras clave (léxica).", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Respuesta", "Punto": "Legibilidad", "Descripción": "Frases concisas y viñetas para respuestas claras y escaneables.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Respuesta", "Punto": "Consultas relacionadas", "Descripción": "Recomienda 'Términos de búsqueda relacionados' al final de la respuesta.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Respuesta", "Punto": "Resumen de docs largos", "Descripción": "Si la fuente es muy larga, se muestra resumen primero con opción 'Leer más'.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Respuesta", "Punto": "Paso a paso", "Descripción": "Pasos numerados (1, 2, 3) para procesos o guías.", "Aplicabilidad": "Metodología", "Notas": "-"},
-  {"Categoría": "Respuesta", "Punto": "Citas", "Descripción": "Lista nombre del documento y número de página para cada dato.", "Aplicabilidad": "Todos los usuarios", "Notas": "Garantiza fiabilidad de la fuente"},
-  {"Categoría": "Respuesta", "Punto": "Política sin información", "Descripción": "Si no hay información relevante, el bot lo indica en lugar de adivinar.", "Aplicabilidad": "Brecha de datos", "Notas": "Anti-alucinación"},
-  {"Categoría": "Respuesta", "Punto": "Puntuación de confianza", "Descripción": "Calcula internamente cuánto encaja la respuesta con la fuente.", "Aplicabilidad": "Validación", "Notas": "-"},
-  {"Categoría": "Respuesta", "Punto": "Estilo de resumen", "Descripción": "Los resúmenes se basan estrictamente en el texto fuente.", "Aplicabilidad": "Modo resumen", "Notas": "-"},
-  {"Categoría": "Respuesta", "Punto": "Etiquetado de autor", "Descripción": "Incluye enlaces directos de Slack al autor original del documento.", "Aplicabilidad": "Empresa", "Notas": "-"},
-  {"Categoría": "Respuesta", "Punto": "Citas en bloque", "Descripción": "Formato de cita (>) para frases textuales clave de la fuente.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Respuesta", "Punto": "Vista previa de archivo", "Descripción": "Miniatura de la página de la que se extrajo la información.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Respuesta", "Punto": "Tablas/Gráficos", "Descripción": "Reconstruye datos tabulares en formato Markdown para legibilidad.", "Aplicabilidad": "Muchos datos", "Notas": "-"},
-  {"Categoría": "Respuesta", "Punto": "Enlaces profundos", "Descripción": "Enlaces directos a la ubicación exacta en Google Drive o Notion.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Seguridad", "Punto": "Aislamiento de datos", "Descripción": "Los datos de conocimiento se separan lógicamente por cliente.", "Aplicabilidad": "B2B", "Notas": "-"},
-  {"Categoría": "Seguridad", "Punto": "Cifrado de datos", "Descripción": "Los datos indexados se cifran y almacenan en entorno cloud seguro.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Seguridad", "Punto": "Soberanía de datos", "Descripción": "Los documentos solicitados para eliminación se borran en 24h, incluido backups.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Seguridad", "Punto": "Registro de auditoría", "Descripción": "Registra quién buscó qué documentos.", "Aplicabilidad": "Cumplimiento", "Notas": "-"},
-  {"Categoría": "Seguridad", "Punto": "Acceso anómalo", "Descripción": "Alerta al equipo de seguridad si se detecta acceso masivo anormal.", "Aplicabilidad": "Seguridad mejorada", "Notas": "-"},
-  {"Categoría": "Operaciones", "Punto": "Análisis de palabras clave", "Descripción": "Analiza términos de búsqueda para identificar brechas de conocimiento.", "Aplicabilidad": "Administradores", "Notas": "PII excluido"},
-  {"Categoría": "Operaciones", "Punto": "Fijar avisos", "Descripción": "Documentos urgentes o recientes pueden fijarse arriba de los resultados.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Operaciones", "Punto": "Encuesta de satisfacción", "Descripción": "Recopila satisfacción para ajustar el rendimiento del modelo.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Operaciones", "Punto": "Estadísticas de uso", "Descripción": "Visualiza volumen de consultas y tasa de éxito en panel de admin.", "Aplicabilidad": "Administradores", "Notas": "-"},
-  {"Categoría": "Operaciones", "Punto": "Alertas de suscripción", "Descripción": "Notifica cuando se añaden documentos relacionados con intereses del usuario.", "Aplicabilidad": "Suscripción", "Notas": "-"},
-  {"Categoría": "Operaciones", "Punto": "Estado de subida", "Descripción": "Muestra estado 'Actualizando' durante subidas masivas.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Operaciones", "Punto": "Corrección ortográfica", "Descripción": "Corrige automáticamente errores tipográficos en consultas.", "Aplicabilidad": "Todos los usuarios", "Notas": "Estilo Google"},
-  {"Categoría": "Operaciones", "Punto": "Glosario interno", "Descripción": "Diccionario de jerga técnica y abreviaturas internas.", "Aplicabilidad": "Todos los usuarios", "Notas": "Soporte de sinónimos"},
-  {"Categoría": "Operaciones", "Punto": "Formación trimestral", "Descripción": "Sesiones trimestrales para maximizar el uso del bot.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Operaciones", "Punto": "Comprobaciones de integridad", "Descripción": "Comprueba la integridad del índice cada domingo por la mañana.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Operaciones", "Punto": "Feedback de usuario", "Descripción": "Los usuarios pueden valorar la calidad con botones pulgar arriba/abajo.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Política", "Punto": "Confidencialidad", "Descripción": "Documentos restringidos se marcan 'Solo uso interno'.", "Aplicabilidad": "Documentos seguros", "Notas": "-"},
-  {"Categoría": "Política", "Punto": "Propiedad intelectual", "Descripción": "Los derechos de autor permanecen con el autor o departamento original.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Soporte", "Punto": "Operadores de búsqueda", "Descripción": "Guía de operadores (AND, OR, \"\") para búsquedas precisas.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Soporte", "Punto": "Consistencia de traducción", "Descripción": "Traducción coherente de términos técnicos en búsqueda multilingüe.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Soporte", "Punto": "Consultas sin resultado", "Descripción": "Orienta al contacto del departamento si falta información.", "Aplicabilidad": "Brecha de datos", "Notas": "-"},
-  {"Categoría": "Soporte", "Punto": "Modo sin conexión", "Descripción": "Búsqueda en documentos cacheados localmente sin conexión.", "Aplicabilidad": "Versión app", "Notas": "-"}
+  {
+    "Categoría": "Personal",
+    "Punto": "Valor central",
+    "Descripción": "Conectamos la información dispersa para que cualquiera encuentre el conocimiento que necesita en 3 segundos.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Ponderación del título",
+    "Descripción": "Las palabras clave del título tienen mayor peso que las del cuerpo del texto.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Método de búsqueda",
+    "Descripción": "Búsqueda por palabras clave y búsqueda semántica basada en el significado.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "Consultas en lenguaje natural"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Alcance de búsqueda",
+    "Descripción": "Indexa texto en PDF, Google Docs y Notion, incluido texto en imágenes.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "OCR soportado"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Límite de resultados",
+    "Descripción": "Muestra los 3-5 fragmentos más relevantes para garantizar precisión.",
+    "Aplicabilidad": "Configuración estándar",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Filtro por fecha",
+    "Descripción": "Los usuarios pueden restringir búsquedas a períodos (ej. solo documentos después de 2024).",
+    "Aplicabilidad": "Búsqueda avanzada",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Control de versiones",
+    "Descripción": "Los resultados priorizan la última versión activa sobre versiones anteriores.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Filtro por departamento",
+    "Descripción": "Permite restringir resultados a departamentos como RRHH, Finanzas o Dev.",
+    "Aplicabilidad": "Empresa",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Manejo de palabras vacías",
+    "Descripción": "El sistema reduce el peso de partículas/conjunciones sin significado.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Optimización de formato",
+    "Descripción": "Filtros optimizados para tipos de documento como plantillas de informe.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Soporte multilingüe",
+    "Descripción": "Busque en documentos en inglés y obtenga resúmenes en coreano (o viceversa).",
+    "Aplicabilidad": "Modo multilingüe",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Filtro de exclusión",
+    "Descripción": "Permite excluir documentos con palabras clave 'negativas' específicas.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Inclusión de comentarios",
+    "Descripción": "El texto de comentarios o anotaciones también es buscable.",
+    "Aplicabilidad": "Opcional",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Coincidencia de consultas",
+    "Descripción": "Coincide documentos según tipo de consulta (ej. 'Cómo' vs 'Consulta numérica').",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Frescura del índice",
+    "Descripción": "Las ediciones se reflejan en el índice en un máximo de 1 hora.",
+    "Aplicabilidad": "Sincronización en tiempo real",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Búsqueda de código",
+    "Descripción": "Identifica y busca bloques de código en documentación técnica por lenguaje.",
+    "Aplicabilidad": "Docs técnicos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Límite de tamaño de archivo",
+    "Descripción": "Soporta indexación de archivos de hasta 50 MB.",
+    "Aplicabilidad": "Límites del sistema",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Escalabilidad",
+    "Descripción": "Arquitectura para búsqueda en tiempo real en más de 1 millón de documentos.",
+    "Aplicabilidad": "Sistema completo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Eliminación de datos",
+    "Descripción": "Los documentos eliminados se retiran del índice inmediatamente.",
+    "Aplicabilidad": "Al eliminar",
+    "Notas": "No recuperable"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Validación de enlaces",
+    "Descripción": "Comprueba periódicamente la validez de enlaces externos.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Filtrado por metadatos",
+    "Descripción": "Filtro por título, autor, etiquetas y fecha de última modificación.",
+    "Aplicabilidad": "Búsqueda avanzada",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Auto-indexación",
+    "Descripción": "Los archivos en la carpeta Google Drive designada se indexan automáticamente.",
+    "Aplicabilidad": "Administradores",
+    "Notas": "PDF, DOCX, TXT"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Procesamiento OCR",
+    "Descripción": "Los PDF escaneados se convierten en texto buscable vía OCR.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Aprobación de conocimiento",
+    "Descripción": "Solo documentos aprobados por administradores sirven como base para el bot.",
+    "Aplicabilidad": "Control de calidad",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Política de archivo",
+    "Descripción": "Documentos de más de 5 años se archivan y excluyen de resultados estándar.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Búsqueda por autor",
+    "Descripción": "Búsqueda de documentos por autor o equipo.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Control de acceso",
+    "Descripción": "Los resultados solo muestran documentos permitidos por la ACL del usuario.",
+    "Aplicabilidad": "Empresa",
+    "Notas": "Cumplimiento de seguridad"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Manejo de duplicados",
+    "Descripción": "En duplicados, la versión más recientemente editada tiene prioridad.",
+    "Aplicabilidad": "Duplicados",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Sistema de etiquetas",
+    "Descripción": "Sistema de etiquetado estandarizado (#Manual, #Regulación, #SoporteTécnico).",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Integración API",
+    "Descripción": "El bot de búsqueda puede invocarse desde Slack o Microsoft Teams.",
+    "Aplicabilidad": "Integraciones externas",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Sistema de ranking",
+    "Descripción": "Optimiza resultados según clics y feedback de usuarios.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Base de datos vectorial",
+    "Descripción": "Base vectorial de alto rendimiento para respuestas en menos de 1 segundo.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Enmascaramiento de privacidad",
+    "Descripción": "Los datos PII sensibles en resultados pueden enmascararse.",
+    "Aplicabilidad": "Seguridad PII",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Limitación de tasa",
+    "Descripción": "Límites para evitar sobrecarga por consultas masivas automatizadas.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Snapshot de conocimiento",
+    "Descripción": "Snapshots de la base para verificar regulaciones históricas.",
+    "Aplicabilidad": "Cumplimiento",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Reconocimiento de entidades",
+    "Descripción": "Identifica nombres propios (productos, proyectos) para coincidencia precisa.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Análisis visual",
+    "Descripción": "Analiza leyendas y metadatos de diagramas y gráficos.",
+    "Aplicabilidad": "Multimodal",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Embeddings",
+    "Descripción": "Modelos de embedding para calcular similitud semántica entre frases.",
+    "Aplicabilidad": "Sistema",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Análisis de intención",
+    "Descripción": "Detecta la intención del usuario (explicación, método, cifra concreta, etc.).",
+    "Aplicabilidad": "Análisis de consultas",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Estrategia de fragmentación",
+    "Descripción": "Los documentos se dividen en fragmentos semánticos para máxima precisión.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "Mantiene contexto"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Caché de resultados",
+    "Descripción": "Las consultas frecuentes se cachean para respuestas casi instantáneas.",
+    "Aplicabilidad": "Rendimiento",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Memoria de contexto",
+    "Descripción": "Recuerda el contexto de preguntas previas para consultas de seguimiento.",
+    "Aplicabilidad": "Búsqueda conversacional",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Expansión de consultas",
+    "Descripción": "Expande palabras clave cortas en frases más ricas.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Tokenización",
+    "Descripción": "Segmenta texto en unidades de token óptimas para embeddings.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Búsqueda híbrida",
+    "Descripción": "Combina búsqueda vectorial (semántica) y por palabras clave (léxica).",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Respuesta",
+    "Punto": "Legibilidad",
+    "Descripción": "Frases concisas y viñetas para respuestas claras y escaneables.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Respuesta",
+    "Punto": "Consultas relacionadas",
+    "Descripción": "Recomienda 'Términos de búsqueda relacionados' al final de la respuesta.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Respuesta",
+    "Punto": "Resumen de docs largos",
+    "Descripción": "Si la fuente es muy larga, se muestra resumen primero con opción 'Leer más'.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Respuesta",
+    "Punto": "Paso a paso",
+    "Descripción": "Pasos numerados (1, 2, 3) para procesos o guías.",
+    "Aplicabilidad": "Metodología",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Respuesta",
+    "Punto": "Citas",
+    "Descripción": "Lista nombre del documento y número de página para cada dato.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "Garantiza fiabilidad de la fuente"
+  },
+  {
+    "Categoría": "Respuesta",
+    "Punto": "Política sin información",
+    "Descripción": "Si no hay información relevante, el bot lo indica en lugar de adivinar.",
+    "Aplicabilidad": "Brecha de datos",
+    "Notas": "Anti-alucinación"
+  },
+  {
+    "Categoría": "Respuesta",
+    "Punto": "Puntuación de confianza",
+    "Descripción": "Calcula internamente cuánto encaja la respuesta con la fuente.",
+    "Aplicabilidad": "Validación",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Respuesta",
+    "Punto": "Estilo de resumen",
+    "Descripción": "Los resúmenes se basan estrictamente en el texto fuente.",
+    "Aplicabilidad": "Modo resumen",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Respuesta",
+    "Punto": "Etiquetado de autor",
+    "Descripción": "Incluye enlaces directos de Slack al autor original del documento.",
+    "Aplicabilidad": "Empresa",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Respuesta",
+    "Punto": "Citas en bloque",
+    "Descripción": "Formato de cita (>) para frases textuales clave de la fuente.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Respuesta",
+    "Punto": "Vista previa de archivo",
+    "Descripción": "Miniatura de la página de la que se extrajo la información.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Respuesta",
+    "Punto": "Tablas/Gráficos",
+    "Descripción": "Reconstruye datos tabulares en formato Markdown para legibilidad.",
+    "Aplicabilidad": "Muchos datos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Respuesta",
+    "Punto": "Enlaces profundos",
+    "Descripción": "Enlaces directos a la ubicación exacta en Google Drive o Notion.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad",
+    "Punto": "Aislamiento de datos",
+    "Descripción": "Los datos de conocimiento se separan lógicamente por cliente.",
+    "Aplicabilidad": "B2B",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad",
+    "Punto": "Cifrado de datos",
+    "Descripción": "Los datos indexados se cifran y almacenan en entorno cloud seguro.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad",
+    "Punto": "Soberanía de datos",
+    "Descripción": "Los documentos solicitados para eliminación se borran en 24h, incluido backups.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad",
+    "Punto": "Registro de auditoría",
+    "Descripción": "Registra quién buscó qué documentos.",
+    "Aplicabilidad": "Cumplimiento",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad",
+    "Punto": "Acceso anómalo",
+    "Descripción": "Alerta al equipo de seguridad si se detecta acceso masivo anormal.",
+    "Aplicabilidad": "Seguridad mejorada",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Análisis de palabras clave",
+    "Descripción": "Analiza términos de búsqueda para identificar brechas de conocimiento.",
+    "Aplicabilidad": "Administradores",
+    "Notas": "PII excluido"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Fijar avisos",
+    "Descripción": "Documentos urgentes o recientes pueden fijarse arriba de los resultados.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Encuesta de satisfacción",
+    "Descripción": "Recopila satisfacción para ajustar el rendimiento del modelo.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Estadísticas de uso",
+    "Descripción": "Visualiza volumen de consultas y tasa de éxito en panel de admin.",
+    "Aplicabilidad": "Administradores",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Alertas de suscripción",
+    "Descripción": "Notifica cuando se añaden documentos relacionados con intereses del usuario.",
+    "Aplicabilidad": "Suscripción",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Estado de subida",
+    "Descripción": "Muestra estado 'Actualizando' durante subidas masivas.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Corrección ortográfica",
+    "Descripción": "Corrige automáticamente errores tipográficos en consultas.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "Estilo Google"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Glosario interno",
+    "Descripción": "Diccionario de jerga técnica y abreviaturas internas.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "Soporte de sinónimos"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Formación trimestral",
+    "Descripción": "Sesiones trimestrales para maximizar el uso del bot.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Comprobaciones de integridad",
+    "Descripción": "Comprueba la integridad del índice cada domingo por la mañana.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Feedback de usuario",
+    "Descripción": "Los usuarios pueden valorar la calidad con botones pulgar arriba/abajo.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Política",
+    "Punto": "Confidencialidad",
+    "Descripción": "Documentos restringidos se marcan 'Solo uso interno'.",
+    "Aplicabilidad": "Documentos seguros",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Política",
+    "Punto": "Propiedad intelectual",
+    "Descripción": "Los derechos de autor permanecen con el autor o departamento original.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Soporte",
+    "Punto": "Operadores de búsqueda",
+    "Descripción": "Guía de operadores (AND, OR, \"\") para búsquedas precisas.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Soporte",
+    "Punto": "Consistencia de traducción",
+    "Descripción": "Traducción coherente de términos técnicos en búsqueda multilingüe.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Soporte",
+    "Punto": "Consultas sin resultado",
+    "Descripción": "Orienta al contacto del departamento si falta información.",
+    "Aplicabilidad": "Brecha de datos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Soporte",
+    "Punto": "Modo sin conexión",
+    "Descripción": "Búsqueda en documentos cacheados localmente sin conexión.",
+    "Aplicabilidad": "Versión app",
+    "Notas": "-"
+  }
 ]

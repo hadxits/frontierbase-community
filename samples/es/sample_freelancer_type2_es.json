@@ -1,82 +1,562 @@
 [
-  {"Categoría": "IP", "Punto": "Propiedad intelectual", "Descripción": "Todos los currículos y materiales del curso permanecen como propiedad del instructor.", "Aplicabilidad": "Todos los servicios", "Notas": "-"},
-  {"Categoría": "IP", "Punto": "Cita de fuentes", "Descripción": "Todas las fuentes externas se citan con hipervínculos directos en informes y materiales.", "Aplicabilidad": "Informes/Materiales", "Notas": "-"},
-  {"Categoría": "Clase", "Punto": "Sesión Q&A", "Descripción": "Sesión Q&A en vivo de 15 min inmediatamente después de cada clase.", "Aplicabilidad": "Todas las clases", "Notas": "-"},
-  {"Categoría": "Clase", "Punto": "Modo de entrega", "Descripción": "Clases online en tiempo real vía Google Meet preferidas.", "Aplicabilidad": "Online", "Notas": "-"},
-  {"Categoría": "Clase", "Punto": "Materiales", "Descripción": "PDF de resumen tras la clase; archivos PPT originales no proporcionados.", "Aplicabilidad": "Todos los alumnos", "Notas": "Solo PDF"},
-  {"Categoría": "Clase", "Punto": "Coaching grupal", "Descripción": "Sesiones de coaching intensivo para grupos pequeños (4-5 personas).", "Aplicabilidad": "Talleres", "Notas": "-"},
-  {"Categoría": "Clase", "Punto": "Niveles de dificultad", "Descripción": "Currículos personalizados de principiante a experto.", "Aplicabilidad": "Todos los cursos", "Notas": "-"},
-  {"Categoría": "Clase", "Punto": "Política de grabación", "Descripción": "Reventa comercial de grabaciones estrictamente prohibida.", "Aplicabilidad": "Todas las clases", "Notas": "Aprobación previa requerida"},
-  {"Categoría": "Clase", "Punto": "Webinars en vivo", "Descripción": "Webinars privados vía YouTube Live soportados.", "Aplicabilidad": "Online", "Notas": "-"},
-  {"Categoría": "Clase", "Punto": "Actualización de contenido", "Descripción": "Todo el contenido se actualiza con datos del sector cada S1.", "Aplicabilidad": "Todo el contenido", "Notas": "-"},
-  {"Categoría": "Clase", "Punto": "Pre-tareas", "Descripción": "Material de pre-lectura distribuido para maximizar eficiencia.", "Aplicabilidad": "Todas las clases", "Notas": "-"},
-  {"Categoría": "Clase", "Punto": "Capacidad", "Descripción": "Máximo 20 participantes recomendado para talleres prácticos.", "Aplicabilidad": "Talleres", "Notas": "Negociable"},
-  {"Categoría": "Clase", "Punto": "Certificación", "Descripción": "Certificados digitales de finalización (PDF) bajo solicitud.", "Aplicabilidad": "Cursos largo plazo", "Notas": "-"},
-  {"Categoría": "Clase", "Punto": "Entorno de laboratorio", "Descripción": "Entornos prácticos vía Google Colab.", "Aplicabilidad": "Cursos de datos", "Notas": "-"},
-  {"Categoría": "Clase", "Punto": "Clases presenciales", "Descripción": "Visitas in situ bajo solicitud; gastos de viaje facturados aparte.", "Aplicabilidad": "Presencial", "Notas": "Según distancia"},
-  {"Categoría": "Clase", "Punto": "Subtítulos", "Descripción": "Subtítulos en tiempo real con IA para sesiones en inglés.", "Aplicabilidad": "Alumnos globales", "Notas": "-"},
-  {"Categoría": "Clase", "Punto": "Equipo AV", "Descripción": "Emisión HD con Logitech 4K Cam y micrófono Blue Yeti.", "Aplicabilidad": "Online", "Notas": "-"},
-  {"Categoría": "Clase", "Punto": "Integración LMS", "Descripción": "Contenido grabado subible al LMS del cliente.", "Aplicabilidad": "Contenido grabado", "Notas": "-"},
-  {"Categoría": "Clase", "Punto": "Feedback", "Descripción": "Encuestas de satisfacción vía Google Forms tras cada sesión.", "Aplicabilidad": "Todas las clases", "Notas": "-"},
-  {"Categoría": "Personal", "Punto": "MBTI", "Descripción": "ENTJ: enfoque sistemático y orientado a estrategia.", "Aplicabilidad": "Perfil", "Notas": "-"},
-  {"Categoría": "Personal", "Punto": "Residencia", "Descripción": "Con base en Corea del Sur; colaboración global a distancia.", "Aplicabilidad": "Ubicación", "Notas": "-"},
-  {"Categoría": "Personal", "Punto": "Disponibilidad", "Descripción": "07:00-09:00 KST reservado para desarrollo personal; respuestas pueden retrasarse.", "Aplicabilidad": "Días laborables", "Notas": "-"},
-  {"Categoría": "Personal", "Punto": "Visión", "Descripción": "Misión: empoderar a otros mediante el intercambio sistemático de conocimiento.", "Aplicabilidad": "Todo el trabajo", "Notas": "-"},
-  {"Categoría": "Personal", "Punto": "Intereses", "Descripción": "Senderismo los fines de semana para generar nuevas ideas de clase.", "Aplicabilidad": "Personal", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Métodos", "Descripción": "Transferencias en divisas aceptadas vía PayPal, Stripe y Wise.", "Aplicabilidad": "Clientes globales", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Pre-pago", "Descripción": "Matrícula pagada en su totalidad 7 días antes del inicio.", "Aplicabilidad": "Servicios educativos", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Impuestos", "Descripción": "Retenciones por pagos internacionales a cargo del cliente.", "Aplicabilidad": "Contratos globales", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Gastos por demora", "Descripción": "5% de recargo semanal sobre pagos vencidos.", "Aplicabilidad": "Facturas impagadas", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Recibos", "Descripción": "Recibos PayPal para documentación de gastos corporativos.", "Aplicabilidad": "Todos los pagos", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Facturación", "Descripción": "Facturas oficiales por email y alojadas en Google Drive.", "Aplicabilidad": "Todos los clientes", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Puntos de fidelidad", "Descripción": "5% de crédito para reservas repetidas de clases.", "Aplicabilidad": "Clientes recurrentes", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Reembolsos", "Descripción": "En terminación anticipada, reembolso solo de sesiones restantes.", "Aplicabilidad": "Educación", "Notas": "Tasas deducidas"},
-  {"Categoría": "Contrato", "Punto": "NDA", "Descripción": "El trabajo comienza solo tras firmar NDA para proteger datos del cliente.", "Aplicabilidad": "Consultoría", "Notas": "-"},
-  {"Categoría": "Contrato", "Punto": "Ejecución", "Descripción": "Contratos electrónicos enviados y firmados vía DocuSign.", "Aplicabilidad": "Todos los contratos", "Notas": "-"},
-  {"Categoría": "Contrato", "Punto": "Uso de contenido", "Descripción": "Modificación secundaria o redistribución requiere negociación previa.", "Aplicabilidad": "Todos los materiales", "Notas": "-"},
-  {"Categoría": "Contrato", "Punto": "Prorrogas", "Descripción": "Prorroga de proyecto con acuerdo mutuo 2 semanas antes.", "Aplicabilidad": "Largo plazo", "Notas": "-"},
-  {"Categoría": "Contrato", "Punto": "Planificación", "Descripción": "Reserve sesiones vía enlace Calendly (integrado con Google Calendar).", "Aplicabilidad": "Todas las reuniones", "Notas": "Reserva 24h antes"},
-  {"Categoría": "Contrato", "Punto": "Dirección fiscal", "Descripción": "Dirección registrada en Seúl para fiscalidad y contabilidad.", "Aplicabilidad": "Fiscal/Admin", "Notas": "-"},
-  {"Categoría": "Contrato", "Punto": "Cancelación", "Descripción": "Cancelación en 24h antes de reunión: 50% de tasas de sesión.", "Aplicabilidad": "Todas las reuniones", "Notas": "-"},
-  {"Categoría": "Marketing", "Punto": "Newsletter", "Descripción": "Informes mensuales de tendencias del sector vía newsletter.", "Aplicabilidad": "Suscriptores", "Notas": "-"},
-  {"Categoría": "Marketing", "Punto": "Blog", "Descripción": "Columnas profesionales en Medium y Brunch.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Marketing", "Punto": "Conferencias", "Descripción": "Ponente anual en conferencias globales de tech y estrategia.", "Aplicabilidad": "Todo el trabajo", "Notas": "-"},
-  {"Categoría": "Marketing", "Punto": "Referidos", "Descripción": "10% de descuento en la próxima sesión por referido exitoso.", "Aplicabilidad": "Todos los clientes", "Notas": "-"},
-  {"Categoría": "Seguridad", "Punto": "2FA", "Descripción": "Todas las cuentas de negocio aseguradas con Google OTP.", "Aplicabilidad": "Todo el trabajo", "Notas": "-"},
-  {"Categoría": "Seguridad", "Punto": "Compartir credenciales", "Descripción": "Credenciales sensibles compartidas exclusivamente vía Bitwarden.", "Aplicabilidad": "Colaboración", "Notas": "-"},
-  {"Categoría": "Seguridad", "Punto": "Eliminación de datos", "Descripción": "Datos del proyecto eliminados permanentemente 6 meses tras fin del contrato.", "Aplicabilidad": "Post-proyecto", "Notas": "-"},
-  {"Categoría": "Seguridad", "Punto": "Copias de seguridad", "Descripción": "Transcripciones y documentos respaldados en Google Drive.", "Aplicabilidad": "Todos los proyectos", "Notas": "-"},
-  {"Categoría": "Comunicación", "Punto": "Llamada intro", "Descripción": "15 min de consulta de compatibilidad gratuita.", "Aplicabilidad": "Nuevos clientes", "Notas": "-"},
-  {"Categoría": "Comunicación", "Punto": "Canales", "Descripción": "Comunicación por email y Slack, excepto urgencias.", "Aplicabilidad": "Todo el trabajo", "Notas": "-"},
-  {"Categoría": "Comunicación", "Punto": "Idioma", "Descripción": "Consultoría disponible en coreano e inglés.", "Aplicabilidad": "Todo el trabajo", "Notas": "-"},
-  {"Categoría": "Comunicación", "Punto": "Horario", "Descripción": "Respuestas en tiempo real lun-vie 09:00-18:00 (GMT+9).", "Aplicabilidad": "Días laborables", "Notas": "-"},
-  {"Categoría": "Comunicación", "Punto": "Estilo", "Descripción": "Uso apropiado de emojis fomentado para comunicación fluida.", "Aplicabilidad": "Todo el trabajo", "Notas": "-"},
-  {"Categoría": "Workflow", "Punto": "Priorización", "Descripción": "Mantenimiento para clientes existentes como máxima prioridad.", "Aplicabilidad": "Todo el trabajo", "Notas": "-"},
-  {"Categoría": "Workflow", "Punto": "Asociación", "Descripción": "Soluciones integradas vía red de expertos.", "Aplicabilidad": "Gran escala", "Notas": "-"},
-  {"Categoría": "Workflow", "Punto": "Sin papel", "Descripción": "Documentos entregados digitalmente para valores sin papel.", "Aplicabilidad": "Todo el trabajo", "Notas": "-"},
-  {"Categoría": "Operaciones", "Punto": "Herramientas", "Descripción": "Espacios Notion creados para compartir assets de proyectos largo plazo.", "Aplicabilidad": "Largo plazo", "Notas": "-"},
-  {"Categoría": "Operaciones", "Punto": "Aviso de vacaciones", "Descripción": "Calendario de vacaciones anunciado por email 2 semanas antes.", "Aplicabilidad": "Todos los clientes", "Notas": "-"},
-  {"Categoría": "Info", "Punto": "Experiencia", "Descripción": "Historial profesional detallado en mi perfil LinkedIn.", "Aplicabilidad": "Bio", "Notas": "-"},
-  {"Categoría": "Info", "Punto": "Redes sociales", "Descripción": "Insights en tiempo real vía X (Twitter) y LinkedIn.", "Aplicabilidad": "Público", "Notas": "-"},
-  {"Categoría": "Info", "Punto": "Certificación", "Descripción": "Titular de Google Analytics y PMP.", "Aplicabilidad": "Bio", "Notas": "-"},
-  {"Categoría": "Info", "Punto": "Especialidad", "Descripción": "Experto en estrategia de marketing data-driven y cultura organizacional.", "Aplicabilidad": "Consultoría", "Notas": "-"},
-  {"Categoría": "Info", "Punto": "Publicaciones", "Descripción": "Autor de e-books de estrategia en Amazon Kindle.", "Aplicabilidad": "Bio", "Notas": "-"},
-  {"Categoría": "Info", "Punto": "Portfolio", "Descripción": "Logos de clientes e historias de éxito públicas (sujeto a NDA).", "Aplicabilidad": "Público", "Notas": "-"},
-  {"Categoría": "Info", "Punto": "Formación", "Descripción": "MBA de universidad estadounidense.", "Aplicabilidad": "Bio", "Notas": "-"},
-  {"Categoría": "Consultoría", "Punto": "Análisis de mercado", "Descripción": "Investigación de mercado vía Google Search y herramientas analytics premium.", "Aplicabilidad": "Marketing", "Notas": "-"},
-  {"Categoría": "Consultoría", "Punto": "Asesoría urgente", "Descripción": "Tarifa 1,5x para solicitudes urgentes el mismo día.", "Aplicabilidad": "Urgente", "Notas": "-"},
-  {"Categoría": "Consultoría", "Punto": "Soporte de implantación", "Descripción": "Asistencia para implantación de Google Workspace.", "Aplicabilidad": "Implantación", "Notas": "-"},
-  {"Categoría": "Consultoría", "Punto": "Lugar", "Descripción": "Salas de reunión compartidas (ej. WeWork) para sesiones presenciales.", "Aplicabilidad": "Presencial", "Notas": "-"},
-  {"Categoría": "Consultoría", "Punto": "Benchmarking", "Descripción": "Análisis de mejores prácticas globales en sectores comparables.", "Aplicabilidad": "Estrategia", "Notas": "-"},
-  {"Categoría": "Consultoría", "Punto": "Formatos", "Descripción": "Informes en Google Slides o Google Docs.", "Aplicabilidad": "Entrega", "Notas": "-"},
-  {"Categoría": "Consultoría", "Punto": "Seguimiento", "Descripción": "Una reunión de seguimiento mensual 30 días post-proyecto incluida.", "Aplicabilidad": "Paquetes", "Notas": "-"},
-  {"Categoría": "Consultoría", "Punto": "KPIs", "Descripción": "KPIs específicos establecidos y medidos al inicio del proyecto.", "Aplicabilidad": "Todos los proyectos", "Notas": "-"},
-  {"Categoría": "Consultoría", "Punto": "Alcance", "Descripción": "Alcance excluye ejecución operativa (trabajo agencia) salvo especificación.", "Aplicabilidad": "Todos los proyectos", "Notas": "Presupuesto aparte"},
-  {"Categoría": "Consultoría", "Punto": "Retainers", "Descripción": "Modelos de suscripción mensual para Q&A ilimitado disponibles.", "Aplicabilidad": "Retainers", "Notas": "-"},
-  {"Categoría": "Consultoría", "Punto": "Gestión de crisis", "Descripción": "Escenarios de respuesta de emergencia en 24h tras detección de riesgo.", "Aplicabilidad": "Estrategia", "Notas": "-"},
-  {"Categoría": "Consultoría", "Punto": "Entrevistas", "Descripción": "Entrevistas 1:1 con partes interesadas limitadas a 45 min por sesión.", "Aplicabilidad": "Diagnósticos", "Notas": "-"},
-  {"Categoría": "Consultoría", "Punto": "Tarifa horaria", "Descripción": "Tarifa de consultoría a 200 $/hora.", "Aplicabilidad": "Ad-hoc", "Notas": "Mín. 1h"},
-  {"Categoría": "Consultoría", "Punto": "Informe estratégico", "Descripción": "Informe PDF completo con análisis y hoja de ruta de ejecución.", "Aplicabilidad": "Estrategia", "Notas": "-"},
-  {"Categoría": "Consultoría", "Punto": "Diagnósticos", "Descripción": "Pre-diagnóstico vía Google Forms en la primera sesión.", "Aplicabilidad": "Nuevos proyectos", "Notas": "-"},
-  {"Categoría": "Consultoría", "Punto": "Auditorías in situ", "Descripción": "Visitas a empresa y entrevistas in situ cuando sea necesario.", "Aplicabilidad": "In situ", "Notas": "-"}
+  {
+    "Categoría": "IP",
+    "Punto": "Propiedad intelectual",
+    "Descripción": "Todos los currículos y materiales del curso permanecen como propiedad del instructor.",
+    "Aplicabilidad": "Todos los servicios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "IP",
+    "Punto": "Cita de fuentes",
+    "Descripción": "Todas las fuentes externas se citan con hipervínculos directos en informes y materiales.",
+    "Aplicabilidad": "Informes/Materiales",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Sesión Q&A",
+    "Descripción": "Sesión Q&A en vivo de 15 min inmediatamente después de cada clase.",
+    "Aplicabilidad": "Todas las clases",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Modo de entrega",
+    "Descripción": "Clases online en tiempo real vía Google Meet preferidas.",
+    "Aplicabilidad": "Online",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Materiales",
+    "Descripción": "PDF de resumen tras la clase; archivos PPT originales no proporcionados.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "Solo PDF"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Coaching grupal",
+    "Descripción": "Sesiones de coaching intensivo para grupos pequeños (4-5 personas).",
+    "Aplicabilidad": "Talleres",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Niveles de dificultad",
+    "Descripción": "Currículos personalizados de principiante a experto.",
+    "Aplicabilidad": "Todos los cursos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Política de grabación",
+    "Descripción": "Reventa comercial de grabaciones estrictamente prohibida.",
+    "Aplicabilidad": "Todas las clases",
+    "Notas": "Aprobación previa requerida"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Webinars en vivo",
+    "Descripción": "Webinars privados vía YouTube Live soportados.",
+    "Aplicabilidad": "Online",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Actualización de contenido",
+    "Descripción": "Todo el contenido se actualiza con datos del sector cada S1.",
+    "Aplicabilidad": "Todo el contenido",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Pre-tareas",
+    "Descripción": "Material de pre-lectura distribuido para maximizar eficiencia.",
+    "Aplicabilidad": "Todas las clases",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Capacidad",
+    "Descripción": "Máximo 20 participantes recomendado para talleres prácticos.",
+    "Aplicabilidad": "Talleres",
+    "Notas": "Negociable"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Certificación",
+    "Descripción": "Certificados digitales de finalización (PDF) bajo solicitud.",
+    "Aplicabilidad": "Cursos largo plazo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Entorno de laboratorio",
+    "Descripción": "Entornos prácticos vía Google Colab.",
+    "Aplicabilidad": "Cursos de datos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Clases presenciales",
+    "Descripción": "Visitas in situ bajo solicitud; gastos de viaje facturados aparte.",
+    "Aplicabilidad": "Presencial",
+    "Notas": "Según distancia"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Subtítulos",
+    "Descripción": "Subtítulos en tiempo real con IA para sesiones en inglés.",
+    "Aplicabilidad": "Alumnos globales",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Equipo AV",
+    "Descripción": "Emisión HD con Logitech 4K Cam y micrófono Blue Yeti.",
+    "Aplicabilidad": "Online",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Integración LMS",
+    "Descripción": "Contenido grabado subible al LMS del cliente.",
+    "Aplicabilidad": "Contenido grabado",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clase",
+    "Punto": "Feedback",
+    "Descripción": "Encuestas de satisfacción vía Google Forms tras cada sesión.",
+    "Aplicabilidad": "Todas las clases",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "MBTI",
+    "Descripción": "ENTJ: enfoque sistemático y orientado a estrategia.",
+    "Aplicabilidad": "Perfil",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Residencia",
+    "Descripción": "Con base en Corea del Sur; colaboración global a distancia.",
+    "Aplicabilidad": "Ubicación",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Disponibilidad",
+    "Descripción": "07:00-09:00 KST reservado para desarrollo personal; respuestas pueden retrasarse.",
+    "Aplicabilidad": "Días laborables",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Visión",
+    "Descripción": "Misión: empoderar a otros mediante el intercambio sistemático de conocimiento.",
+    "Aplicabilidad": "Todo el trabajo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Intereses",
+    "Descripción": "Senderismo los fines de semana para generar nuevas ideas de clase.",
+    "Aplicabilidad": "Personal",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Métodos",
+    "Descripción": "Transferencias en divisas aceptadas vía PayPal, Stripe y Wise.",
+    "Aplicabilidad": "Clientes globales",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Pre-pago",
+    "Descripción": "Matrícula pagada en su totalidad 7 días antes del inicio.",
+    "Aplicabilidad": "Servicios educativos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Impuestos",
+    "Descripción": "Retenciones por pagos internacionales a cargo del cliente.",
+    "Aplicabilidad": "Contratos globales",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Gastos por demora",
+    "Descripción": "5% de recargo semanal sobre pagos vencidos.",
+    "Aplicabilidad": "Facturas impagadas",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Recibos",
+    "Descripción": "Recibos PayPal para documentación de gastos corporativos.",
+    "Aplicabilidad": "Todos los pagos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Facturación",
+    "Descripción": "Facturas oficiales por email y alojadas en Google Drive.",
+    "Aplicabilidad": "Todos los clientes",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Puntos de fidelidad",
+    "Descripción": "5% de crédito para reservas repetidas de clases.",
+    "Aplicabilidad": "Clientes recurrentes",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Reembolsos",
+    "Descripción": "En terminación anticipada, reembolso solo de sesiones restantes.",
+    "Aplicabilidad": "Educación",
+    "Notas": "Tasas deducidas"
+  },
+  {
+    "Categoría": "Contrato",
+    "Punto": "NDA",
+    "Descripción": "El trabajo comienza solo tras firmar NDA para proteger datos del cliente.",
+    "Aplicabilidad": "Consultoría",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contrato",
+    "Punto": "Ejecución",
+    "Descripción": "Contratos electrónicos enviados y firmados vía DocuSign.",
+    "Aplicabilidad": "Todos los contratos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contrato",
+    "Punto": "Uso de contenido",
+    "Descripción": "Modificación secundaria o redistribución requiere negociación previa.",
+    "Aplicabilidad": "Todos los materiales",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contrato",
+    "Punto": "Prorrogas",
+    "Descripción": "Prorroga de proyecto con acuerdo mutuo 2 semanas antes.",
+    "Aplicabilidad": "Largo plazo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contrato",
+    "Punto": "Planificación",
+    "Descripción": "Reserve sesiones vía enlace Calendly (integrado con Google Calendar).",
+    "Aplicabilidad": "Todas las reuniones",
+    "Notas": "Reserva 24h antes"
+  },
+  {
+    "Categoría": "Contrato",
+    "Punto": "Dirección fiscal",
+    "Descripción": "Dirección registrada en Seúl para fiscalidad y contabilidad.",
+    "Aplicabilidad": "Fiscal/Admin",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contrato",
+    "Punto": "Cancelación",
+    "Descripción": "Cancelación en 24h antes de reunión: 50% de tasas de sesión.",
+    "Aplicabilidad": "Todas las reuniones",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Marketing",
+    "Punto": "Newsletter",
+    "Descripción": "Informes mensuales de tendencias del sector vía newsletter.",
+    "Aplicabilidad": "Suscriptores",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Marketing",
+    "Punto": "Blog",
+    "Descripción": "Columnas profesionales en Medium y Brunch.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Marketing",
+    "Punto": "Conferencias",
+    "Descripción": "Ponente anual en conferencias globales de tech y estrategia.",
+    "Aplicabilidad": "Todo el trabajo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Marketing",
+    "Punto": "Referidos",
+    "Descripción": "10% de descuento en la próxima sesión por referido exitoso.",
+    "Aplicabilidad": "Todos los clientes",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad",
+    "Punto": "2FA",
+    "Descripción": "Todas las cuentas de negocio aseguradas con Google OTP.",
+    "Aplicabilidad": "Todo el trabajo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad",
+    "Punto": "Compartir credenciales",
+    "Descripción": "Credenciales sensibles compartidas exclusivamente vía Bitwarden.",
+    "Aplicabilidad": "Colaboración",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad",
+    "Punto": "Eliminación de datos",
+    "Descripción": "Datos del proyecto eliminados permanentemente 6 meses tras fin del contrato.",
+    "Aplicabilidad": "Post-proyecto",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad",
+    "Punto": "Copias de seguridad",
+    "Descripción": "Transcripciones y documentos respaldados en Google Drive.",
+    "Aplicabilidad": "Todos los proyectos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Comunicación",
+    "Punto": "Llamada intro",
+    "Descripción": "15 min de consulta de compatibilidad gratuita.",
+    "Aplicabilidad": "Nuevos clientes",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Comunicación",
+    "Punto": "Canales",
+    "Descripción": "Comunicación por email y Slack, excepto urgencias.",
+    "Aplicabilidad": "Todo el trabajo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Comunicación",
+    "Punto": "Idioma",
+    "Descripción": "Consultoría disponible en coreano e inglés.",
+    "Aplicabilidad": "Todo el trabajo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Comunicación",
+    "Punto": "Horario",
+    "Descripción": "Respuestas en tiempo real lun-vie 09:00-18:00 (GMT+9).",
+    "Aplicabilidad": "Días laborables",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Comunicación",
+    "Punto": "Estilo",
+    "Descripción": "Uso apropiado de emojis fomentado para comunicación fluida.",
+    "Aplicabilidad": "Todo el trabajo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Workflow",
+    "Punto": "Priorización",
+    "Descripción": "Mantenimiento para clientes existentes como máxima prioridad.",
+    "Aplicabilidad": "Todo el trabajo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Workflow",
+    "Punto": "Asociación",
+    "Descripción": "Soluciones integradas vía red de expertos.",
+    "Aplicabilidad": "Gran escala",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Workflow",
+    "Punto": "Sin papel",
+    "Descripción": "Documentos entregados digitalmente para valores sin papel.",
+    "Aplicabilidad": "Todo el trabajo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Herramientas",
+    "Descripción": "Espacios Notion creados para compartir assets de proyectos largo plazo.",
+    "Aplicabilidad": "Largo plazo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Aviso de vacaciones",
+    "Descripción": "Calendario de vacaciones anunciado por email 2 semanas antes.",
+    "Aplicabilidad": "Todos los clientes",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Info",
+    "Punto": "Experiencia",
+    "Descripción": "Historial profesional detallado en mi perfil LinkedIn.",
+    "Aplicabilidad": "Bio",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Info",
+    "Punto": "Redes sociales",
+    "Descripción": "Insights en tiempo real vía X (Twitter) y LinkedIn.",
+    "Aplicabilidad": "Público",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Info",
+    "Punto": "Certificación",
+    "Descripción": "Titular de Google Analytics y PMP.",
+    "Aplicabilidad": "Bio",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Info",
+    "Punto": "Especialidad",
+    "Descripción": "Experto en estrategia de marketing data-driven y cultura organizacional.",
+    "Aplicabilidad": "Consultoría",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Info",
+    "Punto": "Publicaciones",
+    "Descripción": "Autor de e-books de estrategia en Amazon Kindle.",
+    "Aplicabilidad": "Bio",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Info",
+    "Punto": "Portfolio",
+    "Descripción": "Logos de clientes e historias de éxito públicas (sujeto a NDA).",
+    "Aplicabilidad": "Público",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Info",
+    "Punto": "Formación",
+    "Descripción": "MBA de universidad estadounidense.",
+    "Aplicabilidad": "Bio",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consultoría",
+    "Punto": "Análisis de mercado",
+    "Descripción": "Investigación de mercado vía Google Search y herramientas analytics premium.",
+    "Aplicabilidad": "Marketing",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consultoría",
+    "Punto": "Asesoría urgente",
+    "Descripción": "Tarifa 1,5x para solicitudes urgentes el mismo día.",
+    "Aplicabilidad": "Urgente",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consultoría",
+    "Punto": "Soporte de implantación",
+    "Descripción": "Asistencia para implantación de Google Workspace.",
+    "Aplicabilidad": "Implantación",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consultoría",
+    "Punto": "Lugar",
+    "Descripción": "Salas de reunión compartidas (ej. WeWork) para sesiones presenciales.",
+    "Aplicabilidad": "Presencial",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consultoría",
+    "Punto": "Benchmarking",
+    "Descripción": "Análisis de mejores prácticas globales en sectores comparables.",
+    "Aplicabilidad": "Estrategia",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consultoría",
+    "Punto": "Formatos",
+    "Descripción": "Informes en Google Slides o Google Docs.",
+    "Aplicabilidad": "Entrega",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consultoría",
+    "Punto": "Seguimiento",
+    "Descripción": "Una reunión de seguimiento mensual 30 días post-proyecto incluida.",
+    "Aplicabilidad": "Paquetes",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consultoría",
+    "Punto": "KPIs",
+    "Descripción": "KPIs específicos establecidos y medidos al inicio del proyecto.",
+    "Aplicabilidad": "Todos los proyectos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consultoría",
+    "Punto": "Alcance",
+    "Descripción": "Alcance excluye ejecución operativa (trabajo agencia) salvo especificación.",
+    "Aplicabilidad": "Todos los proyectos",
+    "Notas": "Presupuesto aparte"
+  },
+  {
+    "Categoría": "Consultoría",
+    "Punto": "Retainers",
+    "Descripción": "Modelos de suscripción mensual para Q&A ilimitado disponibles.",
+    "Aplicabilidad": "Retainers",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consultoría",
+    "Punto": "Gestión de crisis",
+    "Descripción": "Escenarios de respuesta de emergencia en 24h tras detección de riesgo.",
+    "Aplicabilidad": "Estrategia",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consultoría",
+    "Punto": "Entrevistas",
+    "Descripción": "Entrevistas 1:1 con partes interesadas limitadas a 45 min por sesión.",
+    "Aplicabilidad": "Diagnósticos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consultoría",
+    "Punto": "Tarifa horaria",
+    "Descripción": "Tarifa de consultoría a 200 $/hora.",
+    "Aplicabilidad": "Ad-hoc",
+    "Notas": "Mín. 1h"
+  },
+  {
+    "Categoría": "Consultoría",
+    "Punto": "Informe estratégico",
+    "Descripción": "Informe PDF completo con análisis y hoja de ruta de ejecución.",
+    "Aplicabilidad": "Estrategia",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consultoría",
+    "Punto": "Diagnósticos",
+    "Descripción": "Pre-diagnóstico vía Google Forms en la primera sesión.",
+    "Aplicabilidad": "Nuevos proyectos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consultoría",
+    "Punto": "Auditorías in situ",
+    "Descripción": "Visitas a empresa y entrevistas in situ cuando sea necesario.",
+    "Aplicabilidad": "In situ",
+    "Notas": "-"
+  }
 ]

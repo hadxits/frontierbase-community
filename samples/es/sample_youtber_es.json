@@ -1,82 +1,562 @@
 [
-  {"Categoría": "Personal", "Punto": "MBTI", "Descripción": "Mi tipo de personalidad es ISTP.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Personal", "Punto": "Ubicación", "Descripción": "Vivo cerca de Seodaemun-gu, Seúl.", "Aplicabilidad": "Perfil", "Notas": "Dirección detallada privada"},
-  {"Categoría": "Personal", "Punto": "Edad/Cumpleaños", "Descripción": "Nacido en los 90; cumpleaños el 20 de mayo.", "Aplicabilidad": "Perfil", "Notas": "-"},
-  {"Categoría": "Personal", "Punto": "Mascota", "Descripción": "Tengo un gato llamado Nabi.", "Aplicabilidad": "Todos", "Notas": "Aparición ocasional en cámara"},
-  {"Categoría": "Personal", "Punto": "Comida que no me gusta", "Descripción": "Nunca como berenjenas ni pepinos.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Personal", "Punto": "Comida favorita", "Descripción": "Me gusta el chocolate con menta y la pizza de piña.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Personal", "Punto": "Tolerancia alcohol", "Descripción": "Aproximadamente media botella de Soju; me embriago rápido.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Personal", "Punto": "Hobbies", "Descripción": "Suelo cocinar o ver películas cuando no estoy en directo.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Suscripción", "Punto": "Suscripciones regalo", "Descripción": "Los espectadores pueden regalarse suscripciones entre sí.", "Aplicabilidad": "Chzzk/AfreecaTV", "Notas": "-"},
-  {"Categoría": "Suscripción", "Punto": "Duración suscripción", "Descripción": "La forma de la insignia cambia según la duración de la suscripción.", "Aplicabilidad": "Suscriptores", "Notas": "-"},
-  {"Categoría": "Suscripción", "Punto": "Beneficios suscripción", "Descripción": "Emotes exclusivos, insignias y visionado sin anuncios.", "Aplicabilidad": "Suscriptores", "Notas": "-"},
-  {"Categoría": "Normas", "Punto": "Spam", "Descripción": "Repetir el mismo mensaje 3+ veces se considera spam.", "Aplicabilidad": "Chat", "Notas": "Timeout 600s"},
-  {"Categoría": "Normas", "Punto": "Tratamiento", "Descripción": "Por defecto tratamiento formal; informal solo en contenido específico.", "Aplicabilidad": "Live", "Notas": "-"},
-  {"Categoría": "Normas", "Punto": "Acoso", "Descripción": "Comentarios sexuales o acoso enfrentan acción legal.", "Aplicabilidad": "Todos", "Notas": "Tolerancia cero"},
-  {"Categoría": "Normas", "Punto": "Diarios", "Descripción": "Por favor no compartir preocupaciones extensas o diarios en el chat.", "Aplicabilidad": "Live", "Notas": "-"},
-  {"Categoría": "Normas", "Punto": "Política", "Descripción": "Mención de partidos políticos o posturas prohibida.", "Aplicabilidad": "Todos", "Notas": "Baneo inmediato"},
-  {"Categoría": "Normas", "Punto": "Otros streamers", "Descripción": "No mencionar a otros streamers, salvo en collab.", "Aplicabilidad": "Chat", "Notas": "-"},
-  {"Categoría": "Normas", "Punto": "Backseating/Spoiler", "Descripción": "Consejos no solicitados o spoilers resultan en baneo inmediato.", "Aplicabilidad": "Gaming", "Notas": "-"},
-  {"Categoría": "Donación", "Punto": "Cantidad misión", "Descripción": "Misiones in-game desde mín. 5.000 KRW.", "Aplicabilidad": "Misiones juego", "Notas": "-"},
-  {"Categoría": "Donación", "Punto": "Sonido firma", "Descripción": "Sonidos exclusivos con ciertas cantidades de donación.", "Aplicabilidad": "10.000+ KRW", "Notas": "-"},
-  {"Categoría": "Donación", "Punto": "Donación vídeo", "Descripción": "100 KRW por segundo; vídeos inapropiados ignorados.", "Aplicabilidad": "Live", "Notas": "Derechos autor"},
-  {"Categoría": "Donación", "Punto": "Toonation/Twip", "Descripción": "Donaciones en pantalla vía Toonation y Twip.", "Aplicabilidad": "Live", "Notas": "-"},
-  {"Categoría": "Streaming", "Punto": "Info BGM", "Descripción": "Solo NCS o pistas con licencia.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Streaming", "Punto": "Voz TTS", "Descripción": "Las voces de las donaciones se generan por IA.", "Aplicabilidad": "Donaciones", "Notas": "-"},
-  {"Categoría": "Streaming", "Punto": "Solicitudes grabación", "Descripción": "Compartir grabaciones en bruto prohibido, incluso uso privado.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Streaming", "Punto": "VODs", "Descripción": "VODs completos solo para miembros.", "Aplicabilidad": "Membresía", "Notas": "Montajes públicos"},
-  {"Categoría": "Streaming", "Punto": "Prueba micrófono", "Descripción": "Prueba de montaje y micrófono 5 min antes del inicio.", "Aplicabilidad": "Standby", "Notas": "-"},
-  {"Categoría": "Streaming", "Punto": "Hora fin", "Descripción": "Suele terminar sobre la 1 de la madrugada.", "Aplicabilidad": "Live", "Notas": "Varía"},
-  {"Categoría": "Streaming", "Punto": "Derechos de autor", "Descripción": "Subida o edición no autorizada de mis vídeos prohibida.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Streaming", "Punto": "Horario", "Descripción": "Lun/Mié/Vie 21h.", "Aplicabilidad": "Live", "Notas": "Avisos en Discord"},
-  {"Categoría": "Streaming", "Punto": "Retraso", "Descripción": "Si retraso de más de 10 min: ruleta de castigo.", "Aplicabilidad": "Live", "Notas": "-"},
-  {"Categoría": "Streaming", "Punto": "Aviso día libre", "Descripción": "Días libres imprevistos en YouTube/Fan Cafe.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Negocios", "Punto": "Ponencias", "Descripción": "Ponencias en eventos Uni o gaming posible.", "Aplicabilidad": "Externo", "Notas": "-"},
-  {"Categoría": "Negocios", "Punto": "Publicidad", "Descripción": "Email oficial: admin@streamer.com.", "Aplicabilidad": "Empresas", "Notas": "Sin DMs"},
-  {"Categoría": "Negocios", "Punto": "MCN", "Descripción": "Actualmente independiente (sin agencia).", "Aplicabilidad": "Estado", "Notas": "-"},
-  {"Categoría": "Negocios", "Punto": "Propuesta agencia", "Descripción": "Sin planes de contrato con agencia.", "Aplicabilidad": "MCN", "Notas": "-"},
-  {"Categoría": "Negocios", "Punto": "Eventos presenciales", "Descripción": "Participación en eventos como G-Star se anuncia con antelación.", "Aplicabilidad": "Externo", "Notas": "-"},
-  {"Categoría": "Negocios", "Punto": "Entrevistas", "Descripción": "Cuestionario para entrevistas escritas primero por email.", "Aplicabilidad": "Medios", "Notas": "-"},
-  {"Categoría": "Configuración", "Punto": "OBS", "Descripción": "OBS Studio para emisión.", "Aplicabilidad": "Streaming", "Notas": "-"},
-  {"Categoría": "Configuración", "Punto": "Sensibilidad ratón", "Descripción": "800 DPI (Logitech G Pro X Superlight).", "Aplicabilidad": "Gaming", "Notas": "En juego varía"},
-  {"Categoría": "Configuración", "Punto": "Iluminación", "Descripción": "Dos Elgato Key Lights a cada lado.", "Aplicabilidad": "Cam", "Notas": "-"},
-  {"Categoría": "YouTube", "Punto": "Indicación publicidad", "Descripción": "Las promociones de pago siempre claramente indicadas.", "Aplicabilidad": "Branded", "Notas": "Conforme FTC"},
-  {"Categoría": "YouTube", "Punto": "Ciclo Shorts", "Descripción": "Shorts aleatorios 3+ veces por semana.", "Aplicabilidad": "Shorts", "Notas": "-"},
-  {"Categoría": "YouTube", "Punto": "Diseño thumbnail", "Descripción": "Thumbnails de artistas profesionales.", "Aplicabilidad": "YouTube", "Notas": "-"},
-  {"Categoría": "YouTube", "Punto": "Fuente thumbnail", "Descripción": "Prefiero Kyukdong Gothic para visibilidad.", "Aplicabilidad": "Thumbnail", "Notas": "-"},
-  {"Categoría": "YouTube", "Punto": "Plan de subida", "Descripción": "Vídeos editados cada sábado 18h.", "Aplicabilidad": "Canal principal", "Notas": "-"},
-  {"Categoría": "YouTube", "Punto": "Fuente subtítulos", "Descripción": "Principalmente Gmarket Sans y Black Han Sans.", "Aplicabilidad": "Edición", "Notas": "-"},
-  {"Categoría": "YouTube", "Punto": "Editor", "Descripción": "Actualmente con editor fijo.", "Aplicabilidad": "Edición", "Notas": "Más autoedición"},
-  {"Categoría": "Evento", "Punto": "Objetivo suscriptores", "Descripción": "Stream Q&A planificado al alcanzar 100k suscriptores.", "Aplicabilidad": "Objetivos", "Notas": "-"},
-  {"Categoría": "Evento", "Punto": "Venta merch", "Descripción": "Hoodies personalizados disponibles en cantidad limitada.", "Aplicabilidad": "Tienda", "Notas": "Enlace en bio"},
-  {"Categoría": "Evento", "Punto": "Participación espectadores", "Descripción": "Juegos con espectadores cada domingo.", "Aplicabilidad": "Live", "Notas": "Solicitud vía Discord"},
-  {"Categoría": "Calendario", "Punto": "Pausa larga", "Descripción": "Pausa de una semana anual para evitar burnout.", "Aplicabilidad": "Vacaciones", "Notas": "-"},
-  {"Categoría": "Equipo", "Punto": "Specs PC", "Descripción": "CPU: i9-14900K, GPU: RTX 4080 Super.", "Aplicabilidad": "PC", "Notas": "-"},
-  {"Categoría": "Equipo", "Punto": "Micrófono", "Descripción": "Actualmente Shure SM7B.", "Aplicabilidad": "Audio", "Notas": "-"},
-  {"Categoría": "Equipo", "Punto": "Monitor sub", "Descripción": "Monitor 27 pulgadas para supervisar el chat.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Equipo", "Punto": "Stream Deck", "Descripción": "Elgato Stream Deck (15 teclas) para cambio de escenas.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Equipo", "Punto": "Silla", "Descripción": "Secretlab TITAN Serie.", "Aplicabilidad": "Mobiliario", "Notas": "-"},
-  {"Categoría": "Equipo", "Punto": "Internet", "Descripción": "KT Giga Internet (1 Gbps).", "Aplicabilidad": "Entorno", "Notas": "-"},
-  {"Categoría": "Equipo", "Punto": "Cámara", "Descripción": "Logitech Brio 4K Webcam.", "Aplicabilidad": "Cam", "Notas": "-"},
-  {"Categoría": "Equipo", "Punto": "Configuración cam", "Descripción": "Filtros YouCam para corrección.", "Aplicabilidad": "Cam", "Notas": "-"},
-  {"Categoría": "Equipo", "Punto": "Chroma Key", "Descripción": "Tela chroma key física para el fondo.", "Aplicabilidad": "Rodaje", "Notas": "-"},
-  {"Categoría": "Canal", "Punto": "Sub-canal", "Descripción": "Sub-canal 'Streamer's Life'.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Comunidad", "Punto": "Open Chat", "Descripción": "No hay Open Chats por riesgo de suplantación.", "Aplicabilidad": "Todos", "Notas": "Cuidado con falsos"},
-  {"Categoría": "Comunidad", "Punto": "Encuestas", "Descripción": "Próximos juegos vía encuesta de YouTube Community.", "Aplicabilidad": "Irregular", "Notas": "-"},
-  {"Categoría": "Contenido", "Punto": "Asesoramiento", "Descripción": "Stream de asesoramiento radio la última noche de cada mes.", "Aplicabilidad": "Live", "Notas": "Envío de historia"},
-  {"Categoría": "Contenido", "Punto": "Reacciones", "Descripción": "Lista de reacciones vía enlace al pie de pantalla.", "Aplicabilidad": "Donaciones", "Notas": "-"},
-  {"Categoría": "Contenido", "Punto": "Mukbang", "Descripción": "Comida de delivery cada miércoles durante el stream.", "Aplicabilidad": "Night stream", "Notas": "-"},
-  {"Categoría": "Contenido", "Punto": "Solicitud misión", "Descripción": "Las misiones pueden proponerse por donación durante el stream.", "Aplicabilidad": "Live", "Notas": "Dificultad negociable"},
-  {"Categoría": "Contenido", "Punto": "Vlog", "Descripción": "Vlog diario una vez al mes.", "Aplicabilidad": "YouTube", "Notas": "-"},
-  {"Categoría": "Contenido", "Punto": "Juegos principales", "Descripción": "Principalmente League of Legends y juegos nuevos de Steam.", "Aplicabilidad": "Gaming", "Notas": "-"},
-  {"Categoría": "Contenido", "Punto": "Consulta collab", "Descripción": "Solicitudes de collab espontáneas de desconocidos rechazadas.", "Aplicabilidad": "Creadores", "Notas": "Consultas por email"},
-  {"Categoría": "Interacción fans", "Punto": "Palabras prohibidas", "Descripción": "Críticas degradantes, política o religión bloqueadas.", "Aplicabilidad": "Chat", "Notas": "Auto-borrado"},
-  {"Categoría": "Interacción fans", "Punto": "Pronunciación nick", "Descripción": "Intento pronunciar nicks en donaciones cuando sea posible.", "Aplicabilidad": "Donaciones", "Notas": "-"},
-  {"Categoría": "Interacción fans", "Punto": "Tratamiento", "Descripción": "Tratamiento informal como Hyung o Noona bien, pero respetuoso.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Interacción fans", "Punto": "Regalos físicos", "Descripción": "Comida o regalos de valor no aceptados.", "Aplicabilidad": "Apoyo", "Notas": "Fancim recomendado"},
-  {"Categoría": "Interacción fans", "Punto": "Encuentro presencial", "Descripción": "Breve saludo en la calle bienvenido.", "Aplicabilidad": "Exterior", "Notas": "No grabar sin autorización"},
-  {"Categoría": "Interacción fans", "Punto": "Cliques", "Descripción": "Mencionar en exceso a otros espectadores o comportamiento de pandilla prohibido.", "Aplicabilidad": "Chat", "Notas": "Aviso y luego baneo"},
-  {"Categoría": "Interacción fans", "Punto": "Nick fans", "Descripción": "Los espectadores se llaman Star Sweets (Byeolsatang).", "Aplicabilidad": "Suscriptores", "Notas": "-"},
-  {"Categoría": "Interacción fans", "Punto": "Fan Cafe", "Descripción": "Use Naver Cafe 'Streamer Fan Village'.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Interacción fans", "Punto": "Dirección correo", "Descripción": "Dirección apartado de correos en aviso del Fan Cafe.", "Aplicabilidad": "Correo", "Notas": "-"}
+  {
+    "Categoría": "Personal",
+    "Punto": "MBTI",
+    "Descripción": "Mi tipo de personalidad es ISTP.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Ubicación",
+    "Descripción": "Vivo cerca de Seodaemun-gu, Seúl.",
+    "Aplicabilidad": "Perfil",
+    "Notas": "Dirección detallada privada"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Edad/Cumpleaños",
+    "Descripción": "Nacido en los 90; cumpleaños el 20 de mayo.",
+    "Aplicabilidad": "Perfil",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Mascota",
+    "Descripción": "Tengo un gato llamado Nabi.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Aparición ocasional en cámara"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Comida que no me gusta",
+    "Descripción": "Nunca como berenjenas ni pepinos.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Comida favorita",
+    "Descripción": "Me gusta el chocolate con menta y la pizza de piña.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Tolerancia alcohol",
+    "Descripción": "Aproximadamente media botella de Soju; me embriago rápido.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Hobbies",
+    "Descripción": "Suelo cocinar o ver películas cuando no estoy en directo.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Suscripción",
+    "Punto": "Suscripciones regalo",
+    "Descripción": "Los espectadores pueden regalarse suscripciones entre sí.",
+    "Aplicabilidad": "Chzzk/AfreecaTV",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Suscripción",
+    "Punto": "Duración suscripción",
+    "Descripción": "La forma de la insignia cambia según la duración de la suscripción.",
+    "Aplicabilidad": "Suscriptores",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Suscripción",
+    "Punto": "Beneficios suscripción",
+    "Descripción": "Emotes exclusivos, insignias y visionado sin anuncios.",
+    "Aplicabilidad": "Suscriptores",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Normas",
+    "Punto": "Spam",
+    "Descripción": "Repetir el mismo mensaje 3+ veces se considera spam.",
+    "Aplicabilidad": "Chat",
+    "Notas": "Timeout 600s"
+  },
+  {
+    "Categoría": "Normas",
+    "Punto": "Tratamiento",
+    "Descripción": "Por defecto tratamiento formal; informal solo en contenido específico.",
+    "Aplicabilidad": "Live",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Normas",
+    "Punto": "Acoso",
+    "Descripción": "Comentarios sexuales o acoso enfrentan acción legal.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Tolerancia cero"
+  },
+  {
+    "Categoría": "Normas",
+    "Punto": "Diarios",
+    "Descripción": "Por favor no compartir preocupaciones extensas o diarios en el chat.",
+    "Aplicabilidad": "Live",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Normas",
+    "Punto": "Política",
+    "Descripción": "Mención de partidos políticos o posturas prohibida.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Baneo inmediato"
+  },
+  {
+    "Categoría": "Normas",
+    "Punto": "Otros streamers",
+    "Descripción": "No mencionar a otros streamers, salvo en collab.",
+    "Aplicabilidad": "Chat",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Normas",
+    "Punto": "Backseating/Spoiler",
+    "Descripción": "Consejos no solicitados o spoilers resultan en baneo inmediato.",
+    "Aplicabilidad": "Gaming",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Donación",
+    "Punto": "Cantidad misión",
+    "Descripción": "Misiones in-game desde mín. 5.000 KRW.",
+    "Aplicabilidad": "Misiones juego",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Donación",
+    "Punto": "Sonido firma",
+    "Descripción": "Sonidos exclusivos con ciertas cantidades de donación.",
+    "Aplicabilidad": "10.000+ KRW",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Donación",
+    "Punto": "Donación vídeo",
+    "Descripción": "100 KRW por segundo; vídeos inapropiados ignorados.",
+    "Aplicabilidad": "Live",
+    "Notas": "Derechos autor"
+  },
+  {
+    "Categoría": "Donación",
+    "Punto": "Toonation/Twip",
+    "Descripción": "Donaciones en pantalla vía Toonation y Twip.",
+    "Aplicabilidad": "Live",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Streaming",
+    "Punto": "Info BGM",
+    "Descripción": "Solo NCS o pistas con licencia.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Streaming",
+    "Punto": "Voz TTS",
+    "Descripción": "Las voces de las donaciones se generan por IA.",
+    "Aplicabilidad": "Donaciones",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Streaming",
+    "Punto": "Solicitudes grabación",
+    "Descripción": "Compartir grabaciones en bruto prohibido, incluso uso privado.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Streaming",
+    "Punto": "VODs",
+    "Descripción": "VODs completos solo para miembros.",
+    "Aplicabilidad": "Membresía",
+    "Notas": "Montajes públicos"
+  },
+  {
+    "Categoría": "Streaming",
+    "Punto": "Prueba micrófono",
+    "Descripción": "Prueba de montaje y micrófono 5 min antes del inicio.",
+    "Aplicabilidad": "Standby",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Streaming",
+    "Punto": "Hora fin",
+    "Descripción": "Suele terminar sobre la 1 de la madrugada.",
+    "Aplicabilidad": "Live",
+    "Notas": "Varía"
+  },
+  {
+    "Categoría": "Streaming",
+    "Punto": "Derechos de autor",
+    "Descripción": "Subida o edición no autorizada de mis vídeos prohibida.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Streaming",
+    "Punto": "Horario",
+    "Descripción": "Lun/Mié/Vie 21h.",
+    "Aplicabilidad": "Live",
+    "Notas": "Avisos en Discord"
+  },
+  {
+    "Categoría": "Streaming",
+    "Punto": "Retraso",
+    "Descripción": "Si retraso de más de 10 min: ruleta de castigo.",
+    "Aplicabilidad": "Live",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Streaming",
+    "Punto": "Aviso día libre",
+    "Descripción": "Días libres imprevistos en YouTube/Fan Cafe.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Negocios",
+    "Punto": "Ponencias",
+    "Descripción": "Ponencias en eventos Uni o gaming posible.",
+    "Aplicabilidad": "Externo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Negocios",
+    "Punto": "Publicidad",
+    "Descripción": "Email oficial: admin@streamer.com.",
+    "Aplicabilidad": "Empresas",
+    "Notas": "Sin DMs"
+  },
+  {
+    "Categoría": "Negocios",
+    "Punto": "MCN",
+    "Descripción": "Actualmente independiente (sin agencia).",
+    "Aplicabilidad": "Estado",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Negocios",
+    "Punto": "Propuesta agencia",
+    "Descripción": "Sin planes de contrato con agencia.",
+    "Aplicabilidad": "MCN",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Negocios",
+    "Punto": "Eventos presenciales",
+    "Descripción": "Participación en eventos como G-Star se anuncia con antelación.",
+    "Aplicabilidad": "Externo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Negocios",
+    "Punto": "Entrevistas",
+    "Descripción": "Cuestionario para entrevistas escritas primero por email.",
+    "Aplicabilidad": "Medios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Configuración",
+    "Punto": "OBS",
+    "Descripción": "OBS Studio para emisión.",
+    "Aplicabilidad": "Streaming",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Configuración",
+    "Punto": "Sensibilidad ratón",
+    "Descripción": "800 DPI (Logitech G Pro X Superlight).",
+    "Aplicabilidad": "Gaming",
+    "Notas": "En juego varía"
+  },
+  {
+    "Categoría": "Configuración",
+    "Punto": "Iluminación",
+    "Descripción": "Dos Elgato Key Lights a cada lado.",
+    "Aplicabilidad": "Cam",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "YouTube",
+    "Punto": "Indicación publicidad",
+    "Descripción": "Las promociones de pago siempre claramente indicadas.",
+    "Aplicabilidad": "Branded",
+    "Notas": "Conforme FTC"
+  },
+  {
+    "Categoría": "YouTube",
+    "Punto": "Ciclo Shorts",
+    "Descripción": "Shorts aleatorios 3+ veces por semana.",
+    "Aplicabilidad": "Shorts",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "YouTube",
+    "Punto": "Diseño thumbnail",
+    "Descripción": "Thumbnails de artistas profesionales.",
+    "Aplicabilidad": "YouTube",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "YouTube",
+    "Punto": "Fuente thumbnail",
+    "Descripción": "Prefiero Kyukdong Gothic para visibilidad.",
+    "Aplicabilidad": "Thumbnail",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "YouTube",
+    "Punto": "Plan de subida",
+    "Descripción": "Vídeos editados cada sábado 18h.",
+    "Aplicabilidad": "Canal principal",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "YouTube",
+    "Punto": "Fuente subtítulos",
+    "Descripción": "Principalmente Gmarket Sans y Black Han Sans.",
+    "Aplicabilidad": "Edición",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "YouTube",
+    "Punto": "Editor",
+    "Descripción": "Actualmente con editor fijo.",
+    "Aplicabilidad": "Edición",
+    "Notas": "Más autoedición"
+  },
+  {
+    "Categoría": "Evento",
+    "Punto": "Objetivo suscriptores",
+    "Descripción": "Stream Q&A planificado al alcanzar 100k suscriptores.",
+    "Aplicabilidad": "Objetivos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Evento",
+    "Punto": "Venta merch",
+    "Descripción": "Hoodies personalizados disponibles en cantidad limitada.",
+    "Aplicabilidad": "Tienda",
+    "Notas": "Enlace en bio"
+  },
+  {
+    "Categoría": "Evento",
+    "Punto": "Participación espectadores",
+    "Descripción": "Juegos con espectadores cada domingo.",
+    "Aplicabilidad": "Live",
+    "Notas": "Solicitud vía Discord"
+  },
+  {
+    "Categoría": "Calendario",
+    "Punto": "Pausa larga",
+    "Descripción": "Pausa de una semana anual para evitar burnout.",
+    "Aplicabilidad": "Vacaciones",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Equipo",
+    "Punto": "Specs PC",
+    "Descripción": "CPU: i9-14900K, GPU: RTX 4080 Super.",
+    "Aplicabilidad": "PC",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Equipo",
+    "Punto": "Micrófono",
+    "Descripción": "Actualmente Shure SM7B.",
+    "Aplicabilidad": "Audio",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Equipo",
+    "Punto": "Monitor sub",
+    "Descripción": "Monitor 27 pulgadas para supervisar el chat.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Equipo",
+    "Punto": "Stream Deck",
+    "Descripción": "Elgato Stream Deck (15 teclas) para cambio de escenas.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Equipo",
+    "Punto": "Silla",
+    "Descripción": "Secretlab TITAN Serie.",
+    "Aplicabilidad": "Mobiliario",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Equipo",
+    "Punto": "Internet",
+    "Descripción": "KT Giga Internet (1 Gbps).",
+    "Aplicabilidad": "Entorno",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Equipo",
+    "Punto": "Cámara",
+    "Descripción": "Logitech Brio 4K Webcam.",
+    "Aplicabilidad": "Cam",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Equipo",
+    "Punto": "Configuración cam",
+    "Descripción": "Filtros YouCam para corrección.",
+    "Aplicabilidad": "Cam",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Equipo",
+    "Punto": "Chroma Key",
+    "Descripción": "Tela chroma key física para el fondo.",
+    "Aplicabilidad": "Rodaje",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Canal",
+    "Punto": "Sub-canal",
+    "Descripción": "Sub-canal 'Streamer's Life'.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Comunidad",
+    "Punto": "Open Chat",
+    "Descripción": "No hay Open Chats por riesgo de suplantación.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Cuidado con falsos"
+  },
+  {
+    "Categoría": "Comunidad",
+    "Punto": "Encuestas",
+    "Descripción": "Próximos juegos vía encuesta de YouTube Community.",
+    "Aplicabilidad": "Irregular",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contenido",
+    "Punto": "Asesoramiento",
+    "Descripción": "Stream de asesoramiento radio la última noche de cada mes.",
+    "Aplicabilidad": "Live",
+    "Notas": "Envío de historia"
+  },
+  {
+    "Categoría": "Contenido",
+    "Punto": "Reacciones",
+    "Descripción": "Lista de reacciones vía enlace al pie de pantalla.",
+    "Aplicabilidad": "Donaciones",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contenido",
+    "Punto": "Mukbang",
+    "Descripción": "Comida de delivery cada miércoles durante el stream.",
+    "Aplicabilidad": "Night stream",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contenido",
+    "Punto": "Solicitud misión",
+    "Descripción": "Las misiones pueden proponerse por donación durante el stream.",
+    "Aplicabilidad": "Live",
+    "Notas": "Dificultad negociable"
+  },
+  {
+    "Categoría": "Contenido",
+    "Punto": "Vlog",
+    "Descripción": "Vlog diario una vez al mes.",
+    "Aplicabilidad": "YouTube",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contenido",
+    "Punto": "Juegos principales",
+    "Descripción": "Principalmente League of Legends y juegos nuevos de Steam.",
+    "Aplicabilidad": "Gaming",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contenido",
+    "Punto": "Consulta collab",
+    "Descripción": "Solicitudes de collab espontáneas de desconocidos rechazadas.",
+    "Aplicabilidad": "Creadores",
+    "Notas": "Consultas por email"
+  },
+  {
+    "Categoría": "Interacción fans",
+    "Punto": "Palabras prohibidas",
+    "Descripción": "Críticas degradantes, política o religión bloqueadas.",
+    "Aplicabilidad": "Chat",
+    "Notas": "Auto-borrado"
+  },
+  {
+    "Categoría": "Interacción fans",
+    "Punto": "Pronunciación nick",
+    "Descripción": "Intento pronunciar nicks en donaciones cuando sea posible.",
+    "Aplicabilidad": "Donaciones",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Interacción fans",
+    "Punto": "Tratamiento",
+    "Descripción": "Tratamiento informal como Hyung o Noona bien, pero respetuoso.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Interacción fans",
+    "Punto": "Regalos físicos",
+    "Descripción": "Comida o regalos de valor no aceptados.",
+    "Aplicabilidad": "Apoyo",
+    "Notas": "Fancim recomendado"
+  },
+  {
+    "Categoría": "Interacción fans",
+    "Punto": "Encuentro presencial",
+    "Descripción": "Breve saludo en la calle bienvenido.",
+    "Aplicabilidad": "Exterior",
+    "Notas": "No grabar sin autorización"
+  },
+  {
+    "Categoría": "Interacción fans",
+    "Punto": "Cliques",
+    "Descripción": "Mencionar en exceso a otros espectadores o comportamiento de pandilla prohibido.",
+    "Aplicabilidad": "Chat",
+    "Notas": "Aviso y luego baneo"
+  },
+  {
+    "Categoría": "Interacción fans",
+    "Punto": "Nick fans",
+    "Descripción": "Los espectadores se llaman Star Sweets (Byeolsatang).",
+    "Aplicabilidad": "Suscriptores",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Interacción fans",
+    "Punto": "Fan Cafe",
+    "Descripción": "Use Naver Cafe 'Streamer Fan Village'.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Interacción fans",
+    "Punto": "Dirección correo",
+    "Descripción": "Dirección apartado de correos en aviso del Fan Cafe.",
+    "Aplicabilidad": "Correo",
+    "Notas": "-"
+  }
 ]

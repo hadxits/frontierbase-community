@@ -1,82 +1,562 @@
 [
-  {"Categoría": "Envío", "Punto": "Plazo de entrega", "Descripción": "Entrega media 2-3 días laborables tras el pedido.", "Aplicabilidad": "Estándar", "Notas": "Excluye fines de semana"},
-  {"Categoría": "Envío", "Punto": "Retraso", "Descripción": "Puede retrasarse un día por alto volumen.", "Aplicabilidad": "Temporada alta", "Notas": "Consulte avisos"},
-  {"Categoría": "Envío", "Punto": "Hora de expedición", "Descripción": "Pedidos antes de las 14h se envían el mismo día.", "Aplicabilidad": "Días laborables", "Notas": "Excluye fines de semana"},
-  {"Categoría": "Envío", "Punto": "Envío combinado", "Descripción": "Artículos del mismo pedido se envían juntos.", "Aplicabilidad": "Mismo pedido", "Notas": "Excepto envío parcial"},
-  {"Categoría": "Envío", "Punto": "Envío parcial", "Descripción": "Puede enviarse en partes según disponibilidad.", "Aplicabilidad": "Agotado", "Notas": "Aviso previo"},
-  {"Categoría": "Envío", "Punto": "Gastos de envío", "Descripción": "Gastos base 3.000 KRW.", "Aplicabilidad": "General", "Notas": "Jeju excluido"},
-  {"Categoría": "Envío", "Punto": "Zonas remotas", "Descripción": "Gastos adicionales para islas y zonas remotas.", "Aplicabilidad": "Zonas remotas", "Notas": "Varía por región"},
-  {"Categoría": "Envío", "Punto": "Entrega express", "Descripción": "No se ofrece entrega express.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Envío", "Punto": "Seguimiento", "Descripción": "Seguimiento en Mi Página.", "Aplicabilidad": "Tras expedición", "Notas": "Vinculado con mensajería"},
-  {"Categoría": "Envío", "Punto": "Mensajería", "Descripción": "Mensajería estándar: CJ Logistics.", "Aplicabilidad": "General", "Notas": "Puede cambiar"},
-  {"Categoría": "Reembolso", "Punto": "Derecho a devolución", "Descripción": "Reembolso posible en 7 días tras recepción.", "Aplicabilidad": "Sin usar", "Notas": "Gastos ida y vuelta"},
-  {"Categoría": "Reembolso", "Punto": "No reembolsable", "Descripción": "Productos con señales de uso no se reembolsan.", "Aplicabilidad": "Tras uso", "Notas": "Electrónica"},
-  {"Categoría": "Reembolso", "Punto": "Proceso de reembolso", "Descripción": "Solicitar reembolso vía Mi Página.", "Aplicabilidad": "Pedido completado", "Notas": "Automático"},
-  {"Categoría": "Reembolso", "Punto": "Plazo de reembolso", "Descripción": "Reembolso en 3-5 días laborables.", "Aplicabilidad": "Cancelación", "Notas": "Varía según banco emisor"},
-  {"Categoría": "Reembolso", "Punto": "Reembolso parcial", "Descripción": "No hay reembolso parcial para sets.", "Aplicabilidad": "Sets", "Notas": "Devolución completa"},
-  {"Categoría": "Reembolso", "Punto": "Gastos de envío en devolución", "Descripción": "Los gastos de envío no se reembolsan por cambio de opinión.", "Aplicabilidad": "Cambio de opinión", "Notas": "-"},
-  {"Categoría": "Reembolso", "Punto": "Envío erróneo", "Descripción": "Reembolso sin gastos de envío si el artículo es incorrecto.", "Aplicabilidad": "Error vendedor", "Notas": "Foto requerida"},
-  {"Categoría": "Reembolso", "Punto": "Artículo defectuoso", "Descripción": "Artículos defectuosos elegibles para cambio o reembolso.", "Aplicabilidad": "Defecto confirmado", "Notas": "Prueba requerida"},
-  {"Categoría": "Reembolso", "Punto": "Método de pago", "Descripción": "Reembolso al método de pago original.", "Aplicabilidad": "Todos", "Notas": "Sin reembolso en efectivo"},
-  {"Categoría": "Reembolso", "Punto": "Cancelar pedido", "Descripción": "Cancelación posible solo antes de expedición.", "Aplicabilidad": "Antes de expedición", "Notas": "Automático"},
-  {"Categoría": "Cambio", "Punto": "Derecho a cambio", "Descripción": "Cambio posible en 7 días tras recepción.", "Aplicabilidad": "Sin usar", "Notas": "-"},
-  {"Categoría": "Cambio", "Punto": "No cambiable", "Descripción": "Artículos en promoción no elegibles para cambio.", "Aplicabilidad": "Ofertas", "Notas": "Véase aviso"},
-  {"Categoría": "Cambio", "Punto": "Gastos de cambio", "Descripción": "Gastos de ida y vuelta por cambio.", "Aplicabilidad": "Cambio de opinión", "Notas": "6.000 KRW"},
-  {"Categoría": "Cambio", "Punto": "Cambio por defecto", "Descripción": "Envío gratis para cambio de artículos defectuosos.", "Aplicabilidad": "Defecto", "Notas": "-"},
-  {"Categoría": "Cambio", "Punto": "Cambio de color", "Descripción": "Cambio de color posible.", "Aplicabilidad": "En stock", "Notas": "-"},
-  {"Categoría": "Cambio", "Punto": "Cambio de talla", "Descripción": "Un cambio de talla por pedido.", "Aplicabilidad": "Ropa", "Notas": "-"},
-  {"Categoría": "Cambio", "Punto": "Plazo de cambio", "Descripción": "El proceso de cambio tarda 5-7 días aprox.", "Aplicabilidad": "Tras recepción", "Notas": "-"},
-  {"Categoría": "Cambio", "Punto": "Sin stock", "Descripción": "Si el artículo de cambio está agotado, se reembolsa.", "Aplicabilidad": "Agotado", "Notas": "-"},
-  {"Categoría": "Cambio", "Punto": "Proceso de cambio", "Descripción": "Solicitudes vía Mi Página.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Cambio", "Punto": "Dirección de devolución", "Descripción": "Siga las instrucciones del servicio de atención al cliente.", "Aplicabilidad": "Guía específica", "Notas": "-"},
-  {"Categoría": "Producto", "Punto": "Info producto", "Descripción": "Consulte la página de detalle del producto.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Producto", "Punto": "Reposición", "Descripción": "La fecha de reposición no está fijada.", "Aplicabilidad": "Agotado", "Notas": "-"},
-  {"Categoría": "Producto", "Punto": "Fecha caducidad", "Descripción": "Caducidad mínimo 6 meses desde expedición.", "Aplicabilidad": "Alimentación", "Notas": "-"},
-  {"Categoría": "Producto", "Punto": "Origen", "Descripción": "Producto fabricado en Corea.", "Aplicabilidad": "Alimentación", "Notas": "-"},
-  {"Categoría": "Producto", "Punto": "Garantía/SAV", "Descripción": "Servicio postventa según política del fabricante.", "Aplicabilidad": "Electrónica", "Notas": "-"},
-  {"Categoría": "Producto", "Punto": "Contenido", "Descripción": "Contenido incluido en la página de detalle.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Producto", "Punto": "Variación de color", "Descripción": "Los colores pueden variar según el monitor.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Producto", "Punto": "Error de talla", "Descripción": "Tallas pueden variar ligeramente (±1-2 cm).", "Aplicabilidad": "Ropa", "Notas": "±1-2 cm"},
-  {"Categoría": "Producto", "Punto": "Embalaje", "Descripción": "Materiales de embalaje ecológicos.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Producto", "Punto": "Embalaje regalo", "Descripción": "No se ofrece embalaje para regalo.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Métodos de pago", "Descripción": "Tarjetas y Naver Pay aceptados.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Transferencia bancaria", "Descripción": "No se admiten transferencias directas.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Error de pago", "Descripción": "Contacte con el emisor de la tarjeta si falla el pago.", "Aplicabilidad": "Fallos", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Pagos a plazos", "Descripción": "Opciones según política del banco emisor.", "Aplicabilidad": "Tarjetas crédito", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Recibo", "Descripción": "No se emiten recibos de efectivo.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Puntos", "Descripción": "Puntos Naver Pay utilizables en el pago.", "Aplicabilidad": "Naver Pay", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Cupones", "Descripción": "Cupones aplicables en el pago.", "Aplicabilidad": "Cupones válidos", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Acumular descuentos", "Descripción": "No se permite duplicar cupones.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Cancelar pago", "Descripción": "Solo posible antes de expedición.", "Aplicabilidad": "Antes de expedición", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Recibo", "Descripción": "Recibos consultables e imprimibles en Mi Página.", "Aplicabilidad": "Pago completado", "Notas": "-"},
-  {"Categoría": "Miembro", "Punto": "Compra como invitado", "Descripción": "Compra posible sin cuenta.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Miembro", "Punto": "Beneficios miembro", "Descripción": "Descuentos exclusivos para miembros.", "Aplicabilidad": "Miembros", "Notas": "-"},
-  {"Categoría": "Miembro", "Punto": "Actualizar perfil", "Descripción": "Datos modificables en Mi Página.", "Aplicabilidad": "Miembros", "Notas": "-"},
-  {"Categoría": "Miembro", "Punto": "Baja", "Descripción": "Contacte atención al cliente para cerrar cuenta.", "Aplicabilidad": "Miembros", "Notas": "-"},
-  {"Categoría": "Miembro", "Punto": "Marketing opcional", "Descripción": "Consentimiento de marketing opcional.", "Aplicabilidad": "Miembros", "Notas": "-"},
-  {"Categoría": "Consulta", "Punto": "Centro de atención", "Descripción": "Horario laborables 10:00-17:00.", "Aplicabilidad": "Días laborables", "Notas": "Excluye comida"},
-  {"Categoría": "Consulta", "Punto": "Tiempo de respuesta", "Descripción": "Respuesta en 1 día laborable.", "Aplicabilidad": "General", "Notas": "-"},
-  {"Categoría": "Consulta", "Punto": "Consulta telefónica", "Descripción": "No hay soporte telefónico.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Consulta", "Punto": "Chat", "Descripción": "Servicio de chat en preparación.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Consulta", "Punto": "Avisos", "Descripción": "Actualizaciones importantes en avisos de la tienda.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Política", "Punto": "Cambio de precio", "Descripción": "Los precios pueden cambiar sin previo aviso.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Política", "Punto": "Discontinuación", "Descripción": "Productos pueden discontinuarse sin aviso.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Política", "Punto": "Reseñas falsas", "Descripción": "Reseñas falsas o maliciosas serán reportadas.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Política", "Punto": "Reventa prohibida", "Descripción": "Reventa de productos estrictamente prohibida.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Política", "Punto": "Compra al por mayor", "Descripción": "Contacte por separado para pedidos de 10+ unidades.", "Aplicabilidad": "10+ unidades", "Notas": "-"},
-  {"Categoría": "Política", "Punto": "Envío internacional", "Descripción": "No se ofrece envío internacional.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Política", "Punto": "Aduanas", "Descripción": "No se ofrece asistencia en aduanas.", "Aplicabilidad": "Internacional", "Notas": "-"},
-  {"Categoría": "Política", "Punto": "Responsabilidad legal", "Descripción": "La responsabilidad de uso recae en el comprador.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Política", "Punto": "Privacidad", "Descripción": "Datos personales solo para entrega.", "Aplicabilidad": "Todos", "Notas": "Cumplimiento seguridad"},
-  {"Categoría": "Política", "Punto": "Compra menores", "Descripción": "Compras de menores pueden requerir consentimiento parental.", "Aplicabilidad": "Menores", "Notas": "-"},
-  {"Categoría": "Evento", "Punto": "Puntos por reseña", "Descripción": "Puntos Naver por reseñas con foto.", "Aplicabilidad": "Reseñadores", "Notas": "En 7 días"},
-  {"Categoría": "Evento", "Punto": "Mejor reseñador", "Descripción": "Selección mensual de mejores reseñadores para regalos.", "Aplicabilidad": "Mejores reseñas", "Notas": "Contacto individual"},
-  {"Categoría": "Evento", "Punto": "Cómo participar", "Descripción": "Siga las guías en la sección de avisos para eventos.", "Aplicabilidad": "En curso", "Notas": "-"},
-  {"Categoría": "Evento", "Punto": "Evento expirado", "Descripción": "No se otorgan beneficios de eventos expirados.", "Aplicabilidad": "Expirado", "Notas": "-"},
-  {"Categoría": "Envío", "Punto": "Número virtual", "Descripción": "Los SMS del mensajero pueden no llegar con números virtuales.", "Aplicabilidad": "Número virtual", "Notas": "Verificación requerida"},
-  {"Categoría": "Envío", "Punto": "Ausencia", "Descripción": "Si no hay nadie, se deja en lugar designado (ej. puerta).", "Aplicabilidad": "Ausente", "Notas": "Mensaje de entrega"},
-  {"Categoría": "Producto", "Punto": "Lavado", "Descripción": "Lavado a mano en agua fría recomendado.", "Aplicabilidad": "Textil", "Notas": "Sin secadora"},
-  {"Categoría": "Producto", "Punto": "Edad recomendada", "Descripción": "Producto apto para 14 años en adelante.", "Aplicabilidad": "Excepto niños", "Notas": "Certificado seguridad"},
-  {"Categoría": "Reembolso", "Punto": "Dirección devolución", "Descripción": "Dirección devolución: OOO-dong, OOO-si, Gyeonggi-do.", "Aplicabilidad": "Proceso devolución", "Notas": "Recogida automática recomendada"},
-  {"Categoría": "Otro", "Punto": "Pre-pedido", "Descripción": "Consulte la fecha de envío en la página de pre-pedido.", "Aplicabilidad": "Artículos pre-pedido", "Notas": "Envío secuencial"}
+  {
+    "Categoría": "Envío",
+    "Punto": "Plazo de entrega",
+    "Descripción": "Entrega media 2-3 días laborables tras el pedido.",
+    "Aplicabilidad": "Estándar",
+    "Notas": "Excluye fines de semana"
+  },
+  {
+    "Categoría": "Envío",
+    "Punto": "Retraso",
+    "Descripción": "Puede retrasarse un día por alto volumen.",
+    "Aplicabilidad": "Temporada alta",
+    "Notas": "Consulte avisos"
+  },
+  {
+    "Categoría": "Envío",
+    "Punto": "Hora de expedición",
+    "Descripción": "Pedidos antes de las 14h se envían el mismo día.",
+    "Aplicabilidad": "Días laborables",
+    "Notas": "Excluye fines de semana"
+  },
+  {
+    "Categoría": "Envío",
+    "Punto": "Envío combinado",
+    "Descripción": "Artículos del mismo pedido se envían juntos.",
+    "Aplicabilidad": "Mismo pedido",
+    "Notas": "Excepto envío parcial"
+  },
+  {
+    "Categoría": "Envío",
+    "Punto": "Envío parcial",
+    "Descripción": "Puede enviarse en partes según disponibilidad.",
+    "Aplicabilidad": "Agotado",
+    "Notas": "Aviso previo"
+  },
+  {
+    "Categoría": "Envío",
+    "Punto": "Gastos de envío",
+    "Descripción": "Gastos base 3.000 KRW.",
+    "Aplicabilidad": "General",
+    "Notas": "Jeju excluido"
+  },
+  {
+    "Categoría": "Envío",
+    "Punto": "Zonas remotas",
+    "Descripción": "Gastos adicionales para islas y zonas remotas.",
+    "Aplicabilidad": "Zonas remotas",
+    "Notas": "Varía por región"
+  },
+  {
+    "Categoría": "Envío",
+    "Punto": "Entrega express",
+    "Descripción": "No se ofrece entrega express.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Envío",
+    "Punto": "Seguimiento",
+    "Descripción": "Seguimiento en Mi Página.",
+    "Aplicabilidad": "Tras expedición",
+    "Notas": "Vinculado con mensajería"
+  },
+  {
+    "Categoría": "Envío",
+    "Punto": "Mensajería",
+    "Descripción": "Mensajería estándar: CJ Logistics.",
+    "Aplicabilidad": "General",
+    "Notas": "Puede cambiar"
+  },
+  {
+    "Categoría": "Reembolso",
+    "Punto": "Derecho a devolución",
+    "Descripción": "Reembolso posible en 7 días tras recepción.",
+    "Aplicabilidad": "Sin usar",
+    "Notas": "Gastos ida y vuelta"
+  },
+  {
+    "Categoría": "Reembolso",
+    "Punto": "No reembolsable",
+    "Descripción": "Productos con señales de uso no se reembolsan.",
+    "Aplicabilidad": "Tras uso",
+    "Notas": "Electrónica"
+  },
+  {
+    "Categoría": "Reembolso",
+    "Punto": "Proceso de reembolso",
+    "Descripción": "Solicitar reembolso vía Mi Página.",
+    "Aplicabilidad": "Pedido completado",
+    "Notas": "Automático"
+  },
+  {
+    "Categoría": "Reembolso",
+    "Punto": "Plazo de reembolso",
+    "Descripción": "Reembolso en 3-5 días laborables.",
+    "Aplicabilidad": "Cancelación",
+    "Notas": "Varía según banco emisor"
+  },
+  {
+    "Categoría": "Reembolso",
+    "Punto": "Reembolso parcial",
+    "Descripción": "No hay reembolso parcial para sets.",
+    "Aplicabilidad": "Sets",
+    "Notas": "Devolución completa"
+  },
+  {
+    "Categoría": "Reembolso",
+    "Punto": "Gastos de envío en devolución",
+    "Descripción": "Los gastos de envío no se reembolsan por cambio de opinión.",
+    "Aplicabilidad": "Cambio de opinión",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Reembolso",
+    "Punto": "Envío erróneo",
+    "Descripción": "Reembolso sin gastos de envío si el artículo es incorrecto.",
+    "Aplicabilidad": "Error vendedor",
+    "Notas": "Foto requerida"
+  },
+  {
+    "Categoría": "Reembolso",
+    "Punto": "Artículo defectuoso",
+    "Descripción": "Artículos defectuosos elegibles para cambio o reembolso.",
+    "Aplicabilidad": "Defecto confirmado",
+    "Notas": "Prueba requerida"
+  },
+  {
+    "Categoría": "Reembolso",
+    "Punto": "Método de pago",
+    "Descripción": "Reembolso al método de pago original.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Sin reembolso en efectivo"
+  },
+  {
+    "Categoría": "Reembolso",
+    "Punto": "Cancelar pedido",
+    "Descripción": "Cancelación posible solo antes de expedición.",
+    "Aplicabilidad": "Antes de expedición",
+    "Notas": "Automático"
+  },
+  {
+    "Categoría": "Cambio",
+    "Punto": "Derecho a cambio",
+    "Descripción": "Cambio posible en 7 días tras recepción.",
+    "Aplicabilidad": "Sin usar",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Cambio",
+    "Punto": "No cambiable",
+    "Descripción": "Artículos en promoción no elegibles para cambio.",
+    "Aplicabilidad": "Ofertas",
+    "Notas": "Véase aviso"
+  },
+  {
+    "Categoría": "Cambio",
+    "Punto": "Gastos de cambio",
+    "Descripción": "Gastos de ida y vuelta por cambio.",
+    "Aplicabilidad": "Cambio de opinión",
+    "Notas": "6.000 KRW"
+  },
+  {
+    "Categoría": "Cambio",
+    "Punto": "Cambio por defecto",
+    "Descripción": "Envío gratis para cambio de artículos defectuosos.",
+    "Aplicabilidad": "Defecto",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Cambio",
+    "Punto": "Cambio de color",
+    "Descripción": "Cambio de color posible.",
+    "Aplicabilidad": "En stock",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Cambio",
+    "Punto": "Cambio de talla",
+    "Descripción": "Un cambio de talla por pedido.",
+    "Aplicabilidad": "Ropa",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Cambio",
+    "Punto": "Plazo de cambio",
+    "Descripción": "El proceso de cambio tarda 5-7 días aprox.",
+    "Aplicabilidad": "Tras recepción",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Cambio",
+    "Punto": "Sin stock",
+    "Descripción": "Si el artículo de cambio está agotado, se reembolsa.",
+    "Aplicabilidad": "Agotado",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Cambio",
+    "Punto": "Proceso de cambio",
+    "Descripción": "Solicitudes vía Mi Página.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Cambio",
+    "Punto": "Dirección de devolución",
+    "Descripción": "Siga las instrucciones del servicio de atención al cliente.",
+    "Aplicabilidad": "Guía específica",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Producto",
+    "Punto": "Info producto",
+    "Descripción": "Consulte la página de detalle del producto.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Producto",
+    "Punto": "Reposición",
+    "Descripción": "La fecha de reposición no está fijada.",
+    "Aplicabilidad": "Agotado",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Producto",
+    "Punto": "Fecha caducidad",
+    "Descripción": "Caducidad mínimo 6 meses desde expedición.",
+    "Aplicabilidad": "Alimentación",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Producto",
+    "Punto": "Origen",
+    "Descripción": "Producto fabricado en Corea.",
+    "Aplicabilidad": "Alimentación",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Producto",
+    "Punto": "Garantía/SAV",
+    "Descripción": "Servicio postventa según política del fabricante.",
+    "Aplicabilidad": "Electrónica",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Producto",
+    "Punto": "Contenido",
+    "Descripción": "Contenido incluido en la página de detalle.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Producto",
+    "Punto": "Variación de color",
+    "Descripción": "Los colores pueden variar según el monitor.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Producto",
+    "Punto": "Error de talla",
+    "Descripción": "Tallas pueden variar ligeramente (±1-2 cm).",
+    "Aplicabilidad": "Ropa",
+    "Notas": "±1-2 cm"
+  },
+  {
+    "Categoría": "Producto",
+    "Punto": "Embalaje",
+    "Descripción": "Materiales de embalaje ecológicos.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Producto",
+    "Punto": "Embalaje regalo",
+    "Descripción": "No se ofrece embalaje para regalo.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Métodos de pago",
+    "Descripción": "Tarjetas y Naver Pay aceptados.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Transferencia bancaria",
+    "Descripción": "No se admiten transferencias directas.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Error de pago",
+    "Descripción": "Contacte con el emisor de la tarjeta si falla el pago.",
+    "Aplicabilidad": "Fallos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Pagos a plazos",
+    "Descripción": "Opciones según política del banco emisor.",
+    "Aplicabilidad": "Tarjetas crédito",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Recibo",
+    "Descripción": "No se emiten recibos de efectivo.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Puntos",
+    "Descripción": "Puntos Naver Pay utilizables en el pago.",
+    "Aplicabilidad": "Naver Pay",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Cupones",
+    "Descripción": "Cupones aplicables en el pago.",
+    "Aplicabilidad": "Cupones válidos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Acumular descuentos",
+    "Descripción": "No se permite duplicar cupones.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Cancelar pago",
+    "Descripción": "Solo posible antes de expedición.",
+    "Aplicabilidad": "Antes de expedición",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Recibo",
+    "Descripción": "Recibos consultables e imprimibles en Mi Página.",
+    "Aplicabilidad": "Pago completado",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Miembro",
+    "Punto": "Compra como invitado",
+    "Descripción": "Compra posible sin cuenta.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Miembro",
+    "Punto": "Beneficios miembro",
+    "Descripción": "Descuentos exclusivos para miembros.",
+    "Aplicabilidad": "Miembros",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Miembro",
+    "Punto": "Actualizar perfil",
+    "Descripción": "Datos modificables en Mi Página.",
+    "Aplicabilidad": "Miembros",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Miembro",
+    "Punto": "Baja",
+    "Descripción": "Contacte atención al cliente para cerrar cuenta.",
+    "Aplicabilidad": "Miembros",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Miembro",
+    "Punto": "Marketing opcional",
+    "Descripción": "Consentimiento de marketing opcional.",
+    "Aplicabilidad": "Miembros",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consulta",
+    "Punto": "Centro de atención",
+    "Descripción": "Horario laborables 10:00-17:00.",
+    "Aplicabilidad": "Días laborables",
+    "Notas": "Excluye comida"
+  },
+  {
+    "Categoría": "Consulta",
+    "Punto": "Tiempo de respuesta",
+    "Descripción": "Respuesta en 1 día laborable.",
+    "Aplicabilidad": "General",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consulta",
+    "Punto": "Consulta telefónica",
+    "Descripción": "No hay soporte telefónico.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consulta",
+    "Punto": "Chat",
+    "Descripción": "Servicio de chat en preparación.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Consulta",
+    "Punto": "Avisos",
+    "Descripción": "Actualizaciones importantes en avisos de la tienda.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Política",
+    "Punto": "Cambio de precio",
+    "Descripción": "Los precios pueden cambiar sin previo aviso.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Política",
+    "Punto": "Discontinuación",
+    "Descripción": "Productos pueden discontinuarse sin aviso.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Política",
+    "Punto": "Reseñas falsas",
+    "Descripción": "Reseñas falsas o maliciosas serán reportadas.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Política",
+    "Punto": "Reventa prohibida",
+    "Descripción": "Reventa de productos estrictamente prohibida.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Política",
+    "Punto": "Compra al por mayor",
+    "Descripción": "Contacte por separado para pedidos de 10+ unidades.",
+    "Aplicabilidad": "10+ unidades",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Política",
+    "Punto": "Envío internacional",
+    "Descripción": "No se ofrece envío internacional.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Política",
+    "Punto": "Aduanas",
+    "Descripción": "No se ofrece asistencia en aduanas.",
+    "Aplicabilidad": "Internacional",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Política",
+    "Punto": "Responsabilidad legal",
+    "Descripción": "La responsabilidad de uso recae en el comprador.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Política",
+    "Punto": "Privacidad",
+    "Descripción": "Datos personales solo para entrega.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Cumplimiento seguridad"
+  },
+  {
+    "Categoría": "Política",
+    "Punto": "Compra menores",
+    "Descripción": "Compras de menores pueden requerir consentimiento parental.",
+    "Aplicabilidad": "Menores",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Evento",
+    "Punto": "Puntos por reseña",
+    "Descripción": "Puntos Naver por reseñas con foto.",
+    "Aplicabilidad": "Reseñadores",
+    "Notas": "En 7 días"
+  },
+  {
+    "Categoría": "Evento",
+    "Punto": "Mejor reseñador",
+    "Descripción": "Selección mensual de mejores reseñadores para regalos.",
+    "Aplicabilidad": "Mejores reseñas",
+    "Notas": "Contacto individual"
+  },
+  {
+    "Categoría": "Evento",
+    "Punto": "Cómo participar",
+    "Descripción": "Siga las guías en la sección de avisos para eventos.",
+    "Aplicabilidad": "En curso",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Evento",
+    "Punto": "Evento expirado",
+    "Descripción": "No se otorgan beneficios de eventos expirados.",
+    "Aplicabilidad": "Expirado",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Envío",
+    "Punto": "Número virtual",
+    "Descripción": "Los SMS del mensajero pueden no llegar con números virtuales.",
+    "Aplicabilidad": "Número virtual",
+    "Notas": "Verificación requerida"
+  },
+  {
+    "Categoría": "Envío",
+    "Punto": "Ausencia",
+    "Descripción": "Si no hay nadie, se deja en lugar designado (ej. puerta).",
+    "Aplicabilidad": "Ausente",
+    "Notas": "Mensaje de entrega"
+  },
+  {
+    "Categoría": "Producto",
+    "Punto": "Lavado",
+    "Descripción": "Lavado a mano en agua fría recomendado.",
+    "Aplicabilidad": "Textil",
+    "Notas": "Sin secadora"
+  },
+  {
+    "Categoría": "Producto",
+    "Punto": "Edad recomendada",
+    "Descripción": "Producto apto para 14 años en adelante.",
+    "Aplicabilidad": "Excepto niños",
+    "Notas": "Certificado seguridad"
+  },
+  {
+    "Categoría": "Reembolso",
+    "Punto": "Dirección devolución",
+    "Descripción": "Dirección devolución: OOO-dong, OOO-si, Gyeonggi-do.",
+    "Aplicabilidad": "Proceso devolución",
+    "Notas": "Recogida automática recomendada"
+  },
+  {
+    "Categoría": "Otro",
+    "Punto": "Pre-pedido",
+    "Descripción": "Consulte la fecha de envío en la página de pre-pedido.",
+    "Aplicabilidad": "Artículos pre-pedido",
+    "Notas": "Envío secuencial"
+  }
 ]

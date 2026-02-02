@@ -1,82 +1,562 @@
 [
-  {"Categoría": "Pago", "Punto": "Pago simple", "Descripción": "Pago in situ vía Zero Pay y Naver Pay.", "Aplicabilidad": "Todos", "Notas": "Método QR"},
-  {"Categoría": "Pago", "Punto": "Métodos de pago", "Descripción": "Tarjetas de crédito, Samsung Pay y Apple Pay aceptados.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Tarjetas corporativas", "Descripción": "Pagos con tarjeta corporativa y emisión de factura fiscal disponibles.", "Aplicabilidad": "Corporativo", "Notas": "Info previa requerida"},
-  {"Categoría": "Pago", "Punto": "Pago dividido", "Descripción": "División de cuenta por persona disponible.", "Aplicabilidad": "Grupo/Individual", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Créditos por prepago", "Descripción": "5% extra de crédito por prepagos de 100.000 KRW.", "Aplicabilidad": "Grupos/Frecuentes", "Notas": "Válido 1 año"},
-  {"Categoría": "Pago", "Punto": "Descuento afiliado", "Descripción": "10% de descuento para tarjetas de crédito afiliadas.", "Aplicabilidad": "Tarjetas afiliadas", "Notas": "Límite 1 vez/mes"},
-  {"Categoría": "Pago", "Punto": "Certificados locales", "Descripción": "Pago con moneda local de la ciudad aceptado.", "Aplicabilidad": "Residentes locales", "Notas": "Papel/Tarjeta"},
-  {"Categoría": "Pago", "Punto": "Recibo de efectivo", "Descripción": "Emitido al instante bajo solicitud durante el pago.", "Aplicabilidad": "Pago en efectivo", "Notas": "-"},
-  {"Categoría": "Menú", "Punto": "Plato estrella", "Descripción": "Nuestro filete con salsa casera.", "Aplicabilidad": "Todos", "Notas": "Cantidad diaria limitada"},
-  {"Categoría": "Menú", "Punto": "Descafeinado", "Descripción": "Todos los cafés pueden cambiarse a descafeinado.", "Aplicabilidad": "Pedidos de café", "Notas": "500 KRW extra"},
-  {"Categoría": "Menú", "Punto": "Política de repostaje", "Descripción": "Guarniciones con repostaje libre en la barra.", "Aplicabilidad": "Comer en local", "Notas": "Excluye platos principales"},
-  {"Categoría": "Menú", "Punto": "Nivel de picante", "Descripción": "Seleccionable del nivel 1 al 3.", "Aplicabilidad": "Al pedir", "Notas": "-"},
-  {"Categoría": "Menú", "Punto": "Servicio de reparto", "Descripción": "Pedidos vía Baemin o Coupang Eats.", "Aplicabilidad": "Zona reparto", "Notas": "-"},
-  {"Categoría": "Menú", "Punto": "Nuevo menú", "Descripción": "Menús de temporada limitados cada temporada.", "Aplicabilidad": "Temporal", "Notas": "-"},
-  {"Categoría": "Menú", "Punto": "Alergias", "Descripción": "Informe antes de pedir si tiene alergia a frutos secos.", "Aplicabilidad": "Afectados", "Notas": "-"},
-  {"Categoría": "Menú", "Punto": "Control de porción", "Descripción": "Porciones de arroz ajustables al pedir.", "Aplicabilidad": "Al pedir", "Notas": "Servicio gratuito"},
-  {"Categoría": "Menú", "Punto": "Origen", "Descripción": "Carne de EE.UU.; arroz y col coreanos.", "Aplicabilidad": "Todos", "Notas": "Al pie del menú"},
-  {"Categoría": "Menú", "Punto": "Venta de alcohol", "Descripción": "No se vende alcohol a menores.", "Aplicabilidad": "Todos", "Notas": "Verificación ID obligatoria"},
-  {"Categoría": "Menú", "Punto": "Opciones veganas", "Descripción": "Algunos menús pueden cambiarse a vegano.", "Aplicabilidad": "Bajo solicitud", "Notas": "Sin coste extra"},
-  {"Categoría": "Menú", "Punto": "Maridaje recomendado", "Descripción": "Recomendamos el filete con nuestro vino de la casa.", "Aplicabilidad": "Selección menú", "Notas": "-"},
-  {"Categoría": "Menú", "Punto": "Calorías", "Descripción": "Información nutricional en nuestra web.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Menú", "Punto": "Toppings extra", "Descripción": "Varios toppings añadibles según preferencia.", "Aplicabilidad": "Al pedir", "Notas": "Véase menú"},
-  {"Categoría": "Menú", "Punto": "Embalaje", "Descripción": "Contenedores biodegradables ecológicos.", "Aplicabilidad": "Para llevar/Reparto", "Notas": "Certificado Min. Medio Amb."},
-  {"Categoría": "Menú", "Punto": "Venta para llevar", "Descripción": "Todos los menús para llevar con descuento.", "Aplicabilidad": "Pedido para llevar", "Notas": "1.000 KRW descuento"},
-  {"Categoría": "Servicio", "Punto": "Productos a la venta", "Descripción": "Tazas y granos de café de producción propia.", "Aplicabilidad": "Todos", "Notas": "Pregunte en mostrador"},
-  {"Categoría": "Servicio", "Punto": "Conductor designado", "Descripción": "Asistencia para llamar servicio de conductor designado.", "Aplicabilidad": "Bajo solicitud", "Notas": "-"},
-  {"Categoría": "Servicio", "Punto": "Evento reseñas", "Descripción": "Postre gratis al escribir reseña en Naver.", "Aplicabilidad": "Todos", "Notas": "Debe incluir foto"},
-  {"Categoría": "Servicio", "Punto": "Toallitas húmedas", "Descripción": "Disponibles en el cajón de la mesa o barra.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Servicio", "Punto": "Beneficio cumpleaños", "Descripción": "Una bebida gratis en su cumpleaños.", "Aplicabilidad": "Miembro", "Notas": "Verificación ID"},
-  {"Categoría": "Servicio", "Punto": "Tarjeta de sellos", "Descripción": "Plato principal gratis tras 10 visitas.", "Aplicabilidad": "Tarjeta papel", "Notas": "-"},
-  {"Categoría": "Servicio", "Punto": "Zona infantil", "Descripción": "Vajilla dedicada para niños disponible.", "Aplicabilidad": "Con bebés/niños", "Notas": "-"},
-  {"Categoría": "Servicio", "Punto": "Uso de cupones", "Descripción": "No combinable con otras promociones.", "Aplicabilidad": "Portadores cupón", "Notas": "-"},
-  {"Categoría": "Servicio", "Punto": "Acumulación de puntos", "Descripción": "3% del pago como puntos.", "Aplicabilidad": "Miembro", "Notas": "Usable desde 1.000P"},
-  {"Categoría": "Servicio", "Punto": "Servicio recogida", "Descripción": "Recogida en estaciones de metro cercanas no disponible.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Servicio", "Punto": "Crema de manos", "Descripción": "Crema de manos de alta gama en el baño.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Servicio", "Punto": "Membresía", "Descripción": "Registro solo con número de teléfono.", "Aplicabilidad": "Todos", "Notas": "Vía tablet"},
-  {"Categoría": "Instalaciones", "Punto": "Purificador de aire", "Descripción": "Tres purificadores de gran capacidad en la tienda.", "Aplicabilidad": "Todos", "Notas": "24/7"},
-  {"Categoría": "Instalaciones", "Punto": "Uso de portátil", "Descripción": "Evite usar portátil durante mucho tiempo.", "Aplicabilidad": "Horas punta", "Notas": "Límite 2h"},
-  {"Categoría": "Instalaciones", "Punto": "Asientos grupo", "Descripción": "Salas para grupos de hasta 12 personas.", "Aplicabilidad": "5+ personas", "Notas": "Reserva recomendada"},
-  {"Categoría": "Instalaciones", "Punto": "Alquiler mantas", "Descripción": "Mantas disponibles para clientes con frío.", "Aplicabilidad": "Bajo solicitud", "Notas": "Pregunte en mostrador"},
-  {"Categoría": "Instalaciones", "Punto": "Mascotas", "Descripción": "Entrada solo en asientos de terraza.", "Aplicabilidad": "Mascotas", "Notas": "Transportín obligatorio"},
-  {"Categoría": "Instalaciones", "Punto": "Música ambiental", "Descripción": "Avísenos si necesita ajustar el volumen.", "Aplicabilidad": "Bajo solicitud", "Notas": "-"},
-  {"Categoría": "Instalaciones", "Punto": "Power bank", "Descripción": "Máquina de alquiler de power bank en tienda.", "Aplicabilidad": "Todos", "Notas": "Servicio de pago"},
-  {"Categoría": "Instalaciones", "Punto": "Sillas altas", "Descripción": "5 sillas altas disponibles.", "Aplicabilidad": "Con bebés", "Notas": "Por orden de llegada"},
-  {"Categoría": "Instalaciones", "Punto": "Terraza", "Descripción": "Asientos exteriores solo en primavera y otoño.", "Aplicabilidad": "Temporal", "Notas": "Cerrado si llueve"},
-  {"Categoría": "Instalaciones", "Punto": "Wi-Fi", "Descripción": "Wi-Fi gratuita en la tienda.", "Aplicabilidad": "Comer en local", "Notas": "PW: store1234"},
-  {"Categoría": "Instalaciones", "Punto": "Paraguas", "Descripción": "Bolsas y soportes de paraguas en la entrada cuando llueve.", "Aplicabilidad": "Días lluviosos", "Notas": "-"},
-  {"Categoría": "Instalaciones", "Punto": "Delantal desechable", "Descripción": "Delantales desechables bajo solicitud.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Instalaciones", "Punto": "Espejo cuerpo entero", "Descripción": "Espejo para zona fotos en la entrada.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Instalaciones", "Punto": "Parking", "Descripción": "Parking en plantas B1 y B2 del edificio.", "Aplicabilidad": "Visitantes", "Notas": "2h gratis"},
-  {"Categoría": "Instalaciones", "Punto": "Validación parking", "Descripción": "Indique los últimos 4 dígitos del vehículo al pagar.", "Aplicabilidad": "Usuarios parking", "Notas": "-"},
-  {"Categoría": "Instalaciones", "Punto": "Guardamaletas", "Descripción": "Maletas grandes almacenables para viajeros.", "Aplicabilidad": "Bajo solicitud", "Notas": "-"},
-  {"Categoría": "Instalaciones", "Punto": "Enchufes", "Descripción": "Disponibles en asientos de barra junto a ventana.", "Aplicabilidad": "Asientos específicos", "Notas": "-"},
-  {"Categoría": "Instalaciones", "Punto": "Ubicación baños", "Descripción": "Al final del pasillo a la derecha de la entrada.", "Aplicabilidad": "Todos", "Notas": "Por género"},
-  {"Categoría": "Instalaciones", "Punto": "Silla de ruedas", "Descripción": "Rampas en la entrada para acceso fácil.", "Aplicabilidad": "Personas vulnerables", "Notas": "-"},
-  {"Categoría": "Instalaciones", "Punto": "Zona fumadores", "Descripción": "Local no fumador; use zona exterior.", "Aplicabilidad": "Todos", "Notas": "Prohibido por ley"},
-  {"Categoría": "Reserva", "Punto": "Política no-show", "Descripción": "Reservas pueden cancelarse tras 15 min de retraso.", "Aplicabilidad": "Titulares reserva", "Notas": "-"},
-  {"Categoría": "Reserva", "Punto": "Reserva mismo día", "Descripción": "Reservas mismo día solo vía teléfono.", "Aplicabilidad": "Mismo día", "Notas": "Comprobar disponibilidad"},
-  {"Categoría": "Reserva", "Punto": "Tarifa alquiler local", "Descripción": "Tarifa de alquiler por hora aplicada.", "Aplicabilidad": "Alquiler completo", "Notas": "Independiente del número"},
-  {"Categoría": "Reserva", "Punto": "Sistema de espera", "Descripción": "Regístrese en el kiosco de la entrada al visitar.", "Aplicabilidad": "Cuando lleno", "Notas": "Alerta Kakaotalk"},
-  {"Categoría": "Reserva", "Punto": "Método de reserva", "Descripción": "Reservas vía Naver o teléfono.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Reserva", "Punto": "Cancelación", "Descripción": "Cancelación sin penalización hasta 1 día antes.", "Aplicabilidad": "Titulares reserva", "Notas": "Mismo día no posible"},
-  {"Categoría": "Operación", "Punto": "Info empleo", "Descripción": "Contratando para fines de semana a tiempo parcial.", "Aplicabilidad": "Reclutamiento", "Notas": "Véase Albamon"},
-  {"Categoría": "Operación", "Punto": "Último pedido", "Descripción": "Pedidos aceptados hasta 30 min antes de cerrar.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Operación", "Punto": "Festivos", "Descripción": "Cerrado en Año Nuevo y Chuseok.", "Aplicabilidad": "Festivos", "Notas": "Aviso antes de festivos"},
-  {"Categoría": "Operación", "Punto": "Normas cuarentena", "Descripción": "Cumplimiento de directrices gubernamentales de prevención.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Operación", "Punto": "Hora de descanso", "Descripción": "Preparación de ingredientes de 15:00 a 17:00.", "Aplicabilidad": "Laborables", "Notas": "Excluye fines de semana"},
-  {"Categoría": "Operación", "Punto": "Salida emergencia", "Descripción": "Escaleras de emergencia al fondo del local.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Operación", "Punto": "Aviso ruido", "Descripción": "No gritar de noche por proximidad a zonas residenciales.", "Aplicabilidad": "Después 20:00", "Notas": "-"},
-  {"Categoría": "Operación", "Punto": "Horario", "Descripción": "Abierto de 10:00 a 21:00 entre semana y fines de semana.", "Aplicabilidad": "Todos", "Notas": "Abierto todo el año"},
-  {"Categoría": "Operación", "Punto": "Alquiler rodaje", "Descripción": "Consulta para alquiler completo fuera de horario.", "Aplicabilidad": "Alquiler", "Notas": "Consulta telefónica"},
-  {"Categoría": "Operación", "Punto": "Info cierre", "Descripción": "Cerrado el primer lunes de cada mes.", "Aplicabilidad": "Cierre regular", "Notas": "Día siguiente si festivo"},
-  {"Categoría": "Cercanías", "Punto": "Transporte", "Descripción": "Cerca de City Hall Station (Línea 2) Salida 3.", "Aplicabilidad": "Transporte público", "Notas": "3 min andando"},
-  {"Categoría": "Cercanías", "Punto": "Atracciones cercanas", "Descripción": "Central Park a 5 min andando.", "Aplicabilidad": "Cercanías", "Notas": "-"},
-  {"Categoría": "Reclamaciones", "Punto": "Cancelación pago", "Descripción": "Cancelación posible solo mismo día con recibo.", "Aplicabilidad": "Mismo día", "Notas": "-"},
-  {"Categoría": "Reclamaciones", "Punto": "Objetos perdidos", "Descripción": "Objetos perdidos conservados hasta 2 semanas.", "Aplicabilidad": "Objetos perdidos", "Notas": "Consultar en atención"},
-  {"Categoría": "Reclamaciones", "Punto": "Higiene", "Descripción": "Desinfección diaria por empresa profesional.", "Aplicabilidad": "Gestión instalaciones", "Notas": "Miembros Cesco"},
-  {"Categoría": "Reclamaciones", "Punto": "Comida fría", "Descripción": "Recalentamos la comida si se ha enfriado.", "Aplicabilidad": "Bajo solicitud", "Notas": "-"},
-  {"Categoría": "Reclamaciones", "Punto": "Error pedido", "Descripción": "Informe al personal de inmediato para recocción.", "Aplicabilidad": "En local", "Notas": "-"},
-  {"Categoría": "Reclamaciones", "Punto": "Error parking", "Descripción": "Pulse botón de llamada si no se verificó en kiosco antes de salir.", "Aplicabilidad": "Parking", "Notas": "-"}
+  {
+    "Categoría": "Pago",
+    "Punto": "Pago simple",
+    "Descripción": "Pago in situ vía Zero Pay y Naver Pay.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Método QR"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Métodos de pago",
+    "Descripción": "Tarjetas de crédito, Samsung Pay y Apple Pay aceptados.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Tarjetas corporativas",
+    "Descripción": "Pagos con tarjeta corporativa y emisión de factura fiscal disponibles.",
+    "Aplicabilidad": "Corporativo",
+    "Notas": "Info previa requerida"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Pago dividido",
+    "Descripción": "División de cuenta por persona disponible.",
+    "Aplicabilidad": "Grupo/Individual",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Créditos por prepago",
+    "Descripción": "5% extra de crédito por prepagos de 100.000 KRW.",
+    "Aplicabilidad": "Grupos/Frecuentes",
+    "Notas": "Válido 1 año"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Descuento afiliado",
+    "Descripción": "10% de descuento para tarjetas de crédito afiliadas.",
+    "Aplicabilidad": "Tarjetas afiliadas",
+    "Notas": "Límite 1 vez/mes"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Certificados locales",
+    "Descripción": "Pago con moneda local de la ciudad aceptado.",
+    "Aplicabilidad": "Residentes locales",
+    "Notas": "Papel/Tarjeta"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Recibo de efectivo",
+    "Descripción": "Emitido al instante bajo solicitud durante el pago.",
+    "Aplicabilidad": "Pago en efectivo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Menú",
+    "Punto": "Plato estrella",
+    "Descripción": "Nuestro filete con salsa casera.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Cantidad diaria limitada"
+  },
+  {
+    "Categoría": "Menú",
+    "Punto": "Descafeinado",
+    "Descripción": "Todos los cafés pueden cambiarse a descafeinado.",
+    "Aplicabilidad": "Pedidos de café",
+    "Notas": "500 KRW extra"
+  },
+  {
+    "Categoría": "Menú",
+    "Punto": "Política de repostaje",
+    "Descripción": "Guarniciones con repostaje libre en la barra.",
+    "Aplicabilidad": "Comer en local",
+    "Notas": "Excluye platos principales"
+  },
+  {
+    "Categoría": "Menú",
+    "Punto": "Nivel de picante",
+    "Descripción": "Seleccionable del nivel 1 al 3.",
+    "Aplicabilidad": "Al pedir",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Menú",
+    "Punto": "Servicio de reparto",
+    "Descripción": "Pedidos vía Baemin o Coupang Eats.",
+    "Aplicabilidad": "Zona reparto",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Menú",
+    "Punto": "Nuevo menú",
+    "Descripción": "Menús de temporada limitados cada temporada.",
+    "Aplicabilidad": "Temporal",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Menú",
+    "Punto": "Alergias",
+    "Descripción": "Informe antes de pedir si tiene alergia a frutos secos.",
+    "Aplicabilidad": "Afectados",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Menú",
+    "Punto": "Control de porción",
+    "Descripción": "Porciones de arroz ajustables al pedir.",
+    "Aplicabilidad": "Al pedir",
+    "Notas": "Servicio gratuito"
+  },
+  {
+    "Categoría": "Menú",
+    "Punto": "Origen",
+    "Descripción": "Carne de EE.UU.; arroz y col coreanos.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Al pie del menú"
+  },
+  {
+    "Categoría": "Menú",
+    "Punto": "Venta de alcohol",
+    "Descripción": "No se vende alcohol a menores.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Verificación ID obligatoria"
+  },
+  {
+    "Categoría": "Menú",
+    "Punto": "Opciones veganas",
+    "Descripción": "Algunos menús pueden cambiarse a vegano.",
+    "Aplicabilidad": "Bajo solicitud",
+    "Notas": "Sin coste extra"
+  },
+  {
+    "Categoría": "Menú",
+    "Punto": "Maridaje recomendado",
+    "Descripción": "Recomendamos el filete con nuestro vino de la casa.",
+    "Aplicabilidad": "Selección menú",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Menú",
+    "Punto": "Calorías",
+    "Descripción": "Información nutricional en nuestra web.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Menú",
+    "Punto": "Toppings extra",
+    "Descripción": "Varios toppings añadibles según preferencia.",
+    "Aplicabilidad": "Al pedir",
+    "Notas": "Véase menú"
+  },
+  {
+    "Categoría": "Menú",
+    "Punto": "Embalaje",
+    "Descripción": "Contenedores biodegradables ecológicos.",
+    "Aplicabilidad": "Para llevar/Reparto",
+    "Notas": "Certificado Min. Medio Amb."
+  },
+  {
+    "Categoría": "Menú",
+    "Punto": "Venta para llevar",
+    "Descripción": "Todos los menús para llevar con descuento.",
+    "Aplicabilidad": "Pedido para llevar",
+    "Notas": "1.000 KRW descuento"
+  },
+  {
+    "Categoría": "Servicio",
+    "Punto": "Productos a la venta",
+    "Descripción": "Tazas y granos de café de producción propia.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Pregunte en mostrador"
+  },
+  {
+    "Categoría": "Servicio",
+    "Punto": "Conductor designado",
+    "Descripción": "Asistencia para llamar servicio de conductor designado.",
+    "Aplicabilidad": "Bajo solicitud",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Servicio",
+    "Punto": "Evento reseñas",
+    "Descripción": "Postre gratis al escribir reseña en Naver.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Debe incluir foto"
+  },
+  {
+    "Categoría": "Servicio",
+    "Punto": "Toallitas húmedas",
+    "Descripción": "Disponibles en el cajón de la mesa o barra.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Servicio",
+    "Punto": "Beneficio cumpleaños",
+    "Descripción": "Una bebida gratis en su cumpleaños.",
+    "Aplicabilidad": "Miembro",
+    "Notas": "Verificación ID"
+  },
+  {
+    "Categoría": "Servicio",
+    "Punto": "Tarjeta de sellos",
+    "Descripción": "Plato principal gratis tras 10 visitas.",
+    "Aplicabilidad": "Tarjeta papel",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Servicio",
+    "Punto": "Zona infantil",
+    "Descripción": "Vajilla dedicada para niños disponible.",
+    "Aplicabilidad": "Con bebés/niños",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Servicio",
+    "Punto": "Uso de cupones",
+    "Descripción": "No combinable con otras promociones.",
+    "Aplicabilidad": "Portadores cupón",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Servicio",
+    "Punto": "Acumulación de puntos",
+    "Descripción": "3% del pago como puntos.",
+    "Aplicabilidad": "Miembro",
+    "Notas": "Usable desde 1.000P"
+  },
+  {
+    "Categoría": "Servicio",
+    "Punto": "Servicio recogida",
+    "Descripción": "Recogida en estaciones de metro cercanas no disponible.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Servicio",
+    "Punto": "Crema de manos",
+    "Descripción": "Crema de manos de alta gama en el baño.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Servicio",
+    "Punto": "Membresía",
+    "Descripción": "Registro solo con número de teléfono.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Vía tablet"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Purificador de aire",
+    "Descripción": "Tres purificadores de gran capacidad en la tienda.",
+    "Aplicabilidad": "Todos",
+    "Notas": "24/7"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Uso de portátil",
+    "Descripción": "Evite usar portátil durante mucho tiempo.",
+    "Aplicabilidad": "Horas punta",
+    "Notas": "Límite 2h"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Asientos grupo",
+    "Descripción": "Salas para grupos de hasta 12 personas.",
+    "Aplicabilidad": "5+ personas",
+    "Notas": "Reserva recomendada"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Alquiler mantas",
+    "Descripción": "Mantas disponibles para clientes con frío.",
+    "Aplicabilidad": "Bajo solicitud",
+    "Notas": "Pregunte en mostrador"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Mascotas",
+    "Descripción": "Entrada solo en asientos de terraza.",
+    "Aplicabilidad": "Mascotas",
+    "Notas": "Transportín obligatorio"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Música ambiental",
+    "Descripción": "Avísenos si necesita ajustar el volumen.",
+    "Aplicabilidad": "Bajo solicitud",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Power bank",
+    "Descripción": "Máquina de alquiler de power bank en tienda.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Servicio de pago"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Sillas altas",
+    "Descripción": "5 sillas altas disponibles.",
+    "Aplicabilidad": "Con bebés",
+    "Notas": "Por orden de llegada"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Terraza",
+    "Descripción": "Asientos exteriores solo en primavera y otoño.",
+    "Aplicabilidad": "Temporal",
+    "Notas": "Cerrado si llueve"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Wi-Fi",
+    "Descripción": "Wi-Fi gratuita en la tienda.",
+    "Aplicabilidad": "Comer en local",
+    "Notas": "PW: store1234"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Paraguas",
+    "Descripción": "Bolsas y soportes de paraguas en la entrada cuando llueve.",
+    "Aplicabilidad": "Días lluviosos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Delantal desechable",
+    "Descripción": "Delantales desechables bajo solicitud.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Espejo cuerpo entero",
+    "Descripción": "Espejo para zona fotos en la entrada.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Parking",
+    "Descripción": "Parking en plantas B1 y B2 del edificio.",
+    "Aplicabilidad": "Visitantes",
+    "Notas": "2h gratis"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Validación parking",
+    "Descripción": "Indique los últimos 4 dígitos del vehículo al pagar.",
+    "Aplicabilidad": "Usuarios parking",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Guardamaletas",
+    "Descripción": "Maletas grandes almacenables para viajeros.",
+    "Aplicabilidad": "Bajo solicitud",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Enchufes",
+    "Descripción": "Disponibles en asientos de barra junto a ventana.",
+    "Aplicabilidad": "Asientos específicos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Ubicación baños",
+    "Descripción": "Al final del pasillo a la derecha de la entrada.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Por género"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Silla de ruedas",
+    "Descripción": "Rampas en la entrada para acceso fácil.",
+    "Aplicabilidad": "Personas vulnerables",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Zona fumadores",
+    "Descripción": "Local no fumador; use zona exterior.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Prohibido por ley"
+  },
+  {
+    "Categoría": "Reserva",
+    "Punto": "Política no-show",
+    "Descripción": "Reservas pueden cancelarse tras 15 min de retraso.",
+    "Aplicabilidad": "Titulares reserva",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Reserva",
+    "Punto": "Reserva mismo día",
+    "Descripción": "Reservas mismo día solo vía teléfono.",
+    "Aplicabilidad": "Mismo día",
+    "Notas": "Comprobar disponibilidad"
+  },
+  {
+    "Categoría": "Reserva",
+    "Punto": "Tarifa alquiler local",
+    "Descripción": "Tarifa de alquiler por hora aplicada.",
+    "Aplicabilidad": "Alquiler completo",
+    "Notas": "Independiente del número"
+  },
+  {
+    "Categoría": "Reserva",
+    "Punto": "Sistema de espera",
+    "Descripción": "Regístrese en el kiosco de la entrada al visitar.",
+    "Aplicabilidad": "Cuando lleno",
+    "Notas": "Alerta Kakaotalk"
+  },
+  {
+    "Categoría": "Reserva",
+    "Punto": "Método de reserva",
+    "Descripción": "Reservas vía Naver o teléfono.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Reserva",
+    "Punto": "Cancelación",
+    "Descripción": "Cancelación sin penalización hasta 1 día antes.",
+    "Aplicabilidad": "Titulares reserva",
+    "Notas": "Mismo día no posible"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Info empleo",
+    "Descripción": "Contratando para fines de semana a tiempo parcial.",
+    "Aplicabilidad": "Reclutamiento",
+    "Notas": "Véase Albamon"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Último pedido",
+    "Descripción": "Pedidos aceptados hasta 30 min antes de cerrar.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Festivos",
+    "Descripción": "Cerrado en Año Nuevo y Chuseok.",
+    "Aplicabilidad": "Festivos",
+    "Notas": "Aviso antes de festivos"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Normas cuarentena",
+    "Descripción": "Cumplimiento de directrices gubernamentales de prevención.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Hora de descanso",
+    "Descripción": "Preparación de ingredientes de 15:00 a 17:00.",
+    "Aplicabilidad": "Laborables",
+    "Notas": "Excluye fines de semana"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Salida emergencia",
+    "Descripción": "Escaleras de emergencia al fondo del local.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Aviso ruido",
+    "Descripción": "No gritar de noche por proximidad a zonas residenciales.",
+    "Aplicabilidad": "Después 20:00",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Horario",
+    "Descripción": "Abierto de 10:00 a 21:00 entre semana y fines de semana.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Abierto todo el año"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Alquiler rodaje",
+    "Descripción": "Consulta para alquiler completo fuera de horario.",
+    "Aplicabilidad": "Alquiler",
+    "Notas": "Consulta telefónica"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Info cierre",
+    "Descripción": "Cerrado el primer lunes de cada mes.",
+    "Aplicabilidad": "Cierre regular",
+    "Notas": "Día siguiente si festivo"
+  },
+  {
+    "Categoría": "Cercanías",
+    "Punto": "Transporte",
+    "Descripción": "Cerca de City Hall Station (Línea 2) Salida 3.",
+    "Aplicabilidad": "Transporte público",
+    "Notas": "3 min andando"
+  },
+  {
+    "Categoría": "Cercanías",
+    "Punto": "Atracciones cercanas",
+    "Descripción": "Central Park a 5 min andando.",
+    "Aplicabilidad": "Cercanías",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Reclamaciones",
+    "Punto": "Cancelación pago",
+    "Descripción": "Cancelación posible solo mismo día con recibo.",
+    "Aplicabilidad": "Mismo día",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Reclamaciones",
+    "Punto": "Objetos perdidos",
+    "Descripción": "Objetos perdidos conservados hasta 2 semanas.",
+    "Aplicabilidad": "Objetos perdidos",
+    "Notas": "Consultar en atención"
+  },
+  {
+    "Categoría": "Reclamaciones",
+    "Punto": "Higiene",
+    "Descripción": "Desinfección diaria por empresa profesional.",
+    "Aplicabilidad": "Gestión instalaciones",
+    "Notas": "Miembros Cesco"
+  },
+  {
+    "Categoría": "Reclamaciones",
+    "Punto": "Comida fría",
+    "Descripción": "Recalentamos la comida si se ha enfriado.",
+    "Aplicabilidad": "Bajo solicitud",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Reclamaciones",
+    "Punto": "Error pedido",
+    "Descripción": "Informe al personal de inmediato para recocción.",
+    "Aplicabilidad": "En local",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Reclamaciones",
+    "Punto": "Error parking",
+    "Descripción": "Pulse botón de llamada si no se verificó en kiosco antes de salir.",
+    "Aplicabilidad": "Parking",
+    "Notas": "-"
+  }
 ]

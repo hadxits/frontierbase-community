@@ -1,82 +1,562 @@
 [
-  {"Categoría": "Desarrollo", "Punto": "Documentación API", "Descripción": "Especificaciones API vía Swagger para todos los proyectos backend.", "Aplicabilidad": "Proyectos backend", "Notas": "-"},
-  {"Categoría": "Desarrollo", "Punto": "Optimización SEO", "Descripción": "Estricto cumplimiento de marcado semántico para Google.", "Aplicabilidad": "Todo web", "Notas": "-"},
-  {"Categoría": "Desarrollo", "Punto": "Stack técnico", "Descripción": "Principalmente React, TypeScript, Node.js; otros previa consulta.", "Aplicabilidad": "Proyectos web", "Notas": "-"},
-  {"Categoría": "Desarrollo", "Punto": "Diseño responsive", "Descripción": "Diseño web responsive estándar para uso móvil óptimo.", "Aplicabilidad": "Desarrollo web", "Notas": "-"},
-  {"Categoría": "Desarrollo", "Punto": "Documentación", "Descripción": "Comentarios en código y archivos README detallados.", "Aplicabilidad": "Todos los proyectos", "Notas": "-"},
-  {"Categoría": "Desarrollo", "Punto": "Soporte de despliegue", "Descripción": "Asistencia al primer despliegue en Google Cloud o AWS.", "Aplicabilidad": "Opción despliegue", "Notas": "Dominio/servidor aparte"},
-  {"Categoría": "Desarrollo", "Punto": "Control de versiones", "Descripción": "Convenciones estrictas de commits Git para historial transparente.", "Aplicabilidad": "Todos los proyectos", "Notas": "-"},
-  {"Categoría": "Desarrollo", "Punto": "Soporte de navegadores", "Descripción": "Optimizado para Chrome y Safari; IE no soportado.", "Aplicabilidad": "Web/App", "Notas": "-"},
-  {"Categoría": "Desarrollo", "Punto": "Rendimiento", "Descripción": "Objetivo: 90+ puntos en Google PageSpeed Insights.", "Aplicabilidad": "Desarrollo web", "Notas": "-"},
-  {"Categoría": "Desarrollo", "Punto": "Bibliotecas externas", "Descripción": "Solo paquetes npm verificados en seguridad.", "Aplicabilidad": "Todos los proyectos", "Notas": "-"},
-  {"Categoría": "Desarrollo", "Punto": "Tests unitarios", "Descripción": "Tests unitarios frontend con Jest.", "Aplicabilidad": "Control de calidad", "Notas": "Opcional"},
-  {"Categoría": "Desarrollo", "Punto": "Gestión de código", "Descripción": "Código fuente vía repositorios GitHub privados.", "Aplicabilidad": "Todos los proyectos", "Notas": "Invitation required"},
-  {"Categoría": "Desarrollo", "Punto": "Revisión de código", "Descripción": "ESLint y revisión interna antes de entrega.", "Aplicabilidad": "Todos los proyectos", "Notas": "-"},
-  {"Categoría": "Personal", "Punto": "Ubicación", "Descripción": "Actualmente en Chiang Mai, Tailandia, como nómada digital.", "Aplicabilidad": "Contacto", "Notas": "Considere zona horaria"},
-  {"Categoría": "Personal", "Punto": "Newsletter", "Descripción": "Newsletter semanal de tendencias IT cada lunes.", "Aplicabilidad": "Todos los usuarios", "Notas": "Substack"},
-  {"Categoría": "Personal", "Punto": "Visión", "Descripción": "Soluciones en la intersección de tecnología y diseño.", "Aplicabilidad": "Todos los proyectos", "Notas": "-"},
-  {"Categoría": "Personal", "Punto": "Premios", "Descripción": "Ganador del Red Dot Design Award.", "Aplicabilidad": "Proyectos diseño", "Notas": "-"},
-  {"Categoría": "Personal", "Punto": "Certificación", "Descripción": "AWS Certified Developer.", "Aplicabilidad": "Desarrollo", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Stripe", "Descripción": "Pagos con tarjeta a nivel mundial vía Stripe.", "Aplicabilidad": "Pago con tarjeta", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Recibos", "Descripción": "Recibos PayPal para verificación de gastos corporativos.", "Aplicabilidad": "Todos los pagos", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Facturación", "Descripción": "Facturas el último día del mes vía Google Drive.", "Aplicabilidad": "Retainers", "Notas": "PDF"},
-  {"Categoría": "Pago", "Punto": "Pago automático", "Descripción": "Cargo automático Stripe para contratos de mantenimiento mensual.", "Aplicabilidad": "Mantenimiento", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Gastos por demora", "Descripción": "5% de recargo semanal en facturas vencidas.", "Aplicabilidad": "Facturas impagadas", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Comisiones PayPal", "Descripción": "El cliente asume el 4,4% de comisión de transacción PayPal.", "Aplicabilidad": "Usuarios PayPal", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Moneda", "Descripción": "Todos los presupuestos en dólares estadounidenses (USD).", "Aplicabilidad": "Global", "Notas": "Tipo de cambio aplicable"},
-  {"Categoría": "Contrato", "Punto": "Anticipo", "Descripción": "El trabajo comienza tras confirmar 50% de anticipo del valor total.", "Aplicabilidad": "Más de 1.000 $", "Notas": "-"},
-  {"Categoría": "Contrato", "Punto": "Propiedad IP", "Descripción": "Todos los derechos pasan al cliente al pago final.", "Aplicabilidad": "Pago completado", "Notas": "Incluye uso portfolio"},
-  {"Categoría": "Contrato", "Punto": "Comunicación", "Descripción": "Slack o Google Meet preferidos para colaboración documentada.", "Aplicabilidad": "Colaboración", "Notas": "-"},
-  {"Categoría": "Contrato", "Punto": "Política de revisiones", "Descripción": "Dos revisiones gratuitas dentro del alcance en 7 días tras entrega.", "Aplicabilidad": "Post-entrega", "Notas": "Tarifas extra fuera de alcance"},
-  {"Categoría": "Contrato", "Punto": "Horario laboral", "Descripción": "Respuesta: lun–vie, 09:00–18:00 (GMT+9/KST).", "Aplicabilidad": "Días laborables", "Notas": "Sin urgencias fin de semana"},
-  {"Categoría": "Contrato", "Punto": "Terminación", "Descripción": "En cancelación, costes según progreso. Anticipos no reembolsables.", "Aplicabilidad": "Cancelaciones", "Notas": "-"},
-  {"Categoría": "Diseño", "Punto": "Modo oscuro", "Descripción": "Los diseños web incluyen tema compatible con modo oscuro.", "Aplicabilidad": "UI/UX", "Notas": "-"},
-  {"Categoría": "Diseño", "Punto": "Herramientas", "Descripción": "Figma para UI/UX; Adobe Creative Cloud para diseño gráfico.", "Aplicabilidad": "Todo diseño", "Notas": "Archivos fuente bajo petición"},
-  {"Categoría": "Diseño", "Punto": "Mockups", "Descripción": "Incluye imágenes mockup 3D para visualizar el resultado final.", "Aplicabilidad": "Package/Branding", "Notas": "-"},
-  {"Categoría": "Diseño", "Punto": "Archivos vectoriales", "Descripción": "Se entregan archivos fuente AI o EPS escalables.", "Aplicabilidad": "Entrega final", "Notas": "-"},
-  {"Categoría": "Diseño", "Punto": "Modos de color", "Descripción": "Archivos en CMYK (impresión) y RGB (web).", "Aplicabilidad": "Logo/Gráficos", "Notas": "-"},
-  {"Categoría": "Diseño", "Punto": "Guía de estilo", "Descripción": "Códigos de color de marca (HEX) y directrices tipográficas.", "Aplicabilidad": "Set branding", "Notas": "-"},
-  {"Categoría": "Diseño", "Punto": "Conceptos", "Descripción": "Tres conceptos iniciales para proyectos de logo.", "Aplicabilidad": "Diseño logo", "Notas": "Tarifas extra por más"},
-  {"Categoría": "Diseño", "Punto": "Formatos de assets", "Descripción": "Iconos e imágenes en SVG, PNG y PDF.", "Aplicabilidad": "Fase entrega", "Notas": "-"},
-  {"Categoría": "Diseño", "Punto": "Supervisión de impresión", "Descripción": "Supervisión en sitio para trabajos de impresión a gran escala.", "Aplicabilidad": "Offline", "Notas": "Gastos de viaje aparte"},
-  {"Categoría": "Diseño", "Punto": "Verificación derechos", "Descripción": "Todos los assets usados verificados para uso comercial.", "Aplicabilidad": "Todo diseño", "Notas": "-"},
-  {"Categoría": "Diseño", "Punto": "Fuentes", "Descripción": "Google Fonts (uso comercial) sugeridos por defecto.", "Aplicabilidad": "Todo diseño", "Notas": "Excluye licencias de pago"},
-  {"Categoría": "Seguridad", "Punto": "2FA", "Descripción": "Autenticación en dos factores en todas las cuentas Google de trabajo.", "Aplicabilidad": "Todo el trabajo", "Notas": "-"},
-  {"Categoría": "Seguridad", "Punto": "NDA", "Descripción": "Acuerdos de confidencialidad vía firma electrónica (DocuSign).", "Aplicabilidad": "Info sensible", "Notas": "-"},
-  {"Categoría": "Seguridad", "Punto": "Eliminación de datos", "Descripción": "Datos de prueba eliminados permanentemente bajo petición tras el proyecto.", "Aplicabilidad": "Post-proyecto", "Notas": "-"},
-  {"Categoría": "Seguridad", "Punto": "Compartir credenciales", "Descripción": "Se recomienda 1Password o Bitwarden para claves y contraseñas.", "Aplicabilidad": "Compartir info", "Notas": "Evitar email"},
-  {"Categoría": "Negocio", "Punto": "Ponencias", "Descripción": "Disponible como ponente en conferencias tech o seminarios de diseño.", "Aplicabilidad": "Eventos externos", "Notas": "-"},
-  {"Categoría": "Negocio", "Punto": "Formación", "Descripción": "Sesiones de formación en gestión de assets y directrices.", "Aplicabilidad": "Clientes", "Notas": "1 sesión gratuita"},
-  {"Categoría": "Negocio", "Punto": "Afiliación", "Descripción": "Freelance independiente; no afiliado a agencias.", "Aplicabilidad": "Todo el trabajo", "Notas": "-"},
-  {"Categoría": "Negocio", "Punto": "White-label", "Descripción": "Disponible para trabajo white-label anónimo como partner de agencia.", "Aplicabilidad": "B2B", "Notas": "Tarifas a medida"},
-  {"Categoría": "Servicio", "Punto": "Localización", "Descripción": "Traducción al inglés y localización para contenido coreano.", "Aplicabilidad": "Todo el contenido", "Notas": "-"},
-  {"Categoría": "Servicio", "Punto": "Consulta gratuita", "Descripción": "15 min de consulta técnica antes del inicio del proyecto.", "Aplicabilidad": "Nuevas consultas", "Notas": "Google Meet"},
-  {"Categoría": "Servicio", "Punto": "Pro bono", "Descripción": "Apoyo anual al desarrollo MVP de un startup sin ánimo de lucro.", "Aplicabilidad": "ONG", "Notas": "-"},
-  {"Categoría": "Comunicación", "Punto": "Invite Slack", "Descripción": "Disposición a unirse a workspaces Slack del cliente.", "Aplicabilidad": "Colaboración", "Notas": "-"},
-  {"Categoría": "Comunicación", "Punto": "Idioma", "Descripción": "Inglés profesional fluido.", "Aplicabilidad": "Trabajo global", "Notas": "-"},
-  {"Categoría": "Comunicación", "Punto": "Respuesta automática", "Descripción": "Vacaciones gestionadas vía respuestas automáticas Gmail.", "Aplicabilidad": "Ausencia", "Notas": "-"},
-  {"Categoría": "Workflow", "Punto": "Deep Work", "Descripción": "14:00–16:00 dedicado a trabajo concentrado; respuestas pueden retrasarse.", "Aplicabilidad": "Días laborables", "Notas": "-"},
-  {"Categoría": "Workflow", "Punto": "Sin papel", "Descripción": "Política estricta de oficina sin papel por sostenibilidad.", "Aplicabilidad": "Todo el trabajo", "Notas": "-"},
-  {"Categoría": "Escritura", "Punto": "Legibilidad", "Descripción": "Párrafos cortos optimizados para lectura móvil.", "Aplicabilidad": "Todo el contenido", "Notas": "-"},
-  {"Categoría": "Escritura", "Punto": "Revisión", "Descripción": "Todos los borradores revisados en gramática y ortografía.", "Aplicabilidad": "Todo escrito", "Notas": "-"},
-  {"Categoría": "Escritura", "Punto": "Multimedia", "Descripción": "Imágenes stock gratuitas (Unsplash) alineadas con el contenido.", "Aplicabilidad": "Posts blog", "Notas": "-"},
-  {"Categoría": "Escritura", "Punto": "Longitud de borrador", "Descripción": "Tarifas estándar basadas en 1.000 caracteres (aprox. 500 palabras).", "Aplicabilidad": "Blog/Artículo", "Notas": "-"},
-  {"Categoría": "Escritura", "Punto": "Formatos", "Descripción": "Entregas en Google Docs, MS Word o Markdown.", "Aplicabilidad": "Todo escrito", "Notas": "-"},
-  {"Categoría": "Escritura", "Punto": "Entrevistas", "Descripción": "Entrevistas Zoom para artículos limitadas a 30 min aprox.", "Aplicabilidad": "Basado en entrevista", "Notas": "Tarifas extra"},
-  {"Categoría": "Escritura", "Punto": "Especialidades", "Descripción": "Especialización en blogs tech IT, comunicados en inglés y brand storytelling.", "Aplicabilidad": "Estrategia contenido", "Notas": "-"},
-  {"Categoría": "Escritura", "Punto": "Citas", "Descripción": "Todas las estadísticas y datos citados con enlaces a fuentes originales.", "Aplicabilidad": "Contenido informativo", "Notas": "-"},
-  {"Categoría": "Escritura", "Punto": "Análisis SEO", "Descripción": "Optimización de términos con Google Keyword Planner.", "Aplicabilidad": "Posts SEO", "Notas": "-"},
-  {"Categoría": "Escritura", "Punto": "Tono y estilo", "Descripción": "Adaptable a tono casual, profesional o académico según audiencia.", "Aplicabilidad": "Todo escrito", "Notas": "-"},
-  {"Categoría": "Escritura", "Punto": "Comprobación plagio", "Descripción": "Todos los borradores revisados con herramientas antiplagio.", "Aplicabilidad": "Todo escrito", "Notas": "Originalidad garantizada"},
-  {"Categoría": "Proyecto", "Punto": "Pedidos urgentes", "Descripción": "50% de recargo por entregas en 24 horas laborables.", "Aplicabilidad": "Urgente", "Notas": "Sujeto a disponibilidad"},
-  {"Categoría": "Proyecto", "Punto": "Referencias", "Descripción": "Resultados más precisos cuando el cliente proporciona ejemplos de referencia.", "Aplicabilidad": "Planificación", "Notas": "-"},
-  {"Categoría": "Proyecto", "Punto": "Backup", "Descripción": "Archivos en progreso respaldados automáticamente en cloud a medianoche.", "Aplicabilidad": "Todos los proyectos", "Notas": "-"},
-  {"Categoría": "Proyecto", "Punto": "Garantía", "Descripción": "Bugs críticos o erratas corregidos gratis 1 mes tras entrega.", "Aplicabilidad": "Soporte técnico", "Notas": "-"},
-  {"Categoría": "Proyecto", "Punto": "Muestras", "Descripción": "Portfolio en LinkedIn o mi sitio web personal.", "Aplicabilidad": "Todos los clientes", "Notas": "-"},
-  {"Categoría": "Proyecto", "Punto": "Workflow", "Descripción": "Seguimiento en tiempo real vía tableros Trello.", "Aplicabilidad": "Todos los proyectos", "Notas": "-"},
-  {"Categoría": "Proyecto", "Punto": "Informes semanales", "Descripción": "Informes de estado vía Google Docs cada viernes para proyectos largos.", "Aplicabilidad": "Retainers", "Notas": "-"},
-  {"Categoría": "Proyecto", "Punto": "Hitos", "Descripción": "Hitos principales compartidos vía Google Calendar dedicado.", "Aplicabilidad": "Retainers", "Notas": "-"},
-  {"Categoría": "Proyecto", "Punto": "Pruebas en dispositivos", "Descripción": "Pruebas finales en iPhone y Android físicos.", "Aplicabilidad": "Desarrollo app", "Notas": "-"},
-  {"Categoría": "Proyecto", "Punto": "Almacenamiento", "Descripción": "Entregables finales archivados en cloud al menos 1 año.", "Aplicabilidad": "Todos los proyectos", "Notas": "-"},
-  {"Categoría": "Proyecto", "Punto": "Embedding de fuentes", "Descripción": "Optimización de peso de webfonts para carga más rápida.", "Aplicabilidad": "Desarrollo web", "Notas": "-"}
+  {
+    "Categoría": "Desarrollo",
+    "Punto": "Documentación API",
+    "Descripción": "Especificaciones API vía Swagger para todos los proyectos backend.",
+    "Aplicabilidad": "Proyectos backend",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Desarrollo",
+    "Punto": "Optimización SEO",
+    "Descripción": "Estricto cumplimiento de marcado semántico para Google.",
+    "Aplicabilidad": "Todo web",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Desarrollo",
+    "Punto": "Stack técnico",
+    "Descripción": "Principalmente React, TypeScript, Node.js; otros previa consulta.",
+    "Aplicabilidad": "Proyectos web",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Desarrollo",
+    "Punto": "Diseño responsive",
+    "Descripción": "Diseño web responsive estándar para uso móvil óptimo.",
+    "Aplicabilidad": "Desarrollo web",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Desarrollo",
+    "Punto": "Documentación",
+    "Descripción": "Comentarios en código y archivos README detallados.",
+    "Aplicabilidad": "Todos los proyectos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Desarrollo",
+    "Punto": "Soporte de despliegue",
+    "Descripción": "Asistencia al primer despliegue en Google Cloud o AWS.",
+    "Aplicabilidad": "Opción despliegue",
+    "Notas": "Dominio/servidor aparte"
+  },
+  {
+    "Categoría": "Desarrollo",
+    "Punto": "Control de versiones",
+    "Descripción": "Convenciones estrictas de commits Git para historial transparente.",
+    "Aplicabilidad": "Todos los proyectos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Desarrollo",
+    "Punto": "Soporte de navegadores",
+    "Descripción": "Optimizado para Chrome y Safari; IE no soportado.",
+    "Aplicabilidad": "Web/App",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Desarrollo",
+    "Punto": "Rendimiento",
+    "Descripción": "Objetivo: 90+ puntos en Google PageSpeed Insights.",
+    "Aplicabilidad": "Desarrollo web",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Desarrollo",
+    "Punto": "Bibliotecas externas",
+    "Descripción": "Solo paquetes npm verificados en seguridad.",
+    "Aplicabilidad": "Todos los proyectos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Desarrollo",
+    "Punto": "Tests unitarios",
+    "Descripción": "Tests unitarios frontend con Jest.",
+    "Aplicabilidad": "Control de calidad",
+    "Notas": "Opcional"
+  },
+  {
+    "Categoría": "Desarrollo",
+    "Punto": "Gestión de código",
+    "Descripción": "Código fuente vía repositorios GitHub privados.",
+    "Aplicabilidad": "Todos los proyectos",
+    "Notas": "Invitation required"
+  },
+  {
+    "Categoría": "Desarrollo",
+    "Punto": "Revisión de código",
+    "Descripción": "ESLint y revisión interna antes de entrega.",
+    "Aplicabilidad": "Todos los proyectos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Ubicación",
+    "Descripción": "Actualmente en Chiang Mai, Tailandia, como nómada digital.",
+    "Aplicabilidad": "Contacto",
+    "Notas": "Considere zona horaria"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Newsletter",
+    "Descripción": "Newsletter semanal de tendencias IT cada lunes.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "Substack"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Visión",
+    "Descripción": "Soluciones en la intersección de tecnología y diseño.",
+    "Aplicabilidad": "Todos los proyectos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Premios",
+    "Descripción": "Ganador del Red Dot Design Award.",
+    "Aplicabilidad": "Proyectos diseño",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Personal",
+    "Punto": "Certificación",
+    "Descripción": "AWS Certified Developer.",
+    "Aplicabilidad": "Desarrollo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Stripe",
+    "Descripción": "Pagos con tarjeta a nivel mundial vía Stripe.",
+    "Aplicabilidad": "Pago con tarjeta",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Recibos",
+    "Descripción": "Recibos PayPal para verificación de gastos corporativos.",
+    "Aplicabilidad": "Todos los pagos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Facturación",
+    "Descripción": "Facturas el último día del mes vía Google Drive.",
+    "Aplicabilidad": "Retainers",
+    "Notas": "PDF"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Pago automático",
+    "Descripción": "Cargo automático Stripe para contratos de mantenimiento mensual.",
+    "Aplicabilidad": "Mantenimiento",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Gastos por demora",
+    "Descripción": "5% de recargo semanal en facturas vencidas.",
+    "Aplicabilidad": "Facturas impagadas",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Comisiones PayPal",
+    "Descripción": "El cliente asume el 4,4% de comisión de transacción PayPal.",
+    "Aplicabilidad": "Usuarios PayPal",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Moneda",
+    "Descripción": "Todos los presupuestos en dólares estadounidenses (USD).",
+    "Aplicabilidad": "Global",
+    "Notas": "Tipo de cambio aplicable"
+  },
+  {
+    "Categoría": "Contrato",
+    "Punto": "Anticipo",
+    "Descripción": "El trabajo comienza tras confirmar 50% de anticipo del valor total.",
+    "Aplicabilidad": "Más de 1.000 $",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contrato",
+    "Punto": "Propiedad IP",
+    "Descripción": "Todos los derechos pasan al cliente al pago final.",
+    "Aplicabilidad": "Pago completado",
+    "Notas": "Incluye uso portfolio"
+  },
+  {
+    "Categoría": "Contrato",
+    "Punto": "Comunicación",
+    "Descripción": "Slack o Google Meet preferidos para colaboración documentada.",
+    "Aplicabilidad": "Colaboración",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Contrato",
+    "Punto": "Política de revisiones",
+    "Descripción": "Dos revisiones gratuitas dentro del alcance en 7 días tras entrega.",
+    "Aplicabilidad": "Post-entrega",
+    "Notas": "Tarifas extra fuera de alcance"
+  },
+  {
+    "Categoría": "Contrato",
+    "Punto": "Horario laboral",
+    "Descripción": "Respuesta: lun–vie, 09:00–18:00 (GMT+9/KST).",
+    "Aplicabilidad": "Días laborables",
+    "Notas": "Sin urgencias fin de semana"
+  },
+  {
+    "Categoría": "Contrato",
+    "Punto": "Terminación",
+    "Descripción": "En cancelación, costes según progreso. Anticipos no reembolsables.",
+    "Aplicabilidad": "Cancelaciones",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Diseño",
+    "Punto": "Modo oscuro",
+    "Descripción": "Los diseños web incluyen tema compatible con modo oscuro.",
+    "Aplicabilidad": "UI/UX",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Diseño",
+    "Punto": "Herramientas",
+    "Descripción": "Figma para UI/UX; Adobe Creative Cloud para diseño gráfico.",
+    "Aplicabilidad": "Todo diseño",
+    "Notas": "Archivos fuente bajo petición"
+  },
+  {
+    "Categoría": "Diseño",
+    "Punto": "Mockups",
+    "Descripción": "Incluye imágenes mockup 3D para visualizar el resultado final.",
+    "Aplicabilidad": "Package/Branding",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Diseño",
+    "Punto": "Archivos vectoriales",
+    "Descripción": "Se entregan archivos fuente AI o EPS escalables.",
+    "Aplicabilidad": "Entrega final",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Diseño",
+    "Punto": "Modos de color",
+    "Descripción": "Archivos en CMYK (impresión) y RGB (web).",
+    "Aplicabilidad": "Logo/Gráficos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Diseño",
+    "Punto": "Guía de estilo",
+    "Descripción": "Códigos de color de marca (HEX) y directrices tipográficas.",
+    "Aplicabilidad": "Set branding",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Diseño",
+    "Punto": "Conceptos",
+    "Descripción": "Tres conceptos iniciales para proyectos de logo.",
+    "Aplicabilidad": "Diseño logo",
+    "Notas": "Tarifas extra por más"
+  },
+  {
+    "Categoría": "Diseño",
+    "Punto": "Formatos de assets",
+    "Descripción": "Iconos e imágenes en SVG, PNG y PDF.",
+    "Aplicabilidad": "Fase entrega",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Diseño",
+    "Punto": "Supervisión de impresión",
+    "Descripción": "Supervisión en sitio para trabajos de impresión a gran escala.",
+    "Aplicabilidad": "Offline",
+    "Notas": "Gastos de viaje aparte"
+  },
+  {
+    "Categoría": "Diseño",
+    "Punto": "Verificación derechos",
+    "Descripción": "Todos los assets usados verificados para uso comercial.",
+    "Aplicabilidad": "Todo diseño",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Diseño",
+    "Punto": "Fuentes",
+    "Descripción": "Google Fonts (uso comercial) sugeridos por defecto.",
+    "Aplicabilidad": "Todo diseño",
+    "Notas": "Excluye licencias de pago"
+  },
+  {
+    "Categoría": "Seguridad",
+    "Punto": "2FA",
+    "Descripción": "Autenticación en dos factores en todas las cuentas Google de trabajo.",
+    "Aplicabilidad": "Todo el trabajo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad",
+    "Punto": "NDA",
+    "Descripción": "Acuerdos de confidencialidad vía firma electrónica (DocuSign).",
+    "Aplicabilidad": "Info sensible",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad",
+    "Punto": "Eliminación de datos",
+    "Descripción": "Datos de prueba eliminados permanentemente bajo petición tras el proyecto.",
+    "Aplicabilidad": "Post-proyecto",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad",
+    "Punto": "Compartir credenciales",
+    "Descripción": "Se recomienda 1Password o Bitwarden para claves y contraseñas.",
+    "Aplicabilidad": "Compartir info",
+    "Notas": "Evitar email"
+  },
+  {
+    "Categoría": "Negocio",
+    "Punto": "Ponencias",
+    "Descripción": "Disponible como ponente en conferencias tech o seminarios de diseño.",
+    "Aplicabilidad": "Eventos externos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Negocio",
+    "Punto": "Formación",
+    "Descripción": "Sesiones de formación en gestión de assets y directrices.",
+    "Aplicabilidad": "Clientes",
+    "Notas": "1 sesión gratuita"
+  },
+  {
+    "Categoría": "Negocio",
+    "Punto": "Afiliación",
+    "Descripción": "Freelance independiente; no afiliado a agencias.",
+    "Aplicabilidad": "Todo el trabajo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Negocio",
+    "Punto": "White-label",
+    "Descripción": "Disponible para trabajo white-label anónimo como partner de agencia.",
+    "Aplicabilidad": "B2B",
+    "Notas": "Tarifas a medida"
+  },
+  {
+    "Categoría": "Servicio",
+    "Punto": "Localización",
+    "Descripción": "Traducción al inglés y localización para contenido coreano.",
+    "Aplicabilidad": "Todo el contenido",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Servicio",
+    "Punto": "Consulta gratuita",
+    "Descripción": "15 min de consulta técnica antes del inicio del proyecto.",
+    "Aplicabilidad": "Nuevas consultas",
+    "Notas": "Google Meet"
+  },
+  {
+    "Categoría": "Servicio",
+    "Punto": "Pro bono",
+    "Descripción": "Apoyo anual al desarrollo MVP de un startup sin ánimo de lucro.",
+    "Aplicabilidad": "ONG",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Comunicación",
+    "Punto": "Invite Slack",
+    "Descripción": "Disposición a unirse a workspaces Slack del cliente.",
+    "Aplicabilidad": "Colaboración",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Comunicación",
+    "Punto": "Idioma",
+    "Descripción": "Inglés profesional fluido.",
+    "Aplicabilidad": "Trabajo global",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Comunicación",
+    "Punto": "Respuesta automática",
+    "Descripción": "Vacaciones gestionadas vía respuestas automáticas Gmail.",
+    "Aplicabilidad": "Ausencia",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Workflow",
+    "Punto": "Deep Work",
+    "Descripción": "14:00–16:00 dedicado a trabajo concentrado; respuestas pueden retrasarse.",
+    "Aplicabilidad": "Días laborables",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Workflow",
+    "Punto": "Sin papel",
+    "Descripción": "Política estricta de oficina sin papel por sostenibilidad.",
+    "Aplicabilidad": "Todo el trabajo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Escritura",
+    "Punto": "Legibilidad",
+    "Descripción": "Párrafos cortos optimizados para lectura móvil.",
+    "Aplicabilidad": "Todo el contenido",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Escritura",
+    "Punto": "Revisión",
+    "Descripción": "Todos los borradores revisados en gramática y ortografía.",
+    "Aplicabilidad": "Todo escrito",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Escritura",
+    "Punto": "Multimedia",
+    "Descripción": "Imágenes stock gratuitas (Unsplash) alineadas con el contenido.",
+    "Aplicabilidad": "Posts blog",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Escritura",
+    "Punto": "Longitud de borrador",
+    "Descripción": "Tarifas estándar basadas en 1.000 caracteres (aprox. 500 palabras).",
+    "Aplicabilidad": "Blog/Artículo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Escritura",
+    "Punto": "Formatos",
+    "Descripción": "Entregas en Google Docs, MS Word o Markdown.",
+    "Aplicabilidad": "Todo escrito",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Escritura",
+    "Punto": "Entrevistas",
+    "Descripción": "Entrevistas Zoom para artículos limitadas a 30 min aprox.",
+    "Aplicabilidad": "Basado en entrevista",
+    "Notas": "Tarifas extra"
+  },
+  {
+    "Categoría": "Escritura",
+    "Punto": "Especialidades",
+    "Descripción": "Especialización en blogs tech IT, comunicados en inglés y brand storytelling.",
+    "Aplicabilidad": "Estrategia contenido",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Escritura",
+    "Punto": "Citas",
+    "Descripción": "Todas las estadísticas y datos citados con enlaces a fuentes originales.",
+    "Aplicabilidad": "Contenido informativo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Escritura",
+    "Punto": "Análisis SEO",
+    "Descripción": "Optimización de términos con Google Keyword Planner.",
+    "Aplicabilidad": "Posts SEO",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Escritura",
+    "Punto": "Tono y estilo",
+    "Descripción": "Adaptable a tono casual, profesional o académico según audiencia.",
+    "Aplicabilidad": "Todo escrito",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Escritura",
+    "Punto": "Comprobación plagio",
+    "Descripción": "Todos los borradores revisados con herramientas antiplagio.",
+    "Aplicabilidad": "Todo escrito",
+    "Notas": "Originalidad garantizada"
+  },
+  {
+    "Categoría": "Proyecto",
+    "Punto": "Pedidos urgentes",
+    "Descripción": "50% de recargo por entregas en 24 horas laborables.",
+    "Aplicabilidad": "Urgente",
+    "Notas": "Sujeto a disponibilidad"
+  },
+  {
+    "Categoría": "Proyecto",
+    "Punto": "Referencias",
+    "Descripción": "Resultados más precisos cuando el cliente proporciona ejemplos de referencia.",
+    "Aplicabilidad": "Planificación",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Proyecto",
+    "Punto": "Backup",
+    "Descripción": "Archivos en progreso respaldados automáticamente en cloud a medianoche.",
+    "Aplicabilidad": "Todos los proyectos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Proyecto",
+    "Punto": "Garantía",
+    "Descripción": "Bugs críticos o erratas corregidos gratis 1 mes tras entrega.",
+    "Aplicabilidad": "Soporte técnico",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Proyecto",
+    "Punto": "Muestras",
+    "Descripción": "Portfolio en LinkedIn o mi sitio web personal.",
+    "Aplicabilidad": "Todos los clientes",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Proyecto",
+    "Punto": "Workflow",
+    "Descripción": "Seguimiento en tiempo real vía tableros Trello.",
+    "Aplicabilidad": "Todos los proyectos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Proyecto",
+    "Punto": "Informes semanales",
+    "Descripción": "Informes de estado vía Google Docs cada viernes para proyectos largos.",
+    "Aplicabilidad": "Retainers",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Proyecto",
+    "Punto": "Hitos",
+    "Descripción": "Hitos principales compartidos vía Google Calendar dedicado.",
+    "Aplicabilidad": "Retainers",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Proyecto",
+    "Punto": "Pruebas en dispositivos",
+    "Descripción": "Pruebas finales en iPhone y Android físicos.",
+    "Aplicabilidad": "Desarrollo app",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Proyecto",
+    "Punto": "Almacenamiento",
+    "Descripción": "Entregables finales archivados en cloud al menos 1 año.",
+    "Aplicabilidad": "Todos los proyectos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Proyecto",
+    "Punto": "Embedding de fuentes",
+    "Descripción": "Optimización de peso de webfonts para carga más rápida.",
+    "Aplicabilidad": "Desarrollo web",
+    "Notas": "-"
+  }
 ]

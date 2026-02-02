@@ -1,82 +1,562 @@
 [
-  {"Categoría": "Personal", "Punto": "Filosofía educativa", "Descripción": "Buscamos una educación que fomente el pensamiento independiente, no la memorización mecánica.", "Aplicabilidad": "Todos los alumnos", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Métodos de pago", "Descripción": "Pagos vía PayPal, Stripe y tarjetas de crédito principales.", "Aplicabilidad": "Pago online", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Cuotas vencidas", "Descripción": "La participación puede restringirse si la matrícula lleva más de una semana vencida.", "Aplicabilidad": "Cuentas vencidas", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Facturación", "Descripción": "Las facturas se envían al email del padre registrado al instante tras el pago.", "Aplicabilidad": "Todos los usuarios", "Notas": "PDF proporcionado"},
-  {"Categoría": "Pago", "Punto": "Descuento a largo plazo", "Descripción": "Exención de material para alumnos que pagan 3 meses por adelantado.", "Aplicabilidad": "Clases regulares", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Justificante de pago", "Descripción": "Los certificados de pago pueden imprimirse desde la sección Mi Página.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Errores de tarjeta", "Descripción": "Si falla el pago con tarjeta internacional, solicite factura PayPal.", "Aplicabilidad": "Alumnos globales", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Política de descuentos", "Descripción": "Los descuentos no son acumulables; se aplica el más alto.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Descuento familiar", "Descripción": "10% de descuento cuando se matriculan dos o más miembros de la familia.", "Aplicabilidad": "Miembros de familia", "Notas": "-"},
-  {"Categoría": "Pago", "Punto": "Política de reembolso", "Descripción": "100% antes del inicio; 2/3 antes de 1/3 del trimestre; 1/2 antes de la mitad.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Admin", "Punto": "Asesoramiento 1:1", "Descripción": "Entrevistas individuales regulares dos veces por semestre.", "Aplicabilidad": "Todos los alumnos", "Notas": "-"},
-  {"Categoría": "Admin", "Punto": "Salud y descansos", "Descripción": "Regla estricta: 50 min de clase y 10 min de descanso.", "Aplicabilidad": "Todos los alumnos", "Notas": "-"},
-  {"Categoría": "Admin", "Punto": "Exámenes simulacro", "Descripción": "Exámenes simulacro completos trimestrales para analizar rendimiento.", "Aplicabilidad": "Todos los alumnos", "Notas": "-"},
-  {"Categoría": "Admin", "Punto": "Sistema de méritos", "Descripción": "'Alumno del mes' según notas de deberes y actitud en clase.", "Aplicabilidad": "Alumnos", "Notas": "-"},
-  {"Categoría": "Admin", "Punto": "Informes de progreso", "Descripción": "Informes mensuales vía Google Docs a final de mes.", "Aplicabilidad": "Todos los alumnos", "Notas": "Incluye notas 1:1"},
-  {"Categoría": "Admin", "Punto": "Actualización del temario", "Descripción": "Objetivos semanales y cuadros de progreso cada lunes.", "Aplicabilidad": "Todos los alumnos", "Notas": "-"},
-  {"Categoría": "Admin", "Punto": "Consultoría de admisión", "Descripción": "Consultoría de portfolio para preparación de admisión universitaria.", "Aplicabilidad": "Clases preparatorias", "Notas": "Solo con cita"},
-  {"Categoría": "Admin", "Punto": "Alertas de asistencia", "Descripción": "Notificación a padres 10 min después del inicio de clase.", "Aplicabilidad": "Menores", "Notas": "Slack/Mensaje"},
-  {"Categoría": "Admin", "Punto": "ID digital", "Descripción": "Entrada y seguimiento de asistencia mediante tarjetas de alumno móviles.", "Aplicabilidad": "Todos los alumnos", "Notas": "-"},
-  {"Categoría": "Educación", "Punto": "Cualificación del profesorado", "Descripción": "Todos los instructores tienen Master o 5+ años de experiencia.", "Aplicabilidad": "Profesorado", "Notas": "-"},
-  {"Categoría": "Educación", "Punto": "Soporte multilingüe", "Descripción": "Todas las clases ofrecen inglés o coreano como idioma principal.", "Aplicabilidad": "Clases globales", "Notas": "-"},
-  {"Categoría": "Educación", "Punto": "Especializaciones", "Descripción": "Especialidad en STEM y aprendizaje basado en Design Thinking.", "Aplicabilidad": "Rutas especializadas", "Notas": "-"},
-  {"Categoría": "Educación", "Punto": "Revisión del currículo", "Descripción": "El currículo se actualiza anualmente según tendencias educativas.", "Aplicabilidad": "Todos los cursos", "Notas": "-"},
-  {"Categoría": "Normativa", "Punto": "Protocolos de salud", "Descripción": "Asistencia restringida por enfermedades contagiosas hasta confirmar recuperación.", "Aplicabilidad": "Todos los usuarios", "Notas": "Alternativa online"},
-  {"Categoría": "Normativa", "Punto": "Rutas de evacuación", "Descripción": "Salidas y rutas de emergencia junto a cada puerta de aula.", "Aplicabilidad": "En sitio", "Notas": "-"},
-  {"Categoría": "Normativa", "Punto": "Política de móviles", "Descripción": "Móviles prohibidos en clase; guardar en taquillas designadas.", "Aplicabilidad": "Alumnos", "Notas": "Oficina para urgencias"},
-  {"Categoría": "Normativa", "Punto": "Seguridad del campus", "Descripción": "Menores no pueden salir del campus durante clase sin consentimiento.", "Aplicabilidad": "Menores", "Notas": "-"},
-  {"Categoría": "Normativa", "Punto": "Comida y bebida", "Descripción": "Comida prohibida en aulas; solo bebidas con tapa.", "Aplicabilidad": "Todos los usuarios", "Notas": "Solo sala común"},
-  {"Categoría": "Normativa", "Punto": "Derechos de autor", "Descripción": "Reproducción o compartir no autorizado de materiales es ilegal.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Normativa", "Punto": "Política de retrasos", "Descripción": "3 retrasos = 1 ausencia no justificada; aviso.", "Aplicabilidad": "Todos los alumnos", "Notas": "-"},
-  {"Categoría": "Normativa", "Punto": "Política de expulsión", "Descripción": "Expulsión inmediata posible por alterar o lenguaje abusivo.", "Aplicabilidad": "Todos los usuarios", "Notas": "Tolerancia cero"},
-  {"Categoría": "Técnico", "Punto": "Acceso VPN", "Descripción": "Guía VPN dedicada para alumnos internacionales.", "Aplicabilidad": "Alumnos globales", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Soporte de cuenta", "Descripción": "Contacte IT por email para problemas con Google.", "Aplicabilidad": "Alumnos online", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Retención de datos", "Descripción": "Datos académicos conservados 1 año tras graduación antes de borrado.", "Aplicabilidad": "Graduados", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "App móvil", "Descripción": "Tests de vocabulario y seguimiento de notas vía app de aprendizaje.", "Aplicabilidad": "Todos los alumnos", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Mantenimiento del servidor", "Descripción": "Mantenimiento cada domingo de 02:00 a 04:00.", "Aplicabilidad": "Web/LMS", "Notas": "-"},
-  {"Categoría": "Técnico", "Punto": "Equipo de audio", "Descripción": "Se recomienda auriculares personales para clases de idiomas.", "Aplicabilidad": "Rutas de idiomas", "Notas": "Alquiler disponible"},
-  {"Categoría": "Otro", "Punto": "Intensivos estacionales", "Descripción": "Camps inmersivos durante vacaciones de verano e invierno.", "Aplicabilidad": "Opcional", "Notas": "-"},
-  {"Categoría": "Otro", "Punto": "Servicio de lanzadera", "Descripción": "Servicio de autobús actualmente suspendido por seguridad.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Otro", "Punto": "Becas", "Descripción": "Becas para mejores y alumnos con mejora significativa.", "Aplicabilidad": "Selección trimestral", "Notas": "-"},
-  {"Categoría": "Otro", "Punto": "Graduación", "Descripción": "Ceremonia de fin de curso cada febrero.", "Aplicabilidad": "Graduados", "Notas": "-"},
-  {"Categoría": "Otro", "Punto": "Clases de prueba", "Descripción": "Tasas de prueba reembolsadas si el alumno se matricula después.", "Aplicabilidad": "Nuevos alumnos", "Notas": "-"},
-  {"Categoría": "Otro", "Punto": "Programa de referidos", "Descripción": "Vale de 20 $ al referidor cuando un nuevo alumno se matricula.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Otro", "Punto": "Seminarios para padres", "Descripción": "Webinars online al inicio de cada semestre para operaciones.", "Aplicabilidad": "Padres", "Notas": "Google Meet"},
-  {"Categoría": "Comunicación", "Punto": "Buzón de sugerencias", "Descripción": "Opiniones recogidas vía formulario Google anónimo.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Comunicación", "Punto": "Newsletters", "Descripción": "Newsletter mensual con información educativa al inicio del mes.", "Aplicabilidad": "Suscriptores", "Notas": "-"},
-  {"Categoría": "Comunicación", "Punto": "Horario de oficina", "Descripción": "Soporte telefónico más rápido entre 14:00 y 17:00 en días laborables.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Comunicación", "Punto": "Canal de avisos", "Descripción": "Avisos importantes vía canal Slack #Anuncios oficial.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Clases", "Punto": "Entrega de tareas", "Descripción": "Todas las tareas deben subirse a Google Classroom antes del plazo.", "Aplicabilidad": "Todos los alumnos", "Notas": "Plazos estrictos"},
-  {"Categoría": "Clases", "Punto": "Trabajo en grupo", "Descripción": "Los viernes se dedican a proyectos de equipo y presentaciones.", "Aplicabilidad": "Todos los alumnos", "Notas": "-"},
-  {"Categoría": "Clases", "Punto": "Grabaciones de clase", "Descripción": "Vídeos de repaso compartidos en 24h; disponibles 7 días.", "Aplicabilidad": "Todos los alumnos", "Notas": "-"},
-  {"Categoría": "Clases", "Punto": "Test de nivel", "Descripción": "Test diagnóstico vía Google Forms requerido antes de matricularse.", "Aplicabilidad": "Nuevos alumnos", "Notas": "Aprox. 30 min"},
-  {"Categoría": "Clases", "Punto": "Mentoría", "Descripción": "Programa 1:1 con alumnos senior para apoyo entre pares.", "Aplicabilidad": "Solicitantes", "Notas": "-"},
-  {"Categoría": "Clases", "Punto": "Política de recuperación", "Descripción": "Grabaciones o sesiones de recuperación solo con aviso 24h antes.", "Aplicabilidad": "Razones personales", "Notas": "Límite: 1/mes"},
-  {"Categoría": "Clases", "Punto": "Tamaño de clase", "Descripción": "Máximo 8 alumnos por clase.", "Aplicabilidad": "Clases regulares", "Notas": "-"},
-  {"Categoría": "Clases", "Punto": "Material del curso", "Descripción": "Apuntes PDF internos; libros externos deben comprarse.", "Aplicabilidad": "Todos los alumnos", "Notas": "-"},
-  {"Categoría": "Clases", "Punto": "Modo de instrucción", "Descripción": "Enfoque híbrido: presencial y sesiones Google Meet en vivo.", "Aplicabilidad": "Híbrido", "Notas": "-"},
-  {"Categoría": "Clases", "Punto": "Seguimiento de horarios", "Descripción": "Horarios individuales consultables en tiempo real vía Google Sheets.", "Aplicabilidad": "Todos los alumnos", "Notas": "-"},
-  {"Categoría": "Clases", "Punto": "Vídeos pre-estudio", "Descripción": "Vídeo de concepto de 5 min antes de clase (Aprendizaje invertido).", "Aplicabilidad": "Todos los alumnos", "Notas": "-"},
-  {"Categoría": "Clases", "Punto": "Sala de autoestudio", "Descripción": "Aulas abiertas para autoestudio fines de semana 10:00-12:00.", "Aplicabilidad": "Solicitantes", "Notas": "Con supervisión"},
-  {"Categoría": "Clases", "Punto": "Soporte Q&A", "Descripción": "Preguntas en Slack #Q&A fuera de clase; respuesta en 24h.", "Aplicabilidad": "Todos los alumnos", "Notas": "-"},
-  {"Categoría": "Clases", "Punto": "Evaluación", "Descripción": "Notas según exámenes escritos, portfolios y participación.", "Aplicabilidad": "Todos los alumnos", "Notas": "-"},
-  {"Categoría": "Clases", "Punto": "Presentaciones de proyectos", "Descripción": "Proyectos de fin de trimestre retransmitidos en YouTube Live para padres.", "Aplicabilidad": "Todos los alumnos", "Notas": "Vista en directo"},
-  {"Categoría": "Instalaciones", "Punto": "Alquiler de taquillas", "Descripción": "Taquillas personales para alumnos matriculados 3+ meses.", "Aplicabilidad": "Alumnos a largo plazo", "Notas": "Depósito: 10 $"},
-  {"Categoría": "Instalaciones", "Punto": "Climatización", "Descripción": "Temperatura de aulas mantenida a 24°C.", "Aplicabilidad": "En sitio", "Notas": "-"},
-  {"Categoría": "Instalaciones", "Punto": "Objetos perdidos", "Descripción": "Objetos conservados en recepción 1 semana antes de desechar.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Instalaciones", "Punto": "Salas de estudio", "Descripción": "Aulas vacías reservables como espacios de estudio.", "Aplicabilidad": "Solo alumnos", "Notas": "Reserva mismo día"},
-  {"Categoría": "Instalaciones", "Punto": "Wi-Fi", "Descripción": "Wi-Fi Giga gratuita en todo el campus.", "Aplicabilidad": "En sitio", "Notas": "PW: study1234"},
-  {"Categoría": "Instalaciones", "Punto": "Fuentes de agua", "Descripción": "Purificadores en la sala común; se anima a usar tazas personales.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Instalaciones", "Punto": "Iluminación", "Descripción": "Luces LED de estudio para minimizar fatiga visual.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Instalaciones", "Punto": "Alquiler de tabletas", "Descripción": "iPad o Galaxy Tab disponibles para uso en clase.", "Aplicabilidad": "Solo en clase", "Notas": "No sacar del sitio"},
-  {"Categoría": "Operaciones", "Punto": "Cambios de profesor", "Descripción": "Aviso de 1 semana en caso de cambio de instructor inevitable.", "Aplicabilidad": "Todos los alumnos", "Notas": "-"},
-  {"Categoría": "Operaciones", "Punto": "Alertas de emergencia", "Descripción": "Alertas Google Chat a contactos de emergencia registrados.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Operaciones", "Punto": "Días festivos", "Descripción": "Cerrado en festivos nacionales; se anunciarán fechas de recuperación.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Operaciones", "Punto": "Reserva de consultas", "Descripción": "Programe consultas vía enlace Google Calendar compartido.", "Aplicabilidad": "Todos los usuarios", "Notas": "Aviso 24h antes"},
-  {"Categoría": "Operaciones", "Punto": "Horario", "Descripción": "Laborables 13:00-22:00, sábados 09:00-18:00. Cerrado domingos.", "Aplicabilidad": "Todos los usuarios", "Notas": "-"},
-  {"Categoría": "Operaciones", "Punto": "Ubicación", "Descripción": "Frente a Salida 5, Estación Central (Google Maps).", "Aplicabilidad": "En sitio", "Notas": "Parking disponible"},
-  {"Categoría": "Operaciones", "Punto": "Beneficios de socios", "Descripción": "10% de descuento en librerías cercanas con carné de estudiante.", "Aplicabilidad": "Alumnos activos", "Notas": "-"},
-  {"Categoría": "Operaciones", "Punto": "Validación de parking", "Descripción": "Vale de 1h gratis para visitantes.", "Aplicabilidad": "Visitantes", "Notas": "Pregunte en recepción"},
-  {"Categoría": "Soporte", "Punto": "Alquiler de kits", "Descripción": "Kits para clases de programación y robótica disponibles.", "Aplicabilidad": "Clases de laboratorio", "Notas": "-"}
+  {
+    "Categoría": "Personal",
+    "Punto": "Filosofía educativa",
+    "Descripción": "Buscamos una educación que fomente el pensamiento independiente, no la memorización mecánica.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Métodos de pago",
+    "Descripción": "Pagos vía PayPal, Stripe y tarjetas de crédito principales.",
+    "Aplicabilidad": "Pago online",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Cuotas vencidas",
+    "Descripción": "La participación puede restringirse si la matrícula lleva más de una semana vencida.",
+    "Aplicabilidad": "Cuentas vencidas",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Facturación",
+    "Descripción": "Las facturas se envían al email del padre registrado al instante tras el pago.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "PDF proporcionado"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Descuento a largo plazo",
+    "Descripción": "Exención de material para alumnos que pagan 3 meses por adelantado.",
+    "Aplicabilidad": "Clases regulares",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Justificante de pago",
+    "Descripción": "Los certificados de pago pueden imprimirse desde la sección Mi Página.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Errores de tarjeta",
+    "Descripción": "Si falla el pago con tarjeta internacional, solicite factura PayPal.",
+    "Aplicabilidad": "Alumnos globales",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Política de descuentos",
+    "Descripción": "Los descuentos no son acumulables; se aplica el más alto.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Descuento familiar",
+    "Descripción": "10% de descuento cuando se matriculan dos o más miembros de la familia.",
+    "Aplicabilidad": "Miembros de familia",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Pago",
+    "Punto": "Política de reembolso",
+    "Descripción": "100% antes del inicio; 2/3 antes de 1/3 del trimestre; 1/2 antes de la mitad.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Asesoramiento 1:1",
+    "Descripción": "Entrevistas individuales regulares dos veces por semestre.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Salud y descansos",
+    "Descripción": "Regla estricta: 50 min de clase y 10 min de descanso.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Exámenes simulacro",
+    "Descripción": "Exámenes simulacro completos trimestrales para analizar rendimiento.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Sistema de méritos",
+    "Descripción": "'Alumno del mes' según notas de deberes y actitud en clase.",
+    "Aplicabilidad": "Alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Informes de progreso",
+    "Descripción": "Informes mensuales vía Google Docs a final de mes.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "Incluye notas 1:1"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Actualización del temario",
+    "Descripción": "Objetivos semanales y cuadros de progreso cada lunes.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Consultoría de admisión",
+    "Descripción": "Consultoría de portfolio para preparación de admisión universitaria.",
+    "Aplicabilidad": "Clases preparatorias",
+    "Notas": "Solo con cita"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "Alertas de asistencia",
+    "Descripción": "Notificación a padres 10 min después del inicio de clase.",
+    "Aplicabilidad": "Menores",
+    "Notas": "Slack/Mensaje"
+  },
+  {
+    "Categoría": "Admin",
+    "Punto": "ID digital",
+    "Descripción": "Entrada y seguimiento de asistencia mediante tarjetas de alumno móviles.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Educación",
+    "Punto": "Cualificación del profesorado",
+    "Descripción": "Todos los instructores tienen Master o 5+ años de experiencia.",
+    "Aplicabilidad": "Profesorado",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Educación",
+    "Punto": "Soporte multilingüe",
+    "Descripción": "Todas las clases ofrecen inglés o coreano como idioma principal.",
+    "Aplicabilidad": "Clases globales",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Educación",
+    "Punto": "Especializaciones",
+    "Descripción": "Especialidad en STEM y aprendizaje basado en Design Thinking.",
+    "Aplicabilidad": "Rutas especializadas",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Educación",
+    "Punto": "Revisión del currículo",
+    "Descripción": "El currículo se actualiza anualmente según tendencias educativas.",
+    "Aplicabilidad": "Todos los cursos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Normativa",
+    "Punto": "Protocolos de salud",
+    "Descripción": "Asistencia restringida por enfermedades contagiosas hasta confirmar recuperación.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "Alternativa online"
+  },
+  {
+    "Categoría": "Normativa",
+    "Punto": "Rutas de evacuación",
+    "Descripción": "Salidas y rutas de emergencia junto a cada puerta de aula.",
+    "Aplicabilidad": "En sitio",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Normativa",
+    "Punto": "Política de móviles",
+    "Descripción": "Móviles prohibidos en clase; guardar en taquillas designadas.",
+    "Aplicabilidad": "Alumnos",
+    "Notas": "Oficina para urgencias"
+  },
+  {
+    "Categoría": "Normativa",
+    "Punto": "Seguridad del campus",
+    "Descripción": "Menores no pueden salir del campus durante clase sin consentimiento.",
+    "Aplicabilidad": "Menores",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Normativa",
+    "Punto": "Comida y bebida",
+    "Descripción": "Comida prohibida en aulas; solo bebidas con tapa.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "Solo sala común"
+  },
+  {
+    "Categoría": "Normativa",
+    "Punto": "Derechos de autor",
+    "Descripción": "Reproducción o compartir no autorizado de materiales es ilegal.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Normativa",
+    "Punto": "Política de retrasos",
+    "Descripción": "3 retrasos = 1 ausencia no justificada; aviso.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Normativa",
+    "Punto": "Política de expulsión",
+    "Descripción": "Expulsión inmediata posible por alterar o lenguaje abusivo.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "Tolerancia cero"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Acceso VPN",
+    "Descripción": "Guía VPN dedicada para alumnos internacionales.",
+    "Aplicabilidad": "Alumnos globales",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Soporte de cuenta",
+    "Descripción": "Contacte IT por email para problemas con Google.",
+    "Aplicabilidad": "Alumnos online",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Retención de datos",
+    "Descripción": "Datos académicos conservados 1 año tras graduación antes de borrado.",
+    "Aplicabilidad": "Graduados",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "App móvil",
+    "Descripción": "Tests de vocabulario y seguimiento de notas vía app de aprendizaje.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Mantenimiento del servidor",
+    "Descripción": "Mantenimiento cada domingo de 02:00 a 04:00.",
+    "Aplicabilidad": "Web/LMS",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Técnico",
+    "Punto": "Equipo de audio",
+    "Descripción": "Se recomienda auriculares personales para clases de idiomas.",
+    "Aplicabilidad": "Rutas de idiomas",
+    "Notas": "Alquiler disponible"
+  },
+  {
+    "Categoría": "Otro",
+    "Punto": "Intensivos estacionales",
+    "Descripción": "Camps inmersivos durante vacaciones de verano e invierno.",
+    "Aplicabilidad": "Opcional",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Otro",
+    "Punto": "Servicio de lanzadera",
+    "Descripción": "Servicio de autobús actualmente suspendido por seguridad.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Otro",
+    "Punto": "Becas",
+    "Descripción": "Becas para mejores y alumnos con mejora significativa.",
+    "Aplicabilidad": "Selección trimestral",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Otro",
+    "Punto": "Graduación",
+    "Descripción": "Ceremonia de fin de curso cada febrero.",
+    "Aplicabilidad": "Graduados",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Otro",
+    "Punto": "Clases de prueba",
+    "Descripción": "Tasas de prueba reembolsadas si el alumno se matricula después.",
+    "Aplicabilidad": "Nuevos alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Otro",
+    "Punto": "Programa de referidos",
+    "Descripción": "Vale de 20 $ al referidor cuando un nuevo alumno se matricula.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Otro",
+    "Punto": "Seminarios para padres",
+    "Descripción": "Webinars online al inicio de cada semestre para operaciones.",
+    "Aplicabilidad": "Padres",
+    "Notas": "Google Meet"
+  },
+  {
+    "Categoría": "Comunicación",
+    "Punto": "Buzón de sugerencias",
+    "Descripción": "Opiniones recogidas vía formulario Google anónimo.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Comunicación",
+    "Punto": "Newsletters",
+    "Descripción": "Newsletter mensual con información educativa al inicio del mes.",
+    "Aplicabilidad": "Suscriptores",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Comunicación",
+    "Punto": "Horario de oficina",
+    "Descripción": "Soporte telefónico más rápido entre 14:00 y 17:00 en días laborables.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Comunicación",
+    "Punto": "Canal de avisos",
+    "Descripción": "Avisos importantes vía canal Slack #Anuncios oficial.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clases",
+    "Punto": "Entrega de tareas",
+    "Descripción": "Todas las tareas deben subirse a Google Classroom antes del plazo.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "Plazos estrictos"
+  },
+  {
+    "Categoría": "Clases",
+    "Punto": "Trabajo en grupo",
+    "Descripción": "Los viernes se dedican a proyectos de equipo y presentaciones.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clases",
+    "Punto": "Grabaciones de clase",
+    "Descripción": "Vídeos de repaso compartidos en 24h; disponibles 7 días.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clases",
+    "Punto": "Test de nivel",
+    "Descripción": "Test diagnóstico vía Google Forms requerido antes de matricularse.",
+    "Aplicabilidad": "Nuevos alumnos",
+    "Notas": "Aprox. 30 min"
+  },
+  {
+    "Categoría": "Clases",
+    "Punto": "Mentoría",
+    "Descripción": "Programa 1:1 con alumnos senior para apoyo entre pares.",
+    "Aplicabilidad": "Solicitantes",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clases",
+    "Punto": "Política de recuperación",
+    "Descripción": "Grabaciones o sesiones de recuperación solo con aviso 24h antes.",
+    "Aplicabilidad": "Razones personales",
+    "Notas": "Límite: 1/mes"
+  },
+  {
+    "Categoría": "Clases",
+    "Punto": "Tamaño de clase",
+    "Descripción": "Máximo 8 alumnos por clase.",
+    "Aplicabilidad": "Clases regulares",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clases",
+    "Punto": "Material del curso",
+    "Descripción": "Apuntes PDF internos; libros externos deben comprarse.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clases",
+    "Punto": "Modo de instrucción",
+    "Descripción": "Enfoque híbrido: presencial y sesiones Google Meet en vivo.",
+    "Aplicabilidad": "Híbrido",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clases",
+    "Punto": "Seguimiento de horarios",
+    "Descripción": "Horarios individuales consultables en tiempo real vía Google Sheets.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clases",
+    "Punto": "Vídeos pre-estudio",
+    "Descripción": "Vídeo de concepto de 5 min antes de clase (Aprendizaje invertido).",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clases",
+    "Punto": "Sala de autoestudio",
+    "Descripción": "Aulas abiertas para autoestudio fines de semana 10:00-12:00.",
+    "Aplicabilidad": "Solicitantes",
+    "Notas": "Con supervisión"
+  },
+  {
+    "Categoría": "Clases",
+    "Punto": "Soporte Q&A",
+    "Descripción": "Preguntas en Slack #Q&A fuera de clase; respuesta en 24h.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clases",
+    "Punto": "Evaluación",
+    "Descripción": "Notas según exámenes escritos, portfolios y participación.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Clases",
+    "Punto": "Presentaciones de proyectos",
+    "Descripción": "Proyectos de fin de trimestre retransmitidos en YouTube Live para padres.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "Vista en directo"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Alquiler de taquillas",
+    "Descripción": "Taquillas personales para alumnos matriculados 3+ meses.",
+    "Aplicabilidad": "Alumnos a largo plazo",
+    "Notas": "Depósito: 10 $"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Climatización",
+    "Descripción": "Temperatura de aulas mantenida a 24°C.",
+    "Aplicabilidad": "En sitio",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Objetos perdidos",
+    "Descripción": "Objetos conservados en recepción 1 semana antes de desechar.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Salas de estudio",
+    "Descripción": "Aulas vacías reservables como espacios de estudio.",
+    "Aplicabilidad": "Solo alumnos",
+    "Notas": "Reserva mismo día"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Wi-Fi",
+    "Descripción": "Wi-Fi Giga gratuita en todo el campus.",
+    "Aplicabilidad": "En sitio",
+    "Notas": "PW: study1234"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Fuentes de agua",
+    "Descripción": "Purificadores en la sala común; se anima a usar tazas personales.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Iluminación",
+    "Descripción": "Luces LED de estudio para minimizar fatiga visual.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Instalaciones",
+    "Punto": "Alquiler de tabletas",
+    "Descripción": "iPad o Galaxy Tab disponibles para uso en clase.",
+    "Aplicabilidad": "Solo en clase",
+    "Notas": "No sacar del sitio"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Cambios de profesor",
+    "Descripción": "Aviso de 1 semana en caso de cambio de instructor inevitable.",
+    "Aplicabilidad": "Todos los alumnos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Alertas de emergencia",
+    "Descripción": "Alertas Google Chat a contactos de emergencia registrados.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Días festivos",
+    "Descripción": "Cerrado en festivos nacionales; se anunciarán fechas de recuperación.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Reserva de consultas",
+    "Descripción": "Programe consultas vía enlace Google Calendar compartido.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "Aviso 24h antes"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Horario",
+    "Descripción": "Laborables 13:00-22:00, sábados 09:00-18:00. Cerrado domingos.",
+    "Aplicabilidad": "Todos los usuarios",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Ubicación",
+    "Descripción": "Frente a Salida 5, Estación Central (Google Maps).",
+    "Aplicabilidad": "En sitio",
+    "Notas": "Parking disponible"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Beneficios de socios",
+    "Descripción": "10% de descuento en librerías cercanas con carné de estudiante.",
+    "Aplicabilidad": "Alumnos activos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operaciones",
+    "Punto": "Validación de parking",
+    "Descripción": "Vale de 1h gratis para visitantes.",
+    "Aplicabilidad": "Visitantes",
+    "Notas": "Pregunte en recepción"
+  },
+  {
+    "Categoría": "Soporte",
+    "Punto": "Alquiler de kits",
+    "Descripción": "Kits para clases de programación y robótica disponibles.",
+    "Aplicabilidad": "Clases de laboratorio",
+    "Notas": "-"
+  }
 ]

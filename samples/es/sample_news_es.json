@@ -1,82 +1,562 @@
 [
-  {"Categoría": "Personal", "Punto": "Visión", "Descripción": "Herramienta que ofrece los análisis más rápidos y precisos en la era del exceso de información.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Motor de búsqueda", "Descripción": "Usa la API Google Custom Search para explorar noticias relevantes.", "Aplicabilidad": "Bajo solicitud", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Configuración de período", "Descripción": "Por defecto, noticias de las últimas 24 horas.", "Aplicabilidad": "Resumen noticias", "Notas": "Período ajustable"},
-  {"Categoría": "Búsqueda", "Punto": "Búsqueda multilingüe", "Descripción": "Exploración en tiempo real de reportajes globales con palabras clave en inglés.", "Aplicabilidad": "Reportaje global", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Filtro de credibilidad", "Descripción": "Excluye fake news y sitios de rumores no verificados.", "Aplicabilidad": "Lista blanca", "Notas": "Filtrado por dominio"},
-  {"Categoría": "Búsqueda", "Punto": "Documentos similares", "Descripción": "Excluye documentos con más de 80% de similitud.", "Aplicabilidad": "Eficiencia", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Deduplicación", "Descripción": "Integra y resume noticias de múltiples fuentes sobre el mismo evento.", "Aplicabilidad": "Agrupación", "Notas": "-"},
-  {"Categoría": "Búsqueda", "Punto": "Formatos de archivo", "Descripción": "Soporta DOCX y PPTX además de PDF.", "Aplicabilidad": "Extensión", "Notas": "-"},
-  {"Categoría": "Funcionalidad", "Punto": "Personalización", "Descripción": "Selecciona noticias según palabras clave de interés del usuario.", "Aplicabilidad": "Suscriptores", "Notas": "Integración cuenta Google"},
-  {"Categoría": "Funcionalidad", "Punto": "Mind Map", "Descripción": "Genera mapa mental visual de la estructura del informe.", "Aplicabilidad": "Estructuración", "Notas": "-"},
-  {"Categoría": "Funcionalidad", "Punto": "Noticias formato corto", "Descripción": "Generación automática de guiones para Shorts/Reels desde resúmenes.", "Aplicabilidad": "Creadores", "Notas": "-"},
-  {"Categoría": "Funcionalidad", "Punto": "Servicio de alertas", "Descripción": "Envía notificaciones Slack cuando hay noticias importantes sobre palabras clave.", "Aplicabilidad": "Pago/Interno", "Notas": "-"},
-  {"Categoría": "Funcionalidad", "Punto": "Traducción", "Descripción": "Resume noticias internacionales en coreano tras traducción.", "Aplicabilidad": "Noticias globales", "Notas": "Comparación texto original"},
-  {"Categoría": "Funcionalidad", "Punto": "Resumen vocal", "Descripción": "Resumen por audio vía Google TTS.", "Aplicabilidad": "Móvil/Vehículo", "Notas": "-"},
-  {"Categoría": "Funcionalidad", "Punto": "Q&A", "Descripción": "Responde preguntas como '¿Cómo afecta esta noticia a Samsung Electronics?'.", "Aplicabilidad": "Análisis correlación", "Notas": "-"},
-  {"Categoría": "Funcionalidad", "Punto": "Generación de quiz", "Descripción": "Crea quizzes para verificar comprensión del contenido resumido.", "Aplicabilidad": "Educación/Aprendizaje", "Notas": "-"},
-  {"Categoría": "Funcionalidad", "Punto": "Verificación de hechos", "Descripción": "Indica 'En verificación' si hay información contradictoria.", "Aplicabilidad": "Temas controvertidos", "Notas": "-"},
-  {"Categoría": "Tecnología", "Punto": "Integración API", "Descripción": "Proporciona APIs para que otros servicios usen nuestras funciones de resumen.", "Aplicabilidad": "B2B", "Notas": "-"},
-  {"Categoría": "Tecnología", "Punto": "Análisis PDF", "Descripción": "Usa OCR para extraer texto de informes basados en imágenes.", "Aplicabilidad": "Informes escaneados", "Notas": "-"},
-  {"Categoría": "Tecnología", "Punto": "Grounding", "Descripción": "Indexa cada frase del resumen a su fuente en el texto original.", "Aplicabilidad": "Verificación RAG", "Notas": "-"},
-  {"Categoría": "Tecnología", "Punto": "Optimización velocidad", "Descripción": "Resumen completado en promedio 5 segundos tras subida.", "Aplicabilidad": "Rendimiento", "Notas": "-"},
-  {"Categoría": "Tecnología", "Punto": "Modelo de resumen", "Descripción": "Utiliza los últimos LLM para mejorar comprensión de contexto.", "Aplicabilidad": "Motor", "Notas": "-"},
-  {"Categoría": "Tecnología", "Punto": "Embedding", "Descripción": "Calcula similitud contextual entre noticias para crear clusters.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Tecnología", "Punto": "Estrategia de fragmentación", "Descripción": "Divide informes largos en unidades semánticas para resumir sin omisiones.", "Aplicabilidad": "Documentos largos", "Notas": "-"},
-  {"Categoría": "Tecnología", "Punto": "Límite de texto", "Descripción": "Límite de 500 caracteres por noticia en el resumen.", "Aplicabilidad": "Resumen estándar", "Notas": "-"},
-  {"Categoría": "Tecnología", "Punto": "Alucinación", "Descripción": "Verifica estrictamente que no se inventen cifras o hechos no presentes en el original.", "Aplicabilidad": "Control calidad", "Notas": "-"},
-  {"Categoría": "Noticias", "Punto": "Legibilidad", "Descripción": "Elimina modificadores innecesarios y usa frases concisas con viñetas.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Noticias", "Punto": "Info meteorológica", "Descripción": "Resume información según APIs KMA y meteorológicas globales.", "Aplicabilidad": "Diario", "Notas": "-"},
-  {"Categoría": "Noticias", "Punto": "Noticias exclusivas", "Descripción": "Destaca y resume por separado exclusivas o breaking por medio.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Noticias", "Punto": "Reacción lectores", "Descripción": "Incluye resumen en una frase de opinión pública de comunidades/comentarios.", "Aplicabilidad": "Opcional", "Notas": "-"},
-  {"Categoría": "Noticias", "Punto": "Clasificación", "Descripción": "Clasifica automáticamente en 8 categorías (Economía, Tech, Internacional, etc.).", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Noticias", "Punto": "Descripción fotos", "Descripción": "Resume el significado de fotos o infografías principales.", "Aplicabilidad": "Multimodal", "Notas": "-"},
-  {"Categoría": "Noticias", "Punto": "Resultados deportivos", "Descripción": "Resume marcadores y puntos clave tras el partido.", "Aplicabilidad": "Deportes", "Notas": "-"},
-  {"Categoría": "Noticias", "Punto": "Ciclo de actualización", "Descripción": "Breaking en tiempo real; noticias generales cada hora.", "Aplicabilidad": "Breaking/General", "Notas": "-"},
-  {"Categoría": "Noticias", "Punto": "Embargo", "Descripción": "No expone noticias bajo embargo hasta la hora oficial de publicación.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Noticias", "Punto": "Comparativa anual", "Descripción": "Analiza cambios comparando con resúmenes de noticias pasadas.", "Aplicabilidad": "Análisis histórico", "Notas": "-"},
-  {"Categoría": "Noticias", "Punto": "Prensa extranjera", "Descripción": "Traducción y resumen en tiempo real de BBC, CNN, Al Jazeera, etc.", "Aplicabilidad": "Global", "Notas": "-"},
-  {"Categoría": "Noticias", "Punto": "Principio de resumen", "Descripción": "Resume en hechos clave (5W1H) con postura neutral.", "Aplicabilidad": "Todos", "Notas": "Excluye interpretación subjetiva"},
-  {"Categoría": "Noticias", "Punto": "Resumen de entrevista", "Descripción": "Extrae solo los puntos clave de las declaraciones del entrevistado.", "Aplicabilidad": "Artículos entrevista", "Notas": "-"},
-  {"Categoría": "Noticias", "Punto": "Fuentes de información", "Descripción": "Prioriza Google News y agencias verificadas como AP y Reuters.", "Aplicabilidad": "Todos", "Notas": "Enlace a fuente obligatorio"},
-  {"Categoría": "Noticias", "Punto": "Neutralidad política", "Descripción": "Filtra automáticamente modificadores sesgados hacia partidos o ideologías.", "Aplicabilidad": "Todos", "Notas": "Cumplimiento directrices IA"},
-  {"Categoría": "Noticias", "Punto": "Resumen semanal", "Descripción": "Resume las 10 noticias principales de la semana cada domingo.", "Aplicabilidad": "Servicio regular", "Notas": "-"},
-  {"Categoría": "Noticias", "Punto": "Estado del mercado", "Descripción": "Informa resúmenes de índices principales y causas tras cierre.", "Aplicabilidad": "Valores", "Notas": "-"},
-  {"Categoría": "Noticias", "Punto": "Noticias locales", "Descripción": "Prioriza noticias locales según ubicación del usuario.", "Aplicabilidad": "Con consentimiento ubicación", "Notas": "-"},
-  {"Categoría": "Noticias", "Punto": "Titular", "Descripción": "Modifica títulos sensacionalistas 'clickbait' a neutros.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Informe", "Punto": "Conclusión primero", "Descripción": "Coloca 'resumen central en 3 líneas' al inicio del informe.", "Aplicabilidad": "Todos los informes", "Notas": "-"},
-  {"Categoría": "Informe", "Punto": "Cita de datos", "Descripción": "Principio de citar gráficos y cifras exactamente como en el original.", "Aplicabilidad": "Datos numéricos", "Notas": "Verificación unidades obligatoria"},
-  {"Categoría": "Informe", "Punto": "Objetivo de cotización", "Descripción": "Presentación obligatoria de cambios de precio objetivo en informes de valores.", "Aplicabilidad": "Análisis de valores", "Notas": "-"},
-  {"Categoría": "Informe", "Punto": "Fecha publicación", "Descripción": "Fecha real de publicación indicada claramente al inicio.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Informe", "Punto": "Resumen comparativo", "Descripción": "Compara y resume opiniones contradictorias de distintos institutos.", "Aplicabilidad": "Análisis en profundidad", "Notas": "-"},
-  {"Categoría": "Informe", "Punto": "Perspectiva sector", "Descripción": "Gestiona informes de perspectiva sectorial semestrales en sección especial.", "Aplicabilidad": "Análisis sector", "Notas": "-"},
-  {"Categoría": "Informe", "Punto": "Verificación numérica", "Descripción": "Avisa de posibles errores si las cifras totales no coinciden.", "Aplicabilidad": "Verificación datos", "Notas": "-"},
-  {"Categoría": "Informe", "Punto": "Objetivos de resumen", "Descripción": "Resume informes de brokers, publicaciones gubernamentales y análisis de mercado en PDF.", "Aplicabilidad": "Modo informe", "Notas": "-"},
-  {"Categoría": "Informe", "Punto": "Versiones de resumen", "Descripción": "Versión de 1 min (simple) y 5 min (detallada).", "Aplicabilidad": "Selectivo", "Notas": "-"},
-  {"Categoría": "Informe", "Punto": "Glosario", "Descripción": "Enlaces a diccionarios de conocimiento básico antes de leer.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Informe", "Punto": "Términos técnicos", "Descripción": "Explicaciones de términos económicos o técnicos difíciles al final.", "Aplicabilidad": "Informe técnico", "Notas": "-"},
-  {"Categoría": "Informe", "Punto": "Política gubernamental", "Descripción": "Resume cambios clave en leyes o políticas recién anunciadas.", "Aplicabilidad": "Noticias política", "Notas": "-"},
-  {"Categoría": "Informe", "Punto": "Fuente institucional", "Descripción": "Prioriza informes de Goldman Sachs, JP Morgan, etc.", "Aplicabilidad": "Research global", "Notas": "-"},
-  {"Categoría": "Informe", "Punto": "Riesgo inversión", "Descripción": "Aviso de responsabilidad de inversión al final de informes relacionados.", "Aplicabilidad": "Informe financiero", "Notas": "-"},
-  {"Categoría": "Seguridad", "Punto": "Confidencialidad", "Descripción": "Datos de resúmenes internos no usados para entrenamiento IA.", "Aplicabilidad": "B2B/Interno", "Notas": "-"},
-  {"Categoría": "Seguridad", "Punto": "Cifrado datos", "Descripción": "Todos los PDF transmitidos se cifran con SSL.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Seguridad", "Punto": "Registros de acceso", "Descripción": "Registra todas las solicitudes de análisis de informes.", "Aplicabilidad": "Admin", "Notas": "-"},
-  {"Categoría": "Análisis", "Punto": "Análisis sentimiento", "Descripción": "Transmite atmósfera del mercado analizando puntuaciones positivas/negativas.", "Aplicabilidad": "Economía/Valores", "Notas": "-"},
-  {"Categoría": "Análisis", "Punto": "Noticias relacionadas", "Descripción": "Recomienda noticias más relacionadas con el resumen actual.", "Aplicabilidad": "Algoritmo recomendación", "Notas": "-"},
-  {"Categoría": "Análisis", "Punto": "Análisis de impacto", "Descripción": "Indica impacto de noticias en industrias como Alto/Medio/Bajo.", "Aplicabilidad": "Economía", "Notas": "-"},
-  {"Categoría": "Análisis", "Punto": "Mapa de relaciones", "Descripción": "Resume relaciones entre figuras en formato gráfico.", "Aplicabilidad": "Política/Social", "Notas": "-"},
-  {"Categoría": "Análisis", "Punto": "Integración bursátil", "Descripción": "Muestra gráficos bursátiles en tiempo real junto al resumen.", "Aplicabilidad": "Finanzas", "Notas": "-"},
-  {"Categoría": "Análisis", "Punto": "Análisis tendencias", "Descripción": "Muestra palabras clave en tendencia con Google Trends.", "Aplicabilidad": "Tendencia tiempo real", "Notas": "-"},
-  {"Categoría": "Análisis", "Punto": "Puntuación buzz", "Descripción": "Valora noticias según volumen de menciones en redes sociales.", "Aplicabilidad": "Tiempo real", "Notas": "-"},
-  {"Categoría": "Operación", "Punto": "Newsletter", "Descripción": "Genera newsletter resumiendo temas principales cada mañana a las 8h.", "Aplicabilidad": "Suscriptores", "Notas": "-"},
-  {"Categoría": "Operación", "Punto": "Modo oscuro", "Descripción": "Modo oscuro para lectura más cómoda.", "Aplicabilidad": "Web/App", "Notas": "-"},
-  {"Categoría": "Operación", "Punto": "Horario de servicio", "Descripción": "Servidores de noticias operativos 24h sin interrupción.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Operación", "Punto": "Archivo", "Descripción": "Datos de resúmenes pasados almacenados máximo 1 año.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Operación", "Punto": "Suscripción de pago", "Descripción": "Resúmenes de informes profesionales solo para miembros premium.", "Aplicabilidad": "Servicio de pago", "Notas": "-"},
-  {"Categoría": "Operación", "Punto": "Consulta", "Descripción": "Use Google Forms para reportar errores o consultas funcionales.", "Aplicabilidad": "Todos", "Notas": "-"},
-  {"Categoría": "Operación", "Punto": "Derechos de autor", "Descripción": "Cumple directrices fair use; publicación de textos completos prohibida.", "Aplicabilidad": "Ley derechos autor", "Notas": "-"},
-  {"Categoría": "Operación", "Punto": "Feedback", "Descripción": "Revisión de lógica de resumen ante quejas de calidad.", "Aplicabilidad": "Mejora calidad", "Notas": "-"},
-  {"Categoría": "Operación", "Punto": "Historial", "Descripción": "Guarda lista de resúmenes leídos recientemente.", "Aplicabilidad": "Usuarios conectados", "Notas": "-"},
-  {"Categoría": "Política", "Punto": "Corrección", "Descripción": "Resúmenes actualizados de inmediato si hay correcciones en el original.", "Aplicabilidad": "Actualización hechos", "Notas": "-"},
-  {"Categoría": "Soporte", "Punto": "Conexión expertos", "Descripción": "Conecta a expertos relevantes para más preguntas sobre el informe.", "Aplicabilidad": "Opción de pago", "Notas": "-"}
+  {
+    "Categoría": "Personal",
+    "Punto": "Visión",
+    "Descripción": "Herramienta que ofrece los análisis más rápidos y precisos en la era del exceso de información.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Motor de búsqueda",
+    "Descripción": "Usa la API Google Custom Search para explorar noticias relevantes.",
+    "Aplicabilidad": "Bajo solicitud",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Configuración de período",
+    "Descripción": "Por defecto, noticias de las últimas 24 horas.",
+    "Aplicabilidad": "Resumen noticias",
+    "Notas": "Período ajustable"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Búsqueda multilingüe",
+    "Descripción": "Exploración en tiempo real de reportajes globales con palabras clave en inglés.",
+    "Aplicabilidad": "Reportaje global",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Filtro de credibilidad",
+    "Descripción": "Excluye fake news y sitios de rumores no verificados.",
+    "Aplicabilidad": "Lista blanca",
+    "Notas": "Filtrado por dominio"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Documentos similares",
+    "Descripción": "Excluye documentos con más de 80% de similitud.",
+    "Aplicabilidad": "Eficiencia",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Deduplicación",
+    "Descripción": "Integra y resume noticias de múltiples fuentes sobre el mismo evento.",
+    "Aplicabilidad": "Agrupación",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Búsqueda",
+    "Punto": "Formatos de archivo",
+    "Descripción": "Soporta DOCX y PPTX además de PDF.",
+    "Aplicabilidad": "Extensión",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Funcionalidad",
+    "Punto": "Personalización",
+    "Descripción": "Selecciona noticias según palabras clave de interés del usuario.",
+    "Aplicabilidad": "Suscriptores",
+    "Notas": "Integración cuenta Google"
+  },
+  {
+    "Categoría": "Funcionalidad",
+    "Punto": "Mind Map",
+    "Descripción": "Genera mapa mental visual de la estructura del informe.",
+    "Aplicabilidad": "Estructuración",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Funcionalidad",
+    "Punto": "Noticias formato corto",
+    "Descripción": "Generación automática de guiones para Shorts/Reels desde resúmenes.",
+    "Aplicabilidad": "Creadores",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Funcionalidad",
+    "Punto": "Servicio de alertas",
+    "Descripción": "Envía notificaciones Slack cuando hay noticias importantes sobre palabras clave.",
+    "Aplicabilidad": "Pago/Interno",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Funcionalidad",
+    "Punto": "Traducción",
+    "Descripción": "Resume noticias internacionales en coreano tras traducción.",
+    "Aplicabilidad": "Noticias globales",
+    "Notas": "Comparación texto original"
+  },
+  {
+    "Categoría": "Funcionalidad",
+    "Punto": "Resumen vocal",
+    "Descripción": "Resumen por audio vía Google TTS.",
+    "Aplicabilidad": "Móvil/Vehículo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Funcionalidad",
+    "Punto": "Q&A",
+    "Descripción": "Responde preguntas como '¿Cómo afecta esta noticia a Samsung Electronics?'.",
+    "Aplicabilidad": "Análisis correlación",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Funcionalidad",
+    "Punto": "Generación de quiz",
+    "Descripción": "Crea quizzes para verificar comprensión del contenido resumido.",
+    "Aplicabilidad": "Educación/Aprendizaje",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Funcionalidad",
+    "Punto": "Verificación de hechos",
+    "Descripción": "Indica 'En verificación' si hay información contradictoria.",
+    "Aplicabilidad": "Temas controvertidos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Tecnología",
+    "Punto": "Integración API",
+    "Descripción": "Proporciona APIs para que otros servicios usen nuestras funciones de resumen.",
+    "Aplicabilidad": "B2B",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Tecnología",
+    "Punto": "Análisis PDF",
+    "Descripción": "Usa OCR para extraer texto de informes basados en imágenes.",
+    "Aplicabilidad": "Informes escaneados",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Tecnología",
+    "Punto": "Grounding",
+    "Descripción": "Indexa cada frase del resumen a su fuente en el texto original.",
+    "Aplicabilidad": "Verificación RAG",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Tecnología",
+    "Punto": "Optimización velocidad",
+    "Descripción": "Resumen completado en promedio 5 segundos tras subida.",
+    "Aplicabilidad": "Rendimiento",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Tecnología",
+    "Punto": "Modelo de resumen",
+    "Descripción": "Utiliza los últimos LLM para mejorar comprensión de contexto.",
+    "Aplicabilidad": "Motor",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Tecnología",
+    "Punto": "Embedding",
+    "Descripción": "Calcula similitud contextual entre noticias para crear clusters.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Tecnología",
+    "Punto": "Estrategia de fragmentación",
+    "Descripción": "Divide informes largos en unidades semánticas para resumir sin omisiones.",
+    "Aplicabilidad": "Documentos largos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Tecnología",
+    "Punto": "Límite de texto",
+    "Descripción": "Límite de 500 caracteres por noticia en el resumen.",
+    "Aplicabilidad": "Resumen estándar",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Tecnología",
+    "Punto": "Alucinación",
+    "Descripción": "Verifica estrictamente que no se inventen cifras o hechos no presentes en el original.",
+    "Aplicabilidad": "Control calidad",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Legibilidad",
+    "Descripción": "Elimina modificadores innecesarios y usa frases concisas con viñetas.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Info meteorológica",
+    "Descripción": "Resume información según APIs KMA y meteorológicas globales.",
+    "Aplicabilidad": "Diario",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Noticias exclusivas",
+    "Descripción": "Destaca y resume por separado exclusivas o breaking por medio.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Reacción lectores",
+    "Descripción": "Incluye resumen en una frase de opinión pública de comunidades/comentarios.",
+    "Aplicabilidad": "Opcional",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Clasificación",
+    "Descripción": "Clasifica automáticamente en 8 categorías (Economía, Tech, Internacional, etc.).",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Descripción fotos",
+    "Descripción": "Resume el significado de fotos o infografías principales.",
+    "Aplicabilidad": "Multimodal",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Resultados deportivos",
+    "Descripción": "Resume marcadores y puntos clave tras el partido.",
+    "Aplicabilidad": "Deportes",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Ciclo de actualización",
+    "Descripción": "Breaking en tiempo real; noticias generales cada hora.",
+    "Aplicabilidad": "Breaking/General",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Embargo",
+    "Descripción": "No expone noticias bajo embargo hasta la hora oficial de publicación.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Comparativa anual",
+    "Descripción": "Analiza cambios comparando con resúmenes de noticias pasadas.",
+    "Aplicabilidad": "Análisis histórico",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Prensa extranjera",
+    "Descripción": "Traducción y resumen en tiempo real de BBC, CNN, Al Jazeera, etc.",
+    "Aplicabilidad": "Global",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Principio de resumen",
+    "Descripción": "Resume en hechos clave (5W1H) con postura neutral.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Excluye interpretación subjetiva"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Resumen de entrevista",
+    "Descripción": "Extrae solo los puntos clave de las declaraciones del entrevistado.",
+    "Aplicabilidad": "Artículos entrevista",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Fuentes de información",
+    "Descripción": "Prioriza Google News y agencias verificadas como AP y Reuters.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Enlace a fuente obligatorio"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Neutralidad política",
+    "Descripción": "Filtra automáticamente modificadores sesgados hacia partidos o ideologías.",
+    "Aplicabilidad": "Todos",
+    "Notas": "Cumplimiento directrices IA"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Resumen semanal",
+    "Descripción": "Resume las 10 noticias principales de la semana cada domingo.",
+    "Aplicabilidad": "Servicio regular",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Estado del mercado",
+    "Descripción": "Informa resúmenes de índices principales y causas tras cierre.",
+    "Aplicabilidad": "Valores",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Noticias locales",
+    "Descripción": "Prioriza noticias locales según ubicación del usuario.",
+    "Aplicabilidad": "Con consentimiento ubicación",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Noticias",
+    "Punto": "Titular",
+    "Descripción": "Modifica títulos sensacionalistas 'clickbait' a neutros.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Informe",
+    "Punto": "Conclusión primero",
+    "Descripción": "Coloca 'resumen central en 3 líneas' al inicio del informe.",
+    "Aplicabilidad": "Todos los informes",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Informe",
+    "Punto": "Cita de datos",
+    "Descripción": "Principio de citar gráficos y cifras exactamente como en el original.",
+    "Aplicabilidad": "Datos numéricos",
+    "Notas": "Verificación unidades obligatoria"
+  },
+  {
+    "Categoría": "Informe",
+    "Punto": "Objetivo de cotización",
+    "Descripción": "Presentación obligatoria de cambios de precio objetivo en informes de valores.",
+    "Aplicabilidad": "Análisis de valores",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Informe",
+    "Punto": "Fecha publicación",
+    "Descripción": "Fecha real de publicación indicada claramente al inicio.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Informe",
+    "Punto": "Resumen comparativo",
+    "Descripción": "Compara y resume opiniones contradictorias de distintos institutos.",
+    "Aplicabilidad": "Análisis en profundidad",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Informe",
+    "Punto": "Perspectiva sector",
+    "Descripción": "Gestiona informes de perspectiva sectorial semestrales en sección especial.",
+    "Aplicabilidad": "Análisis sector",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Informe",
+    "Punto": "Verificación numérica",
+    "Descripción": "Avisa de posibles errores si las cifras totales no coinciden.",
+    "Aplicabilidad": "Verificación datos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Informe",
+    "Punto": "Objetivos de resumen",
+    "Descripción": "Resume informes de brokers, publicaciones gubernamentales y análisis de mercado en PDF.",
+    "Aplicabilidad": "Modo informe",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Informe",
+    "Punto": "Versiones de resumen",
+    "Descripción": "Versión de 1 min (simple) y 5 min (detallada).",
+    "Aplicabilidad": "Selectivo",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Informe",
+    "Punto": "Glosario",
+    "Descripción": "Enlaces a diccionarios de conocimiento básico antes de leer.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Informe",
+    "Punto": "Términos técnicos",
+    "Descripción": "Explicaciones de términos económicos o técnicos difíciles al final.",
+    "Aplicabilidad": "Informe técnico",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Informe",
+    "Punto": "Política gubernamental",
+    "Descripción": "Resume cambios clave en leyes o políticas recién anunciadas.",
+    "Aplicabilidad": "Noticias política",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Informe",
+    "Punto": "Fuente institucional",
+    "Descripción": "Prioriza informes de Goldman Sachs, JP Morgan, etc.",
+    "Aplicabilidad": "Research global",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Informe",
+    "Punto": "Riesgo inversión",
+    "Descripción": "Aviso de responsabilidad de inversión al final de informes relacionados.",
+    "Aplicabilidad": "Informe financiero",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad",
+    "Punto": "Confidencialidad",
+    "Descripción": "Datos de resúmenes internos no usados para entrenamiento IA.",
+    "Aplicabilidad": "B2B/Interno",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad",
+    "Punto": "Cifrado datos",
+    "Descripción": "Todos los PDF transmitidos se cifran con SSL.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Seguridad",
+    "Punto": "Registros de acceso",
+    "Descripción": "Registra todas las solicitudes de análisis de informes.",
+    "Aplicabilidad": "Admin",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Análisis",
+    "Punto": "Análisis sentimiento",
+    "Descripción": "Transmite atmósfera del mercado analizando puntuaciones positivas/negativas.",
+    "Aplicabilidad": "Economía/Valores",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Análisis",
+    "Punto": "Noticias relacionadas",
+    "Descripción": "Recomienda noticias más relacionadas con el resumen actual.",
+    "Aplicabilidad": "Algoritmo recomendación",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Análisis",
+    "Punto": "Análisis de impacto",
+    "Descripción": "Indica impacto de noticias en industrias como Alto/Medio/Bajo.",
+    "Aplicabilidad": "Economía",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Análisis",
+    "Punto": "Mapa de relaciones",
+    "Descripción": "Resume relaciones entre figuras en formato gráfico.",
+    "Aplicabilidad": "Política/Social",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Análisis",
+    "Punto": "Integración bursátil",
+    "Descripción": "Muestra gráficos bursátiles en tiempo real junto al resumen.",
+    "Aplicabilidad": "Finanzas",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Análisis",
+    "Punto": "Análisis tendencias",
+    "Descripción": "Muestra palabras clave en tendencia con Google Trends.",
+    "Aplicabilidad": "Tendencia tiempo real",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Análisis",
+    "Punto": "Puntuación buzz",
+    "Descripción": "Valora noticias según volumen de menciones en redes sociales.",
+    "Aplicabilidad": "Tiempo real",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Newsletter",
+    "Descripción": "Genera newsletter resumiendo temas principales cada mañana a las 8h.",
+    "Aplicabilidad": "Suscriptores",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Modo oscuro",
+    "Descripción": "Modo oscuro para lectura más cómoda.",
+    "Aplicabilidad": "Web/App",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Horario de servicio",
+    "Descripción": "Servidores de noticias operativos 24h sin interrupción.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Archivo",
+    "Descripción": "Datos de resúmenes pasados almacenados máximo 1 año.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Suscripción de pago",
+    "Descripción": "Resúmenes de informes profesionales solo para miembros premium.",
+    "Aplicabilidad": "Servicio de pago",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Consulta",
+    "Descripción": "Use Google Forms para reportar errores o consultas funcionales.",
+    "Aplicabilidad": "Todos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Derechos de autor",
+    "Descripción": "Cumple directrices fair use; publicación de textos completos prohibida.",
+    "Aplicabilidad": "Ley derechos autor",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Feedback",
+    "Descripción": "Revisión de lógica de resumen ante quejas de calidad.",
+    "Aplicabilidad": "Mejora calidad",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Operación",
+    "Punto": "Historial",
+    "Descripción": "Guarda lista de resúmenes leídos recientemente.",
+    "Aplicabilidad": "Usuarios conectados",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Política",
+    "Punto": "Corrección",
+    "Descripción": "Resúmenes actualizados de inmediato si hay correcciones en el original.",
+    "Aplicabilidad": "Actualización hechos",
+    "Notas": "-"
+  },
+  {
+    "Categoría": "Soporte",
+    "Punto": "Conexión expertos",
+    "Descripción": "Conecta a expertos relevantes para más preguntas sobre el informe.",
+    "Aplicabilidad": "Opción de pago",
+    "Notas": "-"
+  }
 ]
